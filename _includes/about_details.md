@@ -1,11 +1,11 @@
-## Events, Public Appearances & Mentions
+# Events, Public Appearances & Mentions
 
 * 2017/6/6 - .NET Fringe 2017 conference talk - **Challenges of Managing CoreFX repo** - [recording](https://www.youtube.com/watch?v=Kcm0ns1pzm0), slides (TODO)
-* 2017/5/12 - **Interview** for donetFlix at Build 2017 conference - [dotnetFlix episode](http://dotnetflix.com/player/59)v=Gl_iWICjuJ4&feature=youtu.be)
+* 2017/5/12 - **Interview** for donetFlix at Build 2017 conference - [dotnetFlix episode](http://dotnetflix.com/player/59)
 * 2017/5 - .NET Core 2.0 Hackaton in Amsterdam - [short video](https://channel9.msdn.com/Blogs/MVP-VisualStudio-Dev/Info-Support-NET-Core-Hackathon/player), [details](https://twitter.com/jmezach/status/872516017087553536) from [Jonathan Mezach](https://twitter.com/jmezach) and [Edwin can Wijk](https://twitter.com/evanwijk)
 * 2017/3 - [QCon London talk](http://www.itwriting.com/blog/9611-qcon-london-2017.html) mentioning our gc.cpp split reasoning (from 2015/3)
 
-## Job History
+# Job History
 
 ### Microsoft
 
@@ -20,9 +20,9 @@ I am on [.NET team](http://blogs.msdn.com/b/dotnet/) since my start at Microsoft
 * 2005/10-2012 - owner/co-owner of [CLR](http://en.wikipedia.org/wiki/Common_Language_Runtime) components: shim (mscoree.dll), MetaData, TypeSystem, Loader (incl. Fusion, AppX/WinRT loader), NGen.
 
 References:
-    * 2016+ - GitHub issues I commented on in [CoreFX repo](https://github.com/dotnet/corefx/issues?utf8=%E2%9C%93&q=is%3Aissue%20is%3Aopen%20commenter%3Akarelz) and in [CoreCLR repo](https://github.com/dotnet/coreclr/issues?utf8=%E2%9C%93&q=is%3Aissue%20is%3Aopen%20commenter%3Akarelz).
-    * 2012-2015 - public Connect bugs I responded to - see [list](http://connect.microsoft.com/VisualStudio/SearchResults.aspx?SearchQuery=Karel%2bZikmund).
-    * 2009-2012 - MSDN Forums [activity](https://social.msdn.microsoft.com/Profile/karel%20zikmund)
+* 2016+ - GitHub issues I commented on in [CoreFX repo](https://github.com/dotnet/corefx/issues?utf8=%E2%9C%93&q=is%3Aissue%20is%3Aopen%20commenter%3Akarelz) and in [CoreCLR repo](https://github.com/dotnet/coreclr/issues?utf8=%E2%9C%93&q=is%3Aissue%20is%3Aopen%20commenter%3Akarelz).
+* 2012-2015 - public Connect bugs I responded to - see [list](http://connect.microsoft.com/VisualStudio/SearchResults.aspx?SearchQuery=Karel%2bZikmund).
+* 2009-2012 - MSDN Forums [activity](https://social.msdn.microsoft.com/Profile/karel%20zikmund)
 
 ### Previous jobs
 
@@ -49,7 +49,7 @@ References:
 
 Details also on [LinkedIn](https://www.linkedin.com/in/karelzikmund).
 
-## Education
+# Education
 
 * 2002-2003 - PhD program (finished without graduation) in Computer Science at Charles University in Prague, CZ
     * Faculty of Mathematics and Physics at Charles University in Prague (MFF UK).
