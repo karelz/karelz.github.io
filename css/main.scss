@@ -51,3 +51,9 @@ $on-big:                1500px;
         @content;
     }
 }
+@import
+        "font-source-sans-pro",
+        "base",
+        "layout",
+        "syntax-highlighting"
+;
