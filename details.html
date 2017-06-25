@@ -1,0 +1,12 @@
+---
+layout: full
+section: home
+---
+    <section>
+      {% capture details_include %}{% include about_details.md %}{% endcapture %}
+      <div class="page-content">
+        <div class="wrapper">
+        {{ details_include | markdownify }}
+        </div>
+      </div>
+    </section>
