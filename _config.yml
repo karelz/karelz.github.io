@@ -1,1 +1,7 @@
 theme: jekyll-theme-slate
+
+# Site settings
+email: karelz@microsoft.com
+url: "https://karelz.github.io/"
+github_username:  karelz
+twitter_username: ziki_cz
