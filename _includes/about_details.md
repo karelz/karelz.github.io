@@ -24,7 +24,7 @@ References:
 * 2012-2015 - public Connect bugs I responded to - see [list](http://connect.microsoft.com/VisualStudio/SearchResults.aspx?SearchQuery=Karel%2bZikmund).
 * 2009-2012 - MSDN Forums [activity](https://social.msdn.microsoft.com/Profile/karel%20zikmund)
 
-### Previous jobs
+### Previous Jobs
 
 * 2003/12-2005/9 (2 years) - Sun Microsystems - Quality Engineer Team Lead
     * Quality Engineer on [NetBeans IDE](http://netbeans.org) (opensource Java IDE) in Sun's Prague, CZ subsidiary.
@@ -51,14 +51,21 @@ Details also on [LinkedIn](https://www.linkedin.com/in/karelzikmund).
 
 # Education
 
-* 2002-2003 - PhD program (finished without graduation) in Computer Science at Charles University in Prague, CZ
+* 2002-2003 (1 year) - PhD program (finished without graduation) in Computer Science at Charles University in Prague, CZ
     * Faculty of Mathematics and Physics at Charles University in Prague (MFF UK).
     * Study topic: Computer Science - Neural Networks.
     * Finished without graduation in second year.
 
-* 1996-2002 - MSc (Mgr.) in Computer Science at Charles University in Prague, CZ
+* 1996-2002 (6 years) - MSc (Mgr.) in Computer Science at Charles University in Prague, CZ
     * Faculty of Mathematics and Physics at Charles University in Prague (MFF UK).
     * Major specialization: Computer Science (Neural networks, Non-procedural programming, Logic and Set theory).
     * Activities and Societies: M&M - the correspondence competition in Mathematics, Physics and Computer Science for high school school students - http://mam.mff.cuni.cz (lead organizer around 2000-2003).
+
+* 1992-1996 (4 years) - High School at Gymnazium Jihlava in Jihlava, CZ
+    * Achievements:
+      * 1996 - 45th Czech national olympiad in Informatics - [Successful Solver](http://mo.mff.cuni.cz/p/45/vysledky-3.html)
+      * 1996 - 45th Czech national olympiad in Mathematics - Successful Solver
+    * Activities and Societies:
+      * PiKoMat in Luzanky, Brno - the correspondence competition in Mathematics for secondary school students (organizer)
 
 Details also on [LinkedIn](https://www.linkedin.com/in/karelzikmund).
