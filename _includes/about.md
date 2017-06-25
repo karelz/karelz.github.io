@@ -13,7 +13,7 @@ I spend most of my time at job as community manager of [CoreFX repo](https://git
 ### Recent Events
 
 * 2017/6/6 - .NET Fringe 2017 conference talk - **Challenges of Managing CoreFX repo** - [recording](https://www.youtube.com/watch?v=Kcm0ns1pzm0), slides (TODO)
-* 2017/5/12 - **Interview** for donetFlix at Build 2017 conference - [dotnetFlix episode](http://dotnetflix.com/player/59)v=Gl_iWICjuJ4&feature=youtu.be)
+* 2017/5/12 - **Interview** for donetFlix at Build 2017 conference - [dotnetFlix episode](http://dotnetflix.com/player/59)
 * [older events](/details)
 
 ### Job History
