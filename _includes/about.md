@@ -1,4 +1,4 @@
-![Picture of Karel Zikmund](/images/karelz.png)
+![Picture of Karel Zikmund](/images/karelz.jpg)
 
 My name is Karel Zikmund.
 I am Software Engineering Manager on .NET Framework team / .NET Core team at [Microsoft](https://www.microsoft.com/).
