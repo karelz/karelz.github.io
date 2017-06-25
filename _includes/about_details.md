@@ -1,7 +1,7 @@
 ## Events, Public Appearances & Mentions
 
 * 2017/6/6 - .NET Fringe 2017 conference talk - **Challenges of Managing CoreFX repo** - [recording](https://www.youtube.com/watch?v=Kcm0ns1pzm0), slides (TODO)
-* 2017/5/12 - **Interview** for donetFlix at Build 2017 conference - [dotnetFlix episode](http://dotnetflix.com/player/59), on [Twitter](https://twitter.com/evanwijk/status/871744268720893952), [interview video](https://www.youtube.com/watch?v=Gl_iWICjuJ4&feature=youtu.be)
+* 2017/5/12 - **Interview** for donetFlix at Build 2017 conference - [dotnetFlix episode](http://dotnetflix.com/player/59)v=Gl_iWICjuJ4&feature=youtu.be)
 * 2017/5 - .NET Core 2.0 Hackaton in Amsterdam - [short video](https://channel9.msdn.com/Blogs/MVP-VisualStudio-Dev/Info-Support-NET-Core-Hackathon/player), [details](https://twitter.com/jmezach/status/872516017087553536) from [Jonathan Mezach](https://twitter.com/jmezach) and [Edwin can Wijk](https://twitter.com/evanwijk)
 * 2017/3 - [QCon London talk](http://www.itwriting.com/blog/9611-qcon-london-2017.html) mentioning our gc.cpp split reasoning (from 2015/3)
 
@@ -49,7 +49,7 @@ References:
 
 Details also on [LinkedIn](https://www.linkedin.com/in/karelzikmund).
 
-### Education
+## Education
 
 * 2002-2003 - PhD program (finished without graduation) in Computer Science at Charles University in Prague, CZ
     * Faculty of Mathematics and Physics at Charles University in Prague (MFF UK).
