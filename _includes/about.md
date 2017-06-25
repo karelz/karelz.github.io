@@ -20,10 +20,11 @@ You can find me and contact me on [Twitter](https://twitter.com/ziki_cz), on [Gi
 
 * CoreFX repo - [New Contributor Docs](https://github.com/dotnet/corefx/wiki/New-contributor-Docs) (in progress with community help)
 * GitHub issue management tooling - [Designing new service with web UI](https://github.com/karelz/GitHubIssues#v2---web-ui) (with help from community).
-* .NET Foundations internal talks (since 2008, with A/V since 2011) - [publish some recordings and notes](https://twitter.com/ziki_cz/status/870877028093800448).
-* Shared Source CLI Essentials book for .NET Core - initiated by community members, will be created in the open (everyone can contribute)
-* .NET Technology Q&A sessions - start live series, first with [Maoni on GC](https://twitter.com/ziki_cz/status/865370793567371268).
-* Idea: Meet-the-team interviews - short interviews with engineers on the team.
+* .NET Foundations internal talks (since 2008, with A/V since 2011) - [Publish some recordings and notes](https://twitter.com/ziki_cz/status/870877028093800448).
+* CoreFX repo - Establish firm Code of Conduct enforcement (deleting offensive content). Blog about what and why will be enforced.
+* Shared Source CLI Essentials book for .NET Core - Initiated by community members, will be created in the open (everyone can contribute)
+* .NET Technology Q&A sessions - Start live series, first with [Maoni on GC](https://twitter.com/ziki_cz/status/865370793567371268).
+* Idea: Meet-the-team interviews - Short interviews with engineers on the team.
 
 ## Recent Events
 
