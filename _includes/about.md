@@ -32,4 +32,4 @@ I spend most of my time at job as community manager of [CoreFX repo](https://git
 
 ### Contact
 
-You can find me and contact me on [Twitter](https://twitter.com/ziki_cz), on [GitHub](https://github.com/karelz) (incl. [gitter.im](https://gitter.im) as karelz), via email: mailto:karelz@microsoft.com, or on [LinkedIn](https://www.linkedin.com/in/karelzikmund).
+You can find me and contact me on [Twitter](https://twitter.com/ziki_cz), on [GitHub](https://github.com/karelz) (incl. [gitter.im](https://gitter.im) as karelz), via [email](mailto:karelz@microsoft.com), or on [LinkedIn](https://www.linkedin.com/in/karelzikmund).
