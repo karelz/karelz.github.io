@@ -1,6 +1,9 @@
 My name is Karel Zikmund.
 I am Software Engineering Manager on .NET Framework team / .NET Core team at [Microsoft](https://www.microsoft.com/).
-I spend most of my time at job as community manager of [CoreFX repo](https://github.com/dotnet/corefx) and as manager of few CoreFX areas like Networking, Security, Collections, Process, etc.
+
+I spend most of my time at job as community manager of [CoreFX repo](https://github.com/dotnet/corefx) and as manager of a few CoreFX areas like Networking, Security, Collections, Process, etc.
+
+You can find me and contact me on [Twitter](https://twitter.com/ziki_cz), on [GitHub](https://github.com/karelz) (incl. [gitter.im](https://gitter.im) as karelz), via [email](mailto:karelz@microsoft.com), or on [LinkedIn](https://www.linkedin.com/in/karelzikmund).
 
 ### Upcomming Events
 
@@ -16,9 +19,9 @@ I spend most of my time at job as community manager of [CoreFX repo](https://git
 * 2017/5/12 - **Interview** for donetFlix at Build 2017 conference - [dotnetFlix episode](http://dotnetflix.com/player/59)
 * [older events](/details)
 
-### Job History
+### Job History & Education
 
-See [details](/details)
+See [details about me](/details).
 
 ### Most important things about me
 
@@ -33,8 +36,4 @@ See [details](/details)
 * I appreciate freedom at work. Freedom (to certain point) to choose what to do and how to do things. I will voice my opinion when I disagree (sometimes I may push more than I should when I strongly disagree), but at the end of the day I respect chain of command. Anything else would be chaos.
 * I want to grow, become better and more efficient at things I am doing. I appreciate any feedback from any source, it helps me discover blind spots and alternative view points. I am not career obsessed. I want to be better and more efficient to take on other challenges.
 * I am interested in other people's stories, experiences, past mistakes and lessons learned. I can often learn from them instead of doing similar mistakes myself. I am more than happy to share same things with others.
-* I also like beer and I am happy to discuss anything over a glass or pitcher :).
-
-### Contact
-
-You can find me and contact me on [Twitter](https://twitter.com/ziki_cz), on [GitHub](https://github.com/karelz) (incl. [gitter.im](https://gitter.im) as karelz), via [email](mailto:karelz@microsoft.com), or on [LinkedIn](https://www.linkedin.com/in/karelzikmund).
+* I also like beer and I am happy to discuss anything over a glass or a pitcher :).
