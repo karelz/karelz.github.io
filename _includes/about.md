@@ -14,6 +14,16 @@ You can find me and contact me on [Twitter](https://twitter.com/ziki_cz), on [Gi
     * 2017/7/11 - Amsterdam, NL - [details soon](https://twitter.com/evanwijk/status/875641747497402368)
     * 2017/7/19 - Prague, CZ - [details soon](https://twitter.com/ziki_cz/status/875043977820463104) (7+ .NET engineers, incl. Xamarin/Mono and Red Hat guests)
     * 2017/8/1 - Brno, CZ - date and details TBD (incl. Red Hat)
+* .NET MeetUp in Redmond, WA - 2017/9
+
+### Projects
+
+* CoreFX repo - [New Contributor Docs](https://github.com/dotnet/corefx/wiki/New-contributor-Docs) (in progress with community help)
+* GitHub issue management tooling - [Designing new service with web UI](https://github.com/karelz/GitHubIssues#v2---web-ui) (with help from community).
+* .NET Foundations internal talks (since 2008, with A/V since 2011) - [publish some recordings and notes](https://twitter.com/ziki_cz/status/870877028093800448).
+* Shared Source CLI Essentials book for .NET Core - initiated by community members, will be created in the open (everyone can contribute)
+* .NET Technology Q&A sessions - start live series, first with [Maoni on GC](https://twitter.com/ziki_cz/status/865370793567371268).
+* Idea: Meet-the-team interviews - short interviews with engineers on the team.
 
 ## Recent Events
 
