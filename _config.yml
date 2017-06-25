@@ -16,6 +16,8 @@ excerpt_separator: <!--more-->
 
 disqus: karelz
 
+google_analytics_ua: UA-101625295-1
+
 #paginate: 5
 
 exclude:
