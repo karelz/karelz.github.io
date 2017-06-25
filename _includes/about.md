@@ -13,12 +13,12 @@ I spend most of my time at job as community manager of [CoreFX repo](https://git
 ### Recent Events
 
 * 2017/6/6 - .NET Fringe 2017 conference talk - **Challenges of Managing CoreFX repo** - [recording](https://www.youtube.com/watch?v=Kcm0ns1pzm0), slides (TODO)
-* 2017/5/12 - **Interview** for donetFlix at Build 2017 conference - [dotnetFlix episode](http://dotnetflix.com/player/59), on [Twitter](https://twitter.com/evanwijk/status/871744268720893952), [interview video](https://www.youtube.com/watch?v=Gl_iWICjuJ4&feature=youtu.be)
-* [older events](/details.html)
+* 2017/5/12 - **Interview** for donetFlix at Build 2017 conference - [dotnetFlix episode](http://dotnetflix.com/player/59)v=Gl_iWICjuJ4&feature=youtu.be)
+* [older events](/details)
 
 ### Job History
 
-See [details](/details.html)
+See [details](/details)
 
 ### Most important things about me
 
