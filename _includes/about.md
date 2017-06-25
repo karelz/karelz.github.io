@@ -5,7 +5,7 @@ I spend most of my time at job as community manager of [CoreFX repo](https://git
 
 You can find me and contact me on [Twitter](https://twitter.com/ziki_cz), on [GitHub](https://github.com/karelz) (incl. [gitter.im](https://gitter.im) as karelz), via [email](mailto:karelz@microsoft.com), or on [LinkedIn](https://www.linkedin.com/in/karelzikmund).
 
-### Upcomming Events
+## Upcomming Events
 
 * CoreFX Contributor standups - 2017/6/26, 1st session invitation only with public recording later, future sessions will be open to anyone and broadcasted live
 * My .NET MeetUp "tour" in Europe
@@ -13,17 +13,17 @@ You can find me and contact me on [Twitter](https://twitter.com/ziki_cz), on [Gi
     * 2017/7/19 - Prague, CZ - [details soon](https://twitter.com/ziki_cz/status/875043977820463104) (7+ .NET engineers, incl. Xamarin/Mono and Red Hat guests)
     * 2017/8/1 - Brno, CZ - date and details TBD (incl. Red Hat)
 
-### Recent Events
+## Recent Events
 
 * 2017/6/6 - .NET Fringe 2017 conference talk - **Challenges of Managing CoreFX repo** - [recording](https://www.youtube.com/watch?v=Kcm0ns1pzm0), slides (TODO)
 * 2017/5/12 - **Interview** for donetFlix at Build 2017 conference - [dotnetFlix episode](http://dotnetflix.com/player/59)
 * [older events](/details)
 
-### Job History & Education
+## Job History & Education
 
 See [details about me](/details).
 
-### Most important things about me
+## Most important things about me
 
 * I love my job. I love .NET as technology. I love the team culture on .NET team, our focus on people and the fact that we all try to make .NET platform better for all developers, not just to make money or monetize.
 * I love the idea of open source / OSS. Even though I am involved in OSS only since 2016, I fell in love with the idea and I can't imagine going back to the dark ages again.
