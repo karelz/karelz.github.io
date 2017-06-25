@@ -16,21 +16,23 @@ You can find me and contact me on [Twitter](https://twitter.com/ziki_cz), on [Gi
     * 2017/8/1 - Brno, CZ - date and details TBD (incl. Red Hat)
 * .NET MeetUp in Redmond, WA - 2017/9
 
-### Projects
-
-* CoreFX repo - [New Contributor Docs](https://github.com/dotnet/corefx/wiki/New-contributor-Docs) (in progress with community help)
-* GitHub issue management tooling - [Designing new service with web UI](https://github.com/karelz/GitHubIssues#v2---web-ui) (with help from community).
-* .NET Foundations internal talks (since 2008, with A/V since 2011) - [Publish some recordings and notes](https://twitter.com/ziki_cz/status/870877028093800448).
-* CoreFX repo - Establish firm Code of Conduct enforcement (deleting offensive content). Blog about what and why will be enforced.
-* Shared Source CLI Essentials book for .NET Core - Initiated by community members, will be created in the open (everyone can contribute)
-* .NET Technology Q&A sessions - Start live series, first with [Maoni on GC](https://twitter.com/ziki_cz/status/865370793567371268).
-* Idea: Meet-the-team interviews - Short interviews with engineers on the team.
-
 ## Recent Events
 
 * 2017/6/6 - .NET Fringe 2017 conference talk - **Challenges of Managing CoreFX repo** - [video](https://www.youtube.com/watch?v=Kcm0ns1pzm0) (30 min), [slides](/talks/2017-06-06_.NET_Fringe/2017-06-06_.NETFringe-Talk_ChallengesOfManagingCoreFxRepo.pptx).
 * 2017/5/12 - **Interview** for donetFlix at Build 2017 conference - [dotnetFlix episode](http://dotnetflix.com/player/59) (10 min).
 * See list of [older events](/details).
+
+### Projects
+
+* CoreFX repo - [New Contributor Docs](https://github.com/dotnet/corefx/wiki/New-contributor-Docs) (in progress with community help), also discussed in [dotnet/corefx#20570](https://github.com/dotnet/corefx/issues/20570)
+* GitHub issue management tooling - [Designing new service with web UI](https://github.com/karelz/GitHubIssues#v2---web-ui) (with help from community).
+* .NET Foundations internal talks (since 2008, with A/V since 2011) - [Publish some recordings and notes](https://twitter.com/ziki_cz/status/870877028093800448).
+* CoreFX repo - Establish firm Code of Conduct enforcement (deleting offensive content). Blog about what and why will be enforced.
+* CoreFX repo - Regular (monthly) alpha versions of .NET Core - see details in [dotnet/corefx#20911](https://github.com/dotnet/corefx/issues/20911)
+* CoreFX repo - Spin off CoreFxExtensions repo to simplify creation of libraries/APIs by community which do not belong into CoreFX repo - see details in [dotnet/corefx#20902](https://github.com/dotnet/corefx/issues/20902)
+* Shared Source CLI Essentials book for .NET Core - Initiated by community members, will be created in the open (everyone can contribute)
+* .NET Technology Q&A sessions - Start live series, first with [Maoni on GC](https://twitter.com/ziki_cz/status/865370793567371268).
+* Idea: Meet-the-team interviews - Short interviews with engineers on the team.
 
 ## Job History & Education
 
