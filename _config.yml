@@ -1,8 +1,22 @@
 # Site settings
 email: karelz@microsoft.com
-url: "https://karelz.github.io/"
+description: > #
+url: "https://karelz.github.io"
 github_username:  karelz
 twitter_username: ziki_cz
+
+permalink: /:categories/:year/:month/:day/:title/
+contenturl: "/blog/content/"
+markdown: kramdown
+kramdown:
+  input: GFM
+  parse_block_html: true
+  #parse_span_html: true
+excerpt_separator: <!--more-->
+
+disqus: karelz
+
+#paginate: 5
 
 exclude:
   - LICENSE
