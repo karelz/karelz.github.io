@@ -15,9 +15,9 @@ You can find me and contact me on [Twitter](https://twitter.com/ziki_cz), on [Gi
 
 ## Recent Events
 
-* 2017/6/6 - .NET Fringe 2017 conference talk - **Challenges of Managing CoreFX repo** - [recording](https://www.youtube.com/watch?v=Kcm0ns1pzm0), slides (TODO)
-* 2017/5/12 - **Interview** for donetFlix at Build 2017 conference - [dotnetFlix episode](http://dotnetflix.com/player/59)
-* [older events](/details)
+* 2017/6/6 - .NET Fringe 2017 conference talk - **Challenges of Managing CoreFX repo** - [recording](https://www.youtube.com/watch?v=Kcm0ns1pzm0), slides (TODO).
+* 2017/5/12 - **Interview** for donetFlix at Build 2017 conference - [dotnetFlix episode](http://dotnetflix.com/player/59).
+* See list of [older events](/details).
 
 ## Job History & Education
 
