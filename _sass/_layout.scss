@@ -307,15 +307,15 @@
     .site-nav {
         margin-bottom: 10px;
     }
-    .copyright {
-        font-size: 14px;
+    .source {
+        font-size: 10px;
     }
 
     @include media-query($on-small) {
         .site-nav {
             display: none;
         }
-        .copyright {
+        .source {
             margin-top: 0;
         }
     }
