@@ -16,7 +16,7 @@ I am on [.NET team](http://blogs.msdn.com/b/dotnet/) since my start at Microsoft
     * Manager of a few CoreFX areas - Networking (parts), Security, Collections, Process, etc.
     * Driver of .NET Core 2.0 release in CoreFX repo.
 * 2015/12-2016/8 - Manager of .NET Native toolchain team & owner of .NET Native releases.
-* 2012-2015/11 - Manager of CLR Performance and Reliability team (cross-cutting products "full"/Desktop .NET Framework, CoreCLR, .NET Native).
+* 2012-2015/11 - Manager of CLR Performance and Reliability team (cross-cutting products "full"/Desktop .NET Framework, CoreCLR, .NET Native). Included also feature areas of Eventing (EventSource, logging, PerfCounters) and GC (Garbage Collector).
 * 2005/10-2012 - owner/co-owner of [CLR](http://en.wikipedia.org/wiki/Common_Language_Runtime) components: shim (mscoree.dll), MetaData, TypeSystem, Loader (incl. Fusion, AppX/WinRT loader), NGen.
 
 References:
