@@ -1,7 +1,11 @@
-# Events, Public Appearances & Mentions
+# Events, Public Appearances
 
+* 2017/6/26 - CoreFX Contributor standups, 1st session - see [notes](https://github.com/dotnet/corefx-standup/blob/master/Standups/2017-06.md)
 * 2017/6/6 - .NET Fringe 2017 conference talk - **Challenges of Managing CoreFX repo** - [video](https://www.youtube.com/watch?v=Kcm0ns1pzm0) (30 min), [slides](/talks/2017-06-06_.NET_Fringe/2017-06-06_.NETFringe-Talk_ChallengesOfManagingCoreFxRepo.pptx).
 * 2017/5/12 - **Interview** for donetFlix at Build 2017 conference - [dotnetFlix episode](http://dotnetflix.com/player/59) (10 min).
+
+## Mentions
+
 * 2017/5 - .NET Core 2.0 Hackaton in Amsterdam - [video](https://channel9.msdn.com/Blogs/MVP-VisualStudio-Dev/Info-Support-NET-Core-Hackathon/player) (3 min), [details](https://twitter.com/jmezach/status/872516017087553536) from [Jonathan Mezach](https://twitter.com/jmezach) and [Edwin can Wijk](https://twitter.com/evanwijk).
 * 2017/3 - [QCon London talk notes](http://www.itwriting.com/blog/9611-qcon-london-2017.html) mentioning our gc.cpp split reasoning (from 2015/3).
 
