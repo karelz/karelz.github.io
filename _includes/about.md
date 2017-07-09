@@ -9,15 +9,15 @@ You can find me and contact me on [Twitter](https://twitter.com/ziki_cz), on [Gi
 
 ## Upcomming Events
 
-* CoreFX Contributor standups - 2017/6/26, 1st session invitation only with public recording later, future sessions will be open to anyone and broadcasted live
 * My .NET MeetUp "tour" in Europe
-    * 2017/7/11 - Amsterdam, NL - [details soon](https://twitter.com/evanwijk/status/875641747497402368)
-    * 2017/7/19 - Prague, CZ - [details soon](https://twitter.com/ziki_cz/status/875043977820463104) (7+ .NET engineers, incl. Xamarin/Mono and Red Hat guests)
-    * 2017/8/1 - Brno, CZ - date and details TBD (incl. Red Hat)
-* .NET MeetUp in Redmond, WA - 2017/9
+    * 2017/7/11 - Amsterdam, NL - see [details](https://twitter.com/evanwijk/status/880173596605284352)
+    * 2017/7/19 - Prague, CZ - see [details](https://twitter.com/ziki_cz/status/880379161272963072) (7 .NET engineers, incl. Xamarin/Mono and RedHat guests, and special guest [Adam Sitnik](https://twitter.com/SitnikAdam))
+    * 2017/8/1 - Brno, CZ - see [details](https://twitter.com/ziki_cz/status/882255985867460610) (6 .NET engineers, incl. Xamarin/Mono and RedHat guests)
+* .NET MeetUp in Redmond, WA - 2017/9 (details and date are TBD)
 
 ## Recent Events
 
+* CoreFX Contributor standups - 2017/6/26, 1st session was invitation only without public recording - see [notes](https://github.com/dotnet/corefx-standup/blob/master/Standups/2017-06.md), future sessions will be open to anyone, recorded and broadcasted live
 * 2017/6/6 - .NET Fringe 2017 conference talk - **Challenges of Managing CoreFX repo** - [video](https://www.youtube.com/watch?v=Kcm0ns1pzm0) (30 min), [slides](/talks/2017-06-06_.NET_Fringe/2017-06-06_.NETFringe-Talk_ChallengesOfManagingCoreFxRepo.pptx).
 * 2017/5/12 - **Interview** for donetFlix at Build 2017 conference - [dotnetFlix episode](http://dotnetflix.com/player/59) (10 min).
 * See list of [older events](/details).
