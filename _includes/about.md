@@ -10,9 +10,9 @@ You can find me and contact me on [Twitter](https://twitter.com/ziki_cz), on [Gi
 ## Upcomming Events
 
 * My .NET MeetUp "tour" in Europe
-    * 2017/7/11 - Amsterdam, NL - see [details](https://twitter.com/evanwijk/status/880173596605284352)
-    * 2017/7/19 - Prague, CZ - see [details](https://twitter.com/ziki_cz/status/880379161272963072) (7 .NET engineers, incl. Xamarin/Mono and RedHat guests, and special guest [Adam Sitnik](https://twitter.com/SitnikAdam))
-    * 2017/8/1 - Brno, CZ - see [details](https://twitter.com/ziki_cz/status/882255985867460610) (6 .NET engineers, incl. Xamarin/Mono and RedHat guests)
+    * 2017/7/11 - Amsterdam, NL - see [details and talks schedule](https://twitter.com/evanwijk/status/880173596605284352)
+    * 2017/7/19 - Prague, CZ - see [details](https://twitter.com/ziki_cz/status/880379161272963072) and [talks schedule & registration](https://www.wug.cz/praha/akce/951--Net-TechTalks) (7 .NET engineers, incl. Xamarin/Mono and RedHat guests, and special guest [Adam Sitnik](https://twitter.com/SitnikAdam))
+    * 2017/8/1 - Brno, CZ - see [details](https://twitter.com/ziki_cz/status/882255985867460610) and [talks schedule & registration](https://www.wug.cz/brno/akce/952--Net-TechTalks) (6 .NET engineers, incl. Xamarin/Mono and RedHat guests)
 * .NET MeetUp in Redmond, WA - 2017/9 (details and date are TBD)
 
 ## Recent Events
