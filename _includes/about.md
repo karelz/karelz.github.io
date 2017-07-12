@@ -10,7 +10,6 @@ You can find me and contact me on [Twitter](https://twitter.com/ziki_cz), on [Gi
 ## Upcomming Events
 
 * My .NET MeetUp "tour" in Europe
-    * 2017/7/11 - Amsterdam, NL - see [details and talks schedule](https://twitter.com/evanwijk/status/880173596605284352)
     * 2017/7/19 - Prague, CZ - see [details](https://twitter.com/ziki_cz/status/880379161272963072) and [talks schedule & registration](https://www.wug.cz/praha/akce/951--Net-TechTalks) (7 .NET engineers, incl. Xamarin/Mono and RedHat guests, and special guest [Adam Sitnik](https://twitter.com/SitnikAdam))
     * 2017/8/1 - Brno, CZ - see [details](https://twitter.com/ziki_cz/status/882255985867460610) and [talks schedule & registration](https://www.wug.cz/brno/akce/952--Net-TechTalks) (6 .NET engineers, incl. Xamarin/Mono and RedHat guests)
 * .NET MeetUp in Redmond, WA - 2017/9 (details and date are TBD)
@@ -18,7 +17,10 @@ You can find me and contact me on [Twitter](https://twitter.com/ziki_cz), on [Gi
 
 ## Recent Events
 
-*  2017/6/26 - CoreFX Contributor standups, 1st session - see [notes](https://github.com/dotnet/corefx-standup/blob/master/Standups/2017-06.md)
+* 2017/7/11 - .NET MeetUp Amsterdam talks - [event flyer](https://twitter.com/evanwijk/status/880173596605284352)
+   * **.NET Standard** - video TBD, [slides](/talks/2017-07-11_.NET_MeetUp_Amsterdam_NL/dotNET Standard.pptx),
+   * **Challenges of Managing CoreFX repo** - video TBD, [slides](/talks/2017-07-11_.NET_MeetUp_Amsterdam_NL/Challenges of Managing CoreFx Repo.pptx).
+* 2017/6/26 - CoreFX Contributor standups, 1st session - see [notes](https://github.com/dotnet/corefx-standup/blob/master/Standups/2017-06.md)
 * 2017/6/6 - .NET Fringe 2017 conference talk - **Challenges of Managing CoreFX repo** - [video](https://www.youtube.com/watch?v=Kcm0ns1pzm0) (30 min), [slides](/talks/2017-06-06_.NET_Fringe/2017-06-06_.NETFringe-Talk_ChallengesOfManagingCoreFxRepo.pptx).
 * 2017/5/12 - **Interview** for donetFlix at Build 2017 conference - [dotnetFlix episode](http://dotnetflix.com/player/59) (10 min).
 * See list of [older events](/details).
