@@ -26,7 +26,7 @@ You can find me and contact me on [Twitter](https://twitter.com/ziki_cz), on [Gi
 * 2017/6/6 - [.NET Fringe 2017](http://dotnetfringe.org) conference talk - **Challenges of Managing CoreFX repo** - [video](https://www.youtube.com/watch?v=Kcm0ns1pzm0) (30 min) and [slides](https://www.slideshare.net/KarelZikmund1/net-fringe-2017-challenges-of-managing-corefx-repo-karel-zikmund)
 * See also [older events list](/details)
 
-### Projects
+## Projects
 
 * CoreFX repo - [New Contributor Docs](https://github.com/dotnet/corefx/wiki/New-contributor-Docs) (in progress with community help), also discussed in [dotnet/corefx#20570](https://github.com/dotnet/corefx/issues/20570)
 * GitHub issue management tooling - [Designing new service with web UI](https://github.com/karelz/GitHubIssues#v2---web-ui) (with help from community).
