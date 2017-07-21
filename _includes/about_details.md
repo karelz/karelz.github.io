@@ -1,8 +1,11 @@
 # Events, Public Appearances
 
-* 2017/7/11 - .NET MeetUp Amsterdam talks - see [event flyer](https://twitter.com/evanwijk/status/880173596605284352)
-   * **.NET Standard** - [video](https://www.youtube.com/watch?v=QhOfzglQ1-g) (40 min), [slides](/talks/2017-07-11_.NET_MeetUp_Amsterdam_NL/dotNET_Standard.pptx),
-   * **Challenges of Managing CoreFX repo** - [video](https://www.youtube.com/watch?v=QRUmG4TjViU) (60 min), [slides](/talks/2017-07-11_.NET_MeetUp_Amsterdam_NL/Challenges_of_Managing_CoreFx_Repo.pptx).
+* 2017/7/19 - [.NET Meetup in Prague, CZ](/events/2017-07-19_dotNetMeetUp_Prague)
+  * **.NET Standard** - video (ETA 8/19) and [slides](https://www.slideshare.net/KarelZikmund1/net-meetup-prague-net-standard-karel-zikmund)
+   * **Challenges of Managing CoreFX repo** - video (ETA 8/19) and [slides](https://www.slideshare.net/KarelZikmund1/net-meetup-prague-challenges-of-managing-corefx-repo-karel-zikmund)
+* 2017/7/11 - [.NET MeetUp in Amsterdam, NL](/events/2017-07-11_dotNetMeetUp_Amsterdam) talks
+   * **.NET Standard** - [video](https://www.youtube.com/watch?v=QhOfzglQ1-g) (40 min) and [slides](https://www.slideshare.net/KarelZikmund1/2017-0711-dotnetstandard)
+   * **Challenges of Managing CoreFX repo** - [video](https://www.youtube.com/watch?v=QRUmG4TjViU) (60 min) and [slides](https://www.slideshare.net/KarelZikmund1/challenges-of-managing-corefx-repo)
 * 2017/6/26 - CoreFX Contributor standups, 1st session - see [notes](https://github.com/dotnet/corefx-standup/blob/master/Standups/2017-06.md)
 * 2017/6/6 - .NET Fringe 2017 conference talk - **Challenges of Managing CoreFX repo** - [video](https://www.youtube.com/watch?v=Kcm0ns1pzm0) (30 min), [slides](/talks/2017-06-06_.NET_Fringe/2017-06-06_.NETFringe-Talk_ChallengesOfManagingCoreFxRepo.pptx).
 * 2017/5/12 - **Interview** for donetFlix at Build 2017 conference - [dotnetFlix episode](http://dotnetflix.com/player/59) (10 min).
