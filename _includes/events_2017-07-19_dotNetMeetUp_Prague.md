@@ -2,6 +2,7 @@
 
 Organized by [Windows User Group, CZ](http://wug.cz)
 * Event [invite](http://wug.cz/praha/akce/951--Net-TechTalks)
+* About 140 attendees in first half, about 100 in the second half
 
 ## Talks
 
@@ -17,3 +18,7 @@ Note: Video recordings will be available in a month after the event (ETA 8/19).
 8. **.NET Core: Performance Revolution** by [Adam Sitnik](http://adamsitnik.com/) (30 min) -- video (ETA 8/19) and [slides](http://adamsitnik.com/files/Prague.pdf)
 9. **Portable .NET Core on Linux** by [Jan Vorlicek](https://github.com/janvorli) (10 min) -- video (ETA 8/19) and [slides](https://www.slideshare.net/KarelZikmund1/net-meetup-prague-portable-net-core-on-linux-jan-vorlicek)
 10. **Microsoft Engineering teams in Europe** by [Ela Moscicka](https://twitter.com/ElaMoscicka) (5 mins) -- video (ETA 8/19) and [slides](https://www.slideshare.net/KarelZikmund1/net-meetup-prague-microsoft-engineering-teams-in-europe-ela-moscicka)
+
+## Pictures
+
+* [Pictures on wug.cz](http://wug.cz/praha/akce/951--Net-TechTalks#!prettyPhoto)
