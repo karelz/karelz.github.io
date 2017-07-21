@@ -1,9 +1,3 @@
----
-layout: full
-section: events
-title: Events
----
-
 # .NET MeetUps series from 2017
 
 * .NET MeetUp in Brno, CZ (8/1)
