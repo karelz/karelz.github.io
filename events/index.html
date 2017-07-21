@@ -4,7 +4,7 @@ section: events
 title: Events
 ---
     <section>
-      {% capture events_include %}{% include /events/events.md %}{% endcapture %}
+      {% capture events_include %}{% include events.md %}{% endcapture %}
       <div class="page-content">
         <div class="wrapper">
         {{ events_include | markdownify }}
