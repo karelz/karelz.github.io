@@ -16,7 +16,9 @@ You can find me and contact me on [Twitter](https://twitter.com/ziki_cz), on [Gi
 
 ## Recent Events
 
-* 2017/7/19 - .NET Meetup in Prague, CZ - see [details](https://twitter.com/ziki_cz/status/880379161272963072) and [talks schedule & registration](https://www.wug.cz/praha/akce/951--Net-TechTalks) (7 .NET engineers, incl. Xamarin/Mono and RedHat guests, and special guest [Adam Sitnik](https://twitter.com/SitnikAdam))
+* 2017/7/19 - [.NET Meetup in Prague, CZ](/events/2017-07-19_dotNetMeetUp_Prague)
+  * **.NET Standard** - video (ETA 8/19) and [slides](https://www.slideshare.net/KarelZikmund1/net-meetup-prague-net-standard-karel-zikmund)
+   * **Challenges of Managing CoreFX repo** - video (ETA 8/19) and [slides](https://www.slideshare.net/KarelZikmund1/net-meetup-prague-challenges-of-managing-corefx-repo-karel-zikmund)
 * 2017/7/11 - [.NET MeetUp in Amsterdam, NL](/events/2017-07-11_dotNetMeetUp_Amsterdam) talks
    * **.NET Standard** - [video](https://www.youtube.com/watch?v=QhOfzglQ1-g) (40 min) and [slides](https://www.slideshare.net/KarelZikmund1/2017-0711-dotnetstandard)
    * **Challenges of Managing CoreFX repo** - [video](https://www.youtube.com/watch?v=QRUmG4TjViU) (60 min) and [slides](https://www.slideshare.net/KarelZikmund1/challenges-of-managing-corefx-repo)
