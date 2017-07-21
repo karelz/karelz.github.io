@@ -23,7 +23,7 @@ You can find me and contact me on [Twitter](https://twitter.com/ziki_cz), on [Gi
    * **.NET Standard** - [video](https://www.youtube.com/watch?v=QhOfzglQ1-g) (40 min) and [slides](https://www.slideshare.net/KarelZikmund1/2017-0711-dotnetstandard)
    * **Challenges of Managing CoreFX repo** - [video](https://www.youtube.com/watch?v=QRUmG4TjViU) (60 min) and [slides](https://www.slideshare.net/KarelZikmund1/challenges-of-managing-corefx-repo)
 * 2017/6/26 - CoreFX Contributor standups, 1st session - see [notes](https://github.com/dotnet/corefx-standup/blob/master/Standups/2017-06.md)
-* 2017/6/6 - .NET Fringe 2017 conference talk - **Challenges of Managing CoreFX repo** - [video](https://www.youtube.com/watch?v=Kcm0ns1pzm0) (30 min) and [slides](/talks/2017-06-06_.NET_Fringe/2017-06-06_.NETFringe-Talk_ChallengesOfManagingCoreFxRepo.pptx)
+* 2017/6/6 - [.NET Fringe 2017](http://dotnetfringe.org) conference talk - **Challenges of Managing CoreFX repo** - [video](https://www.youtube.com/watch?v=Kcm0ns1pzm0) (30 min) and [slides](https://www.slideshare.net/KarelZikmund1/net-fringe-2017-challenges-of-managing-corefx-repo-karel-zikmund)
 * 2017/5/12 - **Interview** for donetFlix at Build 2017 conference - [dotnetFlix episode](http://dotnetflix.com/player/59) (10 min)
 * See list of [older events](/details)
 
