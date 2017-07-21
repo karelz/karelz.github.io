@@ -1,4 +1,4 @@
-# .NET MeetUps series from 2017
+# .NET MeetUps series in Europe 2017
 
 * .NET MeetUp in Brno, CZ (8/1)
 * [.NET MeetUp in Prague, CZ](/events/2017-07-19_dotNetMeetUp_Prague) (7/19)
