@@ -10,7 +10,7 @@ Note: Video recordings will be available in a month after the event (ETA 8/19).
 
 1. **Introductions** of speakers and .NET team members in the room -- [slide](https://www.slideshare.net/KarelZikmund1/net-meetup-prague-introductions)
 2. **.NET Standard** by [Karel Zikmund](https://karelz.github.io) (30 min) -- video (ETA 8/19) and [slides](https://www.slideshare.net/KarelZikmund1/net-meetup-prague-net-standard-karel-zikmund)
-3. **C# and .NET Core on Linux** by [Radka Janeková](http://www.rhea-ayase.eu/) (30 min) -- video (ETA 8/19) and slides (TBD)
+3. **C# and .NET Core on Linux** by [Radka Janeková](http://www.rhea-ayase.eu/) (30 min) -- video (ETA 8/19) and [slides](http://redhat.slides.com/rjanekov/netcore-3?token=21AOkkAZ) and [demo code](https://github.com/RheaAyase/dotnettalks.demo3/blob/master/README.md)
 4. **Challenges of Managing CoreFX repo** by [Karel Zikmund](https://karelz.github.io) (30 min) -- video (ETA 8/19) and [slides](https://www.slideshare.net/KarelZikmund1/net-meetup-prague-challenges-of-managing-corefx-repo-karel-zikmund)
 5. BREAK
 6. **Xamarin .NET internals** by [Marek Safar](https://github.com/marek-safar) (30 min) -- video (ETA 8/19) and slides (TBD)
