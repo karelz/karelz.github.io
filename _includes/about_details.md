@@ -69,7 +69,7 @@ Details also on [LinkedIn](https://www.linkedin.com/in/karelzikmund).
 * 1996-2002 (6 years) - MSc (Mgr.) in Computer Science at Charles University in Prague, CZ
     * Faculty of Mathematics and Physics at Charles University in Prague (MFF UK).
     * Major specialization: Computer Science (Neural networks, Non-procedural programming, Logic and Set theory).
-    * Activities and Societies: M&M - the correspondence competition in Mathematics, Physics and Computer Science for high school school students - http://mam.mff.cuni.cz (lead organizer around 2000-2003).
+    * Activities and Societies: [M&M](http://mam.mff.cuni.cz) - the correspondence competition in Mathematics, Physics and Computer Science for high school students. Lead organizer around 2000-2003.
 
 * 1992-1996 (4 years) - High School at Gymnazium Jihlava in Jihlava, CZ
     * Achievements:
