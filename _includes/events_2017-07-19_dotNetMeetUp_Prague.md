@@ -13,7 +13,7 @@ Note: Video recordings will be available in a month after the event (ETA 8/19).
 3. **C# and .NET Core on Linux** by [Radka Janeková](http://www.rhea-ayase.eu/) (30 min) -- video (ETA 8/19) and [slides](http://redhat.slides.com/rjanekov/netcore-3?token=21AOkkAZ) and [demo code](https://github.com/RheaAyase/dotnettalks.demo3/blob/master/README.md)
 4. **Challenges of Managing CoreFX repo** by [Karel Zikmund](https://karelz.github.io) (30 min) -- video (ETA 8/19) and [slides](https://www.slideshare.net/KarelZikmund1/net-meetup-prague-challenges-of-managing-corefx-repo-karel-zikmund)
 5. BREAK
-6. **Xamarin .NET internals** by [Marek Safar](https://github.com/marek-safar) (30 min) -- video (ETA 8/19) and slides (TBD)
+6. **Xamarin .NET internals** by [Marek Safar](https://github.com/marek-safar) (30 min) -- video (ETA 8/19) and [slides](https://www.slideshare.net/secret/o4fMrmGmGPG3Rl)
 7. **.NET Native & CoreRT** by [Vitek Karas](https://github.com/vitek-karas) & [Jan Kotas](https://github.com/jkotas) (15 min) -- video (ETA 8/19) and [slides](https://www.slideshare.net/KarelZikmund1/2017-0719-dotnetnativeandcorertvitekkarasjankotas)
 8. **.NET Core: Performance Revolution** by [Adam Sitnik](http://adamsitnik.com/) (30 min) -- video (ETA 8/19) and [slides](http://adamsitnik.com/files/Prague.pdf)
 9. **Portable .NET Core on Linux** by [Jan Vorlicek](https://github.com/janvorli) (10 min) -- video (ETA 8/19) and [slides](https://www.slideshare.net/KarelZikmund1/net-meetup-prague-portable-net-core-on-linux-jan-vorlicek)
