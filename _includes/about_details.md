@@ -1,13 +1,19 @@
 # Events, Public Appearances
 
-* 2017/7/19 - [.NET Meetup in Prague, CZ](/events/2017-07-19_dotNetMeetUp_Prague)
-  * **.NET Standard** - video (ETA 8/19) and [slides](https://www.slideshare.net/KarelZikmund1/net-meetup-prague-net-standard-karel-zikmund)
-   * **Challenges of Managing CoreFX repo** - video (ETA 8/19) and [slides](https://www.slideshare.net/KarelZikmund1/net-meetup-prague-challenges-of-managing-corefx-repo-karel-zikmund)
+* 2017/11/12-13 - [DotNext 2017 in Moscow](http://2017.dotnext-moscow.ru/en/)
+    * **.NET Core Networking stack and Performance** - [talk info](http://2017.dotnext-moscow.ru/en/2017/msk/talks/3hcuoycrw4egcs0mkewoio/), [video](https://www.youtube.com/watch?v=M3FZZhnRvQY&list=PLtWrKx3nUGBfYHhmiGih2lanzmRigE9cc&index=24&t=0s) (55 min) and [slides](https://www.slideshare.net/KarelZikmund1/dotnext-2017-in-moscow-net-core-networking-stack-and-performance-karel-zikmund)
+    * **Challenges of Managing CoreFX repo** - [talk info](http://2017.dotnext-moscow.ru/en/2017/msk/talks/5egbw8vnbkqmmg2skiaey2/), [video](https://www.youtube.com/watch?v=j2KjWe4zWXY&list=PLtWrKx3nUGBfYHhmiGih2lanzmRigE9cc&index=17&t=0s) (60 min) and [slides](https://www.slideshare.net/KarelZikmund1/dotnext-2017-in-moscow-challenges-of-managing-corefx-repo-karel-zikmund)
+    * **Panel Discussion - Profiling and optimization** - [panel info](http://2017.dotnext-moscow.ru/en/2017/msk/talks/1gpyg1244oo4o48uuk0ya4/), [video](https://www.youtube.com/watch?v=4iQVMMLuPlM) (60 min)
+* 2017/8/1 - [.NET MeetUp in Brno, CZ](/events/2017-08-11_dotNetMeetUp_Brno)
+    * **Challenges of Managing CoreFX repo** - [video](https://wug.cz/zaznamy/412--NET-TechTalks-Challenges-of-Managing-CoreFX-repo) (50 min) and [slides](https://www.slideshare.net/KarelZikmund1/net-meetup-brno-challenges-of-managing-corefx-repo-karel-zikmund)
+* 2017/7/19 - [.NET MeetUp in Prague, CZ](/events/2017-07-19_dotNetMeetUp_Prague)
+    * **.NET Standard** - [video](https://wug.cz/zaznamy/431--NET-TechTalks-NET-Standard) and [slides](https://www.slideshare.net/KarelZikmund1/net-meetup-prague-net-standard-karel-zikmund)
+    * **Challenges of Managing CoreFX repo** - [video](https://wug.cz/zaznamy/433--NET-TechTalks-Challenges-of-Managing-CoreFX-repo) and [slides](https://www.slideshare.net/KarelZikmund1/net-meetup-prague-challenges-of-managing-corefx-repo-karel-zikmund)
 * 2017/7/11 - [.NET MeetUp in Amsterdam, NL](/events/2017-07-11_dotNetMeetUp_Amsterdam) talks
-   * **.NET Standard** - [video](https://www.youtube.com/watch?v=QhOfzglQ1-g) (40 min) and [slides](https://www.slideshare.net/KarelZikmund1/2017-0711-dotnetstandard)
-   * **Challenges of Managing CoreFX repo** - [video](https://www.youtube.com/watch?v=QRUmG4TjViU) (60 min) and [slides](https://www.slideshare.net/KarelZikmund1/challenges-of-managing-corefx-repo)
+    * **.NET Standard** - [video](https://www.youtube.com/watch?v=QhOfzglQ1-g) (40 min) and [slides](https://www.slideshare.net/KarelZikmund1/2017-0711-dotnetstandard)
+    * **Challenges of Managing CoreFX repo** - [video](https://www.youtube.com/watch?v=QRUmG4TjViU) (60 min) and [slides](https://www.slideshare.net/KarelZikmund1/challenges-of-managing-corefx-repo)
 * 2017/6/26 - CoreFX Contributor standups, 1st session - see [notes](https://github.com/dotnet/corefx-standup/blob/master/Standups/2017-06.md)
-* 2017/6/6 - [.NET Fringe 2017](http://dotnetfringe.org) conference talk - **Challenges of Managing CoreFX repo** - [video](https://www.youtube.com/watch?v=Kcm0ns1pzm0) (30 min) and [slides](https://www.slideshare.net/KarelZikmund1/net-fringe-2017-challenges-of-managing-corefx-repo-karel-zikmund).
+* 2017/6/6 - [.NET Fringe 2017](http://dotnetfringe.org) conference talk (Portland, OR, USA) - **Challenges of Managing CoreFX repo** - [video](https://www.youtube.com/watch?v=Kcm0ns1pzm0) (30 min) and [slides](https://www.slideshare.net/KarelZikmund1/net-fringe-2017-challenges-of-managing-corefx-repo-karel-zikmund).
 * 2017/5/12 - **Interview** for donetFlix at Build 2017 conference - [dotnetFlix episode video](http://dotnetflix.com/player/59) (10 min).
 
 ### Mentions
@@ -23,8 +29,8 @@ I am on [.NET team](http://blogs.msdn.com/b/dotnet/) since my start at Microsoft
 
 * 2016/9-today - Manager on CoreFX team (.NET Core, [CoreFX repo](https://github.com/dotnet/corefx))
     * Community manager on CoreFX repo - issue management, dealing with hot/problematic issues, ensuring smooth involvement of CoreFX community, transparency with CoreFX community, etc.
-    * Manager of a few CoreFX areas - Networking (parts), Security, Collections, Process, etc.
-    * Driver of .NET Core 2.0 release in CoreFX repo.
+    * Manager of a few CoreFX areas - Networking, Process, etc. (until 2017/9 - Security, Collections)
+    * Driver of .NET Core releases in CoreFX repo.
 * 2015/12-2016/8 - Manager of .NET Native toolchain team & owner of .NET Native releases.
 * 2012-2015/11 - Manager of CLR Performance and Reliability team (cross-cutting products "full"/Desktop .NET Framework, CoreCLR, .NET Native). Included also feature areas of Eventing (EventSource, logging, PerfCounters) and GC (Garbage Collector).
 * 2005/10-2012 - owner/co-owner of [CLR](http://en.wikipedia.org/wiki/Common_Language_Runtime) components: shim (mscoree.dll), MetaData, TypeSystem, Loader (incl. Fusion, AppX/WinRT loader), NGen.

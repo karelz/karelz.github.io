@@ -6,18 +6,16 @@ Organized by [Windows User Group, CZ](http://wug.cz)
 
 ## Talks
 
-Note: Video recordings will be available in a month after the event (ETA 8/19).
-
-1. **Introductions** of speakers and .NET team members in the room -- [slide](https://www.slideshare.net/KarelZikmund1/net-meetup-prague-introductions)
-2. **.NET Standard** by [Karel Zikmund](https://karelz.github.io) (30 min) -- video (ETA 8/19) and [slides](https://www.slideshare.net/KarelZikmund1/net-meetup-prague-net-standard-karel-zikmund)
-3. **C# and .NET Core on Linux** by [Radka Janeková](http://www.rhea-ayase.eu/) (30 min) -- video (ETA 8/19) and [slides](http://redhat.slides.com/rjanekov/netcore-3?token=21AOkkAZ) and [demo code](https://github.com/RheaAyase/dotnettalks.demo3/blob/master/README.md)
-4. **Challenges of Managing CoreFX repo** by [Karel Zikmund](https://karelz.github.io) (30 min) -- video (ETA 8/19) and [slides](https://www.slideshare.net/KarelZikmund1/net-meetup-prague-challenges-of-managing-corefx-repo-karel-zikmund)
+1. **Introductions** of speakers and .NET team members in the room -- [slide](https://www.slideshare.net/KarelZikmund1/net-meetup-prague-introductions) ([on WUG](http://view.officeapps.live.com/op/view.aspx?src=http://www.wug.cz/GetFile.ashx?EventStoredFileID=483))
+2. **.NET Standard** by [Karel Zikmund](https://karelz.github.io) -- [video](https://wug.cz/zaznamy/431--NET-TechTalks-NET-Standard) (25 min) and [slides](https://www.slideshare.net/KarelZikmund1/net-meetup-prague-net-standard-karel-zikmund) ([on WUG](https://view.officeapps.live.com/op/view.aspx?src=http://www.wug.cz/GetFile.ashx?EventStoredFileID=477))
+3. **C# and .NET Core on Linux** by [Radka Janeková](http://www.rhea-ayase.eu/) (30 min) -- video (not available) and [slides](http://redhat.slides.com/rjanekov/netcore-3?token=21AOkkAZ) and [demo code](https://github.com/RheaAyase/dotnettalks.demo3/blob/master/README.md)
+4. **Challenges of Managing CoreFX repo** by [Karel Zikmund](https://karelz.github.io) -- [video](https://wug.cz/zaznamy/433--NET-TechTalks-Challenges-of-Managing-CoreFX-repo) (35 min) and [slides](https://www.slideshare.net/KarelZikmund1/net-meetup-prague-challenges-of-managing-corefx-repo-karel-zikmund) ([on WUG](https://view.officeapps.live.com/op/view.aspx?src=http://www.wug.cz/GetFile.ashx?EventStoredFileID=478))
 5. BREAK
-6. **Xamarin .NET internals** by [Marek Safar](https://github.com/marek-safar) (30 min) -- video (ETA 8/19) and [slides](https://www.slideshare.net/secret/o4fMrmGmGPG3Rl)
-7. **.NET Native & CoreRT** by [Vitek Karas](https://github.com/vitek-karas) & [Jan Kotas](https://github.com/jkotas) (15 min) -- video (ETA 8/19) and [slides](https://www.slideshare.net/KarelZikmund1/2017-0719-dotnetnativeandcorertvitekkarasjankotas)
-8. **.NET Core: Performance Revolution** by [Adam Sitnik](http://adamsitnik.com/) (30 min) -- video (ETA 8/19) and [slides](http://adamsitnik.com/files/Prague.pdf)
-9. **Portable .NET Core on Linux** by [Jan Vorlicek](https://github.com/janvorli) (10 min) -- video (ETA 8/19) and [slides](https://www.slideshare.net/KarelZikmund1/net-meetup-prague-portable-net-core-on-linux-jan-vorlicek)
-10. **Microsoft Engineering teams in Europe** by [Ela Moscicka](https://twitter.com/ElaMoscicka) (5 mins) -- video (ETA 8/19) and [slides](https://www.slideshare.net/KarelZikmund1/net-meetup-prague-microsoft-engineering-teams-in-europe-ela-moscicka)
+6. **Xamarin .NET internals** by [Marek Safar](https://github.com/marek-safar) -- [video](https://wug.cz/zaznamy/434--NET-TechTalks-Xamarin-NET-internals) (35 min) and [slides](https://www.slideshare.net/secret/o4fMrmGmGPG3Rl)
+7. **.NET Native & CoreRT** by [Vitek Karas](https://github.com/vitek-karas) & [Jan Kotas](https://github.com/jkotas) -- [video](https://wug.cz/zaznamy/436--NET-TechTalks-NET-Native-CoreRT) (17 min) and [slides](https://www.slideshare.net/KarelZikmund1/2017-0719-dotnetnativeandcorertvitekkarasjankotas) ([on WUG](http://view.officeapps.live.com/op/view.aspx?src=http://www.wug.cz/GetFile.ashx?EventStoredFileID=479))
+8. **.NET Core: Performance Revolution** by [Adam Sitnik](http://adamsitnik.com/) -- [video](https://wug.cz/zaznamy/437--NET-TechTalks-NET-Core-Performance-Revolution) (25 min) and [slides](http://adamsitnik.com/files/Prague.pdf) ([on WUG](https://wug.cz/zaznamy/GetFile.ashx?EventStoredFileID=484))
+9. **Portable .NET Core on Linux** by [Jan Vorlicek](https://github.com/janvorli) -- [video](https://wug.cz/zaznamy/435--NET-TechTalks-Portable-NET-Core-on-Linux) (10 min) and [slides](https://www.slideshare.net/KarelZikmund1/net-meetup-prague-portable-net-core-on-linux-jan-vorlicek) ([on WUG](http://view.officeapps.live.com/op/view.aspx?src=http://www.wug.cz/GetFile.ashx?EventStoredFileID=481))
+10. **Microsoft Engineering teams in Europe** by [Ela Moscicka](https://twitter.com/ElaMoscicka) -- [video](https://wug.cz/zaznamy/438--NET-TechTalks-Microsoft-Engineering-teams-in-Europe) (8 min) and [slides](https://www.slideshare.net/KarelZikmund1/net-meetup-prague-microsoft-engineering-teams-in-europe-ela-moscicka) ([on WUG](http://view.officeapps.live.com/op/view.aspx?src=http://www.wug.cz/GetFile.ashx?EventStoredFileID=482))
 
 ## Pictures
 

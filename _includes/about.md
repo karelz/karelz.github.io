@@ -3,40 +3,23 @@
 My name is Karel Zikmund.
 I am Software Engineering Manager on .NET Framework team / .NET Core team at [Microsoft](https://www.microsoft.com/).
 
-I spend most of my time at job as community manager of [CoreFX repo](https://github.com/dotnet/corefx) and as manager of a few CoreFX areas like Networking, Crypto, Collections, Process, etc.
+I spend most of my time at job as community manager of [CoreFX repo](https://github.com/dotnet/corefx) and as manager of a few CoreFX areas like Networking, Process, etc.
 
 You can find me and contact me on [Twitter](https://twitter.com/ziki_cz), on [GitHub](https://github.com/karelz) (incl. [gitter.im](https://gitter.im) as karelz), via [email](mailto:karelz@microsoft.com), or on [LinkedIn](https://www.linkedin.com/in/karelzikmund).
 
-## Upcomming Events
-
-* My .NET MeetUp "tour" in Europe
-    * 2017/8/1 - Brno, CZ - see [details](https://twitter.com/ziki_cz/status/882255985867460610) and [talks schedule & registration](https://www.wug.cz/brno/akce/952--Net-TechTalks) (6 .NET engineers, incl. Xamarin/Mono and RedHat guests)
-* .NET MeetUp in Redmond, WA - 2017/9 (details and date are TBD)
-* Monthly CoreFX Contributor standups - see [dates and details](https://github.com/dotnet/corefx-standup/)
-
 ## Recent Events
 
-* 2017/7/19 - [.NET Meetup in Prague, CZ](/events/2017-07-19_dotNetMeetUp_Prague)
-  * **.NET Standard** - video (ETA 8/19) and [slides](https://www.slideshare.net/KarelZikmund1/net-meetup-prague-net-standard-karel-zikmund)
-   * **Challenges of Managing CoreFX repo** - video (ETA 8/19) and [slides](https://www.slideshare.net/KarelZikmund1/net-meetup-prague-challenges-of-managing-corefx-repo-karel-zikmund)
-* 2017/7/11 - [.NET MeetUp in Amsterdam, NL](/events/2017-07-11_dotNetMeetUp_Amsterdam) talks
-   * **.NET Standard** - [video](https://www.youtube.com/watch?v=QhOfzglQ1-g) (40 min) and [slides](https://www.slideshare.net/KarelZikmund1/2017-0711-dotnetstandard)
-   * **Challenges of Managing CoreFX repo** - [video](https://www.youtube.com/watch?v=QRUmG4TjViU) (60 min) and [slides](https://www.slideshare.net/KarelZikmund1/challenges-of-managing-corefx-repo)
-* 2017/6/26 - CoreFX Contributor standups, 1st session - see [notes](https://github.com/dotnet/corefx-standup/blob/master/Standups/2017-06.md)
-* 2017/6/6 - [.NET Fringe 2017](http://dotnetfringe.org) conference talk - **Challenges of Managing CoreFX repo** - [video](https://www.youtube.com/watch?v=Kcm0ns1pzm0) (30 min) and [slides](https://www.slideshare.net/KarelZikmund1/net-fringe-2017-challenges-of-managing-corefx-repo-karel-zikmund)
+* 2017/11/12-13 - [DotNext 2017 in Moscow](http://2017.dotnext-moscow.ru/en/)
+  * **.NET Core Networking stack and Performance** - [talk info](http://2017.dotnext-moscow.ru/en/2017/msk/talks/3hcuoycrw4egcs0mkewoio/), [video](https://www.youtube.com/watch?v=M3FZZhnRvQY&list=PLtWrKx3nUGBfYHhmiGih2lanzmRigE9cc&index=24&t=0s) (55 min) and [slides](https://www.slideshare.net/KarelZikmund1/dotnext-2017-in-moscow-net-core-networking-stack-and-performance-karel-zikmund)
+  * **Challenges of Managing CoreFX repo** - [talk info](http://2017.dotnext-moscow.ru/en/2017/msk/talks/5egbw8vnbkqmmg2skiaey2/), [video](https://www.youtube.com/watch?v=j2KjWe4zWXY&list=PLtWrKx3nUGBfYHhmiGih2lanzmRigE9cc&index=17&t=0s) (60 min) and [slides](https://www.slideshare.net/KarelZikmund1/dotnext-2017-in-moscow-challenges-of-managing-corefx-repo-karel-zikmund)
+  * **Panel Discussion - Profiling and optimization** - [panel info](http://2017.dotnext-moscow.ru/en/2017/msk/talks/1gpyg1244oo4o48uuk0ya4/), [video](https://www.youtube.com/watch?v=4iQVMMLuPlM) (60 min)
 * See also [older events list](/details)
 
-## Projects
+## Projects Wish List
 
 * CoreFX repo - [New Contributor Docs](https://github.com/dotnet/corefx/wiki/New-contributor-Docs) (in progress with community help), also discussed in [dotnet/corefx#20570](https://github.com/dotnet/corefx/issues/20570)
-* GitHub issue management tooling - [Designing new service with web UI](https://github.com/karelz/GitHubIssues#v2---web-ui) (with help from community).
-* .NET Foundations internal talks (since 2008, with A/V since 2011) - [Publish some recordings and notes](https://twitter.com/ziki_cz/status/870877028093800448).
-* CoreFX repo - Establish firm Code of Conduct enforcement (deleting offensive content). Blog about what and why will be enforced.
+* GitHub issue management tooling - [Designing new service with web UI](https://github.com/karelz/GitHubIssues#v2---web-ui) (with help from community) - on hold.
 * CoreFX repo - Regular (monthly) alpha versions of .NET Core - see details in [dotnet/corefx#20911](https://github.com/dotnet/corefx/issues/20911)
-* CoreFX repo - Spin off CoreFxExtensions repo to simplify creation of libraries/APIs by community which do not belong into CoreFX repo - see details in [dotnet/corefx#20902](https://github.com/dotnet/corefx/issues/20902)
-* Shared Source CLI Essentials book for .NET Core - Initiated by community members, will be created in the open (everyone can contribute)
-* .NET Technology Q&A sessions - Start live series, first with [Maoni on GC](https://twitter.com/ziki_cz/status/865370793567371268).
-* Idea: Meet-the-team interviews - Short interviews with engineers on the team.
 
 ## Job History & Education
 
