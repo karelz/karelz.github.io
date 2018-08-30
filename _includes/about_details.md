@@ -1,6 +1,7 @@
 # Events, Public Appearances
 
-* 2017/11/12-13 - [DotNext 2017 in Moscow](http://2017.dotnext-moscow.ru/en/)
+* 2018/5/7-9 - [Microsoft Build 2018](https://news.microsoft.com/build2018) conference (Seattle, WA) - .NET booth duty
+* 2017/11/12-13 - [DotNext 2017 Moscow](http://2017.dotnext-moscow.ru/en)
     * **.NET Core Networking stack and Performance** - [talk info](http://2017.dotnext-moscow.ru/en/2017/msk/talks/3hcuoycrw4egcs0mkewoio/), [video](https://www.youtube.com/watch?v=M3FZZhnRvQY&list=PLtWrKx3nUGBfYHhmiGih2lanzmRigE9cc&index=24&t=0s) (55 min) and [slides](https://www.slideshare.net/KarelZikmund1/dotnext-2017-in-moscow-net-core-networking-stack-and-performance-karel-zikmund)
     * **Challenges of Managing CoreFX repo** - [talk info](http://2017.dotnext-moscow.ru/en/2017/msk/talks/5egbw8vnbkqmmg2skiaey2/), [video](https://www.youtube.com/watch?v=j2KjWe4zWXY&list=PLtWrKx3nUGBfYHhmiGih2lanzmRigE9cc&index=17&t=0s) (60 min) and [slides](https://www.slideshare.net/KarelZikmund1/dotnext-2017-in-moscow-challenges-of-managing-corefx-repo-karel-zikmund)
     * **Panel Discussion - Profiling and optimization** - [panel info](http://2017.dotnext-moscow.ru/en/2017/msk/talks/1gpyg1244oo4o48uuk0ya4/), [video](https://www.youtube.com/watch?v=4iQVMMLuPlM) (60 min)
@@ -13,8 +14,10 @@
     * **.NET Standard** - [video](https://www.youtube.com/watch?v=QhOfzglQ1-g) (40 min) and [slides](https://www.slideshare.net/KarelZikmund1/2017-0711-dotnetstandard)
     * **Challenges of Managing CoreFX repo** - [video](https://www.youtube.com/watch?v=QRUmG4TjViU) (60 min) and [slides](https://www.slideshare.net/KarelZikmund1/challenges-of-managing-corefx-repo)
 * 2017/6/26 - CoreFX Contributor standups, 1st session - see [notes](https://github.com/dotnet/corefx-standup/blob/master/Standups/2017-06.md)
-* 2017/6/6 - [.NET Fringe 2017](http://dotnetfringe.org) conference talk (Portland, OR, USA) - **Challenges of Managing CoreFX repo** - [video](https://www.youtube.com/watch?v=Kcm0ns1pzm0) (30 min) and [slides](https://www.slideshare.net/KarelZikmund1/net-fringe-2017-challenges-of-managing-corefx-repo-karel-zikmund).
-* 2017/5/12 - **Interview** for donetFlix at Build 2017 conference - [dotnetFlix episode video](http://dotnetflix.com/player/59) (10 min).
+* 2017/6/6 - [.NET Fringe 2017](http://dotnetfringe.org) conference talk (Portland, OR)
+    * **Challenges of Managing CoreFX repo** - [video](https://www.youtube.com/watch?v=Kcm0ns1pzm0) (30 min) and [slides](https://www.slideshare.net/KarelZikmund1/net-fringe-2017-challenges-of-managing-corefx-repo-karel-zikmund).
+* 2017/5/10-12 - [Microsoft Build 2017](https://news.microsoft.com/build2017) conference (Seattle, WA) - .NET booth duty
+    * **Interview** for donetFlix - [dotnetFlix episode video](http://dotnetflix.com/player/59) (10 min).
 
 ### Mentions
 
