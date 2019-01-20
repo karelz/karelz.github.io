@@ -9,7 +9,8 @@ You can find me and contact me on [Twitter](https://twitter.com/ziki_cz), on [Gi
 
 ## Upcomming Events
 
-* 2018/9/24-28 - [Microsoft Ignite 2018](https://www.microsoft.com/en-us/ignite) conference (Orlando, FL) - .NET booth duty
+* 2019/3/17-22 - [Microsoft Global MVP Summit 2019](https://mvp.microsoft.com/en-us/Summit) (Bellevue & Redmond, WA)
+* 2019/5/7-9 - [Microsoft Build 2019](https://www.microsoft.com/en-us/build) conference (Seattle, WA) - .NET booth duty
 
 ## Recent Events
 
@@ -17,10 +18,11 @@ You can find me and contact me on [Twitter](https://twitter.com/ziki_cz), on [Gi
   * **.NET Core Networking stack and Performance** - [talk info](http://2017.dotnext-moscow.ru/en/2017/msk/talks/3hcuoycrw4egcs0mkewoio/), [video](https://www.youtube.com/watch?v=M3FZZhnRvQY&list=PLtWrKx3nUGBfYHhmiGih2lanzmRigE9cc&index=24&t=0s) (55 min) and [slides](https://www.slideshare.net/KarelZikmund1/dotnext-2017-in-moscow-net-core-networking-stack-and-performance-karel-zikmund)
   * **Challenges of Managing CoreFX repo** - [talk info](http://2017.dotnext-moscow.ru/en/2017/msk/talks/5egbw8vnbkqmmg2skiaey2/), [video](https://www.youtube.com/watch?v=j2KjWe4zWXY&list=PLtWrKx3nUGBfYHhmiGih2lanzmRigE9cc&index=17&t=0s) (60 min) and [slides](https://www.slideshare.net/KarelZikmund1/dotnext-2017-in-moscow-challenges-of-managing-corefx-repo-karel-zikmund)
   * **Panel Discussion - Profiling and optimization** - [panel info](http://2017.dotnext-moscow.ru/en/2017/msk/talks/1gpyg1244oo4o48uuk0ya4/), [video](https://www.youtube.com/watch?v=4iQVMMLuPlM) (60 min)
-* See also [older events list](/details)
+* See also [**older events list**](/details)
 
 ## Projects Wish List
 
+* [Dry-run interviews](https://twitter.com/ziki_cz/status/1081153149187117058?s=20)
 * CoreFX repo - [New Contributor Docs](https://github.com/dotnet/corefx/wiki/New-contributor-Docs) (in progress with community help), also discussed in [dotnet/corefx#20570](https://github.com/dotnet/corefx/issues/20570)
 * GitHub issue management tooling - [Designing new service with web UI](https://github.com/karelz/GitHubIssues#v2---web-ui) (with help from community) - on hold.
 * CoreFX repo - Regular (monthly) alpha versions of .NET Core - see details in [dotnet/corefx#20911](https://github.com/dotnet/corefx/issues/20911)

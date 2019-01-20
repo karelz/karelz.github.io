@@ -1,6 +1,8 @@
 # Events, Public Appearances
 
+* 2018/9/24-28 - [Microsoft Ignite 2018](https://www.microsoft.com/en-us/ignite) conference (Orlando, FL) - .NET booth duty
 * 2018/5/7-9 - [Microsoft Build 2018](https://news.microsoft.com/build2018) conference (Seattle, WA) - .NET booth duty
+* 2018/3/3-4 - MVP Global Summit (Bellevue & Redmond, WA)
 * 2017/11/12-13 - [DotNext 2017 Moscow](http://2017.dotnext-moscow.ru/en)
     * **.NET Core Networking stack and Performance** - [talk info](http://2017.dotnext-moscow.ru/en/2017/msk/talks/3hcuoycrw4egcs0mkewoio/), [video](https://www.youtube.com/watch?v=M3FZZhnRvQY&list=PLtWrKx3nUGBfYHhmiGih2lanzmRigE9cc&index=24&t=0s) (55 min) and [slides](https://www.slideshare.net/KarelZikmund1/dotnext-2017-in-moscow-net-core-networking-stack-and-performance-karel-zikmund)
     * **Challenges of Managing CoreFX repo** - [talk info](http://2017.dotnext-moscow.ru/en/2017/msk/talks/5egbw8vnbkqmmg2skiaey2/), [video](https://www.youtube.com/watch?v=j2KjWe4zWXY&list=PLtWrKx3nUGBfYHhmiGih2lanzmRigE9cc&index=17&t=0s) (60 min) and [slides](https://www.slideshare.net/KarelZikmund1/dotnext-2017-in-moscow-challenges-of-managing-corefx-repo-karel-zikmund)
@@ -21,7 +23,7 @@
 
 ### Mentions
 
-* 2017/5 - .NET Core 2.0 Hackaton in Amsterdam - [video](https://channel9.msdn.com/Blogs/MVP-VisualStudio-Dev/Info-Support-NET-Core-Hackathon/player) (3 min), [details](https://twitter.com/jmezach/status/872516017087553536) from [Jonathan Mezach](https://twitter.com/jmezach) and [Edwin can Wijk](https://twitter.com/evanwijk).
+* 2017/5 - .NET Core 2.0 Hackaton in Amsterdam - [video](https://channel9.msdn.com/Blogs/MVP-VisualStudio-Dev/Info-Support-NET-Core-Hackathon/player) (3 min), [details](https://twitter.com/jmezach/status/872516017087553536) from [Jonathan Mezach](https://twitter.com/jmezach) and [Edwin van Wijk](https://twitter.com/evanwijk).
 * 2017/3 - [QCon London talk notes](http://www.itwriting.com/blog/9611-qcon-london-2017.html) mentioning our gc.cpp split reasoning (from 2015/3).
 
 # Job History
@@ -39,7 +41,8 @@ I am on [.NET team](http://blogs.msdn.com/b/dotnet/) since my start at Microsoft
 * 2005/10-2012 - owner/co-owner of [CLR](http://en.wikipedia.org/wiki/Common_Language_Runtime) components: shim (mscoree.dll), MetaData, TypeSystem, Loader (incl. Fusion, AppX/WinRT loader), NGen.
 
 References:
-* 2016+ - GitHub issues I commented on in [CoreFX repo](https://github.com/dotnet/corefx/issues?utf8=%E2%9C%93&q=is%3Aissue%20is%3Aopen%20commenter%3Akarelz) and in [CoreCLR repo](https://github.com/dotnet/coreclr/issues?utf8=%E2%9C%93&q=is%3Aissue%20is%3Aopen%20commenter%3Akarelz).
+* 2016+ - GitHub issues I commented on in [CoreFX repo](https://github.com/dotnet/corefx/issues?utf8=%E2%9C%93&q=is%3Aissue%20is%3Aopen%20commenter%3Akarelz), in [CoreCLR repo](https://github.com/dotnet/coreclr/issues?utf8=%E2%9C%93&q=is%3Aissue%20is%3Aopen%20commenter%3Akarelz) or [any GitHub repo](https://github.com/search?q=commenter%3Akarelz).
+* 2017+ - DeveloperCommunity.com [profile](https://developercommunity.visualstudio.com/users/5129/538495c0-e8ae-4506-b2e6-f7f24c57bfae.html) and [activity](https://developercommunity.visualstudio.com/search.html?f=&type=question+OR+problem+OR+idea&type=question+OR+problem+OR+idea&c=&redirect=search%2Fsearch&sort=relevance&q=karel+zikmund)
 * 2012-2015 - public Connect bugs I responded to - see [list](http://connect.microsoft.com/VisualStudio/SearchResults.aspx?SearchQuery=Karel%2bZikmund).
 * 2009-2012 - MSDN Forums [activity](https://social.msdn.microsoft.com/Profile/karel%20zikmund)
 
