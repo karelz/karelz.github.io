@@ -1,3 +1,5 @@
+# Mock Interviews for Microsoft Developer Position
+
 I have decided to offer a dry run / mock interviews for developer position "a la Microsoft" to community.
 My [announcement](https://twitter.com/ziki_cz/status/1081153149187117058?s=20) received some 40+ interests, so here is fullfillment of my part ...
 
@@ -75,11 +77,14 @@ Practice on paper.
 Verify solution on computer.
 Talk with your friends about it, discuss options - their pros and cons.
 
+Check out tips from Microsoft recruiters: [How to ace a technical interview at Microsoft](https://news.microsoft.com/life/how-to-ace-a-technical-interview-at-microsoft).
+
 I personally expect from candidates:
 
 * Knowledge of basic data structures and their algorithms like working with strings, lists, binary trees, basic graph algorithms (search), basic sorting.
 * Ability to understand and analyze problems, identify the right basic data structures and algorithms in them.
 * Basic O-notation cost analysis of algorithms and solutions.
+* Adaptability. Passion for technology, coding and solving problems. Ability to retrospect and learn from your past projects - successes and failures. Honesty with yourself and others. Desire to get better and grow (at your own pace). Being a team player.
 
 ### Book recommendation
 
