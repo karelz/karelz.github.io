@@ -18,7 +18,7 @@ You can find me and contact me on [Twitter](https://twitter.com/ziki_cz), on [Gi
   * **.NET Core Networking stack and Performance** - [talk info](http://2017.dotnext-moscow.ru/en/2017/msk/talks/3hcuoycrw4egcs0mkewoio/), [video](https://www.youtube.com/watch?v=M3FZZhnRvQY&list=PLtWrKx3nUGBfYHhmiGih2lanzmRigE9cc&index=24&t=0s) (55 min) and [slides](https://www.slideshare.net/KarelZikmund1/dotnext-2017-in-moscow-net-core-networking-stack-and-performance-karel-zikmund)
   * **Challenges of Managing CoreFX repo** - [talk info](http://2017.dotnext-moscow.ru/en/2017/msk/talks/5egbw8vnbkqmmg2skiaey2/), [video](https://www.youtube.com/watch?v=j2KjWe4zWXY&list=PLtWrKx3nUGBfYHhmiGih2lanzmRigE9cc&index=17&t=0s) (60 min) and [slides](https://www.slideshare.net/KarelZikmund1/dotnext-2017-in-moscow-challenges-of-managing-corefx-repo-karel-zikmund)
   * **Panel Discussion - Profiling and optimization** - [panel info](http://2017.dotnext-moscow.ru/en/2017/msk/talks/1gpyg1244oo4o48uuk0ya4/), [video](https://www.youtube.com/watch?v=4iQVMMLuPlM) (60 min)
-* [**Older events**](/details)
+* [Older events and projects](/details)
 
 ## Projects Wish List
 
