@@ -1,0 +1,13 @@
+---
+layout: full
+section: home
+title: Mock Interviews
+---
+    <section>
+      {% capture mock_interviews_include %}{% include mock_interviews.md %}{% endcapture %}
+      <div class="page-content">
+        <div class="wrapper">
+        {{ mock_interviews_include | markdownify }}
+        </div>
+      </div>
+    </section>
