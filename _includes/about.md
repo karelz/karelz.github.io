@@ -1,7 +1,7 @@
 ![Picture of Karel Zikmund](/images/karelz.jpg)
 
 My name is Karel Zikmund.
-I am Software Engineering Manager on .NET Framework team / .NET Core team at [Microsoft](https://www.microsoft.com/).
+I am Software Engineering Manager on .NET team - .NET Core / Base Class Libraries / CoreFX team at [Microsoft](https://www.microsoft.com/).
 
 I spend most of my time at job as community manager of [CoreFX repo](https://github.com/dotnet/corefx) and as manager of a few CoreFX areas like Networking, Process, etc.
 
