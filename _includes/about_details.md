@@ -28,17 +28,25 @@
 
 # Job History
 
+See also [my LinkedIn profile](https://www.linkedin.com/in/karelzikmund).
+
 ### Microsoft
 
 I am on [.NET team](http://blogs.msdn.com/b/dotnet/) since my start at Microsoft in 2005:
 
-* 2016/9-today - Manager on CoreFX team (.NET Core, [CoreFX repo](https://github.com/dotnet/corefx))
+* 2016/9-today - Manager on CoreFX team (.NET Core, [CoreFX repo](https://github.com/dotnet/corefx), Base Class Libraries)
     * Community manager on CoreFX repo - issue management, dealing with hot/problematic issues, ensuring smooth involvement of CoreFX community, transparency with CoreFX community, etc.
-    * Manager of a few CoreFX areas - Networking, Process, etc. (until 2017/9 - Security, Collections)
+    * Manager of a few CoreFX areas - Networking, Process, Infrastructure, etc. (until 2017/9 - Security, Collections)
     * Driver of .NET Core releases in CoreFX repo.
-* 2015/12-2016/8 - Manager of .NET Native toolchain team & owner of .NET Native releases.
-* 2012-2015/11 - Manager of CLR Performance and Reliability team (cross-cutting products "full"/Desktop .NET Framework, CoreCLR, .NET Native). Included also feature areas of Eventing (EventSource, logging, PerfCounters) and GC (Garbage Collector).
-* 2005/10-2012 - owner/co-owner of [CLR](http://en.wikipedia.org/wiki/Common_Language_Runtime) components: shim (mscoree.dll), MetaData, TypeSystem, Loader (incl. Fusion, AppX/WinRT loader), NGen.
+* 2015/12-2016/8 - Manager of .NET Native toolchain team
+    * Responsible for customer feedback response, test infrastructure (mainly functional and application compatibility), test results monitoring, Visual Studio and Microsoft Store integration. 
+    * Driver of .NET Native releases.
+* 2012-2015/11 - Manager of CLR Performance and Reliability team
+    * Responsible for some Runtime feature areas: Eventing (EventSource, logging, PerfCounters) and GC (Garbage Collector).
+    * Responsible for perf and realiability goals, tooling and infrastructure across .NET Framework, .NET Core and .NET Native.
+    * Responsible for .NET Quick Response Team - first response, investigation and routing.
+    * Hiring manager for CLR team (informational meetings, interview loops + scheduling).
+* 2005-2012 - owner/co-owner of [CLR](http://en.wikipedia.org/wiki/Common_Language_Runtime) components: shim (mscoree.dll), MetaData, TypeSystem, Loader (incl. Fusion, AppX/WinRT loader), NGen.
 
 References:
 * 2016+ - GitHub issues I commented on in [CoreFX repo](https://github.com/dotnet/corefx/issues?utf8=%E2%9C%93&q=is%3Aissue%20is%3Aopen%20commenter%3Akarelz), in [CoreCLR repo](https://github.com/dotnet/coreclr/issues?utf8=%E2%9C%93&q=is%3Aissue%20is%3Aopen%20commenter%3Akarelz) or [any GitHub repo](https://github.com/search?q=commenter%3Akarelz).
@@ -60,16 +68,14 @@ References:
       * Close and productive cooperation between dev and test teams, and also UI/doc teams.
     * References: [list of bugs I touched](http://netbeans.org/bugzilla/buglist.cgi?emailcc1=1;emailreporter1=1;emaillongdesc1=1;emailtype1=substring;emailassigned_to1=1;query_format=advanced;emailqa_contact1=1;bug_status=UNCONFIRMED;bug_status=NEW;bug_status=STARTED;bug_status=REOPENED;bug_status=RESOLVED;bug_status=VERIFIED;bug_status=CLOSED;email1=zikmund) and [my name in public documents](http://netbeans.org/search_result.html?cx=006102455337629464213%3Amt38ytkbuak&cof=FORID%3A11&q=Karel+Zikmund&siteurl=netbeans.org%252Findex.html&ref=netbeans.org%2Findex.html&siteurl=netbeans.org%252Findex.html&ref=netbeans.org%2Findex.html&sa.x=27&sa.y=12)
 
-* 1998/11-2003/12 (5 years) - Secunet - Software Consultant
-    * Developer and Software Consultant/Quality Assurance Engineer in Secunet's Prague subsidiary.
+* 1998/11-2003/12 (5 years) - Secunet - Developer / Quality Assurance Engineer
+    * Developer and Quality Assurance Engineer in Secunet's Prague subsidiary.
     * Work during studies at university. 
     * Most interesting and valuable experiences:
       * QA certification (incl. QA process creation based on legal code and ISO standards).
-      * Meetings with real customers (incl. public administration representatives).
+      * Meetings with customers (incl. public administration representatives).
       * Development in C++ on Windows (security-based components, low-level programming of smart card readers, PGP modification prototype).
-      * Web site creation - HTML, scripting content updates.
-
-Details also on [LinkedIn](https://www.linkedin.com/in/karelzikmund).
+      * Web site creation - HTML, awk, scripting content updates.
 
 # Education
 
@@ -81,13 +87,25 @@ Details also on [LinkedIn](https://www.linkedin.com/in/karelzikmund).
 * 1996-2002 (6 years) - MSc (Mgr.) in Computer Science at Charles University in Prague, CZ
     * Faculty of Mathematics and Physics at Charles University in Prague (MFF UK).
     * Major specialization: Computer Science (Neural networks, Non-procedural programming, Logic and Set theory).
-    * Activities and Societies: [M&M](http://mam.mff.cuni.cz) - the correspondence competition in Mathematics, Physics and Computer Science for high school students. Lead organizer around 2000-2003.
+    * Master thesis: Non-standard set theory
+    * Notable projects:
+      * War++ team project (C++)
+        * Multiplayer game engine & game with custom object-oriented scripting language for unit AI (Starcraft/Broodwar without unit limitations).
+        * All components server, client, map editor, etc.
+        * 2.5 year project in team of 5 (with 4 members landing jobs in Microsoft later).
+        * Largest faculty project to that date (1M+ lines of code).
+        * My main responsibility was server simulation (heavy multi-threading, game loop, units interaction, etc.)
+      * awk interpreter for Windows (C++)
+      * MasterMind game (C++, Win32)
+      * M&M web site (HTML, JavaScript, PHP)
+    * Activities and Societies: [M&M](http://mam.mff.cuni.cz) - the correspondence-based competition in Mathematics, Physics and Computer Science for high school students. Lead organizer around 2000-2003.
 
 * 1992-1996 (4 years) - High School at Gymnazium Jihlava in Jihlava, CZ
     * Achievements:
       * 1996 - 45th Czech national olympiad in Informatics - [Successful Solver](http://mo.mff.cuni.cz/p/45/vysledky-3.html)
       * 1996 - 45th Czech national olympiad in Mathematics - Successful Solver
+    * Notable projects:
+      * 1994 - Warehouse inventory (Visual C++, MS Access DB) - contract-based custom SW (from scratch). Multi-level warehouse inventory (resources, mid-products, final products). Motivation: Custom end-to-end SW development.
+      * 1993 - Address book (x86 assembler) - character-based Text User Interface application and generic Text UI framework "TextVision" (motivated by Turbo Vision). Fully functional and used in couple of small businesses. Motivation: Learn x86 assembler.
     * Activities and Societies:
-      * PiKoMat in Luzanky, Brno - the correspondence competition in Mathematics for secondary school students (organizer)
-
-Details also on [LinkedIn](https://www.linkedin.com/in/karelzikmund).
+      * PiKoMat in Luzanky, Brno - the correspondence-based competition in Mathematics for 5-8 grade students (organizer).

@@ -22,7 +22,7 @@ You can find me and contact me on [Twitter](https://twitter.com/ziki_cz), on [Gi
 
 ## Projects Wish List
 
-* [Mock interviews](/mock_interviews)
+* [Mock interviews](/mock_interviews) - started in 2019/1
 * CoreFX repo - [New Contributor Docs](https://github.com/dotnet/corefx/wiki/New-contributor-Docs) (in progress with community help), also discussed in [dotnet/corefx#20570](https://github.com/dotnet/corefx/issues/20570)
 * GitHub issue management tooling - [Designing new service with web UI](https://github.com/karelz/GitHubIssues#v2---web-ui) (with help from community) - on hold.
 * CoreFX repo - Regular (monthly) alpha versions of .NET Core - see details in [dotnet/corefx#20911](https://github.com/dotnet/corefx/issues/20911)
@@ -46,3 +46,5 @@ See [details about me](/details).
 * I am interested in other people's stories, experiences, past mistakes and lessons learned. I can often learn from them instead of doing similar mistakes myself. I am more than happy to share same things with others.
 * I am inefficient at doing code reviews. It takes me 2x-4x more time and energy than anyone else. When I do them, I need to understand everything perfectly, before I "approve" (kind of OCD). Therefore I stay away from code reviews if I can, doing team-wide efficiency on the team - I let others who do them "faster & better" do them.
 * I also like beer and I am happy to discuss anything over a glass or a pitcher :).
+
+Check [my LinkedIn profile](https://www.linkedin.com/in/karelzikmund/) for more details.
