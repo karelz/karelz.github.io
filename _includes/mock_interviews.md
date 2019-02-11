@@ -28,7 +28,7 @@ The only thing I will ask you is: If you have feedback on the interview from you
 Primary target audience are developers who plan to interview with Microsoft in near future, but are not sure with themselves and would love to "try it out" first to understand the experience and be better prepared.
 It is something I would have welcomed myself before interviewing with Microsoft in 2005.
 
-The reasons people participate may wary - from just lowering their stress, confirming their technical knowledge, or testing their language skills (interview in English can be intimidating to many non-native speakers like me).
+The reasons people participate may vary - from just lowering their stress, confirming their technical knowledge, or testing their language skills (interview in English can be intimidating to many non-native speakers like me).
 I wont't ask your reasons and definitely won't judge them :).
 
 ## What to expect?
