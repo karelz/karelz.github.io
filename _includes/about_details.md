@@ -1,5 +1,7 @@
 # Events, Public Appearances
 
+* 2019/3/17-22 - [Microsoft Global MVP Summit 2019](https://mvp.microsoft.com/en-us/Summit) (Bellevue & Redmond, WA)
+    * .NET client Networking stack - evlution, plans and feedback Q&A
 * 2018/9/24-28 - [Microsoft Ignite 2018](https://www.microsoft.com/en-us/ignite) conference (Orlando, FL) - .NET booth duty
 * 2018/5/7-9 - [Microsoft Build 2018](https://news.microsoft.com/build2018) conference (Seattle, WA) - .NET booth duty
 * 2018/3/3-4 - MVP Global Summit (Bellevue & Redmond, WA)

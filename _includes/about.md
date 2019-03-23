@@ -9,8 +9,20 @@ You can find me and contact me on [Twitter](https://twitter.com/ziki_cz), on [Gi
 
 ## Upcomming Events
 
-* 2019/3/17-22 - [Microsoft Global MVP Summit 2019](https://mvp.microsoft.com/en-us/Summit) (Bellevue & Redmond, WA)
 * 2019/5/7-9 - [Microsoft Build 2019](https://www.microsoft.com/en-us/build) conference (Seattle, WA) - .NET booth duty
+* 2019/6/19-21 - [NDC Oslo 2019](https://ndcoslo.com/) conference (Oslo, NO)
+  * **War stories from .NET team** - [talk info](https://ndcoslo.com/talk/war-stories-from-net-team/)
+* .NET MeetUps series in Europe - summer 2019 edition
+  * 2019/6/22 (approx.) - .NET MeetUp in Veenendaal, NL - full-day 2-track community conference, with focus on .NET Performance (incl. known European speakers)
+  * 2019/6/26 (approx.) - .NET MeetUp in Prague, CZ - similar to 2017 Prague event, meet the .NET team members (in Czech language this time)
+  * 2019/7 (TBD) - .NET MeetUp in Brno, CZ - 2-3 talks in Czech language
+  * 2019/7 (TBD) - .NET MeetUp in Vienna, AU - few talks from .NET team members
+  * 2019/7 (TBD) - .NET MeetUp in Linz, AU - few talks from .NET team members
+* ? 2019/10/16-18 - [NDC Sydney 2019](https://ndcsydney.com/) - aspirational, pending talk acceptance
+* ? 2019/10 (TBD) - .NET MeetUps series in Australia & New Zealand 2019 - aspirational, pending NDC Sydney talk acceptance
+  * Potential destinations: Sydney, Melbourne, Brisbane, Auckland, Wellington (potentially together with local .NET team members and/or .NET MVPs)
+* ? 2020/1/27-31 - [NDC London](https://ndc-london.com/) - aspirational, pending talk acceptance
+* ? 2020/1 (TBD)- .NET MeetUps series in UK & nearby - aspirational, pending NDC London talk acceptence
 
 ## Recent Events
 
