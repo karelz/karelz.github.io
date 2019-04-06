@@ -14,7 +14,7 @@ You can find me and contact me on [Twitter](https://twitter.com/ziki_cz), on [Gi
   * **War stories from .NET team** - [talk info](https://ndcoslo.com/talk/war-stories-from-net-team/)
 * .NET MeetUps series in Europe - summer 2019 edition
   * 2019/6/22 Sat - .NET MeetUp in Veenendaal, NL - full-day 2-track community conference, with focus on .NET Performance, incl. known European speakers - [Ben Adams](https://twitter.com/ben_a_adams), [Steve Gordon](https://twitter.com/stevejgordon), [Marc Gravell](https://twitter.com/marcgravell), [Roland Guijt](https://twitter.com/RolandGuijt), [Edwin van Wijk](https://twitter.com/evanwijk), [Jonathan Mezach](https://twitter.com/jmezach), [Adam Sitnik](https://twitter.com/SitnikAdam), and more to be announced later
-    * Registration and details about the event: http://bit.ly/netcoresummerevent2019
+    * [Registration and details about the event](http://bit.ly/netcoresummerevent2019)
     * Twitter announcements from organizers: [Karel](https://twitter.com/ziki_cz/status/1114233629603794945), [Jonathan](https://twitter.com/jmezach/status/1114179140868091905) and [Edwin](https://twitter.com/evanwijk/status/1114239135873732608)
   * 2019/6/26 Wed - .NET MeetUp in Prague, CZ - similar to 2017 Prague event, meet the .NET team members (in Czech language this time)
     * Expected speakers: Karel Zikmund, Marek Safar, Jan Vorlicek, Tomas Rylek, Vitek Karas, Tomas Weinfurt (TBD), Michal Strehovsky (TBD), Radka Janekova (TBD)
