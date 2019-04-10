@@ -17,12 +17,12 @@ You can find me and contact me on [Twitter](https://twitter.com/ziki_cz), on [Gi
     * [Registration and details about the event](http://bit.ly/netcoresummerevent2019)
     * Twitter announcements from organizers: [Karel](https://twitter.com/ziki_cz/status/1114233629603794945), [Jonathan](https://twitter.com/jmezach/status/1114179140868091905) and [Edwin](https://twitter.com/evanwijk/status/1114239135873732608)
   * 2019/6/26 Wed - .NET MeetUp in Prague, CZ - similar to 2017 Prague event, meet the .NET team members (in Czech language this time)
-    * Expected speakers: Marek Safar, Jan Vorlicek, Tomas Rylek, Vitek Karas, Karel Zikmund, Tomas Weinfurt (TBD), Michal Strehovsky (TBD), Radka Janekova (TBD)
-    * Local organizers: [Tomas Herceg](https://twitter.com/hercegtomas) with WUG support, [Lucie Vasickova](https://twitter.com/lulucieva) (MS), [Martin Simecek](https://twitter.com/deeedx) (MS)
+    * Expected speakers: Marek Safar, Jan Vorlicek, Tomas Rylek, Vitek Karas, Karel Zikmund, Tomas Weinfurt, Radka Janekova (Red Hat), Michal Strehovsky (TBD)
+    * Local organizers: [Tomas Herceg](https://twitter.com/hercegtomas) with WUG support, [Lucie Vasickova](https://twitter.com/lulucieva) (Microsoft), [Martin Simecek](https://twitter.com/deeedx) (Microsoft)
     * Capacity: 200-250
   * 2019/7/9 Tue - .NET MeetUp in Brno, CZ - 2-3 talks in Czech language
     * Expected speakers: Karel Zikmund, Radka Janekova (TBD)
-    * Local organizers: [Martin Dybal](https://twitter.com/Martin_Dybal) (WUG), Radka Janekova
+    * Local organizers: [Martin Dybal](https://twitter.com/Martin_Dybal) (WUG), Radka Janekova (Red Hat)
     * Capacity: 100
   * 2019/7 (TBD) - .NET MeetUp in Vienna, AU - few talks from .NET team members
   * 2019/7 (TBD) - .NET MeetUp in Linz, AU - few talks from .NET team members
