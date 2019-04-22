@@ -14,7 +14,7 @@ You can find me and contact me on [Twitter](https://twitter.com/ziki_cz), on [Gi
   * **War stories from .NET team** - [talk info](https://ndcoslo.com/talk/war-stories-from-net-team/)
 * .NET MeetUps series in Europe - summer 2019 edition
   * 2019/6/22 Sat - [.NET Summer event in Veenendaal, NL](https://www.dncse.nl)
-  * 2019/6/24 Mon - Discussion with MFF UK students - see [details](/events)
+  * 2019/6/24 Mon - Discussion with MFF UK students in Prague, CZ - see [details](/events)
   * 2019/6/26 Wed - .NET MeetUp in Prague, CZ - see [details](/events)
   * 2019/7/9 Tue - .NET MeetUp in Brno, CZ - see [details](/events)
   * 2019/7 (TBD) - .NET MeetUp in Vienna, AU - see [details](/events)
