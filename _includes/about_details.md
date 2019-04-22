@@ -1,4 +1,4 @@
-# Events, Public Appearances
+# Events, Conferences, Public Appearances
 
 * 2019/3/17-22 - [Microsoft Global MVP Summit 2019](https://mvp.microsoft.com/en-us/Summit) (Bellevue & Redmond, WA)
     * .NET client Networking stack - evlution, plans and feedback Q&A
