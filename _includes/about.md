@@ -17,8 +17,8 @@ You can find me and contact me on [Twitter](https://twitter.com/ziki_cz), on [Gi
   * 2019/6/24 Mon - Discussion with MFF UK students in Prague, CZ - see [details](/events)
   * 2019/6/26 Wed - .NET MeetUp in Prague, CZ - see [details](/events)
   * 2019/7/9 Tue - .NET MeetUp in Brno, CZ - see [details](/events)
-  * 2019/7 (TBD) - .NET MeetUp in Vienna, AU - see [details](/events)
-  * 2019/7/23 Tue - .NET MeetUp in Linz, AU - see [details](/events)
+  * 2019/7 (TBD) - .NET MeetUp in Vienna, AT - see [details](/events)
+  * 2019/7/23 Tue - .NET MeetUp in Linz, AT - see [details](/events)
 * ??? 2019/10/16-18 - [NDC Sydney 2019](https://ndcsydney.com/) - aspirational, pending talk acceptance
 * ??? 2019/10 (TBD) - .NET MeetUps series in Australia & New Zealand 2019 - aspirational, pending NDC Sydney talk acceptance
   * Potential destinations: Sydney, Melbourne, Brisbane, Auckland, Wellington (potentially together with local .NET team members and/or .NET MVPs)
