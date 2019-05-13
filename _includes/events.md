@@ -6,13 +6,14 @@
 * 2019/6/24 Mon - Discussion with MFF UK students - ~17h at Mala Strana, Prague, CZ (in Czech language)
   * Participants: Hana Lapkova (Oracle), [Tomas Herceg](https://twitter.com/hercegtomas) (Riganti), [Martin Duchacek](https://twitter.com/MDuchacek) (RSJ), [Karel Zikmund](https://twitter.com/ziki_cz) (Microsoft)
   * Local organizer: [Karolina Houzvickova Solcova](https://www.mff.cuni.cz/cs/fakulta/organizacni-struktura/lide?hdl=3951) (MFF UK)
-* 2019/6/26 Wed - .NET MeetUp in Prague, CZ - similar to 2017 Prague event, meet the .NET team members (in Czech language this time)
-  * Expected speakers: Marek Safar, Jan Vorlicek, Tomas Rylek, [Vitek Karas](https://twitter.com/vkaras), Tomas Weinfurt, [Radka Janekova](https://twitter.com/RheaAyase) (Red Hat), [Karel Zikmund](https://twitter.com/ziki_cz), [Michal Strehovsky](https://twitter.com/MStrehovsky) (TBD)
+* 2019/6/26 Wed - [.NET Core Summer event in Prague, CZ](https://corestart3.updatedays.cz) - similar to 2017 Prague event, meet the .NET team members (in Czech language this time)
+  * Expected speakers: Marek Safar, Jan Vorlicek, Tomas Rylek, [Vitek Karas](https://twitter.com/vkaras), Tomas Weinfurt, [Radka Janekova](https://twitter.com/RheaAyase) (Red Hat), [Karel Zikmund](https://twitter.com/ziki_cz)
   * Local organizers: [Tomas Herceg](https://twitter.com/hercegtomas) with WUG support, [Lucie Vasickova](https://twitter.com/lulucieva) (Microsoft), [Martin Simecek](https://twitter.com/deeedx) (Microsoft)
-  * Capacity: 200-250
+  * Capacity: 150
 * 2019/7/9 Tue - .NET MeetUp in Brno, CZ - 2-3 talks (in Czech language)
   * Expected speakers: [Karel Zikmund](https://twitter.com/ziki_cz)
   * Local organizers: [Martin Dybal](https://twitter.com/Martin_Dybal) (WUG), [Radka Janekova](https://twitter.com/RheaAyase) (Red Hat)
+  * Place: Red Hat - Purkynova 99, Brno (5th floor - need to take stairs from 4th floor which is accessible via elevator)
   * Capacity: 100
 * 2019/7 (TBD) - .NET MeetUp in Vienna, AT - meet the .NET team members
   * Expected speakers: [Viktor Hofer](https://twitter.com/ViktorHofer), [Bernhard Urban](https://twitter.com/lewurm), [Alexander Köplinger](https://twitter.com/akoeplinger), [Adam Sitnik](https://twitter.com/SitnikAdam), [Karel Zikmund](https://twitter.com/ziki_cz)
