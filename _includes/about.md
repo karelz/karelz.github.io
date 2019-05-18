@@ -9,13 +9,12 @@ You can find me and contact me on [Twitter](https://twitter.com/ziki_cz), on [Gi
 
 ## Upcoming Events
 
-* 2019/5/7-9 - [Microsoft Build 2019](https://www.microsoft.com/en-us/build) conference (Seattle, WA) - .NET booth duty
 * 2019/6/19-21 - [NDC Oslo 2019](https://ndcoslo.com/) conference (Oslo, NO)
   * **War stories from .NET team** - [talk info](https://ndcoslo.com/talk/war-stories-from-net-team/)
 * .NET MeetUps series in Europe - summer 2019 edition
   * 2019/6/22 Sat - [.NET Summer event in Veenendaal, NL](https://www.dncse.nl)
   * 2019/6/24 Mon - Discussion with MFF UK students in Prague, CZ - see [details](/events)
-  * 2019/6/26 Wed - .NET MeetUp in Prague, CZ - see [details](/events)
+  * 2019/6/26 Wed - [.NET Core Summer event in Prague, CZ](https://corestart3.updatedays.cz)
   * 2019/7/9 Tue - .NET MeetUp in Brno, CZ - see [details](/events)
   * 2019/7 (TBD) - .NET MeetUp in Vienna, AT - see [details](/events)
   * 2019/7/23 Tue - .NET MeetUp in Linz, AT - see [details](/events)
@@ -27,6 +26,7 @@ You can find me and contact me on [Twitter](https://twitter.com/ziki_cz), on [Gi
 * ??? 2020/1 (TBD)- .NET MeetUps series in UK & nearby - aspirational, pending NDC London talk acceptence
 
 * [Past events and projects](/details)
+* [Active talks](https://sessionize.com/karel-zikmund) for conferences and .NET MeetUps
 
 ## Projects and Wish List
 
