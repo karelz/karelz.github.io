@@ -18,7 +18,7 @@
 * 2019/7 (TBD) - .NET MeetUp in Vienna, AT - meet the .NET team members
   * Expected speakers: [Viktor Hofer](https://twitter.com/ViktorHofer), [Bernhard Urban](https://twitter.com/lewurm), [Alexander Köplinger](https://twitter.com/akoeplinger), [Adam Sitnik](https://twitter.com/SitnikAdam), [Karel Zikmund](https://twitter.com/ziki_cz)
   * Local organizers: TBD
-* 2019/7/23 Tue - .NET MeetUp in Linz, AT - meet the .NET team members
+* 2019/7/23 Tue - [.NET Summer Event with the .NET Team from Microsoft - Linz, AT](https://www.meetup.com/NET-Stammtisch-Linz/events/261637908/)
   * Confirmed speakers: [Viktor Hofer](https://twitter.com/ViktorHofer), [Bernhard Urban](https://twitter.com/lewurm), [Alexander Köplinger](https://twitter.com/akoeplinger), [Karel Zikmund](https://twitter.com/ziki_cz)
   * Local organizers: [Gergely Kalapos](https://twitter.com/gregkalapos)
 
