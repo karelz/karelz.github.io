@@ -4,8 +4,9 @@ I have decided to offer a dry run / mock interviews for developer position "a la
 My [announcement](https://twitter.com/ziki_cz/status/1081153149187117058?s=20) received some 40+ interests, so here is fullfillment of my part ...
 
 Update on 2019/6/1:
-Also, after few dry-run interviews (3 so far), I realized I don't have as much time as I wish
-Therefore I decided to change the preparation requirements to make the dry-run interviews really worthwhile for both sides - you, the candidate and me, to save each others time and scale better.
+After 3 mock interviews in first 4 months, I realized I don't have as much time as I hoped for.
+Therefore I decided to change the preparation requirements to make the mock interviews really worthwhile for both sides - you, the candidate and me.
+The goal is to save each others' time and for me to scale better.
 
 ## Personal offer, nothing Microsoft official
 
@@ -65,8 +66,7 @@ Here's what I expect will happen:
     * Everybody else.
 1. I will provide resume feedback via email if needed (first impressions, how it matches your desired job profile, etc.)
 1. I will schedule [Skype interview](https://www.skype.com/en/interviews) with you  - 1h.
-    * Originally I hoped to do 1-2 mock interviews each week, but that has been a dream. I will try to make some progress over time though.
-    * People lower in the priority list may need to wait a bit for their turn.
+    * Originally I hoped to do 1-2 mock interviews each week, but that was just wishful thinking. In reality it is barely 1 per month :( ... although I could try to use lame excuse that I needed to experiment first and fine-tune the process, but that would be mostly a lie. Anyway,  I will try to keep doing them here and there when the workload at daily job permits it (which may be a while). I will focus more on resume reviews when possible.
 1. We will do the mock interview.
     * Expect me to start the mock interview the same way as in a real interview - including introduction, warm up questions, etc. The full experience.
         * Note: I always allow programming language of choice, pseudo-language or even mix of languages - the ideas are important, not the syntax.
