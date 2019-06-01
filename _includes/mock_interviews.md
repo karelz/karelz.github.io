@@ -3,6 +3,10 @@
 I have decided to offer a dry run / mock interviews for developer position "a la Microsoft" to community.
 My [announcement](https://twitter.com/ziki_cz/status/1081153149187117058?s=20) received some 40+ interests, so here is fullfillment of my part ...
 
+Update on 2019/6/1:
+Also, after few dry-run interviews (3 so far), I realized I don't have as much time as I wish
+Therefore I decided to change the preparation requirements to make the dry-run interviews really worthwhile for both sides - you, the candidate and me, to save each others time and scale better.
+
 ## Personal offer, nothing Microsoft official
 
 First and foremost, this is a personal offer.
@@ -20,16 +24,21 @@ Half of them were "quick" 30 minute screenings on college campuses in US & Canad
 
 Nothing, at least materially.
 This is my way of giving back something to the community.
-I do not expect any payments, compensations or endorsements for it.
-The only thing I will ask you is: If you have feedback on the interview from your side, please share it with me - it will help me get better as interviewer and it will also allow me to steer the mock interview effort in a direction useful to the participants.
+I do not expect any payments, compensations or endorsements for it as a reward or payback.
+
+Although, I will ask you afterwords to give me a recommendation (in your own words) about your experience on LinkedIn, if you can.
+If you can't, that is fine too.
+Main reason for the recommendation is to help me build trust relationship with other candidates in future faster and provide insight what to expect and about usefulness of the mock interview from different point of view.
+
+Overall I will also ask you: If you have feedback on the interview from your side, please share it with me - it will help me get better as interviewer and it will also allow me to steer the mock interview effort in a direction useful to the participants.
 
 ## Who is it for?
 
-Primary target audience are developers who plan to interview with Microsoft in near future, but are not sure with themselves and would love to "try it out" first to understand the experience and be better prepared.
+Primary target audience are developers who plan to **interview with Microsoft** in near future, but are not sure with themselves and would love to "try it out" first to understand the experience and be better prepared.
 It is something I would have welcomed myself before interviewing with Microsoft in 2005.
 
 The reasons people participate may vary - from just lowering their stress, confirming their technical knowledge, or testing their language skills (interview in English can be intimidating to many non-native speakers like me).
-I wont't ask your reasons and definitely won't judge them :).
+I won't judge your reasons, I may ask out of curiosity :).
 
 ## What to expect?
 
@@ -42,6 +51,7 @@ You should view it as one view point and it is totally up to you if you want to 
 
 Here's what I expect will happen:
 
+1. Prepare for the interview - see section below.
 1. Send to my [private email address](mailto:ZikiCZ@hotmail.com):
     * Your resume (in a structure you plan to send it to Microsoft).
         * I won't share your resume with anyone unless I get explicit permission from you.
@@ -49,22 +59,22 @@ Here's what I expect will happen:
         * If you don't know, that is fine. (I didn't have specific idea either before joining Microsoft ;))
         * Motivation: It will help me give you better feedback on your resume.
     * When you plan to interview for Microsoft.
-2. I will prioritize incoming requests with these criteria:
+1. I will prioritize incoming requests with these criteria:
     * Underrepresented groups in SW engineering (let me know if you're in one).
     * People with nearest interview deadlines / plans.
     * Everybody else.
-3. I will provide resume feedback via email if needed (first impressions, how it matches your desired job profile, etc.)
-4. I will schedule Skype mock interview with you - 1h.
-    * I hope to do 1-2 mock interviews each week. People lower in the priority list may need to wait a bit for their turn.
-5. We will do the mock interview.
-    * I am still researching technically how - current thinking is Skype and/or mock interview site like https://www.pramp.com (I haven't tried it yet).
+1. I will provide resume feedback via email if needed (first impressions, how it matches your desired job profile, etc.)
+1. I will schedule [Skype interview](https://www.skype.com/en/interviews) with you  - 1h.
+    * Originally I hoped to do 1-2 mock interviews each week, but that has been a dream. I will try to make some progress over time though.
+    * People lower in the priority list may need to wait a bit for their turn.
+1. We will do the mock interview.
     * Expect me to start the mock interview the same way as in a real interview - including introduction, warm up questions, etc. The full experience.
-        * Note: I always allow language of choice, pseudo-language or even mix of languages - the ideas are important, not the syntax.
+        * Note: I always allow programming language of choice, pseudo-language or even mix of languages - the ideas are important, not the syntax.
     * Debrief at the end with direct and honest feedback (10 min).
         * Would I give you 'hire' or not? And why?
         * Details on what went well, what didn't go well and how it matched expectations.
         * What to improve / look for.
-6. After the mock interview:
+1. After the mock interview:
     * I will welcome direct honest feedback the other way - How did you feel during the interview? Could I do something better as interviewer? Or as part of this mock interview effort?
     * I will ask you to NOT disclose my interview question. I plan to use it for other mock interviews and wider knowledge would undermine the effort here.
 
@@ -76,6 +86,7 @@ Go trough some examples.
 Practice on paper.
 Verify solution on computer.
 Talk with your friends about it, discuss options - their pros and cons.
+Practice, using online tools like http://leetcode.com.
 
 Check out tips from Microsoft recruiters: [How to ace a technical interview at Microsoft](https://news.microsoft.com/life/how-to-ace-a-technical-interview-at-microsoft).
 
@@ -86,22 +97,44 @@ I personally expect from candidates:
 * Basic O-notation cost analysis of algorithms and solutions.
 * Adaptability. Passion for technology, coding and solving problems. Ability to retrospect and learn from your past projects - successes and failures. Honesty with yourself and others. Desire to get better and grow (at your own pace). Being a team player.
 
-### Book recommendation
+### Recommendation: Online coding practice
 
-I can recommend book [Cracking the Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850) - I read the [5th edition](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/098478280X) last week (to be able to point you to useful resources ;)), and it is very spot on.
+I have discovered and tried http://leetcode.com recently.
+It seems to be great prep tool for interviews.
+Choose Category - **Algorithms**, difficulty **Hard**.
+Do a few, get into position when you can nail them without looking at solution first.
+Note that some problems may be better than others for preparation for interview.
+
+I personally tried 2 problems and found them very useful for interview preparation.
+I could imagine asking problems like those in real interview.
+
+I also failed the first problem misserably (I needed 5 submissions to get all corner cases right - oh my!).
+Definitely not up to my standards, it was pretty emberrassing for me.
+Apprarently I was overconfident and thought I can do it easily, so I got sloppy and did not pay attention to details.
+It thaught me a lesson right on the spot - it demonstrates that some preparation is useful even for skilled interviewers.
+Luckily, I nailed the second problem, which gave me my confidence back (at reasonable level) :).
+
+Here's list of problems I tried:
+  * 224. [Basic Calculator](https://leetcode.com/problems/basic-calculator/)
+  * 45. [Jump Game II](https://leetcode.com/problems/jump-game-ii/)
+If I get time (that may be unrealistic expectation), I may try more problems and put the interesting ones here.
+
+### Recommendation: Book about interviewing for Microsoft
+
+I can recommend book [Cracking the Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850) - I read the [5th edition](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/098478280X) in February 2019 (to be able to provide to useful resources here ;)), and it is very spot on.
 
 In particular, I liked these parts of the book:
 * I. Interview Process - Dress Code, Top 10 Mistakes
 * II. Behind the Scenes - The Microsoft Interview
 * IV. Before the Interview - Getting the Right Experience, Writing a Great Resume
-    * BTW: Contributing to GitHub projects, or having your own smaller project on GitHub is great way how to show your coding capabilities upfront.
+    * BTW: Contributing to GitHub projects, or having your own smaller project on GitHub is a great way how to show your coding capabilities upfront. However, it is not a must-have - some people may not be priviledged to have that time.
 * V. Behavioral Questions
 * VI. Technical Questions
     * Data Structures - Really great basic questions everyone should be able to do.
     * Concepts and Algorithms - While I don't think most of these are good interview questions (some Bit Manipulation questions are rather ugly), it is worth going through them all to ensure yourself you understand basic concepts and some "known" tricks (e.g. in Brain Teasers).
     * Additional Review Problems - I didn't review them carefully, but they seem to be good things to practice on as well. I'd recommend to check them out.
 
-### Online resource recommendation
+### Recommendation: Other online resources for questions
 
 From a quick 10-minute online research I found for example this [list of interview questions](https://www.geeksforgeeks.org/practice-for-cracking-any-coding-interview) which I liked.
 
