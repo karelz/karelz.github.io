@@ -115,8 +115,9 @@ It thaught me a lesson right on the spot - it demonstrates that some preparation
 Luckily, I nailed the second problem, which gave me my confidence back (at reasonable level) :).
 
 Here's list of problems I tried:
-  * 224. [Basic Calculator](https://leetcode.com/problems/basic-calculator/)
-  * 45. [Jump Game II](https://leetcode.com/problems/jump-game-ii/)
+  * #224 [Basic Calculator](https://leetcode.com/problems/basic-calculator/)
+  * #45 [Jump Game II](https://leetcode.com/problems/jump-game-ii/)
+
 If I get time (that may be unrealistic expectation), I may try more problems and put the interesting ones here.
 
 ### Recommendation: Book about interviewing for Microsoft
