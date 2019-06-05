@@ -1,7 +1,7 @@
 # Mock Interviews for Microsoft Developer Position
 
 I have decided to offer a dry run / mock interviews for developer position "a la Microsoft" to community.
-My [announcement](https://twitter.com/ziki_cz/status/1081153149187117058?s=20) received some 40+ interests, so here is fullfillment of my part ...
+My [announcement](https://twitter.com/ziki_cz/status/1081153149187117058) received some 40+ interests, so here is fullfillment of my part ...
 
 Update on 2019/6/1:
 After 3 mock interviews in first 4 months, I realized I don't have as much time as I hoped for.
