@@ -122,7 +122,7 @@ If I get time (that may be unrealistic expectation), I may try more problems and
 
 ### Recommendation: Book about interviewing for Microsoft
 
-I can recommend book [Cracking the Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850) - I read the [5th edition](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/098478280X) in February 2019 (to be able to provide to useful resources here ;)), and it is very spot on.
+I can recommend book [Cracking the Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850) - I read the [5th edition](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/098478280X) in February 2019 (to be able to provide useful resources here ;)), and it is very spot on.
 
 In particular, I liked these parts of the book:
 * I. Interview Process - Dress Code, Top 10 Mistakes
