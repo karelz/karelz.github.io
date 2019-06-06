@@ -44,6 +44,8 @@ Here's list of problems I tried:
   * #224 [Basic Calculator](https://leetcode.com/problems/basic-calculator/)
   * #45 [Jump Game II](https://leetcode.com/problems/jump-game-ii/)
 
+If I find some time (that may be unrealistic expectation), I may try more problems and put the interesting ones here.
+
 
 ### Recommendation: Book about interviewing for Microsoft
 
