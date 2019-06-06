@@ -70,7 +70,7 @@ For **.NET Engineering Services team** ([@ElaMoscicka](https://twitter.com/ElaMo
 
 Make sure you include things which are relevant.
 
-**Pro-tip:** Great way to highlight your related experiences in resume/CV, is to start with first page as "cover letter".
+**Pro-tip:** Great way to highlight your relevant experiences in resume/CV, is to start with first page as "cover letter".
 Describe most relevant things and why do you think you are a good fit for the job position.
 
 
