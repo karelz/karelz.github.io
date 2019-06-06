@@ -11,7 +11,7 @@ Go trough some examples.
 Practice on paper.
 Verify solution on computer.
 Talk with your friends about it, discuss options - their pros and cons.
-Practice, using online tools like http://leetcode.com.
+Practice, using online tools like [http://leetcode.com](http://leetcode.com).
 
 Check out tips from Microsoft recruiters: [How to ace a technical interview at Microsoft](https://news.microsoft.com/life/how-to-ace-a-technical-interview-at-microsoft).
 
@@ -25,7 +25,7 @@ As an example, I personally expect from candidates:
 
 ### Recommendation: Online coding practice
 
-I have discovered and tried http://leetcode.com recently.
+I have discovered and tried [http://leetcode.com](http://leetcode.com) recently.
 It seems to be great prep tool for interviews.
 I would recommend to choose Category - **Algorithms**, difficulty **Hard**.
 Do a few, get into position when you can nail some without looking at solution first.
