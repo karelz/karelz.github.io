@@ -8,10 +8,11 @@ As of 2019/6/5 we are hiring 2 full .NET teams in Prague, Czech Repubic:
     * Primary contact: [@ziki_cz](https://twitter.com/ziki_cz) (Twitter DM is prefered, see my profile for other contact info)
     * Positions: Software Engineer
     * Start discussion with answers to these 2 questions - to see if it makes sense to send over resume or apply to the job post (expect cross time-zone delays in replies):
-        1. What is your related library-level or networking experience from work or hobby projects?
+        1. What is your related library-level, system-level or networking-related experience from work or hobby projects?
         2. Describe some interesting technical challenge (ideally related to the job). An investigation, bug fix or feature, etc. Something you are proud of.
     * Details:
         * Library-level = producing libraries used by multiple projects, ideally by multiple companies.
+        * System-level = anything low-level, close to OS APIs, drivers, HW interaction, or some non-trivial backend (e.g. difficult multi-threading, scale).
         * Networking = libraries / APIs / protocols operating on network to communicate between computers. Server-side, or client-sie, or both.
 
 
