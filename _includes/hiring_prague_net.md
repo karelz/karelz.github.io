@@ -7,7 +7,7 @@ As of 2019/6/5 we are hiring 2 full .NET teams in Prague, Czech Repubic:
 1. **Base Class Libraries / Networking team** - see [full job description](https://careers.microsoft.com/i/us/en/job/633945/Software-Engineer-NET-Core-Platform)
     * Primary contact: [@ziki_cz](https://twitter.com/ziki_cz) (Twitter DM is prefered, see my profile for other contact info)
     * Positions: Software Engineer
-    * Start discussion with 2 questions to see if it makes sense to send over resume or apply to the job post (expect cross-time-zone delays in answers):
+    * Start discussion with answers to these 2 questions - to see if it makes sense to send over resume or apply to the job post (expect cross time-zone delays in replies):
         1. What is your related library-level or networking experience from work or hobby projects?
         2. Describe some interesting technical challenge (ideally related to the job). An investigation, bug fix or feature, etc. Something you are proud of.
     * Details:
