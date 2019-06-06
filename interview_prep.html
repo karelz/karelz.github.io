@@ -1,0 +1,13 @@
+---
+layout: full
+section: home
+title: Preparing for Interviews at Microsoft
+---
+    <section>
+      {% capture interview_prep_include %}{% include interview_prep.md %}{% endcapture %}
+      <div class="page-content">
+        <div class="wrapper">
+        {{ interview_prep_include | markdownify }}
+        </div>
+      </div>
+    </section>
