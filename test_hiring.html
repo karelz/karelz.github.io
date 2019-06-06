@@ -1,0 +1,13 @@
+---
+layout: full
+section: home
+title: Test Hiring
+---
+    <section>
+      {% capture test_hiring_include %}{% include test_hiring.md %}{% endcapture %}
+      <div class="page-content">
+        <div class="wrapper">
+        {{ test_hiring_include | markdownify }}
+        </div>
+      </div>
+    </section>
