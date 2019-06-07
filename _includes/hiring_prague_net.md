@@ -2,7 +2,7 @@
 
 As of 2019/6/5 we are hiring 2 full .NET teams in Prague, Czech Repubic:
 1. **.NET Engineering Services team** - see [full job description](https://careers.microsoft.com/i/us/en/job/632975/Software-Engineer-Core-Development-Tools)
-    * Primary contact: [@ElaMoscicka](https://twitter.com/ElaMoscicka) via her email [elmoscic@microsoft.com](mailto:elmoscic@microsoft.com)
+    * Primary contact: [@ElaMoscicka](https://twitter.com/ElaMoscicka) via her email [elmoscic@microsoft.com](mailto:elmoscic@microsoft.com) (please do NOT send resume/CV via email due to GDPR)
     * Positions: Software Engineer & Software Engineer Manager
 1. **Base Class Libraries / Networking team** - see [full job description](https://careers.microsoft.com/i/us/en/job/633945/Software-Engineer-NET-Core-Platform)
     * Primary contact: [@ziki_cz](https://twitter.com/ziki_cz) (Twitter DM is prefered, see my profile for other contact info)
@@ -64,7 +64,7 @@ Typically it gives candidates higher chance to highlight relevant things than ju
 
 For **Base Class Libraries / Networking team** ([@ziki_cz](https://twitter.com/ziki_cz)), please start with answering the 2 questions above before you send over your resume.
 
-For **.NET Engineering Services team** ([@ElaMoscicka](https://twitter.com/ElaMoscicka)), feel free to send your resume, or just chat first.
+For **.NET Engineering Services team** ([@ElaMoscicka](https://twitter.com/ElaMoscicka)), please start chat with her via email [elmoscic@microsoft.com](mailto:elmoscic@microsoft.com) (please do NOT send your resume/CV via email due to GDPR).
 
 
 ### What should I highlight in my resume?
