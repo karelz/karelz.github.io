@@ -5,7 +5,7 @@ As of 2019/6/5 we are hiring 2 full .NET teams in Prague, Czech Repubic:
     * Primary contact: [@ElaMoscicka](https://twitter.com/ElaMoscicka) via her email [elmoscic@microsoft.com](mailto:elmoscic@microsoft.com) (please do NOT send resume/CV via email due to GDPR)
     * Positions: Software Engineer & Software Engineer Manager
 1. **Base Class Libraries / Networking team** - see [full job description](https://careers.microsoft.com/i/us/en/job/633945/Software-Engineer-NET-Core-Platform)
-    * Primary contact: [@ziki_cz](https://twitter.com/ziki_cz) (Twitter DM is prefered, see my profile for other contact info)
+    * Primary contact: [@ziki_cz](https://twitter.com/ziki_cz) (Twitter DM is prefered, see my profile for other contact info like email) - expect answer in <24h, if not feel free to ping me again (to avoid accidentally missed DMs/emails)
     * Positions: Software Engineer
     * Start discussion with answers to these 2 questions - to see if it makes sense to send over resume or apply to the job post (expect cross time-zone delays in replies):
         1. What is your related library-level, system-level or networking-related experience from work or hobby projects?
