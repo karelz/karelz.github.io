@@ -7,6 +7,10 @@ I spend most of my time at job as community manager of [CoreFX repo](https://git
 
 You can find me and contact me on [Twitter](https://twitter.com/ziki_cz), on [GitHub](https://github.com/karelz) (incl. [gitter.im](https://gitter.im) as karelz), via [email](mailto:karelz@microsoft.com), or on [LinkedIn](https://www.linkedin.com/in/karelzikmund).
 
+## Hiring for .NET Teams in Prague, Czech Republic
+
+See [Hiring for .NET Teams in Prague, Czech Republic](/hiring_prague_net) page for details.
+
 ## Upcoming Events
 
 * 2019/6/19-21 - [NDC Oslo 2019](https://ndcoslo.com/) conference (Oslo, NO)
