@@ -4,20 +4,22 @@
   * Full day 2-tracks community conference, with focus on .NET Performance.
   * Accepting [donations](https://opencollective.com/net-core-summer-event-netherlands/events/net-core-summer-event-2019-39269ev) to cover speakers' fees, etc.
   * Organizers: [Edwin van Wijk](https://twitter.com/evanwijk), [Jonathan Mezach](https://twitter.com/jmezach), [Karel Zikmund](https://twitter.com/ziki_cz)
+  * Capacity: 230
 * 2019/6/24 Mon - Discussion with MFF UK students - ~17h at Mala Strana, Prague, CZ (in Czech language)
   * Participants: Hana Lapkova (Oracle), [Tomas Herceg](https://twitter.com/hercegtomas) (Riganti), [Martin Duchacek](https://twitter.com/MDuchacek) (RSJ), [Karel Zikmund](https://twitter.com/ziki_cz) (Microsoft)
   * Local organizer: [Karolina Houzvickova Solcova](https://www.mff.cuni.cz/cs/fakulta/organizacni-struktura/lide?hdl=3951) (MFF UK)
 * 2019/6/26 Wed - [.NET Core Summer event in Prague, CZ](https://corestart3.updatedays.cz) - similar to 2017 Prague event, meet the .NET team members (in Czech language this time)
   * Local organizers: [Tomas Herceg](https://twitter.com/hercegtomas) with WUG support, [Lucie Vasickova](https://twitter.com/lulucieva) (Microsoft), [Martin Simecek](https://twitter.com/deeedx) (Microsoft)
   * Capacity: 150
-* 2019/7/9 Tue - .NET MeetUp in Brno, CZ - 2-3 talks (in Czech language)
+* 2019/7/4 Thu - .NET Core Summer event in Vienna, AT - meet the .NET team members
+  * Expected speakers: [Viktor Hofer](https://twitter.com/ViktorHofer), [Bernhard Urban](https://twitter.com/lewurm), [Alexander Köplinger](https://twitter.com/akoeplinger), [Karel Zikmund](https://twitter.com/ziki_cz)
+  * Local organizers: [Andreas Willich](https://twitter.com/SabotageAndi)
+  * Capacity: 100
+* 2019/7/9 Tue - .NET Core Summer event in Brno, CZ - 2-3 talks (in Czech language)
   * Expected speakers: [Karel Zikmund](https://twitter.com/ziki_cz)
   * Local organizers: [Martin Dybal](https://twitter.com/Martin_Dybal) (WUG), [Radka Janekova](https://twitter.com/RheaAyase) (Red Hat)
   * Place: Red Hat - Purkynova 99, Brno (5th floor - need to take stairs from 4th floor which is accessible via elevator)
   * Capacity: 100
-* 2019/7 (TBD) - .NET MeetUp in Vienna, AT - meet the .NET team members
-  * Expected speakers: [Viktor Hofer](https://twitter.com/ViktorHofer), [Bernhard Urban](https://twitter.com/lewurm), [Alexander Köplinger](https://twitter.com/akoeplinger), [Adam Sitnik](https://twitter.com/SitnikAdam), [Karel Zikmund](https://twitter.com/ziki_cz)
-  * Local organizers: TBD
 * 2019/7/23 Tue - [.NET Summer Event with the .NET Team from Microsoft - Linz, AT](https://www.meetup.com/NET-Stammtisch-Linz/events/261637908/)
   * Confirmed speakers: [Viktor Hofer](https://twitter.com/ViktorHofer), [Bernhard Urban](https://twitter.com/lewurm), [Alexander Köplinger](https://twitter.com/akoeplinger), [Karel Zikmund](https://twitter.com/ziki_cz)
   * Local organizers: [Gergely Kalapos](https://twitter.com/gregkalapos)
