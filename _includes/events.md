@@ -16,7 +16,7 @@
   * Confirmed speakers: [Viktor Hofer](https://twitter.com/ViktorHofer), [Bernhard Urban](https://twitter.com/lewurm), [Alexander Köplinger](https://twitter.com/akoeplinger), [Karel Zikmund](https://twitter.com/ziki_cz)
   * Local organizers: [Andreas Willich](https://twitter.com/SabotageAndi)
   * Capacity: 100
-* 2019/7/9 Tue - .NET Core Summer event in Brno, CZ - 2-3 talks (in Czech language)
+* 2019/7/9 Tue - .NET Core Summer event - Brno, CZ - 2-3 talks (in Czech language)
   * Confirmed speakers: [Karel Zikmund](https://twitter.com/ziki_cz)
   * Local organizers: [Martin Dybal](https://twitter.com/Martin_Dybal) (WUG), [Radka Janekova](https://twitter.com/RheaAyase) (Red Hat)
   * Place: Red Hat - Purkynova 99, Brno (5th floor - need to take stairs from 4th floor which is accessible via elevator)
