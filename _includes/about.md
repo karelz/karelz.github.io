@@ -20,7 +20,7 @@ See [Hiring for .NET Teams in Prague, Czech Republic](/hiring_prague_net) page f
   * 2019/6/24 Mon - [Discussion with MFF UK students and alumni - Prague, CZ](https://opmk.mff.cuni.cz/wiki/studenti/kurzy#setkani_s_absolventy_informatickych_oboru) - see also [details](/events) (in Czech language)
   * 2019/6/26 Wed - [.NET Core Summer event - Prague, CZ](https://corestart3.updatedays.cz) (in Czech language)
   * 2019/7/4 Thu - [.NET Summer event - Vienna, AT](https://www.meetup.com/dotnet-austria/events/262250140/) - see also [details](/events)
-  * 2019/7/9 Tue - .NET Core Summer event - Brno, CZ - see [details](/events) (in Czech language)
+  * 2019/7/9 Tue - [.NET Core Summer event - Brno, CZ](https://www.wug.cz/brno/akce/1152--NET-Core-Summer-Event) - see [details](/events) (in Czech language)
   * 2019/7/23 Tue - [.NET Summer event - Linz, AT](https://www.meetup.com/NET-Stammtisch-Linz/events/261637908/) - see also [details](/events)
 * ??? 2019/10/16-18 - [NDC Sydney 2019](https://ndcsydney.com/) - aspirational, pending talk acceptance
 * ??? 2019/10 (TBD) - .NET MeetUps series in Australia & New Zealand 2019 - aspirational, pending NDC Sydney talk acceptance
