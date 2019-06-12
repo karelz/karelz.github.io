@@ -16,12 +16,12 @@ See [Hiring for .NET Teams in Prague, Czech Republic](/hiring_prague_net) page f
 * 2019/6/19-21 - [NDC Oslo 2019](https://ndcoslo.com/) conference (Oslo, NO)
   * **War stories from .NET team** - [talk info](https://ndcoslo.com/talk/war-stories-from-net-team/)
 * .NET MeetUps series in Europe - summer 2019 edition
-  * 2019/6/22 Sat - [.NET Summer event in Veenendaal, NL](https://www.dncse.nl)
-  * 2019/6/24 Mon - Discussion with MFF UK students in Prague, CZ - see [details](/events)
-  * 2019/6/26 Wed - [.NET Core Summer event in Prague, CZ](https://corestart3.updatedays.cz)
-  * 2019/7/9 Tue - .NET MeetUp in Brno, CZ - see [details](/events)
-  * 2019/7 (TBD) - .NET MeetUp in Vienna, AT - see [details](/events)
-  * 2019/7/23 Tue - [.NET Summer event in Linz, AT](https://www.meetup.com/NET-Stammtisch-Linz/events/261637908/) - see also [details](/events)
+  * 2019/6/22 Sat - [.NET Summer event - Veenendaal, NL](https://www.dncse.nl)
+  * 2019/6/24 Mon - [Discussion with MFF UK students and alumni - Prague, CZ](https://opmk.mff.cuni.cz/wiki/studenti/kurzy#setkani_s_absolventy_informatickych_oboru) - see also [details](/events) (in Czech language)
+  * 2019/6/26 Wed - [.NET Core Summer event - Prague, CZ](https://corestart3.updatedays.cz) (in Czech language)
+  * 2019/7/4 Thu - [.NET Summer event - Vienna, AT](https://www.meetup.com/dotnet-austria/events/262250140/) - see also [details](/events)
+  * 2019/7/9 Tue - .NET Core Summer event - Brno, CZ - see [details](/events) (in Czech language)
+  * 2019/7/23 Tue - [.NET Summer event - Linz, AT](https://www.meetup.com/NET-Stammtisch-Linz/events/261637908/) - see also [details](/events)
 * ??? 2019/10/16-18 - [NDC Sydney 2019](https://ndcsydney.com/) - aspirational, pending talk acceptance
 * ??? 2019/10 (TBD) - .NET MeetUps series in Australia & New Zealand 2019 - aspirational, pending NDC Sydney talk acceptance
   * Potential destinations: Sydney, Melbourne, Brisbane, Auckland, Wellington (potentially together with local .NET team members and/or .NET MVPs)
