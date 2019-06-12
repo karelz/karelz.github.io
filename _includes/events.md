@@ -12,16 +12,16 @@
 * 2019/6/26 Wed - [.NET Core Summer event in Prague, CZ](https://corestart3.updatedays.cz) - similar to 2017 Prague event, meet the .NET team members (in Czech language this time)
   * Local organizers: [Tomas Herceg](https://twitter.com/hercegtomas) with WUG support, [Lucie Vasickova](https://twitter.com/lulucieva) (Microsoft), [Martin Simecek](https://twitter.com/deeedx) (Microsoft)
   * Capacity: 150
-* 2019/7/4 Thu - .NET Core Summer event in Vienna, AT - meet the .NET team members
-  * Expected speakers: [Viktor Hofer](https://twitter.com/ViktorHofer), [Bernhard Urban](https://twitter.com/lewurm), [Alexander Köplinger](https://twitter.com/akoeplinger), [Karel Zikmund](https://twitter.com/ziki_cz)
+* 2019/7/4 Thu - [.NET Core Summer event with the Members of .NET team - Vienna, AT](https://www.meetup.com/dotnet-austria/events/262250140/)
+  * Confirmed speakers: [Viktor Hofer](https://twitter.com/ViktorHofer), [Bernhard Urban](https://twitter.com/lewurm), [Alexander Köplinger](https://twitter.com/akoeplinger), [Karel Zikmund](https://twitter.com/ziki_cz)
   * Local organizers: [Andreas Willich](https://twitter.com/SabotageAndi)
   * Capacity: 100
 * 2019/7/9 Tue - .NET Core Summer event in Brno, CZ - 2-3 talks (in Czech language)
-  * Expected speakers: [Karel Zikmund](https://twitter.com/ziki_cz)
+  * Confirmed speakers: [Karel Zikmund](https://twitter.com/ziki_cz)
   * Local organizers: [Martin Dybal](https://twitter.com/Martin_Dybal) (WUG), [Radka Janekova](https://twitter.com/RheaAyase) (Red Hat)
   * Place: Red Hat - Purkynova 99, Brno (5th floor - need to take stairs from 4th floor which is accessible via elevator)
   * Capacity: 100
-* 2019/7/23 Tue - [.NET Summer Event with the .NET Team from Microsoft - Linz, AT](https://www.meetup.com/NET-Stammtisch-Linz/events/261637908/)
+* 2019/7/23 Tue - [.NET Summer event with the .NET Team from Microsoft - Linz, AT](https://www.meetup.com/NET-Stammtisch-Linz/events/261637908/)
   * Confirmed speakers: [Viktor Hofer](https://twitter.com/ViktorHofer), [Bernhard Urban](https://twitter.com/lewurm), [Alexander Köplinger](https://twitter.com/akoeplinger), [Karel Zikmund](https://twitter.com/ziki_cz)
   * Local organizers: [Gergely Kalapos](https://twitter.com/gregkalapos)
 
