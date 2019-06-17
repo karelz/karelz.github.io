@@ -28,7 +28,7 @@ Interviews will be likely held in Prague between end of July, and September (det
 
 ### International teams working across time-zones
 
-Note that the teams are part of larger international teams working across time-zones (esp. in US West-coast time-zone - PT, 9 hours ahead of CET time-zone in Europe).
+Note that the teams are part of larger international teams working across time-zones (esp. in US West-coast time-zone - PT, which is 9 hours behind CET time-zone in Europe, so 9am PT is 18 CET).
 Expect, that the job will require also occasional availability in US West-coast business hours.
 
 It does not mean you have to work more or longer hours!
