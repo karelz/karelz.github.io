@@ -92,7 +92,7 @@ References:
     * Major specialization: Computer Science (Neural networks, Non-procedural programming, Logic and Set theory).
     * Master thesis: Non-standard set theory
     * Notable projects:
-      * War++ team project (C++)
+      * [War++ team project](https://github.com/karelz/WarPlusPlus) (C++)
         * Multiplayer game engine & game with custom object-oriented scripting language for unit AI (Starcraft/Broodwar without unit limitations).
         * All components server, client, map editor, etc.
         * 2.5 year project in team of 5 (with 4 members landing jobs in Microsoft later).
