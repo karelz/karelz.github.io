@@ -4,6 +4,7 @@ As of 2019/6/5 we are hiring 2 full .NET teams in Prague, Czech Repubic:
 1. **.NET Engineering Services team** - see [full job description](https://careers.microsoft.com/i/us/en/job/632975/Software-Engineer-Core-Development-Tools) or [tweet "teaser"](https://twitter.com/ziki_cz/status/1136498403418955776)
     * Primary contact: [@ElaMoscicka](https://twitter.com/ElaMoscicka) via her email [elmoscic@microsoft.com](mailto:elmoscic@microsoft.com) (please do NOT send resume/CV via email due to GDPR)
     * Positions: Software Engineer & Software Engineer Manager
+    * Details: More details about the team and what they do in [this blog post](https://devblogs.microsoft.com/dotnet/the-evolving-infrastructure-of-net-core/)
 1. **Base Class Libraries / Networking team** - see [full job description](https://careers.microsoft.com/i/us/en/job/633945/Software-Engineer-NET-Core-Platform) or [tweet "teaser"](https://twitter.com/ziki_cz/status/1136498644725698561)
     * Primary contact: [@ziki_cz](https://twitter.com/ziki_cz) (Twitter DM is prefered, see my profile for other contact info like email) - expect answer in <24h, if not, feel free to ping me again (to avoid accidentally missed DMs/emails)
     * Positions: Software Engineer
