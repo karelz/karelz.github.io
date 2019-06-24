@@ -1,5 +1,12 @@
 # Events, Conferences, Public Appearances
 
+* 2019/6/22 - [.NET Core Summer event - Veenendaal, NL](https://www.dncse.nl)
+    * Co-organizer with [Edwin van Wijk](https://twitter.com/evanwijk) & [Jonathan Mezach](https://twitter.com/jmezach)
+    * Keynote (Open Collective funding) - [talk info](https://www.dncse.nl/sessions/session1-1/), video and slides - TODO (ETA: couple of weeks)
+    * **War stories from .NET team** - [talk info](https://www.dncse.nl/sessions/session2-3-2/), video and slides - TODO (ETA: couple of weeks)
+    * **Performance Panel Discussion** - [talk info](https://www.dncse.nl/sessions/session1-7/), video - TOOD (ETA: couple of weeks)
+* 2019/6/19-21 - [NDC Oslo 2019](https://ndcoslo.com/) conference (Oslo, NO)
+    * **War stories from .NET team** - [talk info](https://ndcoslo.com/talk/war-stories-from-net-team/), video and slides - TODO (ETA: few weeks)
 * 2019/5/7-9 - [Microsoft Build 2019](https://www.microsoft.com/en-us/build) conference (Seattle, WA) - .NET booth duty
 * 2019/3/17-22 - [Microsoft Global MVP Summit 2019](https://mvp.microsoft.com/en-us/Summit) (Bellevue & Redmond, WA)
     * .NET client Networking stack - evlution, plans and feedback Q&A
@@ -10,12 +17,15 @@
     * **.NET Core Networking stack and Performance** - [talk info](http://2017.dotnext-moscow.ru/en/2017/msk/talks/3hcuoycrw4egcs0mkewoio/), [video](https://www.youtube.com/watch?v=M3FZZhnRvQY&list=PLtWrKx3nUGBfYHhmiGih2lanzmRigE9cc&index=24&t=0s) (55 min) and [slides](https://www.slideshare.net/KarelZikmund1/dotnext-2017-in-moscow-net-core-networking-stack-and-performance-karel-zikmund)
     * **Challenges of Managing CoreFX repo** - [talk info](http://2017.dotnext-moscow.ru/en/2017/msk/talks/5egbw8vnbkqmmg2skiaey2/), [video](https://www.youtube.com/watch?v=j2KjWe4zWXY&list=PLtWrKx3nUGBfYHhmiGih2lanzmRigE9cc&index=17&t=0s) (60 min) and [slides](https://www.slideshare.net/KarelZikmund1/dotnext-2017-in-moscow-challenges-of-managing-corefx-repo-karel-zikmund)
     * **Panel Discussion - Profiling and optimization** - [panel info](http://2017.dotnext-moscow.ru/en/2017/msk/talks/1gpyg1244oo4o48uuk0ya4/), [video](https://www.youtube.com/watch?v=4iQVMMLuPlM) (60 min)
-* 2017/8/1 - [.NET MeetUp in Brno, CZ](/events/2017-08-11_dotNetMeetUp_Brno)
+* 2017/8/1 - [.NET MeetUp - Brno, CZ](/events/2017-08-11_dotNetMeetUp_Brno)
+    * Co-organizer with wug.cz
     * **Challenges of Managing CoreFX repo** - [video](https://wug.cz/zaznamy/412--NET-TechTalks-Challenges-of-Managing-CoreFX-repo) (50 min) and [slides](https://www.slideshare.net/KarelZikmund1/net-meetup-brno-challenges-of-managing-corefx-repo-karel-zikmund)
-* 2017/7/19 - [.NET MeetUp in Prague, CZ](/events/2017-07-19_dotNetMeetUp_Prague)
+* 2017/7/19 - [.NET MeetUp - Prague, CZ](/events/2017-07-19_dotNetMeetUp_Prague)
+    * Co-organizer with wug.cz
     * **.NET Standard** - [video](https://wug.cz/zaznamy/431--NET-TechTalks-NET-Standard) and [slides](https://www.slideshare.net/KarelZikmund1/net-meetup-prague-net-standard-karel-zikmund)
     * **Challenges of Managing CoreFX repo** - [video](https://wug.cz/zaznamy/433--NET-TechTalks-Challenges-of-Managing-CoreFX-repo) and [slides](https://www.slideshare.net/KarelZikmund1/net-meetup-prague-challenges-of-managing-corefx-repo-karel-zikmund)
-* 2017/7/11 - [.NET MeetUp in Amsterdam, NL](/events/2017-07-11_dotNetMeetUp_Amsterdam) talks
+* 2017/7/11 - [.NET MeetUp - Amsterdam, NL](/events/2017-07-11_dotNetMeetUp_Amsterdam) talks
+    * Co-organizer with [Edwin van Wijk](https://twitter.com/evanwijk) & [Jonathan Mezach](https://twitter.com/jmezach)
     * **.NET Standard** - [video](https://www.youtube.com/watch?v=QhOfzglQ1-g) (40 min) and [slides](https://www.slideshare.net/KarelZikmund1/2017-0711-dotnetstandard)
     * **Challenges of Managing CoreFX repo** - [video](https://www.youtube.com/watch?v=QRUmG4TjViU) (60 min) and [slides](https://www.slideshare.net/KarelZikmund1/challenges-of-managing-corefx-repo)
 * 2017/6/26 - CoreFX Contributor standups, 1st session - see [notes](https://github.com/dotnet/corefx-standup/blob/master/Standups/2017-06.md)

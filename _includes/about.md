@@ -13,10 +13,7 @@ See [Hiring for .NET Teams in Prague, Czech Republic](/hiring_prague_net) page f
 
 ## Upcoming Events
 
-* 2019/6/19-21 - [NDC Oslo 2019](https://ndcoslo.com/) conference (Oslo, NO)
-  * **War stories from .NET team** - [talk info](https://ndcoslo.com/talk/war-stories-from-net-team/)
 * .NET MeetUps series in Europe - summer 2019 edition
-  * 2019/6/22 Sat - [.NET Summer event - Veenendaal, NL](https://www.dncse.nl)
   * 2019/6/24 Mon - [Discussion with MFF UK students and alumni - Prague, CZ](https://opmk.mff.cuni.cz/wiki/studenti/kurzy#setkani_s_absolventy_informatickych_oboru) - see also [details](/events) (in Czech language)
   * 2019/6/26 Wed - [.NET Core Summer event - Prague, CZ](https://corestart3.updatedays.cz) (in Czech language)
   * 2019/7/4 Thu - [.NET Summer event - Vienna, AT](https://www.meetup.com/dotnet-austria/events/262250140/) - see also [details](/events)

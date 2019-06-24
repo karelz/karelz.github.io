@@ -4,7 +4,8 @@
   * Full day 2-tracks community conference, with focus on .NET Performance.
   * Accepting [donations](https://opencollective.com/net-core-summer-event-netherlands/events/net-core-summer-event-2019-39269ev) to cover speakers' fees, etc.
   * Organizers: [Edwin van Wijk](https://twitter.com/evanwijk), [Jonathan Mezach](https://twitter.com/jmezach), [Karel Zikmund](https://twitter.com/ziki_cz)
-  * Capacity: 230
+  * Attendance: 190
+
 * 2019/6/24 Mon - [Discussion with MFF UK students - Prague, CZ](https://opmk.mff.cuni.cz/wiki/studenti/kurzy#setkani_s_absolventy_informatickych_oboru) - 16:00-19:00 at Mala Strana, S8, Prague, CZ (in Czech language)
   * Participants: Hana Lapkova (Oracle), [Tomas Herceg](https://twitter.com/hercegtomas) (Riganti), [Martin Duchacek](https://twitter.com/MDuchacek) (RSJ), [Karel Zikmund](https://twitter.com/ziki_cz) (Microsoft)
   * Interviews with participants: [Martin Duchacek](https://www.matfyz.cz/clanky/1361-setkani-s-absolventy-martin-duchacek), [Tomas Herceg & Karel Zikmund](https://www.matfyz.cz/clanky/1360-setkani-s-absolventy-karel-zikmund-a-tomas-herceg), Hana Lapkova (ETA: 6/17)
@@ -27,6 +28,6 @@
 
 # .NET MeetUps series in Europe 2017
 
-* [.NET MeetUp in Brno, CZ](/events/2017-08-01_dotNetMeetUp_Brno) (2017/8/1)
-* [.NET MeetUp in Prague, CZ](/events/2017-07-19_dotNetMeetUp_Prague) (2017/7/19)
-* [.NET MeetUp in Amsterdam, NL](/events/2017-07-11_dotNetMeetUp_Amsterdam) (2017/7/11)
+* [.NET MeetUp - Brno, CZ](/events/2017-08-01_dotNetMeetUp_Brno) (2017/8/1)
+* [.NET MeetUp - Prague, CZ](/events/2017-07-19_dotNetMeetUp_Prague) (2017/7/19)
+* [.NET MeetUp - Amsterdam, NL](/events/2017-07-11_dotNetMeetUp_Amsterdam) (2017/7/11)
