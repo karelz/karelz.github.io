@@ -1,5 +1,15 @@
 # Events, Conferences, Public Appearances
 
+* 2019/6/26 - **Interview** for .NET.CZ Podcast - episode 50 - TODO (in Czech language)
+* 2019/6/26 - [.NET Core Summer event - Prague, CZ](https://corestart3.updatedays.cz)
+  * Co-organizer with [Tomas Herceg](https://twitter.com/hercegtomas) with WUG support, [Lucie Vasickova](https://twitter.com/lulucieva) (Microsoft), [Martin Simecek](https://twitter.com/deeedx) (Microsoft)
+  * Intro - video and slides - TODO (ETA: couple of weeks)
+  * **War stories from .NET team** (in Czech language) - video and slides - TODO (ETA: couple of weeks)
+  * **Discussion Panel** (in Czech language) - video - TOOD (ETA: couple of weeks)
+* 2019/6/24 - [Discussion with MFF UK students - Prague, CZ](https://opmk.mff.cuni.cz/wiki/studenti/kurzy#setkani_s_absolventy_informatickych_oboru) (in Czech language)
+  * Co-organizer with [Karolina Houzvickova Solcova](https://www.mff.cuni.cz/cs/fakulta/organizacni-struktura/lide?hdl=3951) (MFF UK)
+  * Participants: Hana Lapkova (Oracle), [Tomas Herceg](https://twitter.com/hercegtomas) (Riganti), [Martin Duchacek](https://twitter.com/MDuchacek) (RSJ), [Karel Zikmund](https://twitter.com/ziki_cz) (Microsoft)
+  * Interviews with participants: [Martin Duchacek](https://www.matfyz.cz/clanky/1361-setkani-s-absolventy-martin-duchacek), [Tomas Herceg & Karel Zikmund](https://www.matfyz.cz/clanky/1360-setkani-s-absolventy-karel-zikmund-a-tomas-herceg), [Hana Lapkova](https://www.matfyz.cz/clanky/1366-setkani-s-absolventy-hana-lapkova)
 * 2019/6/22 - [.NET Core Summer event - Veenendaal, NL](https://www.dncse.nl)
     * Co-organizer with [Edwin van Wijk](https://twitter.com/evanwijk) & [Jonathan Mezach](https://twitter.com/jmezach)
     * Keynote (Open Collective funding) - [talk info](https://www.dncse.nl/sessions/session1-1/), video and slides - TODO (ETA: couple of weeks)
@@ -20,6 +30,8 @@
 * 2017/8/1 - [.NET MeetUp - Brno, CZ](/events/2017-08-11_dotNetMeetUp_Brno)
     * Co-organizer with wug.cz
     * **Challenges of Managing CoreFX repo** - [video](https://wug.cz/zaznamy/412--NET-TechTalks-Challenges-of-Managing-CoreFX-repo) (50 min) and [slides](https://www.slideshare.net/KarelZikmund1/net-meetup-brno-challenges-of-managing-corefx-repo-karel-zikmund)
+* 2017/7/19 - **Interview** for .NET.CZ Podcast - [episode 9](https://twitter.com/dotnetcezet/status/889969531711619072) (20 min, start at 20:00) (in Czech language)
+    * Discussion with co-workers [Vitek Karas](https://twitter.com/vkaras), [Tomas Rylek](https://github.com/trylek), [Tomas Weinfurt](https://github.com/wfurt), [Jan Kotas](https://github.com/jkotas), [Jan Vorlicek](https://github.com/janvorli)
 * 2017/7/19 - [.NET MeetUp - Prague, CZ](/events/2017-07-19_dotNetMeetUp_Prague)
     * Co-organizer with wug.cz
     * **.NET Standard** - [video](https://wug.cz/zaznamy/431--NET-TechTalks-NET-Standard) and [slides](https://www.slideshare.net/KarelZikmund1/net-meetup-prague-net-standard-karel-zikmund)
