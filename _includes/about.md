@@ -9,7 +9,7 @@ You can find me and contact me on [Twitter](https://twitter.com/ziki_cz), on [Gi
 
 ## Hiring for .NET Teams in Prague, Czech Republic
 
-See [**Hiring for .NET Teams in Prague, Czech Republic**](/hiring_prague_net) page for details.
+See [Hiring for .NET Teams in Prague, Czech Republic](/hiring_prague_net) page for details.
 
 ## Upcoming Events
 
