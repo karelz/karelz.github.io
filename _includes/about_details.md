@@ -16,7 +16,7 @@
     * **War stories from .NET team** - [talk info](https://www.dncse.nl/sessions/session2-3-2/), video and slides - TODO (ETA: couple of weeks)
     * **Performance Panel Discussion** - [talk info](https://www.dncse.nl/sessions/session1-7/), video - TOOD (ETA: couple of weeks)
 * 2019/6/19-21 - [NDC Oslo 2019](https://ndcoslo.com/) conference (Oslo, NO)
-    * **War stories from .NET team** - [talk info](https://ndcoslo.com/talk/war-stories-from-net-team/), video and slides - TODO (ETA: few weeks)
+    * **War stories from .NET team** - [talk info](https://ndcoslo.com/talk/war-stories-from-net-team/), [video](https://www.youtube.com/watch?v=ntGBRi_I3MM), slides TBD
 * 2019/5/7-9 - [Microsoft Build 2019](https://www.microsoft.com/en-us/build) conference (Seattle, WA) - .NET booth duty
 * 2019/3/17-22 - [Microsoft Global MVP Summit 2019](https://mvp.microsoft.com/en-us/Summit) (Bellevue & Redmond, WA)
     * .NET client Networking stack - evlution, plans and feedback Q&A
