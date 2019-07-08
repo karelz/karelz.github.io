@@ -4,13 +4,13 @@
 
 * 2019/7/4 - [.NET Summer event - Vienna, AT](https://www.meetup.com/dotnet-austria/events/262250140/)
   * Co-organizer: [Andreas Willich](https://twitter.com/SabotageAndi), [Raoul Holzer](https://twitter.com/RaoulHolzer)
-  * Intro - video and slides TODO (ETA: coule of weeks)
-  * **War stories from .NET team** - video and slides - TODO (ETA: couple of weeks)
-* 2019/6/26 - **Interview** for .NET.CZ Podcast - episode 50 - TODO (in Czech language)
+  * Introductions - video and [slides](https://www.slideshare.net/KarelZikmund1/net-core-summer-event-2019-in-vienna-at-introduction-karel-zikmund) - TODO (ETA: coule of weeks)
+  * **War stories from .NET team** - video and [slides](https://www.slideshare.net/KarelZikmund1/net-core-summer-event-2019-in-vienna-at-war-stories-from-net-team-karel-zikmund-154309765) - TODO (ETA: couple of weeks)
+* 2019/6/26 - **Interview** (in Czech language) for .NET.CZ Podcast - episode 50 - TODO
 * 2019/6/26 - [.NET Core Summer event - Prague, CZ](https://corestart3.updatedays.cz)
   * Co-organizer with [Tomas Herceg](https://twitter.com/hercegtomas) with WUG support, [Lucie Vasickova](https://twitter.com/lulucieva) (Microsoft), [Martin Simecek](https://twitter.com/deeedx) (Microsoft)
-  * Intro - video and slides - TODO (ETA: couple of weeks)
-  * **War stories from .NET team** (in Czech language) - video and slides - TODO (ETA: couple of weeks)
+  * Introductions - video and [slides](https://www.slideshare.net/KarelZikmund1/net-core-summer-event-2019-in-prague-cz-introductions-karel-zikmund) - TODO (ETA: couple of weeks)
+  * **War stories from .NET team** (in Czech language) - video and [slides](https://www.slideshare.net/KarelZikmund1/net-core-summer-event-2019-in-prague-cz-war-stories-from-net-team-karel-zikmund) - TODO (ETA: couple of weeks)
   * **Discussion Panel** (in Czech language) - video - TOOD (ETA: couple of weeks)
 * 2019/6/24 - [Discussion with MFF UK students - Prague, CZ](https://opmk.mff.cuni.cz/wiki/studenti/kurzy#setkani_s_absolventy_informatickych_oboru) (in Czech language)
   * Co-organizer with [Karolina Houzvickova Solcova](https://www.mff.cuni.cz/cs/fakulta/organizacni-struktura/lide?hdl=3951) (MFF UK)
@@ -19,10 +19,10 @@
 * 2019/6/22 - [.NET Core Summer event - Veenendaal, NL](https://www.dncse.nl)
     * Co-organizer with [Edwin van Wijk](https://twitter.com/evanwijk) & [Jonathan Mezach](https://twitter.com/jmezach)
     * Keynote (Open Collective funding) - [talk info](https://www.dncse.nl/sessions/session1-1/), video and slides - TODO (ETA: couple of weeks)
-    * **War stories from .NET team** - [talk info](https://www.dncse.nl/sessions/session2-3-2/), video and slides - TODO (ETA: couple of weeks)
-    * **Performance Panel Discussion** - [talk info](https://www.dncse.nl/sessions/session1-7/), video - TOOD (ETA: couple of weeks)
+    * **War stories from .NET team** - [talk info](https://www.dncse.nl/sessions/session2-3-2/), video and [slides](https://www.slideshare.net/KarelZikmund1/net-core-summer-event-2019-in-nl-war-stories-from-net-team-karel-zikmund) - TODO (ETA: couple of weeks)
+    * **Performance Panel Discussion** - [talk info](https://www.dncse.nl/sessions/session1-7/), video - TODO (ETA: couple of weeks)
 * 2019/6/19-21 - [NDC Oslo 2019](https://ndcoslo.com/) conference (Oslo, NO)
-    * **War stories from .NET team** - [talk info](https://ndcoslo.com/talk/war-stories-from-net-team/), [video](https://www.youtube.com/watch?v=ntGBRi_I3MM), slides TBD
+    * **War stories from .NET team** - [talk info](https://ndcoslo.com/talk/war-stories-from-net-team/), [video](https://www.youtube.com/watch?v=ntGBRi_I3MM) and [slides](https://www.slideshare.net/KarelZikmund1/ndc-oslo-2019-war-stories-from-net-team-karel-zikmund)
 * 2019/5/7-9 - [Microsoft Build 2019](https://www.microsoft.com/en-us/build) conference (Seattle, WA) - .NET booth duty
 * 2019/3/17-22 - [Microsoft Global MVP Summit 2019](https://mvp.microsoft.com/en-us/Summit) (Bellevue & Redmond, WA)
     * .NET client Networking stack - evlution, plans and feedback Q&A
