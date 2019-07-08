@@ -12,12 +12,11 @@
 * 2019/6/26 Wed - [.NET Core Summer event - Prague, CZ](https://corestart3.updatedays.cz) - similar to 2017 Prague event, meet the .NET team members (in Czech language this time)
   * Local organizers: [Tomas Herceg](https://twitter.com/hercegtomas) with WUG support, [Lucie Vasickova](https://twitter.com/lulucieva) (Microsoft), [Martin Simecek](https://twitter.com/deeedx) (Microsoft)
   * Attendance: 110
-
-
 * 2019/7/4 Thu - [.NET Summer event - Vienna, AT](https://www.meetup.com/dotnet-austria/events/262250140/) - meet the .NET team members
-  * Confirmed speakers: [Viktor Hofer](https://twitter.com/ViktorHofer), [Bernhard Urban](https://twitter.com/lewurm), [Alexander Köplinger](https://twitter.com/akoeplinger), [Karel Zikmund](https://twitter.com/ziki_cz)
-  * Local organizers: [Andreas Willich](https://twitter.com/SabotageAndi)
-  * Capacity: 100
+  * Local organizers: [Andreas Willich](https://twitter.com/SabotageAndi), [Raoul Holzer](https://twitter.com/RaoulHolzer)
+  * Attendance: 63
+
+
 * 2019/7/9 Tue - [.NET Core Summer event - Brno, CZ](https://www.wug.cz/brno/akce/1152--NET-Core-Summer-Event) - 3 talks (in Czech language)
   * Confirmed speakers: [Karel Zikmund](https://twitter.com/ziki_cz)
   * Local organizers: [Martin Dybal](https://twitter.com/Martin_Dybal) (WUG), [Radka Janekova](https://twitter.com/RheaAyase) (Red Hat)

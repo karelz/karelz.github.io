@@ -1,5 +1,9 @@
 # Events, Conferences, Public Appearances
 
+* 2019/7/4 - [.NET Summer event - Vienna, AT](https://www.meetup.com/dotnet-austria/events/262250140/)
+  * Co-organizer: [Andreas Willich](https://twitter.com/SabotageAndi), [Raoul Holzer](https://twitter.com/RaoulHolzer)
+  * Intro - video and slides TODO (ETA: coule of weeks)
+  * **War stories from .NET team** - video and slides - TODO (ETA: couple of weeks)
 * 2019/6/26 - **Interview** for .NET.CZ Podcast - episode 50 - TODO (in Czech language)
 * 2019/6/26 - [.NET Core Summer event - Prague, CZ](https://corestart3.updatedays.cz)
   * Co-organizer with [Tomas Herceg](https://twitter.com/hercegtomas) with WUG support, [Lucie Vasickova](https://twitter.com/lulucieva) (Microsoft), [Martin Simecek](https://twitter.com/deeedx) (Microsoft)
