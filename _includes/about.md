@@ -25,7 +25,7 @@ See [Hiring for .NET Teams in Prague, Czech Republic](/hiring_prague_net) page f
 * ??? 2020/1 (TBD)- .NET MeetUps series in UK & nearby - aspirational, pending NDC London talk acceptence
 
 * [Past events and projects](/details)
-* [Active talks on seesionize](https://sessionize.com/karel-zikmund) for conferences and .NET MeetUps
+* [Active talks on sessionize](https://sessionize.com/karel-zikmund) for conferences and .NET MeetUps
 
 ## Projects and Wish List
 
