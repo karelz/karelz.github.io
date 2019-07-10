@@ -14,7 +14,6 @@ See [Hiring for .NET Teams in Prague, Czech Republic](/hiring_prague_net) page f
 ## Upcoming Events
 
 * .NET MeetUp series in Europe - summer 2019 edition
-  * 2019/7/9 Tue - [.NET Core Summer event - Brno, CZ](https://www.wug.cz/brno/akce/1152--NET-Core-Summer-Event) - see [details](/events) (in Czech language)
   * 2019/7/23 Tue - [.NET Summer event - Linz, AT](https://www.meetup.com/NET-Stammtisch-Linz/events/261637908/) - see also [details](/events)
 * 2019/10/16-18 - [NDC Sydney 2019](https://ndcsydney.com/)
   * Talk: [Async demystified](https://ndcsydney.com/talk/async-demystified/)
