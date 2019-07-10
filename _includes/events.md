@@ -15,13 +15,11 @@
 * 2019/7/4 Thu - [.NET Summer event - Vienna, AT](https://www.meetup.com/dotnet-austria/events/262250140/) - meet the .NET team members
   * Local organizers: [Andreas Willich](https://twitter.com/SabotageAndi), [Raoul Holzer](https://twitter.com/RaoulHolzer)
   * Attendance: 63
+* 2019/7/9 Tue - [.NET Core Summer event - Brno, CZ](https://www.wug.cz/brno/akce/1152--NET-Core-Summer-Event) - 3 talks (2 in Czech language)
+  * Local organizers: [Martin Dybal](https://twitter.com/Martin_Dybal) (WUG Brno), [Radka Janekova](https://twitter.com/RheaAyase) (Red Hat)
+  * Attendance: 80
 
 
-* 2019/7/9 Tue - [.NET Core Summer event - Brno, CZ](https://www.wug.cz/brno/akce/1152--NET-Core-Summer-Event) - 3 talks (in Czech language)
-  * Confirmed speakers: [Karel Zikmund](https://twitter.com/ziki_cz)
-  * Local organizers: [Martin Dybal](https://twitter.com/Martin_Dybal) (WUG), [Radka Janekova](https://twitter.com/RheaAyase) (Red Hat)
-  * Place: Red Hat - Purkynova 99, Brno (5th floor - need to take stairs from 4th floor which is accessible via elevator)
-  * Capacity: 100
 * 2019/7/23 Tue - [.NET Summer event - Linz, AT](https://www.meetup.com/NET-Stammtisch-Linz/events/261637908/) - meet the .NET team members
   * Confirmed speakers: [Viktor Hofer](https://twitter.com/ViktorHofer), [Bernhard Urban](https://twitter.com/lewurm), [Alexander Köplinger](https://twitter.com/akoeplinger), [Karel Zikmund](https://twitter.com/ziki_cz)
   * Local organizers: [Gergely Kalapos](https://twitter.com/gregkalapos)

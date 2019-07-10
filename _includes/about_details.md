@@ -2,27 +2,33 @@
 
 ### 2019
 
+* 2019/7/9 Tue - [.NET Core Summer event - Brno, CZ](https://www.wug.cz/brno/akce/1152--NET-Core-Summer-Event)
+  * Co-organizer with [Martin Dybal](https://twitter.com/Martin_Dybal) (wug.cz Brno), [Radka Janekova](https://twitter.com/RheaAyase) (Red Hat)
+  * Introductions (in Czech) - video and [slides](https://www.slideshare.net/KarelZikmund1/net-core-summer-event-2019-in-brno-cz-introductions-karel-zikmund) - TODO (ETA: couple of weeks)
+  * **War stories from .NET team** (in Czech) - video and [slides](https://www.slideshare.net/KarelZikmund1/net-core-summer-event-2019-in-brno-cz-war-stories-from-net-team-karel-zikmund) - TODO (ETA: couple of weeks) (60 min)
+  * **.NET Core Networking stack and Performance** (in Czech) - video and [slides](https://www.slideshare.net/KarelZikmund1/net-core-summer-event-2019-in-brno-cz-net-core-networking-stack-and-performance-karel-zikmund) - TODO (ETA: couple of weeks)
+  * **Async demystified** (in English) - video and [slides](https://www.slideshare.net/KarelZikmund1/net-core-summer-event-2019-in-brno-cz-async-demystified-karel-zikmund) - TODO (ETA: couple of weeks) (50 min)
 * 2019/7/4 - [.NET Summer event - Vienna, AT](https://www.meetup.com/dotnet-austria/events/262250140/)
-  * Co-organizer: [Andreas Willich](https://twitter.com/SabotageAndi), [Raoul Holzer](https://twitter.com/RaoulHolzer)
+  * Co-organizer with [Andreas Willich](https://twitter.com/SabotageAndi), [Raoul Holzer](https://twitter.com/RaoulHolzer)
   * Introductions - video and [slides](https://www.slideshare.net/KarelZikmund1/net-core-summer-event-2019-in-vienna-at-introduction-karel-zikmund) - TODO (ETA: coule of weeks)
   * **War stories from .NET team** - video and [slides](https://www.slideshare.net/KarelZikmund1/net-core-summer-event-2019-in-vienna-at-war-stories-from-net-team-karel-zikmund-154309765) - TODO (ETA: couple of weeks)
-* 2019/6/26 - **Interview** (in Czech language) for .NET.CZ Podcast - episode 50 - TODO
+* 2019/6/26 - **Interview** (in Czech) for .NET.CZ Podcast [episode 50](https://www.dotnetpodcast.cz/episodes/ep50/) (55 min)
 * 2019/6/26 - [.NET Core Summer event - Prague, CZ](https://corestart3.updatedays.cz)
-  * Co-organizer with [Tomas Herceg](https://twitter.com/hercegtomas) with WUG support, [Lucie Vasickova](https://twitter.com/lulucieva) (Microsoft), [Martin Simecek](https://twitter.com/deeedx) (Microsoft)
+  * Co-organizer with [Tomas Herceg](https://twitter.com/hercegtomas), [Lucie Vasickova](https://twitter.com/lulucieva) (Microsoft), [Martin Simecek](https://twitter.com/deeedx) (Microsoft)
   * Introductions - video and [slides](https://www.slideshare.net/KarelZikmund1/net-core-summer-event-2019-in-prague-cz-introductions-karel-zikmund) - TODO (ETA: couple of weeks)
-  * **War stories from .NET team** (in Czech language) - video and [slides](https://www.slideshare.net/KarelZikmund1/net-core-summer-event-2019-in-prague-cz-war-stories-from-net-team-karel-zikmund) - TODO (ETA: couple of weeks)
-  * **Discussion Panel** (in Czech language) - video - TOOD (ETA: couple of weeks)
-* 2019/6/24 - [Discussion with MFF UK students - Prague, CZ](https://opmk.mff.cuni.cz/wiki/studenti/kurzy#setkani_s_absolventy_informatickych_oboru) (in Czech language)
+  * **War stories from .NET team** (in Czech) - video and [slides](https://www.slideshare.net/KarelZikmund1/net-core-summer-event-2019-in-prague-cz-war-stories-from-net-team-karel-zikmund) - TODO (ETA: couple of weeks)
+  * **Discussion Panel** (in Czech) - video - TOOD (ETA: couple of weeks)
+* 2019/6/24 - [Discussion with MFF UK students - Prague, CZ](https://opmk.mff.cuni.cz/wiki/studenti/kurzy#setkani_s_absolventy_informatickych_oboru) (in Czech)
   * Co-organizer with [Karolina Houzvickova Solcova](https://www.mff.cuni.cz/cs/fakulta/organizacni-struktura/lide?hdl=3951) (MFF UK)
   * Participants: Hana Lapkova (Oracle), [Tomas Herceg](https://twitter.com/hercegtomas) (Riganti), [Martin Duchacek](https://twitter.com/MDuchacek) (RSJ), [Karel Zikmund](https://twitter.com/ziki_cz) (Microsoft)
   * Interviews with participants: [Martin Duchacek](https://www.matfyz.cz/clanky/1361-setkani-s-absolventy-martin-duchacek), [Tomas Herceg & Karel Zikmund](https://www.matfyz.cz/clanky/1360-setkani-s-absolventy-karel-zikmund-a-tomas-herceg), [Hana Lapkova](https://www.matfyz.cz/clanky/1366-setkani-s-absolventy-hana-lapkova)
 * 2019/6/22 - [.NET Core Summer event - Veenendaal, NL](https://www.dncse.nl)
     * Co-organizer with [Edwin van Wijk](https://twitter.com/evanwijk) & [Jonathan Mezach](https://twitter.com/jmezach)
     * Keynote (Open Collective funding) - [talk info](https://www.dncse.nl/sessions/session1-1/), video and slides - TODO (ETA: couple of weeks)
-    * **War stories from .NET team** - [talk info](https://www.dncse.nl/sessions/session2-3-2/), video and [slides](https://www.slideshare.net/KarelZikmund1/net-core-summer-event-2019-in-nl-war-stories-from-net-team-karel-zikmund) - TODO (ETA: couple of weeks)
+    * **War stories from .NET team** - [talk info](https://www.dncse.nl/sessions/session2-3-2/), [video](https://www.youtube.com/watch?v=h7R4UcykjH8) (46 min) and [slides](https://www.slideshare.net/KarelZikmund1/net-core-summer-event-2019-in-nl-war-stories-from-net-team-karel-zikmund)
     * **Performance Panel Discussion** - [talk info](https://www.dncse.nl/sessions/session1-7/), video - TODO (ETA: couple of weeks)
 * 2019/6/19-21 - [NDC Oslo 2019](https://ndcoslo.com/) conference (Oslo, NO)
-    * **War stories from .NET team** - [talk info](https://ndcoslo.com/talk/war-stories-from-net-team/), [video](https://www.youtube.com/watch?v=ntGBRi_I3MM) and [slides](https://www.slideshare.net/KarelZikmund1/ndc-oslo-2019-war-stories-from-net-team-karel-zikmund)
+    * **War stories from .NET team** - [talk info](https://ndcoslo.com/talk/war-stories-from-net-team/), [video](https://www.youtube.com/watch?v=ntGBRi_I3MM) (49 min) and [slides](https://www.slideshare.net/KarelZikmund1/ndc-oslo-2019-war-stories-from-net-team-karel-zikmund)
 * 2019/5/7-9 - [Microsoft Build 2019](https://www.microsoft.com/en-us/build) conference (Seattle, WA) - .NET booth duty
 * 2019/3/17-22 - [Microsoft Global MVP Summit 2019](https://mvp.microsoft.com/en-us/Summit) (Bellevue & Redmond, WA)
     * .NET client Networking stack - evlution, plans and feedback Q&A
@@ -40,12 +46,12 @@
     * **Challenges of Managing CoreFX repo** - [talk info](http://2017.dotnext-moscow.ru/en/2017/msk/talks/5egbw8vnbkqmmg2skiaey2/), [video](https://www.youtube.com/watch?v=j2KjWe4zWXY&list=PLtWrKx3nUGBfYHhmiGih2lanzmRigE9cc&index=17&t=0s) (60 min) and [slides](https://www.slideshare.net/KarelZikmund1/dotnext-2017-in-moscow-challenges-of-managing-corefx-repo-karel-zikmund)
     * **Panel Discussion - Profiling and optimization** - [panel info](http://2017.dotnext-moscow.ru/en/2017/msk/talks/1gpyg1244oo4o48uuk0ya4/), [video](https://www.youtube.com/watch?v=4iQVMMLuPlM) (60 min)
 * 2017/8/1 - [.NET MeetUp - Brno, CZ](/events/2017-08-11_dotNetMeetUp_Brno)
-    * Co-organizer with wug.cz
+    * Co-organizer with wug.cz Brno
     * **Challenges of Managing CoreFX repo** - [video](https://wug.cz/zaznamy/412--NET-TechTalks-Challenges-of-Managing-CoreFX-repo) (50 min) and [slides](https://www.slideshare.net/KarelZikmund1/net-meetup-brno-challenges-of-managing-corefx-repo-karel-zikmund)
-* 2017/7/19 - **Interview** for .NET.CZ Podcast - [episode 9](https://twitter.com/dotnetcezet/status/889969531711619072) (20 min, start at 20:00) (in Czech language)
+* 2017/7/19 - **Interview** for .NET.CZ Podcast - [episode 9](https://twitter.com/dotnetcezet/status/889969531711619072) (20 min, start at 20:00) (in Czech)
     * Discussion with co-workers [Vitek Karas](https://twitter.com/vkaras), [Tomas Rylek](https://github.com/trylek), [Tomas Weinfurt](https://github.com/wfurt), [Jan Kotas](https://github.com/jkotas), [Jan Vorlicek](https://github.com/janvorli)
 * 2017/7/19 - [.NET MeetUp - Prague, CZ](/events/2017-07-19_dotNetMeetUp_Prague)
-    * Co-organizer with wug.cz
+    * Co-organizer with wug.cz Prague
     * **.NET Standard** - [video](https://wug.cz/zaznamy/431--NET-TechTalks-NET-Standard) and [slides](https://www.slideshare.net/KarelZikmund1/net-meetup-prague-net-standard-karel-zikmund)
     * **Challenges of Managing CoreFX repo** - [video](https://wug.cz/zaznamy/433--NET-TechTalks-Challenges-of-Managing-CoreFX-repo) and [slides](https://www.slideshare.net/KarelZikmund1/net-meetup-prague-challenges-of-managing-corefx-repo-karel-zikmund)
 * 2017/7/11 - [.NET MeetUp - Amsterdam, NL](/events/2017-07-11_dotNetMeetUp_Amsterdam) talks
@@ -54,9 +60,9 @@
     * **Challenges of Managing CoreFX repo** - [video](https://www.youtube.com/watch?v=QRUmG4TjViU) (60 min) and [slides](https://www.slideshare.net/KarelZikmund1/challenges-of-managing-corefx-repo)
 * 2017/6/26 - CoreFX Contributor standups, 1st session - see [notes](https://github.com/dotnet/corefx-standup/blob/master/Standups/2017-06.md)
 * 2017/6/6 - [.NET Fringe 2017](http://dotnetfringe.org) conference talk (Portland, OR)
-    * **Challenges of Managing CoreFX repo** - [video](https://www.youtube.com/watch?v=Kcm0ns1pzm0) (30 min) and [slides](https://www.slideshare.net/KarelZikmund1/net-fringe-2017-challenges-of-managing-corefx-repo-karel-zikmund).
+    * **Challenges of Managing CoreFX repo** - [video](https://www.youtube.com/watch?v=Kcm0ns1pzm0) (30 min) and [slides](https://www.slideshare.net/KarelZikmund1/net-fringe-2017-challenges-of-managing-corefx-repo-karel-zikmund)
 * 2017/5/10-12 - [Microsoft Build 2017](https://news.microsoft.com/build2017) conference (Seattle, WA) - .NET booth duty
-    * **Interview** for donetFlix - [dotnetFlix episode video](http://dotnetflix.com/player/59) (10 min).
+    * **Interview** for donetFlix - [dotnetFlix episode 59 video](http://dotnetflix.com/player/59) (10 min)
 
 ### Mentions
 
