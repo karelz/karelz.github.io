@@ -1,0 +1,13 @@
+---
+layout: full
+section: home
+title: BCL/Networking team - What to expect?
+---
+    <section>
+      {% capture networking_resources_include %}{% include networking_resources.md %}{% endcapture %}
+      <div class="page-content">
+        <div class="wrapper">
+        {{ networking_resources_include | markdownify }}
+        </div>
+      </div>
+    </section>

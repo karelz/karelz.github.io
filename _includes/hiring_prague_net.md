@@ -82,3 +82,7 @@ Check official description from Microsoft recruiters: [How to ace a technical in
 
 You can also view my personal suggestions and resources I collected lately to help others grow and succeed in interviewing for Microsoft: [Preparing for Interview at Microsoft](/interview_prep)
 ... DISCLAIMER: These are personal opinions and view points, not official Microsoft guidance!
+
+### What kind of work can I expect on the BCL/Networking team?
+
+Check out [detailed description](/networking_resources) about direction of Networking space and things you will likely learn in first 6-12 months on the job.
