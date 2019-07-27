@@ -22,6 +22,7 @@
     - Introductions - video and [slides](https://www.slideshare.net/KarelZikmund1/net-core-summer-event-2019-in-vienna-at-introduction-karel-zikmund) - TODO (ETA: coule of weeks)
     -  **War stories from .NET team** - video and [slides](https://www.slideshare.net/KarelZikmund1/net-core-summer-event-2019-in-vienna-at-war-stories-from-net-team-karel-zikmund-154309765) - TODO (ETA: couple of weeks)
 
+
 - 6/26 - **Interview** (in Czech) for .NET.CZ Podcast [episode 50](https://www.dotnetpodcast.cz/episodes/ep50/) (55 min)
 
 - 6/26 - [.NET Core Summer event - Prague, CZ](https://corestart3.updatedays.cz)
