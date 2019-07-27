@@ -33,8 +33,9 @@
 # .NET Summer event series in Europe 2019
 
 - 7/23 Tue - [.NET Summer event - Linz, AT](https://www.meetup.com/NET-Stammtisch-Linz/events/261637908/) - meet the .NET team members
-    - Confirmed speakers: [Viktor Hofer](https://twitter.com/ViktorHofer), [Bernhard Urban](https://twitter.com/lewurm), [Alexander Köplinger](https://twitter.com/akoeplinger), [Karel Zikmund](https://twitter.com/ziki_cz)
-    - Local organizers: [Gergely Kalapos](https://twitter.com/gregkalapos)
+    - Recording: [Event live-stream and recording](https://www.youtube.com/watch?v=tlszvLLMc4Q)
+    - Local organizers: [Gergely Kalapos](https://twitter.com/gregkalapos), [Christoph Neumüller](https://twitter.com/discostu105)
+    - Attendance: 70 + 260 online views (as of 7/27)
 
 - 7/9 Tue - [.NET Core Summer event - Brno, CZ](https://www.wug.cz/brno/akce/1152--NET-Core-Summer-Event) - 3 talks (2 in Czech, 1 in English)
     - Local organizers: [Martin Dybal](https://twitter.com/Martin_Dybal) (WUG Brno), [Radka Janekova](https://twitter.com/RheaAyase) (Red Hat)
