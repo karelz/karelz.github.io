@@ -34,25 +34,25 @@
 
 - 7/23 Tue - [.NET Summer event - Linz, AT](https://www.meetup.com/NET-Stammtisch-Linz/events/261637908/) - meet the .NET team members
     - Recording: [Event live-stream and recording](https://www.youtube.com/watch?v=tlszvLLMc4Q)
-    - Local organizers: [Gergely Kalapos](https://twitter.com/gregkalapos), [Christoph Neumüller](https://twitter.com/discostu105)
+    - Organizers: [Gergely Kalapos](https://twitter.com/gregkalapos), [Christoph Neumüller](https://twitter.com/discostu105), [Karel Zikmund](https://twitter.com/ziki_cz)
     - Attendance: 70 + 260 online views (as of 7/27)
 
 - 7/9 Tue - [.NET Core Summer event - Brno, CZ](https://www.wug.cz/brno/akce/1152--NET-Core-Summer-Event) - 3 talks (2 in Czech, 1 in English)
-    - Local organizers: [Martin Dybal](https://twitter.com/Martin_Dybal) (WUG Brno), [Radka Janekova](https://twitter.com/RheaAyase) (Red Hat)
+    - Organizers: [Martin Dybal](https://twitter.com/Martin_Dybal) (WUG Brno), [Radka Janekova](https://twitter.com/RheaAyase) (Red Hat), [Karel Zikmund](https://twitter.com/ziki_cz)
     - Attendance: 80
 
 - 7/4 Thu - [.NET Summer event - Vienna, AT](https://www.meetup.com/dotnet-austria/events/262250140/) - meet the .NET team members
-    - Local organizers: [Andreas Willich](https://twitter.com/SabotageAndi), [Raoul Holzer](https://twitter.com/RaoulHolzer)
+    - Organizers: [Andreas Willich](https://twitter.com/SabotageAndi), [Raoul Holzer](https://twitter.com/RaoulHolzer), [Karel Zikmund](https://twitter.com/ziki_cz)
     - Attendance: 63
 
 - 6/26 Wed - [.NET Core Summer event - Prague, CZ](https://corestart3.updatedays.cz) - similar to 2017 Prague event, meet the .NET team members (in Czech)
-    - Local organizers: [Tomas Herceg](https://twitter.com/hercegtomas) with WUG support, [Lucie Vasickova](https://twitter.com/lulucieva) (Microsoft), [Martin Simecek](https://twitter.com/deeedx) (Microsoft)
+    - Organizers: [Tomas Herceg](https://twitter.com/hercegtomas), [Lucie Vasickova](https://twitter.com/lulucieva) (Microsoft), [Martin Simecek](https://twitter.com/deeedx) (Microsoft), [Karel Zikmund](https://twitter.com/ziki_cz)
     - Attendance: 110
 
 - 6/24 Mon - [Discussion with MFF UK students - Prague, CZ](https://opmk.mff.cuni.cz/wiki/studenti/kurzy#setkani_s_absolventy_informatickych_oboru) - 16:00-19:00 at Mala Strana, S8, Prague, CZ (in Czech)
     - Participants: Hana Lapkova (Oracle), [Tomas Herceg](https://twitter.com/hercegtomas) (Riganti), [Martin Duchacek](https://twitter.com/MDuchacek) (RSJ), [Karel Zikmund](https://twitter.com/ziki_cz) (Microsoft)
-    - Interviews with participants: [Martin Duchacek](https://www.matfyz.cz/clanky/1361-setkani-s-absolventy-martin-duchacek), [Tomas Herceg & Karel Zikmund](https://www.matfyz.cz/clanky/1360-setkani-s-absolventy-karel-zikmund-a-tomas-herceg), Hana Lapkova (ETA: 6/17)
-    - Local organizer: [Karolina Houzvickova Solcova](https://www.mff.cuni.cz/cs/fakulta/organizacni-struktura/lide?hdl=3951) (MFF UK)
+    - Interviews with participants: [Martin Duchacek](https://www.matfyz.cz/clanky/1361-setkani-s-absolventy-martin-duchacek), [Tomas Herceg & Karel Zikmund](https://www.matfyz.cz/clanky/1360-setkani-s-absolventy-karel-zikmund-a-tomas-herceg), [Hana Lapkova](https://www.matfyz.cz/clanky/1366-setkani-s-absolventy-hana-lapkova)
+    - Organizers: [Karolina Houzvickova Solcova](https://www.mff.cuni.cz/cs/fakulta/organizacni-struktura/lide?hdl=3951) (MFF UK), [Karel Zikmund](https://twitter.com/ziki_cz)
 
 - 6/22 Sat - [.NET Summer event - Veenendaal, NL](https://www.dncse.nl)
     - Full day 2-tracks community conference, with focus on .NET Performance.
