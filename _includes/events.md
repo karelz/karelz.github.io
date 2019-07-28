@@ -33,7 +33,7 @@
 # .NET Summer event series in Europe 2019
 
 - 7/23 Tue - [.NET Summer event - Linz, AT](https://www.meetup.com/NET-Stammtisch-Linz/events/261637908/) - meet the .NET team members
-    - Recording: [Event live-stream and recording](https://www.youtube.com/watch?v=tlszvLLMc4Q)
+    - Recording: [Event live-stream and recording](https://youtu.be/tlszvLLMc4Q?t=325)
     - Organizers: [Gergely Kalapos](https://twitter.com/gregkalapos), [Christoph Neumüller](https://twitter.com/discostu105), [Karel Zikmund](https://twitter.com/ziki_cz)
     - Attendance: 70 + 260 online views (as of 7/27)
 
