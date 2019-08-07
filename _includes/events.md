@@ -1,34 +1,64 @@
 # .NET Tour - Down Under Edition - Australia / New Zealand 2019
 
-- 10/19 Sat - Sydney, AU
-    - Local organizers: Search and discussions in progress (current venue capacity: 100 - looking for larger one if available)
+- 10/15 Tue - Sydney, AU - [Girl Geek MeetUp](https://www.meetup.com/Girl-Geek-Sydney/) (18-21, hosting TBD, capacity: 100)
+    - Local organizers: [Azadeh Khojandi](https://twitter.com/azadehkhojandi), [Nelly Sattari](https://twitter.com/nelly_sattari)
     - Expected speakers:
-        - [Ryan Nowak](https://twitter.com/aVerySpicyBoi) (ASP.NET team), [James Newton-King](https://twitter.com/JamesNK) (ASP.NET team), [Karel Zikmund](https://twitter.com/ziki_cz) (CoreFX/BCL team), [David Kean](https://twitter.com/davkean) (.NET tooling team), [David Wengier](https://twitter.com/davidwengier) (.NET tooling team), [Drew Noakes](https://twitter.com/drewnoakes) (.NET tooling team), [Igor Velikorossov](https://twitter.com/IgorRussKie) (WinForms team) + potentially 1-3 more speakers from .NET teams
-        - MVPs and community leaders: to be announced
+        - [Igor Velikorossov](https://twitter.com/IgorRussKie) (WinForms team)
+        - [Karel Zikmund](https://twitter.com/ziki_cz) (CoreFX/BCL team)
+        - [Mehri Sand](https://twitter.com/MehriSand)
+        - [James South](https://twitter.com/James_M_South) (Microsoft MVP)
+        - [Geoffrey Huntley](https://twitter.com/GeoffreyHuntley) (Microsoft MVP)
+
+- 10/19 Sat - Sydney, AU (full-day event, Microsoft Reactor, capacity: 100)
+    - Local organizers: [Nelly Sattari](https://twitter.com/nelly_sattari), [Simon Waight](https://twitter.com/simonwaight)
+    - Expected speakers:
+        - [Ryan Nowak](https://twitter.com/aVerySpicyBoi) (ASP.NET team)
+        - [James Newton-King](https://twitter.com/JamesNK) (ASP.NET team)
+        - [Karel Zikmund](https://twitter.com/ziki_cz) (CoreFX/BCL team)
+        - [David Kean](https://twitter.com/davkean) (.NET tooling team)
+        - [David Wengier](https://twitter.com/davidwengier) (.NET tooling team)
+        - [Drew Noakes](https://twitter.com/drewnoakes) (.NET tooling team)
+        - [Mehri Sand](https://twitter.com/MehriSand)
+        - [Azadeh Hassanzadeh](https://www.linkedin.com/in/azadeh-h/)
+        - [Soudabeh Norouzinia](https://www.linkedin.com/in/sudabehnorouzinia/)
+        - [Philip Laureano](https://twitter.com/philiplaureano)
 
 - 10/21 Mon - Melbourne, AU
-    - Local organizers: Search and discussions in progress
+    - Local organizers: [Justin Taylor](https://twitter.com/jtango18)
     - Expected speakers:
-        - [Ryan Nowak](https://twitter.com/aVerySpicyBoi) (ASP.NET team), [Karel Zikmund](https://twitter.com/ziki_cz) (CoreFX/BCL team), [David Kean](https://twitter.com/davkean) (.NET tooling team), [David Wengier](https://twitter.com/davidwengier) (.NET tooling team), [Drew Noakes](https://twitter.com/drewnoakes) (.NET tooling team)
-        - MVPs and community leaders: to be announced
+        - [Ryan Nowak](https://twitter.com/aVerySpicyBoi) (ASP.NET team)
+        - [Karel Zikmund](https://twitter.com/ziki_cz) (CoreFX/BCL team)
+        - [David Kean](https://twitter.com/davkean) (.NET tooling team)
+        - [David Wengier](https://twitter.com/davidwengier) (.NET tooling team)
+        - [Drew Noakes](https://twitter.com/drewnoakes) (.NET tooling team)
+        - [Glenn Watson](https://twitter.com/GlennCoder)
+        - Additonal community speakers to be announced
 
 - 10/23 Wed - Brisbane, AU
-    - Local organizers: Search and discussions in progress
+    - Local organizers: [Brisbane .NET User Group](https://www.meetup.com/en-AU/Brisbane-Net-User-Group/)
     - Expected speakers:
-        - [Ryan Nowak](https://twitter.com/aVerySpicyBoi) (ASP.NET team), [Karel Zikmund](https://twitter.com/ziki_cz) (CoreFX/BCL team), [David Kean](https://twitter.com/davkean) (.NET tooling team), [David Wengier](https://twitter.com/davidwengier) (.NET tooling team), [Drew Noakes](https://twitter.com/drewnoakes) (.NET tooling team)
-        - MVPs and community leaders: to be announced
+        - [Ryan Nowak](https://twitter.com/aVerySpicyBoi) (ASP.NET team)
+        - [Karel Zikmund](https://twitter.com/ziki_cz) (CoreFX/BCL team)
+        - [David Kean](https://twitter.com/davkean) (.NET tooling team)
+        - [David Wengier](https://twitter.com/davidwengier) (.NET tooling team)
+        - [Drew Noakes](https://twitter.com/drewnoakes) (.NET tooling team)
+        - [Alistair Chapman](https://twitter.com/agc93) (Microsoft MVP)
+        - Additonal community speakers to be announced
 
-- 10/25 Fri - Wellington, NZ
-    - Local organizers: Search and discussions in progress
+- 10/25 Fri - [Wellington, NZ](https://www.meetup.com/WelliDotNet/events/263818832) (16-20, capacity: 70, hosted by Equinox)
+    - Local organizers: [Bevan Arps](https://twitter.com/unrepentantgeek)
     - Expected speakers:
-        - [Ryan Nowak](https://twitter.com/aVerySpicyBoi) (ASP.NET team), [James Newton-King](https://twitter.com/JamesNK) (ASP.NET team), [Karel Zikmund](https://twitter.com/ziki_cz) (CoreFX/BCL team)
-        - MVPs and community leaders: to be announced
+        - [Ryan Nowak](https://twitter.com/aVerySpicyBoi) (ASP.NET team)
+        - [James Newton-King](https://twitter.com/JamesNK) (ASP.NET team)
+        - [Karel Zikmund](https://twitter.com/ziki_cz) (CoreFX/BCL team)
+        - Additonal community speakers to be announced
 
 - 10/28 Mon (TBD) - Auckland, NZ
-    - Local organizers: Search and discussions in progress
+    - Local organizers: [Marcus Bristol](https://twitter.com/mightymuke)
     - Expected speakers:
-        - [Ryan Nowak](https://twitter.com/aVerySpicyBoi) (ASP.NET team), [Karel Zikmund](https://twitter.com/ziki_cz) (CoreFX/BCL team)
-        - MVPs and community leaders: to be announced
+        - [Ryan Nowak](https://twitter.com/aVerySpicyBoi) (ASP.NET team)
+        - [Karel Zikmund](https://twitter.com/ziki_cz) (CoreFX/BCL team)
+        - Additonal community speakers to be announced
 
 # .NET Summer event series in Europe 2019
 
