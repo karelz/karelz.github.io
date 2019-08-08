@@ -5,7 +5,7 @@
     - Expected speakers:
         - [Igor Velikorossov](https://twitter.com/IgorRussKie) (WinForms team)
         - [Karel Zikmund](https://twitter.com/ziki_cz) (CoreFX/BCL team)
-        - [Mehri Sand](https://twitter.com/MehriSand)
+        - [Mehri Sand](https://www.linkedin.com/in/mehri-sand-b2073638/)
         - [James South](https://twitter.com/James_M_South) (Microsoft MVP)
         - [Geoffrey Huntley](https://twitter.com/GeoffreyHuntley) (Microsoft MVP)
 
@@ -18,7 +18,7 @@
         - [David Kean](https://twitter.com/davkean) (.NET tooling team)
         - [David Wengier](https://twitter.com/davidwengier) (.NET tooling team)
         - [Drew Noakes](https://twitter.com/drewnoakes) (.NET tooling team)
-        - [Mehri Sand](https://twitter.com/MehriSand)
+        - [Mehri Sand](https://www.linkedin.com/in/mehri-sand-b2073638/)
         - [Azadeh Hassanzadeh](https://www.linkedin.com/in/azadeh-h/)
         - [Soudabeh Norouzinia](https://www.linkedin.com/in/sudabehnorouzinia/)
         - [Philip Laureano](https://twitter.com/philiplaureano)
