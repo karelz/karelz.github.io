@@ -6,17 +6,8 @@ As of 2019/6/5 we are hiring 2 full .NET teams in Prague, Czech Repubic:
     * Positions: Software Engineer & Software Engineer Manager
     * Details: See [this blog post](https://devblogs.microsoft.com/dotnet/the-evolving-infrastructure-of-net-core/) to learn what the team does.
 1. **Base Class Libraries / Networking team** - see [full job description](https://careers.microsoft.com/i/us/en/job/633945/Software-Engineer-NET-Core-Platform) or [tweet "teaser"](https://twitter.com/ziki_cz/status/1136498644725698561)
-    * Primary contact: [@ziki_cz](https://twitter.com/ziki_cz) (Twitter DM is prefered, see my profile for other contact info like email) - expect answer in <24h, if not, feel free to ping me again (to avoid accidentally missed DMs/emails)
+    * Primary contact: Apply directly to the [job post](https://careers.microsoft.com/i/us/en/job/633945/Software-Engineer-NET-Core-Platform)
     * Positions: Software Engineer
-    * Details: See [this post](/networking_resources) to learn what the team does, where it is heading and what you should expect to learn in first 6-12 months on the job.
-    * Start discussion with answers to these 2 questions - to see if it makes sense to send over resume or apply to the job post (expect cross time-zone delays in replies):
-        1. What is your related library-level, system-level or networking-related experience from work or hobby projects?
-        2. Describe some interesting technical challenge (ideally related to the job). An investigation, bug fix or feature, etc. Something you are proud of.
-    * Details:
-        * Library-level = producing libraries used by multiple projects, ideally by multiple companies.
-        * System-level = anything low-level, close to OS APIs, drivers, HW interaction, or some non-trivial backend (e.g. difficult multi-threading, scale).
-        * Networking = libraries / APIs / protocols operating on network to communicate between computers. Server-side, or client-sie, or both.
-
 
 **Basic infornation:**
 * Location: Prague, Czech Republic
@@ -53,6 +44,8 @@ We recommend to reach out to the primary contact listed above to:
 * **Discuss your experience and fit for the role.**
 * Learn more about the position, team dynamics, the location, team culture, etc.
 
+Note: BCL position has direct application for the rest of August.
+
 
 ### Can I apply directly to the job posting?
 
@@ -61,10 +54,11 @@ However, starting the discussion with primary contact will help you learn more u
 It is also more interactive (while asynchronous) communication channel.
 Typically it gives candidates higher chance to highlight relevant things than just submitting their resume.
 
+Note: BCL position applicants should apply directly to the job post for the rest of August.
 
 ### Should I send you my resume?
 
-For **Base Class Libraries / Networking team** ([@ziki_cz](https://twitter.com/ziki_cz)), please start with answering the 2 questions above before you send over your resume.
+For **Base Class Libraries / Networking team**, please apply directly to the job post above.
 
 For **.NET Engineering Services team** ([@ElaMoscicka](https://twitter.com/ElaMoscicka)), please start chat with her via email [elmoscic@microsoft.com](mailto:elmoscic@microsoft.com) (please do NOT send your resume/CV via email due to GDPR).
 
