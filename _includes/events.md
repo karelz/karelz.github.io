@@ -63,12 +63,13 @@
 
 # .NET Summer event series in Europe 2019
 
-- 9/23 Mon (time is TBD) - **.NET Core Summer event - Prague, CZ** - meet the .NET team members (in English & live-streamed, same talks as at 6/26 event) in Microsoft Prague venue
+- 9/23 Mon - **.NET Core Summer event - Prague, CZ** - meet the .NET team members - Microsoft Prague venue
+    - Same talks as in 6/26 event, in English this time
     - Organizers: [Vojtech Madr](https://twitter.com/madrvojt), [David Maly](https://www.linkedin.com/in/david-mal%C3%BD/), [Martin Simecek](https://twitter.com/deeedx) (Microsoft), [Lucie Vasickova](https://twitter.com/lulucieva) (Microsoft), [Karel Zikmund](https://twitter.com/ziki_cz)
     - Expected speakers: Marek Safar, Tomas Rylek, Jan Vorlicek, [Vitek Karas](https://twitter.com/vkaras), [Karel Zikmund](https://twitter.com/ziki_cz)
     - Capacity: 130 + live-streaming
 
-- 9/19 Thu - **.NET MeetUp in Prague, CZ** in Microsoft Prague venue
+- 9/19 Thu - **.NET MeetUp in Prague, CZ** - meet the .NET team members - Microsoft Prague venue
     - Organizers: [Vojtech Madr](https://twitter.com/madrvojt), [David Maly](https://www.linkedin.com/in/david-mal%C3%BD/), [Martin Simecek](https://twitter.com/deeedx) (Microsoft), [Lucie Vasickova](https://twitter.com/lulucieva) (Microsoft), [Karel Zikmund](https://twitter.com/ziki_cz)
     - Expected speakers: [Maoni Stephens](https://twitter.com/maoni0)
     - Capacity: 50 (TBD) + live-streaming
