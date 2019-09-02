@@ -3,6 +3,7 @@
 - 10/15 Tue - Sydney, AU - [Girl Geek MeetUp](https://www.meetup.com/Girl-Geek-Sydney/) (18-21, hosting TBD, capacity: 100)
     - Local organizers: [Azadeh Khojandi](https://twitter.com/azadehkhojandi), [Nelly Sattari](https://twitter.com/nelly_sattari)
     - Expected speakers:
+        - [Scott Hunter](https://twitter.com/coolcsh) (.NET PM team director)
         - [Igor Velikorossov](https://twitter.com/IgorRussKie) (WinForms team)
         - [Karel Zikmund](https://twitter.com/ziki_cz) (CoreFX/BCL team)
         - [Mehri Sand](https://www.linkedin.com/in/mehri-sand-b2073638/)
@@ -61,6 +62,16 @@
         - Additonal community speakers to be announced
 
 # .NET Summer event series in Europe 2019
+
+- 9/23 Mon (time is TBD) - **.NET Core Summer event - Prague, CZ** - meet the .NET team members (in English & live-streamed, same talks as at 6/26 event) in Microsoft Prague venue
+    - Organizers: [Vojtech Madr](https://twitter.com/madrvojt), [David Maly](https://www.linkedin.com/in/david-mal%C3%BD/), [Martin Simecek](https://twitter.com/deeedx) (Microsoft), [Lucie Vasickova](https://twitter.com/lulucieva) (Microsoft), [Karel Zikmund](https://twitter.com/ziki_cz)
+    - Expected speakers: Marek Safar, Tomas Rylek, Jan Vorlicek, [Vitek Karas](https://twitter.com/vkaras), [Karel Zikmund](https://twitter.com/ziki_cz)
+    - Capacity: 130 + live-streaming
+
+- 9/19 Thu - **.NET MeetUp in Prague, CZ** in Microsoft Prague venue
+    - Organizers: [Vojtech Madr](https://twitter.com/madrvojt), [David Maly](https://www.linkedin.com/in/david-mal%C3%BD/), [Martin Simecek](https://twitter.com/deeedx) (Microsoft), [Lucie Vasickova](https://twitter.com/lulucieva) (Microsoft), [Karel Zikmund](https://twitter.com/ziki_cz)
+    - Expected speakers: [Maoni Stephens](https://twitter.com/maoni0)
+    - Capacity: 50 (TBD) + live-streaming
 
 - 7/23 Tue - [.NET Summer event - Linz, AT](https://www.meetup.com/NET-Stammtisch-Linz/events/261637908/) - meet the .NET team members
     - Recording: [Event live-stream and recording](https://youtu.be/tlszvLLMc4Q?t=325)

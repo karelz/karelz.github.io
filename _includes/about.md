@@ -17,6 +17,12 @@ See [Hiring for .NET Teams in Prague, Czech Republic](/hiring_prague_net) page f
 
 ## Upcoming Events
 
+- 2019/9/19 - .NET MeetUp in Prague, CZ with [Maoni Stephens](https://twitter.com/maoni0)
+    - live-streaming
+
+- 2019/9/23 - .NET Core Summer Event in Prague, CZ (in English) - see [details](/events)
+    - live-streaming
+
 - 2019/10/16-18 - [NDC Sydney 2019](https://ndcsydney.com/)
     - Talk: [Async demystified](https://ndcsydney.com/talk/async-demystified/)
 
