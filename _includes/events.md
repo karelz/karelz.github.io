@@ -69,10 +69,10 @@
     - Expected speakers: Marek Safar, Tomas Rylek, Jan Vorlicek, [Vitek Karas](https://twitter.com/vkaras), [Karel Zikmund](https://twitter.com/ziki_cz)
     - Capacity: 130 + live-streaming
 
-- 9/19 Thu - **.NET MeetUp in Prague, CZ** - meet the .NET team members - Microsoft Prague venue
+- 9/18 Wed - **.NET MeetUp in Prague, CZ** - meet the .NET team members - Microsoft Prague venue
     - Organizers: [Vojtech Madr](https://twitter.com/madrvojt), [David Maly](https://www.linkedin.com/in/david-mal%C3%BD/), [Martin Simecek](https://twitter.com/deeedx) (Microsoft), [Lucie Vasickova](https://twitter.com/lulucieva) (Microsoft), [Karel Zikmund](https://twitter.com/ziki_cz)
-    - Expected speakers: [Maoni Stephens](https://twitter.com/maoni0)
-    - Capacity: 50 (TBD) + live-streaming
+    - Expected speakers: [Maoni Stephens](https://twitter.com/maoni0), Donald Drake
+    - Capacity: 150 + live-streaming
 
 - 7/23 Tue - [.NET Summer event - Linz, AT](https://www.meetup.com/NET-Stammtisch-Linz/events/261637908/) - meet the .NET team members
     - Recording: [Event live-stream and recording](https://youtu.be/tlszvLLMc4Q?t=325)
@@ -98,6 +98,7 @@
 
 - 6/22 Sat - [.NET Summer event - Veenendaal, NL](https://www.dncse.nl)
     - Full day 2-tracks community conference, with focus on .NET Performance.
+    - See [all recordings](https://www.youtube.com/channel/UCDN6GsQYVelpzic7KRjhSVQ/videos)
     - Accepting [donations](https://opencollective.com/net-core-summer-event-netherlands/events/net-core-summer-event-2019-39269ev) to cover speakers' fees, etc.
     - Organizers: [Edwin van Wijk](https://twitter.com/evanwijk), [Jonathan Mezach](https://twitter.com/jmezach), [Karel Zikmund](https://twitter.com/ziki_cz)
     - Attendance: 190
