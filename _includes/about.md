@@ -17,17 +17,15 @@ See [Hiring for .NET Teams in Prague, Czech Republic](/hiring_prague_net) page f
 
 ## Upcoming Events
 
-- 2019/9/19 - .NET MeetUp in Prague, CZ with [Maoni Stephens](https://twitter.com/maoni0)
-    - Live-streamed event
+- 9/18 Wed - [.NET MeetUp with Maoni Stephens - Prague, CZ](https://www.meetup.com/xmdg-cz/events/264530629/) - talk about GC and Panel Discussion - Microsoft Prague venue + live-streaming
 
-- 2019/9/23 - .NET Core Summer Event in Prague, CZ (in English) - see [details](/events)
-    - Live-streamed event
+- 9/23 - [.NET Community Afternoon - Prague, CZ](https://www.meetup.com/xmdg-cz/events/264530658/) - meet the .NET team members - Microsoft Prague venue + live-streaming
 
-- 2019/10/16-18 - [NDC Sydney 2019](https://ndcsydney.com/)
+- 10/16-18 - [NDC Sydney 2019](https://ndcsydney.com/)
     - Talk: [Async demystified](https://ndcsydney.com/talk/async-demystified/)
 
-- 2019/10/19-28 - .NET Tour - Down Under Edition (Australia & New Zealand)
-    - Destinations: Sydney (10/19), Melbourne (10/21), Brisbane (10/23), Wellington (10/25), Auckland (10/28) - see also [details](/events)
+- 10/19-28 - .NET Tour - Down Under Edition (Australia & New Zealand) - see also [details](/events)
+    - Destinations: Sydney (10/15 & 10/19), Melbourne (10/21), Brisbane (10/23), Wellington (10/25), Auckland (10/28)
 
 - ??? 2020/1/27-31 - [NDC London](https://ndc-london.com/) - aspirational, pending talk acceptance
 
