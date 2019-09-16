@@ -38,6 +38,7 @@
         - [David Wengier](https://twitter.com/davidwengier) (.NET tooling team)
         - [Drew Noakes](https://twitter.com/drewnoakes) (.NET tooling team)
         - [Alistair Chapman](https://twitter.com/agc93) (Microsoft MVP)
+        - Additonal community speakers to be announced
 
 - 10/25 Fri - [Wellington, NZ](https://www.meetup.com/WelliDotNet/events/263818832) (16-20, capacity: 70, hosted by Equinox)
     - Local organizers: [Bevan Arps](https://twitter.com/unrepentantgeek)
@@ -55,6 +56,11 @@
         - Additonal community speakers to be announced
 
 # .NET Summer event series in Europe 2019
+
+- 9/23 Mon - [.NET Conf kick off - Prague, CZ](https://www.meetup.com/Prague-NET-Meetup/events/264688694/) (in Czech) - Avast venue
+    - Talk about .NET, .NET Core and .NET Foundation - intro/kick off for .NET Conf keynote viewing
+    - Organizer: [Tomas Jecha](https://twitter.com/jechtom)
+    - Capacity: 100
 
 - 9/23 Mon - [.NET Community Afternoon - Prague, CZ](https://www.meetup.com/xmdg-cz/events/264530658/) - meet the .NET team members - Microsoft Prague venue
     - Same talks as in 6/26 event, in English this time
