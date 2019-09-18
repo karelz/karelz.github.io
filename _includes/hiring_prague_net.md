@@ -1,23 +1,24 @@
 # Hiring for .NET Teams in Prague, Czech Republic
 
-As of 2019/6/5 we are hiring 2 full .NET teams in Prague, Czech Repubic:
-1. **.NET Engineering Services team** - see [full job description](https://careers.microsoft.com/i/us/en/job/632975/Software-Engineer-Core-Development-Tools) or [tweet "teaser"](https://twitter.com/ziki_cz/status/1136498403418955776)
-    * Primary contact: [@ElaMoscicka](https://twitter.com/ElaMoscicka) via her email [elmoscic@microsoft.com](mailto:elmoscic@microsoft.com) (please do NOT send resume/CV via email due to GDPR)
-    * Positions: Software Engineer & Software Engineer Manager
-    * Details: See [this blog post](https://devblogs.microsoft.com/dotnet/the-evolving-infrastructure-of-net-core/) to learn what the team does.
-1. **Base Class Libraries / Networking team** - see [full job description](https://careers.microsoft.com/i/us/en/job/633945/Software-Engineer-NET-Core-Platform) or [tweet "teaser"](https://twitter.com/ziki_cz/status/1136498644725698561)
-    * Primary contact: Apply directly to the [job post](https://careers.microsoft.com/i/us/en/job/633945/Software-Engineer-NET-Core-Platform)
-    * Positions: Software Engineer
+As of 2019/9/18 we are officially announcing extension of our .NET teams in Prague, Czech Republic:
+- **.NET Tooling team** - see [full job description](https://careers.microsoft.com/i/us/en/job/633945/Software-Engineer-NET-Core-Platform) where you can apply
+    - We are adding 2 additional full teams (incl. manager position for each of them).
+    - Positions: Software Engineer & Software Engineer Manager
+        - Note: The manager position will be published later (over next couple of weeks) - in the meantime, please apply to the Software Engineer position above and mentioned you are interested in the manager position on the team.
+
 
 **Basic infornation:**
-* Location: Prague, Czech Republic
-* Remote: No (we expect 60% presence in Microsoft Prague office)
-* Relocation: Yes
-* Visa sponsorship: Yes
+- Location: Prague, Czech Republic
+- Remote: No (we expect 60% presence in Microsoft Prague office)
+- Relocation: Yes
+- Visa sponsorship: Yes
 
+**Timeline:** We expect to host a hiring event in Prague 11/18-11/20. We will conduct some interviews remotely/ad-hoc when candidate availability is limited at the time of the hiring event.
 
-**Timeline:** We expect to get through first wave of candidates in a few weeks.
-Interviews will be likely held in Prague between end of July, and September (details are TBD and subject to change).
+For context, we have hired during this summer 2 full teams which are already starting in Prague:
+- **.NET Engineering Services team** - see [this blog post](https://devblogs.microsoft.com/dotnet/the-evolving-infrastructure-of-net-core/) to learn what the team does (manager of the team will start in October). Note: Currently we are not looking for more applicants to this specific job position.
+- **Base Class Libraries / Networking team** - see [this post](/networking_resources) to learn what the team does, and where it is heading (managed by [ziki_cz](https://twitter.com/ziki_cz)). Note: Currently we are not looking for more applicants to this specific job position.
+
 
 ### International teams working across time-zones
 
@@ -40,27 +41,7 @@ We can share some of their experiences with you if it helps you to make a decisi
 
 ### What if I am interested?
 
-We recommend to reach out to the primary contact listed above to:
-* **Discuss your experience and fit for the role.**
-* Learn more about the position, team dynamics, the location, team culture, etc.
-
-Note: BCL position has direct application for the rest of August.
-
-
-### Can I apply directly to the job posting?
-
-Yes, you can.
-However, starting the discussion with primary contact will help you learn more upfront and it will give us information about your fit for the role.
-It is also more interactive (while asynchronous) communication channel.
-Typically it gives candidates higher chance to highlight relevant things than just submitting their resume.
-
-Note: BCL position applicants should apply directly to the job post for the rest of August.
-
-### Should I send you my resume?
-
-For **Base Class Libraries / Networking team**, please apply directly to the job post above.
-
-For **.NET Engineering Services team** ([@ElaMoscicka](https://twitter.com/ElaMoscicka)), please start chat with her via email [elmoscic@microsoft.com](mailto:elmoscic@microsoft.com) (please do NOT send your resume/CV via email due to GDPR).
+Apply to the Job Description above.
 
 
 ### What should I highlight in my resume?
@@ -77,7 +58,3 @@ Check official description from Microsoft recruiters: [How to ace a technical in
 
 You can also view my personal suggestions and resources I collected lately to help others grow and succeed in interviewing for Microsoft: [Preparing for Interview at Microsoft](/interview_prep)
 ... DISCLAIMER: These are personal opinions and view points, not official Microsoft guidance!
-
-### What kind of work can I expect on the BCL/Networking team?
-
-Check out [detailed description](/networking_resources) about direction of Networking space and things you will likely learn in first 6-12 months on the job.
