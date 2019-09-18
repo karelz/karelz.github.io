@@ -1,7 +1,7 @@
 # Hiring for .NET Teams in Prague, Czech Republic
 
 As of 2019/9/18 we are officially announcing extension of our .NET teams in Prague, Czech Republic:
-- **.NET Tooling team** - see [full job description](https://careers.microsoft.com/i/us/en/job/646082/Software-Engineer-NET-TOOLING) where you can apply
+- **.NET Tooling team** - see [full job description](https://careers.microsoft.com/us/en/job/646082/Software-Engineer-NET-TOOLING) where you can apply
     - We are adding 2 additional full teams (incl. manager position for each of them).
     - Positions: Software Engineer & Software Engineer Manager
         - Note: The manager position will be published later (over next couple of weeks) - in the meantime, please apply to the Software Engineer position above and mentioned you are interested in the manager position on the team.
