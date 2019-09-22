@@ -44,6 +44,15 @@ We can share some of their experiences with you if it helps you to make a decisi
 Apply to the Job Description above.
 
 
+### Do you have details about the job?
+
+The job description pretty much sums it up.
+If you want to take a closer look at the work the .NET Tooling team is doing, check out their open-source repos and see for yourself:
+- http://github.com/dotnet/cli
+- https://github.com/microsoft/msbuild
+- http://github.com/dotnet/project-system
+
+
 ### What should I highlight in my resume?
 
 Make sure you include things which are relevant.
