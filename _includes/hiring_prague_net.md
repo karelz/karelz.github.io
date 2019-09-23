@@ -48,9 +48,9 @@ Apply to the Job Description above.
 
 The job description pretty much sums it up.
 If you want to take a closer look at the work the .NET Tooling team is doing, check out their open-source repos and see for yourself:
-- http://github.com/dotnet/cli
-- https://github.com/microsoft/msbuild
-- http://github.com/dotnet/project-system
+- [dotnet/cli](http://github.com/dotnet/cli)
+- [microsoft/msbuild](https://github.com/microsoft/msbuild)
+- [dotnet/project-system](http://github.com/dotnet/project-system)
 
 
 ### What should I highlight in my resume?
