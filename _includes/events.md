@@ -63,18 +63,20 @@
     - Capacity: 100
 
 - 9/23 Mon - [.NET Community Afternoon - Prague, CZ](https://www.meetup.com/xmdg-cz/events/264530658/) - meet the .NET team members - Microsoft Prague venue
+    - Online: [live-stream on Twitch](https://www.twitch.tv/events/D7fMFnMzTIKy5jov95oUjg), recordings will be published later on [DotnetCZ youtube channel](https://www.youtube.com/channel/UCbqA6EXdNZTTDBzXd5pIdqA)
     - Same talks as in 6/26 event, in English this time
     - Organizers: [Vojtech Madr](https://twitter.com/madrvojt), [David Maly](https://www.linkedin.com/in/david-mal%C3%BD/), [Martin Simecek](https://twitter.com/deeedx) (Microsoft), [Lucie Vasickova](https://twitter.com/lulucieva) (Microsoft), [Karel Zikmund](https://twitter.com/ziki_cz)
     - Capacity: 130 + live-streaming
 
 - 9/18 Wed - [.NET MeetUp with Maoni Stephens - Prague, CZ](https://www.meetup.com/xmdg-cz/events/264530629/) - talk about GC and Panel Discussion - Microsoft Prague venue
+    - Recording: [Event live-stream and recording](https://www.youtube.com/watch?v=m4fddMZDceQ)
     - Organizers: [Vojtech Madr](https://twitter.com/madrvojt), [David Maly](https://www.linkedin.com/in/david-mal%C3%BD/), [Martin Simecek](https://twitter.com/deeedx) (Microsoft), [Lucie Vasickova](https://twitter.com/lulucieva) (Microsoft), [Karel Zikmund](https://twitter.com/ziki_cz)
-    - Capacity: 150 + live-streaming
+    - Capacity: 60 + 1,200 online views (as of 9/23)
 
 - 7/23 Tue - [.NET Summer event - Linz, AT](https://www.meetup.com/NET-Stammtisch-Linz/events/261637908/) - meet the .NET team members
     - Recording: [Event live-stream and recording](https://youtu.be/tlszvLLMc4Q?t=325)
     - Organizers: [Gergely Kalapos](https://twitter.com/gregkalapos), [Christoph Neumüller](https://twitter.com/discostu105), [Karel Zikmund](https://twitter.com/ziki_cz)
-    - Attendance: 70 + 260 online views (as of 7/27)
+    - Attendance: 70 + 340 online views (as of 9/23)
 
 - 7/9 Tue - [.NET Core Summer event - Brno, CZ](https://www.wug.cz/brno/akce/1152--NET-Core-Summer-Event) - 3 talks (2 in Czech, 1 in English)
     - Organizers: [Martin Dybal](https://twitter.com/Martin_Dybal) (WUG Brno), [Radka Janekova](https://twitter.com/RheaAyase) (Red Hat), [Karel Zikmund](https://twitter.com/ziki_cz)
