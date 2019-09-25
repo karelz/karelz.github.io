@@ -60,18 +60,18 @@
 - 9/23 Mon - [.NET Conf kick off - Prague, CZ](https://www.meetup.com/Prague-NET-Meetup/events/264688694/) (in Czech) - Avast venue
     - Talk about .NET, .NET Core and .NET Foundation - intro/kick off for .NET Conf keynote viewing
     - Organizer: [Tomas Jecha](https://twitter.com/jechtom)
-    - Capacity: 100
+    - Attendance: 70
 
 - 9/23 Mon - [.NET Community Afternoon - Prague, CZ](https://www.meetup.com/xmdg-cz/events/264530658/) - meet the .NET team members - Microsoft Prague venue
-    - Online: [live-stream on Twitch](https://www.twitch.tv/events/D7fMFnMzTIKy5jov95oUjg), recordings will be published later on [DotnetCZ youtube channel](https://www.youtube.com/channel/UCbqA6EXdNZTTDBzXd5pIdqA)
+    - Online: [live-stream on Twitch](https://www.twitch.tv/events/D7fMFnMzTIKy5jov95oUjg) with [video](https://www.twitch.tv/videos/485324093), recordings will be published later to [DotnetCZ youtube channel](https://www.youtube.com/channel/UCbqA6EXdNZTTDBzXd5pIdqA)
     - Same talks as in 6/26 event, in English this time
     - Organizers: [Vojtech Madr](https://twitter.com/madrvojt), [David Maly](https://www.linkedin.com/in/david-mal%C3%BD/), [Martin Simecek](https://twitter.com/deeedx) (Microsoft), [Lucie Vasickova](https://twitter.com/lulucieva) (Microsoft), [Karel Zikmund](https://twitter.com/ziki_cz)
-    - Capacity: 130 + live-streaming
+    - Attendance: 10 + 45 online views (as of 9/25)
 
 - 9/18 Wed - [.NET MeetUp with Maoni Stephens - Prague, CZ](https://www.meetup.com/xmdg-cz/events/264530629/) - talk about GC and Panel Discussion - Microsoft Prague venue
     - Recording: [Event live-stream and recording](https://www.youtube.com/watch?v=m4fddMZDceQ)
     - Organizers: [Vojtech Madr](https://twitter.com/madrvojt), [David Maly](https://www.linkedin.com/in/david-mal%C3%BD/), [Martin Simecek](https://twitter.com/deeedx) (Microsoft), [Lucie Vasickova](https://twitter.com/lulucieva) (Microsoft), [Karel Zikmund](https://twitter.com/ziki_cz)
-    - Capacity: 60 + 1,200 online views (as of 9/23)
+    - Attendance: 60 + 1,200 online views (as of 9/23)
 
 - 7/23 Tue - [.NET Summer event - Linz, AT](https://www.meetup.com/NET-Stammtisch-Linz/events/261637908/) - meet the .NET team members
     - Recording: [Event live-stream and recording](https://youtu.be/tlszvLLMc4Q?t=325)
