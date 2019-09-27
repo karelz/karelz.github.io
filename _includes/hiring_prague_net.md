@@ -49,6 +49,7 @@ Apply to the Job Description above.
 The job description pretty much sums it up.
 If you want to take a closer look at the work the .NET Tooling team is doing, check out their open-source repos and see for yourself:
 - [dotnet/cli](http://github.com/dotnet/cli)
+- [dotnet/roslyn](http://github.com/dotnet/roslyn)
 - [microsoft/msbuild](https://github.com/microsoft/msbuild)
 - [dotnet/project-system](http://github.com/dotnet/project-system)
 
