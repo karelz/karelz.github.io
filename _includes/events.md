@@ -16,7 +16,6 @@
         - [Mehri Sand](https://www.linkedin.com/in/mehri-sand-b2073638/)
         - [Azadeh Hassanzadeh](https://www.linkedin.com/in/azadeh-h/)
         - [Soudabeh Norouzinia](https://www.linkedin.com/in/sudabehnorouzinia/)
-        - [Philip Laureano](https://twitter.com/philiplaureano)
 
 - 10/21 Mon - Melbourne, AU
     - Local organizers: [Justin Taylor](https://twitter.com/jtango18)
@@ -63,18 +62,23 @@
     - Attendance: 70
 
 - 9/23 Mon - [.NET Community Afternoon - Prague, CZ](https://www.meetup.com/xmdg-cz/events/264530658/) - meet the .NET team members - Microsoft Prague venue
-    - Online: [live-stream on Twitch](https://www.twitch.tv/events/D7fMFnMzTIKy5jov95oUjg) with [video](https://www.twitch.tv/videos/485324093), recordings will be published later to [DotnetCZ youtube channel](https://www.youtube.com/channel/UCbqA6EXdNZTTDBzXd5pIdqA)
+    - Recordings: [DotnetCZ youtube channel](https://www.youtube.com/channel/UCbqA6EXdNZTTDBzXd5pIdqA)
+        - [Tomas Rylek - Deployment options and optimizations in .NET Core](https://www.youtube.com/watch?v=FyvWGuYA0GM) (23 min)
+        - [Jan Vorlicek - Unloadability in .NET Core 3.0](https://www.youtube.com/watch?v=nEstAgTgmL0) (20 min)
+        - [Vit Karas - .NET Core 3 and AppDomains](https://www.youtube.com/watch?v=11kru8dpFTU) (23 min)
+    - Online: [live-stream on Twitch](https://www.twitch.tv/events/D7fMFnMzTIKy5jov95oUjg) with [video](https://www.twitch.tv/videos/485324093)
+    
     - Same talks as in 6/26 event, in English this time
     - Organizers: [Vojtech Madr](https://twitter.com/madrvojt), [David Maly](https://www.linkedin.com/in/david-mal%C3%BD/), [Martin Simecek](https://twitter.com/deeedx) (Microsoft), [Lucie Vasickova](https://twitter.com/lulucieva) (Microsoft), [Karel Zikmund](https://twitter.com/ziki_cz)
     - Attendance: 10 + 45 online views (as of 9/25)
 
 - 9/18 Wed - [.NET MeetUp with Maoni Stephens - Prague, CZ](https://www.meetup.com/xmdg-cz/events/264530629/) - talk about GC and Panel Discussion - Microsoft Prague venue
-    - Recording: [Event live-stream and recording](https://www.youtube.com/watch?v=m4fddMZDceQ)
+    - Recording: [Event live-stream and recording](https://www.youtube.com/watch?v=m4fddMZDceQ) (2h)
     - Organizers: [Vojtech Madr](https://twitter.com/madrvojt), [David Maly](https://www.linkedin.com/in/david-mal%C3%BD/), [Martin Simecek](https://twitter.com/deeedx) (Microsoft), [Lucie Vasickova](https://twitter.com/lulucieva) (Microsoft), [Karel Zikmund](https://twitter.com/ziki_cz)
     - Attendance: 60 + 1,200 online views (as of 9/23)
 
 - 7/23 Tue - [.NET Summer event - Linz, AT](https://www.meetup.com/NET-Stammtisch-Linz/events/261637908/) - meet the .NET team members
-    - Recording: [Event live-stream and recording](https://youtu.be/tlszvLLMc4Q?t=325)
+    - Recording: [Event live-stream and recording](https://youtu.be/tlszvLLMc4Q?t=325) (3.5h)
     - Organizers: [Gergely Kalapos](https://twitter.com/gregkalapos), [Christoph Neumüller](https://twitter.com/discostu105), [Karel Zikmund](https://twitter.com/ziki_cz)
     - Attendance: 70 + 340 online views (as of 9/23)
 
