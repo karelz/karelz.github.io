@@ -66,15 +66,13 @@
         - [Tomas Rylek - Deployment options and optimizations in .NET Core](https://www.youtube.com/watch?v=FyvWGuYA0GM) (23 min)
         - [Jan Vorlicek - Unloadability in .NET Core 3.0](https://www.youtube.com/watch?v=nEstAgTgmL0) (20 min)
         - [Vit Karas - .NET Core 3 and AppDomains](https://www.youtube.com/watch?v=11kru8dpFTU) (23 min)
-    - Online: [live-stream on Twitch](https://www.twitch.tv/events/D7fMFnMzTIKy5jov95oUjg) with [video](https://www.twitch.tv/videos/485324093)
-    
-    - Same talks as in 6/26 event, in English this time
-    - Organizers: [Vojtech Madr](https://twitter.com/madrvojt), [David Maly](https://www.linkedin.com/in/david-mal%C3%BD/), [Martin Simecek](https://twitter.com/deeedx) (Microsoft), [Lucie Vasickova](https://twitter.com/lulucieva) (Microsoft), [Karel Zikmund](https://twitter.com/ziki_cz)
+    - Original [live-stream on Twitch](https://www.twitch.tv/events/D7fMFnMzTIKy5jov95oUjg) with [video](https://www.twitch.tv/videos/485324093)
+    - Organizers: [Tomas Herceg](https://twitter.com/hercegtomas), [Vojtech Madr](https://twitter.com/madrvojt), [David Maly](https://www.linkedin.com/in/david-mal%C3%BD/), [Martin Simecek](https://twitter.com/deeedx), [Lucie Vasickova](https://twitter.com/lulucieva), [Karel Zikmund](https://twitter.com/ziki_cz)
     - Attendance: 10 + 45 online views (as of 9/25)
 
 - 9/18 Wed - [.NET MeetUp with Maoni Stephens - Prague, CZ](https://www.meetup.com/xmdg-cz/events/264530629/) - talk about GC and Panel Discussion - Microsoft Prague venue
     - Recording: [Event live-stream and recording](https://www.youtube.com/watch?v=m4fddMZDceQ) (2h)
-    - Organizers: [Vojtech Madr](https://twitter.com/madrvojt), [David Maly](https://www.linkedin.com/in/david-mal%C3%BD/), [Martin Simecek](https://twitter.com/deeedx) (Microsoft), [Lucie Vasickova](https://twitter.com/lulucieva) (Microsoft), [Karel Zikmund](https://twitter.com/ziki_cz)
+    - Organizers: [Vojtech Madr](https://twitter.com/madrvojt), [David Maly](https://www.linkedin.com/in/david-mal%C3%BD/), [Martin Simecek](https://twitter.com/deeedx), [Lucie Vasickova](https://twitter.com/lulucieva), [Karel Zikmund](https://twitter.com/ziki_cz)
     - Attendance: 60 + 1,200 online views (as of 9/23)
 
 - 7/23 Tue - [.NET Summer event - Linz, AT](https://www.meetup.com/NET-Stammtisch-Linz/events/261637908/) - meet the .NET team members
@@ -91,7 +89,7 @@
     - Attendance: 63
 
 - 6/26 Wed - [.NET Core Summer event - Prague, CZ](https://corestart3.updatedays.cz) - similar to 2017 Prague event, meet the .NET team members (in Czech)
-    - Organizers: [Tomas Herceg](https://twitter.com/hercegtomas), [Lucie Vasickova](https://twitter.com/lulucieva) (Microsoft), [Martin Simecek](https://twitter.com/deeedx) (Microsoft), [Karel Zikmund](https://twitter.com/ziki_cz)
+    - Organizers: [Tomas Herceg](https://twitter.com/hercegtomas), [Lucie Vasickova](https://twitter.com/lulucieva), [Martin Simecek](https://twitter.com/deeedx), [Karel Zikmund](https://twitter.com/ziki_cz)
     - Attendance: 110
 
 - 6/24 Mon - [Discussion with MFF UK students - Prague, CZ](https://opmk.mff.cuni.cz/wiki/studenti/kurzy#setkani_s_absolventy_informatickych_oboru) - 16:00-19:00 at Mala Strana, S8, Prague, CZ (in Czech)
