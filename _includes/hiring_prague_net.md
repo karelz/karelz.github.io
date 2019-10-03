@@ -29,10 +29,10 @@ It does not mean you have to work more or longer hours!
 Your work hours will be flexible, but the job will require you at times to attend some meetings, or communicate with some colleagues at hours outside of "classic" European business hours.
 While it is manageable, it is something to consider as it may impact your established schedule and it may require some flexibility from your side.
 
-If you have questions, or concerns, please bring it up in your discussion with primary contact above.
+If you have questions, or concerns, please bring it up in your discussion with recruiters or hiring managers.
 
 Note that our larger teams already have a few individual remote workers working from Europe, incl. Prague.
-Our US-based team members are used to working with remote workers in Europe and to accomodate to their availability limitations.
+Our US-based team members are used to working with remote workers in Europe and to accommodate to their availability limitations.
 We can share some of their experiences with you if it helps you to make a decision.
 
 
