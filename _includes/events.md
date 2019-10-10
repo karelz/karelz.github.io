@@ -3,19 +3,8 @@
 - 10/15 Tue - [NDC Sydney Special Event Meet Micrsoft Engineers - Sydney, AU](https://www.meetup.com/Girl-Geek-Sydney/events/263745187/)
     - Local organizers: [Azadeh Khojandi](https://twitter.com/azadehkhojandi), [Nelly Sattari](https://twitter.com/nelly_sattari)
 
-- 10/19 Sat - [.NET Down Under Community day - Sydney, AU](https://ti.to/net-down-under-tour-sydney/net-down-under-community-day-2019/) (full-day event, Microsoft Reactor, capacity: 100)
+- 10/19 Sat - [.NET Down Under Community day - Sydney, AU](https://www.dotnetdu2019.dev/) (full-day event, Microsoft Reactor, capacity: 100)
     - Local organizers: [Simon Waight](https://twitter.com/simonwaight), [Mouna Neelakanta](https://twitter.com/mouna1619), [Alec Tucker](https://twitter.com/alecdtucker), [Nelly Sattari](https://twitter.com/nelly_sattari)
-    - Expected speakers:
-        - [Ryan Nowak](https://twitter.com/aVerySpicyBoi) (ASP.NET team)
-        - [James Newton-King](https://twitter.com/JamesNK) (ASP.NET team)
-        - [Don Syme](https://twitter.com/dsyme) (.NET team)
-        - [Karel Zikmund](https://twitter.com/ziki_cz) (CoreFX/BCL team)
-        - [David Kean](https://twitter.com/davkean) (.NET tooling team)
-        - [David Wengier](https://twitter.com/davidwengier) (.NET tooling team)
-        - [Drew Noakes](https://twitter.com/drewnoakes) (.NET tooling team)
-        - [Mehri Sand](https://www.linkedin.com/in/mehri-sand-b2073638/)
-        - [Azadeh Hassanzadeh](https://www.linkedin.com/in/azadeh-h/)
-        - [Soudabeh Norouzinia](https://www.linkedin.com/in/sudabehnorouzinia/)
 
 - 10/21 Mon - Melbourne, AU
     - Local organizers: [Justin Taylor](https://twitter.com/jtango18)
