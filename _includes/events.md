@@ -1,6 +1,6 @@
 # .NET Tour - Down Under Edition - Australia / New Zealand 2019
 
-- 10/15 Tue - [NDC Sydney Special Event Meet Micrsoft Engineers - Sydney, AU](https://www.meetup.com/Girl-Geek-Sydney/events/263745187/)
+- 10/15 Tue - [NDC Sydney Special Event Meet Microsoft Engineers - Sydney, AU](https://www.meetup.com/Girl-Geek-Sydney/events/263745187/)
     - Local organizers: [Azadeh Khojandi](https://twitter.com/azadehkhojandi), [Nelly Sattari](https://twitter.com/nelly_sattari)
 
 - 10/19 Sat - [.NET Down Under Community day - Sydney, AU](https://www.dotnetdu2019.dev/) (full-day event, Microsoft Reactor, capacity: 100)
@@ -18,10 +18,10 @@
     - Local organizers: [Brisbane .NET User Group](https://www.meetup.com/en-AU/Brisbane-Net-User-Group/)
 
 - 10/25 Fri - [Wellington, NZ](https://www.meetup.com/WelliDotNet/events/263818832) (16-20, capacity: 70, hosted by Equinox)
-    - Local organizers: [Bevan Arps](https://twitter.com/unrepentantgeek)
+    - Local organizers: [Bevan Arps](https://twitter.com/unrepentantgeek), 
 
 - 10/29 Tue - Auckland, NZ - TO BE ANNOUNCED on Mon 10/14
-    - Local organizers: [Marcus Bristol](https://twitter.com/mightymuke)
+    - Local organizers: [Marcus Bristol](https://twitter.com/mightymuke), [Alix Klingenberg](https://twitter.com/evolutionises)
     - Expected speakers:
         - [Ryan Nowak](https://twitter.com/aVerySpicyBoi) (ASP.NET team)
         - [Karel Zikmund](https://twitter.com/ziki_cz) (CoreFX/BCL team)
