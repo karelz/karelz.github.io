@@ -11,32 +11,16 @@
     - Expected speakers:
         - [Ryan Nowak](https://twitter.com/aVerySpicyBoi) (ASP.NET team)
         - [Karel Zikmund](https://twitter.com/ziki_cz) (CoreFX/BCL team)
-        - [David Kean](https://twitter.com/davkean) (.NET tooling team)
-        - [David Wengier](https://twitter.com/davidwengier) (.NET tooling team)
-        - [Drew Noakes](https://twitter.com/drewnoakes) (.NET tooling team)
         - [Glenn Watson](https://twitter.com/GlennCoder)
         - Additonal community speakers to be announced
 
-- 10/23 Wed - Brisbane, AU
+- 10/23 Wed - Brisbane, AU - [Afternoon session](https://www.meetup.com/Brisbane-Net-User-Group/events/264974148/) (12-17:30) and [Evening session](https://www.meetup.com/Brisbane-Net-User-Group/events/264974257/) (17:30-20:30)
     - Local organizers: [Brisbane .NET User Group](https://www.meetup.com/en-AU/Brisbane-Net-User-Group/)
-    - Expected speakers:
-        - [Ryan Nowak](https://twitter.com/aVerySpicyBoi) (ASP.NET team)
-        - [Karel Zikmund](https://twitter.com/ziki_cz) (CoreFX/BCL team)
-        - [David Kean](https://twitter.com/davkean) (.NET tooling team)
-        - [David Wengier](https://twitter.com/davidwengier) (.NET tooling team)
-        - [Drew Noakes](https://twitter.com/drewnoakes) (.NET tooling team)
-        - [Alistair Chapman](https://twitter.com/agc93) (Microsoft MVP)
-        - Additonal community speakers to be announced
 
 - 10/25 Fri - [Wellington, NZ](https://www.meetup.com/WelliDotNet/events/263818832) (16-20, capacity: 70, hosted by Equinox)
     - Local organizers: [Bevan Arps](https://twitter.com/unrepentantgeek)
-    - Expected speakers:
-        - [Ryan Nowak](https://twitter.com/aVerySpicyBoi) (ASP.NET team)
-        - [James Newton-King](https://twitter.com/JamesNK) (ASP.NET team)
-        - [Karel Zikmund](https://twitter.com/ziki_cz) (CoreFX/BCL team)
-        - Additonal community speakers to be announced
 
-- 10/28 Mon (TBD) - Auckland, NZ
+- 10/29 Tue - Auckland, NZ - TO BE ANNOUNCED on Mon 10/14
     - Local organizers: [Marcus Bristol](https://twitter.com/mightymuke)
     - Expected speakers:
         - [Ryan Nowak](https://twitter.com/aVerySpicyBoi) (ASP.NET team)
