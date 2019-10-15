@@ -6,13 +6,8 @@
 - 10/19 Sat - [.NET Down Under Community day - Sydney, AU](https://www.dotnetdu2019.dev/) (full-day event, Microsoft Reactor, capacity: 100)
     - Local organizers: [Simon Waight](https://twitter.com/simonwaight), [Mouna Neelakanta](https://twitter.com/mouna1619), [Alec Tucker](https://twitter.com/alecdtucker), [Nelly Sattari](https://twitter.com/nelly_sattari)
 
-- 10/21 Mon - Melbourne, AU
-    - Local organizers: [Justin Taylor](https://twitter.com/jtango18)
-    - Expected speakers:
-        - [Ryan Nowak](https://twitter.com/aVerySpicyBoi) (ASP.NET team)
-        - [Karel Zikmund](https://twitter.com/ziki_cz) (CoreFX/BCL team)
-        - [Glenn Watson](https://twitter.com/GlennCoder)
-        - Additonal community speakers to be announced
+- 10/21 Mon - [Melbourne, AU](https://www.meetup.com/VIC-NET-Meetup/events/nscblpyznbwb/)
+    - Local organizers: [Mahesh Krishnan](https://twitter.com/MaheshKrishnan), [Jimmy P](https://twitter.com/pjimmy), [JT aka Justin Taylor](https://twitter.com/jtango18)
 
 - 10/23 Wed - Brisbane, AU - [Afternoon session](https://www.meetup.com/Brisbane-Net-User-Group/events/264974148/) (12-17:30) and [Evening session](https://www.meetup.com/Brisbane-Net-User-Group/events/264974257/) (17:30-20:30)
     - Local organizers: [Brisbane .NET User Group](https://www.meetup.com/en-AU/Brisbane-Net-User-Group/)
