@@ -15,12 +15,8 @@
 - 10/25 Fri - [Wellington, NZ](https://www.meetup.com/WelliDotNet/events/263818832) (16-20, capacity: 70, hosted by Equinox)
     - Local organizers: [Bevan Arps](https://twitter.com/unrepentantgeek), 
 
-- 10/29 Tue - Auckland, NZ - TO BE ANNOUNCED on Mon 10/14
+- 10/29 Tue - [Auckland, NZ](https://www.meetup.com/AKL-NET/events/265703571/)
     - Local organizers: [Marcus Bristol](https://twitter.com/mightymuke), [Alix Klingenberg](https://twitter.com/evolutionises)
-    - Expected speakers:
-        - [Ryan Nowak](https://twitter.com/aVerySpicyBoi) (ASP.NET team)
-        - [Karel Zikmund](https://twitter.com/ziki_cz) (CoreFX/BCL team)
-        - Additonal community speakers to be announced
 
 # .NET Summer event series in Europe 2019
 
