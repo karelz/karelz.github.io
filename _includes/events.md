@@ -4,7 +4,7 @@
     - Local organizers: [Azadeh Khojandi](https://twitter.com/azadehkhojandi), [Nelly Sattari](https://twitter.com/nelly_sattari)
 
 - 10/19 Sat - [.NET Down Under Community day - Sydney, AU](https://www.dotnetdu2019.dev/) (full-day event, Microsoft Reactor, capacity: 100)
-    - Local organizers: [Simon Waight](https://twitter.com/simonwaight), [Mouna Neelakanta](https://twitter.com/mouna1619), [Alec Tucker](https://twitter.com/alecdtucker), [Nelly Sattari](https://twitter.com/nelly_sattari)
+    - Local organizers: [Simon Waight](https://twitter.com/simonwaight), [Mouna Neelakanta](https://twitter.com/mouna1619), [Will Ray](https://twitter.com/_willray_), [Alec Tucker](https://twitter.com/alecdtucker), [Nelly Sattari](https://twitter.com/nelly_sattari)
 
 - 10/21 Mon - [Melbourne, AU](https://www.meetup.com/VIC-NET-Meetup/events/nscblpyznbwb/)
     - Local organizers: [Mahesh Krishnan](https://twitter.com/MaheshKrishnan), [Jimmy P](https://twitter.com/pjimmy), [JT aka Justin Taylor](https://twitter.com/jtango18)
