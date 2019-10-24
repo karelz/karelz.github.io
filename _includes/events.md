@@ -3,14 +3,19 @@
 - 10/15 Tue - [NDC Sydney Special Event Meet Microsoft Engineers - Sydney, AU](https://www.meetup.com/Girl-Geek-Sydney/events/263745187/)
     - Local organizers: [Azadeh Khojandi](https://twitter.com/azadehkhojandi), [Nelly Sattari](https://twitter.com/nelly_sattari)
 
-- 10/19 Sat - [.NET Down Under Community day - Sydney, AU](https://www.dotnetdu2019.dev/) (full-day event, Microsoft Reactor, capacity: 100)
+- 10/19 Sat - [.NET Down Under Community day - Sydney, AU](https://www.dotnetdu2019.dev/) (full-day event, Microsoft Reactor)
+    - [Live-stream and recording](https://www.youtube.com/watch?v=2MEfRqHDt58)
     - Local organizers: [Simon Waight](https://twitter.com/simonwaight), [Mouna Neelakanta](https://twitter.com/mouna1619), [Will Ray](https://twitter.com/_willray_), [Alec Tucker](https://twitter.com/alecdtucker), [Nelly Sattari](https://twitter.com/nelly_sattari)
+    - Attendance: 70
 
 - 10/21 Mon - [Melbourne, AU](https://www.meetup.com/VIC-NET-Meetup/events/nscblpyznbwb/)
+    - Recoding - TBD (coming up later)
     - Local organizers: [Mahesh Krishnan](https://twitter.com/MaheshKrishnan), [Jimmy P](https://twitter.com/pjimmy), [JT aka Justin Taylor](https://twitter.com/jtango18)
+    - Attendance: 70
 
 - 10/23 Wed - Brisbane, AU - [Afternoon session](https://www.meetup.com/Brisbane-Net-User-Group/events/264974148/) (12-17:30) and [Evening session](https://www.meetup.com/Brisbane-Net-User-Group/events/264974257/) (17:30-20:30)
     - Local organizers: [Brisbane .NET User Group](https://www.meetup.com/en-AU/Brisbane-Net-User-Group/)
+    - Attendance: 70 in each session
 
 - 10/25 Fri - [Wellington, NZ](https://www.meetup.com/WelliDotNet/events/263818832) (16-20, capacity: 70, hosted by Equinox)
     - Local organizers: [Bevan Arps](https://twitter.com/unrepentantgeek), 
