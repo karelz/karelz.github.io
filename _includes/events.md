@@ -5,12 +5,12 @@
     - [live-tweeting](https://twitter.com/ziki_cz/status/1189064970094268421)
     - Attendance: 45
 
-- 2019/10/25 - [Wellington, NZ](https://www.meetup.com/WelliDotNet/events/263818832) (16-20, capacity: 70, hosted by Equinox)
+- 2019/10/25 - [Wellington, NZ](https://www.meetup.com/WelliDotNet/events/263818832)
     - Local organizers: [Bevan Arps](https://twitter.com/unrepentantgeek)
     - [live-tweeting](https://twitter.com/ziki_cz/status/1187630241935585280)
     - Attendance: 30
 
-- 2019/10/23 - Brisbane, AU - [Afternoon session](https://www.meetup.com/Brisbane-Net-User-Group/events/264974148/) (12-17:30) and [Evening session](https://www.meetup.com/Brisbane-Net-User-Group/events/264974257/) (17:30-20:30)
+- 2019/10/23 - Brisbane, AU - [Afternoon session](https://www.meetup.com/Brisbane-Net-User-Group/events/264974148/) and [Evening session](https://www.meetup.com/Brisbane-Net-User-Group/events/264974257/)
     - Local organizers: [Brisbane .NET User Group](https://www.meetup.com/en-AU/Brisbane-Net-User-Group/)
     - [live-tweeting](https://twitter.com/ziki_cz/status/1186941155235303424), [Ryan's talk fork](https://twitter.com/ziki_cz/status/1186850215053135872)
     - Attendance: 70 in each session
