@@ -4,7 +4,7 @@
     - Talks for university students of MFF UK and other Prague universities - to attend in person register [here](http://bit.ly/2CbBXrh)
         - See also [official information at Matfyz](https://opmk.mff.cuni.cz/wiki/studenti/kurzy)
     - **Live-streaming** and recording will be available (delivered by [Martin Simecek](https://twitter.com/deeedx)) - check back here for live-streaming link on the day of the event
-    - Organized by [Karolina Houzvickova-Solcova](https://www.mff.cuni.cz/cs/fakulta/organizacni-struktura/lide?hdl=3951), [Pavel Jezek](https://www.mff.cuni.cz/en/faculty/organizational-structure/people?hdl=2764), [Karel Zikmund](https://karelz.github.io)
+    - Organized by [Karolina Houzvickova-Solcova](https://www.mff.cuni.cz/cs/fakulta/organizacni-struktura/lide?hdl=3951), [Pavel Jezek](https://www.mff.cuni.cz/en/faculty/organizational-structure/people?hdl=2764), [Karel Zikmund](https://twitter.com/ziki_cz)
     - Capacity: 200
 
 # .NET Tour - Down Under Edition - Australia / New Zealand 2019
