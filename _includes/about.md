@@ -17,13 +17,10 @@ See [Hiring for .NET Teams in Prague, Czech Republic](/hiring_prague_net) page f
 
 ## Upcoming Events
 
-- 10/19-28 - .NET Tour - Down Under Edition (Australia & New Zealand) - see also [details](/events)
-    - Destinations: Sydney (10/15 & 10/19), Melbourne (10/21), Brisbane (10/23), Wellington (10/25), Auckland (10/28)
-
-- 2020/1/27-31 - [NDC London](https://ndc-london.com/)
+- 2020/1/29-31 - [NDC London](https://ndc-london.com/)
     - Talk: [Challenges of Managing CoreFX repo](https://ndc-london.com/talk/challenges-of-managing-corefx-repo/)
 
-- ??? 2020/1 (TBD) - .NET Tour series in UK - aspirational
+- 2020/1/28 Tue - .NET Tour series in UK - arrangements in progress
 
 - [Past events and projects](/details)
 - [Active talks on sessionize](https://sessionize.com/karel-zikmund) for conferences and .NET MeetUps

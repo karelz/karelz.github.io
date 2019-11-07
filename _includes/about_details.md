@@ -4,6 +4,53 @@
 
 ### 2019
 
+- 2019/10/29 - [Auckland, NZ](https://www.meetup.com/AKL-NET/events/265703571/)
+    - Co-organizer with [Marcus Bristol](https://twitter.com/mightymuke), [Alix Klingenberg](https://twitter.com/evolutionises)
+    - **Intro** (not recorded)
+    - **War stories from .NET team** (not recorded)
+
+- 2019/10/25 - [Wellington, NZ](https://www.meetup.com/WelliDotNet/events/263818832)
+    - Co-organizer with [Bevan Arps](https://twitter.com/unrepentantgeek)
+    - **Intro** (not recorded)
+    - **War stories from .NET team** (not recorded)
+
+- 2019/10/23 - Brisbane, AU - [Afternoon session](https://www.meetup.com/Brisbane-Net-User-Group/events/264974148/) and [Evening session](https://www.meetup.com/Brisbane-Net-User-Group/events/264974257/)
+    - Co-organizer with [Brisbane .NET User Group](https://www.meetup.com/en-AU/Brisbane-Net-User-Group/)
+    - **Intro** (not recorded)
+    - **War stories from .NET team** (not recorded)
+
+- 2019/10/21 - [Melbourne, AU](https://www.meetup.com/VIC-NET-Meetup/events/nscblpyznbwb/)
+    - Co-organizer with [Mahesh Krishnan](https://twitter.com/MaheshKrishnan), [Jimmy P.](https://twitter.com/pjimmy), [JT](https://twitter.com/jtango18)
+    - **Intro** (not recorded)
+    - **War stories from .NET team** - video TBD
+
+- 2019/10/19 - [.NET Down Under Community day - Sydney, AU](https://www.dotnetdu2019.dev/)
+    - Co-organizer with [Simon Waight](https://twitter.com/simonwaight), [Mouna Neelakanta](https://twitter.com/mouna1619), [Will Ray](https://twitter.com/_willray_), [Alec Tucker](https://twitter.com/alecdtucker), [Nelly Sattari](https://twitter.com/nelly_sattari)
+    - https://www.youtube.com/watch?v=2MEfRqHDt58
+    - **Intro** (not recorded)
+    - **War stories from .NET team** - [video](https://youtu.be/2MEfRqHDt58?t=562) (32 min)
+
+- 10/16-18 - [NDC Sydney 2019](https://ndcsydney.com/) conference (Sydney, AU)
+    - **Async demystified** - [talk info](https://ndcoslo.com/talk/war-stories-from-net-team/), [video](https://www.youtube.com/watch?v=TgUYcZV-foM) (45 min) and slides (TODO later)
+
+- 10/15 - [NDC Sydney Special Event Meet Microsoft Engineers - Sydney, AU](https://www.meetup.com/Girl-Geek-Sydney/events/263745187/)
+    - Co-organizer with [Azadeh Khojandi](https://twitter.com/azadehkhojandi), [Nelly Sattari](https://twitter.com/nelly_sattari)
+    - **Intro** (not recorded)
+    - **War stories from .NET team** (not recorded)
+
+- 2019/9/23 - [.NET Conf kick off - Prague, CZ](https://www.meetup.com/Prague-NET-Meetup/events/264688694/) (in Czech)
+    - **Talk about .NET, .NET Core and .NET Foundation** - intro/kick off for .NET Conf keynote viewing (not recorded)
+
+- 2019/9/23 - [.NET Community Afternoon - Prague, CZ](https://www.meetup.com/xmdg-cz/events/264530658/) - meet the .NET team members
+    - Co-organizer with [Tomas Herceg](https://twitter.com/hercegtomas), [Vojtech Madr](https://twitter.com/madrvojt), [David Maly](https://www.linkedin.com/in/david-mal%C3%BD/), [Martin Simecek](https://twitter.com/deeedx), [Lucie Vasickova](https://twitter.com/lulucieva)
+    - **Intro** (not recorded)
+    - **Async demystified** (not recorded)
+
+- 9/18 - [.NET MeetUp with Maoni Stephens - Prague, CZ](https://www.meetup.com/xmdg-cz/events/264530629/) - talk about GC and Panel Discussion - Microsoft Prague venue
+    - Co-organizer with [Vojtech Madr](https://twitter.com/madrvojt), [David Maly](https://www.linkedin.com/in/david-mal%C3%BD/), [Martin Simecek](https://twitter.com/deeedx), [Lucie Vasickova](https://twitter.com/lulucieva)
+    - **Intro** - [video](https://www.youtube.com/watch?v=m4fddMZDceQ) (3 min)
+    - **Discussion panel** - [video](https://youtu.be/m4fddMZDceQ?t=4823) (50 min)
+
 - 7/23 Tue - [.NET Summer event - Linz, AT](https://www.meetup.com/NET-Stammtisch-Linz/events/261637908/) - meet the .NET team members
     - Co-organizer with [Gergely Kalapos](https://twitter.com/gregkalapos), [Christoph Neumüller](https://twitter.com/discostu105)
     - **Introductions** - [video](https://www.youtube.com/watch?v=tlszvLLMc4Q&t=922s) (6 min) and [slides](https://www.slideshare.net/KarelZikmund1/net-core-summer-event-2019-in-linz-at-introductions-karel-zikmund)
