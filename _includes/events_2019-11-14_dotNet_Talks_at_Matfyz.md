@@ -21,7 +21,7 @@ You gonna have a chance to meet some of the industry gurus during their visit in
     - About speaker:
         - Jared is Developer on the C# compiler and member of the C# language design team. Has a strong passion for developer tools and infrastructure.
 
-- 18:45-20:30 - **Why managed memory is fooling us?** by [Konrad Kokosa](https://twitter.com/konradkokosa)
+- 19:45-20:30 - **Why managed memory is fooling us?** by [Konrad Kokosa](https://twitter.com/konradkokosa)
     - Abstract:
         - We all have been fooled! They told us that automatic memory management will solve all our problems. In managed worlds like .NET, JVM and others there is no memory leak, they said. You will never need to think about freeing memory manually. There is no need to think about memory management at all, they said. And they all lied! Automatic memory management is a very convenient abstraction. Backed by tons of academical papers, it becomes an everyday programmers life. And as any other abstraction… it eventually leaks. In most unpredictable and unpleasant way. No matter what platform or language you use. So this is where theory meets reality and that's why it is so fascinating!
     - About speaker:
