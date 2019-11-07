@@ -1,3 +1,12 @@
+# Upcoming events
+
+- 2019/11/14 Thu - [.NET Talks at Matfyz in Preague, CZ](/events/events_2019-11-14_dotNet_Talks_at_Matfyz) (auditorium S5, Malostranske square 25, Prague) - talks for university students (in English)
+    - Talks for university students of MFF UK and other Prague universities - to attend in person register [here](http://bit.ly/2CbBXrh)
+        - Official information on Matfyz: https://opmk.mff.cuni.cz/wiki/studenti/kurzy
+    - **Live-streaming** and recording will be available (delivered by [Martin Simecek](https://twitter.com/deeedx)) - check back here for live-streaming link on the day of the event
+    - Organized by [Karolina Houzvickova-Solcova](https://www.mff.cuni.cz/cs/fakulta/organizacni-struktura/lide?hdl=3951), [Pavel Jezek](https://www.mff.cuni.cz/en/faculty/organizational-structure/people?hdl=2764), [Karel Zikmund](https://karelz.github.io)
+    - Capacity: 200
+
 # .NET Tour - Down Under Edition - Australia / New Zealand 2019
 
 - 2019/10/29 - [Auckland, NZ](https://www.meetup.com/AKL-NET/events/265703571/)
