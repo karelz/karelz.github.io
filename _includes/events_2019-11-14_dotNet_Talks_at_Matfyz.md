@@ -1,8 +1,11 @@
 # .NET Talks at Matfyz in Prague, CZ - 2019/11/14
 
-Talks for **university students**, hosted at MFF UK (Faculty of Mathematics and Physics, Charles University) in Prague, CZ.
-    - If you are MFF UK student or student at **another Prague university**, please register here: https://opmk.mff.cuni.cz/wiki/studenti/kurzy to attend in person
-    - **Live-streaming** and recording will be available (delivered by [Martin Simecek](https://twitter.com/deeedx)) - check back here for live-streaming link on the day of the event
+Talks for **university students**, hosted at MFF UK (Faculty of Mathematics and Physics, Charles University) in Prague, CZ
+- When: 11/14 Thu at 19-21
+- Where: Auditorium S5 at Matfyz, Malostranske square 25, Prague
+- Registration: if you are MFF UK student or student at **another university** and want to attend in person, please register [here](http://bit.ly/2CbBXrh)
+    - See also [official information at Matfyz](https://opmk.mff.cuni.cz/wiki/studenti/kurzy)
+- **Live-streaming** and recording will be available (delivered by [Martin Simecek](https://twitter.com/deeedx)) - check back here for live-streaming link on the day of the event
 
 
 Organized by [Karolina Houzvickova-Solcova](https://www.mff.cuni.cz/cs/fakulta/organizacni-struktura/lide?hdl=3951), [Pavel Jezek](https://www.mff.cuni.cz/en/faculty/organizational-structure/people?hdl=2764), [Karel Zikmund](https://karelz.github.io)
