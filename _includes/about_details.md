@@ -4,27 +4,27 @@
 
 ### 2019
 
-- 2019/10/29 - [Auckland, NZ](https://www.meetup.com/AKL-NET/events/265703571/)
+- 10/29 - [Auckland, NZ](https://www.meetup.com/AKL-NET/events/265703571/)
     - Co-organizer with [Marcus Bristol](https://twitter.com/mightymuke), [Alix Klingenberg](https://twitter.com/evolutionises)
     - **Intro** (not recorded)
     - **War stories from .NET team** (not recorded)
 
-- 2019/10/25 - [Wellington, NZ](https://www.meetup.com/WelliDotNet/events/263818832)
+- 10/25 - [Wellington, NZ](https://www.meetup.com/WelliDotNet/events/263818832)
     - Co-organizer with [Bevan Arps](https://twitter.com/unrepentantgeek)
     - **Intro** (not recorded)
     - **War stories from .NET team** (not recorded)
 
-- 2019/10/23 - Brisbane, AU - [Afternoon session](https://www.meetup.com/Brisbane-Net-User-Group/events/264974148/) and [Evening session](https://www.meetup.com/Brisbane-Net-User-Group/events/264974257/)
+- 10/23 - Brisbane, AU - [Afternoon session](https://www.meetup.com/Brisbane-Net-User-Group/events/264974148/) and [Evening session](https://www.meetup.com/Brisbane-Net-User-Group/events/264974257/)
     - Co-organizer with [Brisbane .NET User Group](https://www.meetup.com/en-AU/Brisbane-Net-User-Group/)
     - **Intro** (not recorded)
     - **War stories from .NET team** (not recorded)
 
-- 2019/10/21 - [Melbourne, AU](https://www.meetup.com/VIC-NET-Meetup/events/nscblpyznbwb/)
+- 10/21 - [Melbourne, AU](https://www.meetup.com/VIC-NET-Meetup/events/nscblpyznbwb/)
     - Co-organizer with [Mahesh Krishnan](https://twitter.com/MaheshKrishnan), [Jimmy P.](https://twitter.com/pjimmy), [JT](https://twitter.com/jtango18)
     - **Intro** (not recorded)
     - **War stories from .NET team** - video TBD
 
-- 2019/10/19 - [.NET Down Under Community day - Sydney, AU](https://www.dotnetdu2019.dev/)
+- 10/19 - [.NET Down Under Community day - Sydney, AU](https://www.dotnetdu2019.dev/)
     - Co-organizer with [Simon Waight](https://twitter.com/simonwaight), [Mouna Neelakanta](https://twitter.com/mouna1619), [Will Ray](https://twitter.com/_willray_), [Alec Tucker](https://twitter.com/alecdtucker), [Nelly Sattari](https://twitter.com/nelly_sattari)
     - https://www.youtube.com/watch?v=2MEfRqHDt58
     - **Intro** (not recorded)
@@ -38,10 +38,10 @@
     - **Intro** (not recorded)
     - **War stories from .NET team** (not recorded)
 
-- 2019/9/23 - [.NET Conf kick off - Prague, CZ](https://www.meetup.com/Prague-NET-Meetup/events/264688694/) (in Czech)
+- 9/23 - [.NET Conf kick off - Prague, CZ](https://www.meetup.com/Prague-NET-Meetup/events/264688694/) (in Czech)
     - **Talk about .NET, .NET Core and .NET Foundation** - intro/kick off for .NET Conf keynote viewing (not recorded)
 
-- 2019/9/23 - [.NET Community Afternoon - Prague, CZ](https://www.meetup.com/xmdg-cz/events/264530658/) - meet the .NET team members
+- 9/23 - [.NET Community Afternoon - Prague, CZ](https://www.meetup.com/xmdg-cz/events/264530658/) - meet the .NET team members
     - Co-organizer with [Tomas Herceg](https://twitter.com/hercegtomas), [Vojtech Madr](https://twitter.com/madrvojt), [David Maly](https://www.linkedin.com/in/david-mal%C3%BD/), [Martin Simecek](https://twitter.com/deeedx), [Lucie Vasickova](https://twitter.com/lulucieva)
     - **Intro** (not recorded)
     - **Async demystified** (not recorded)
