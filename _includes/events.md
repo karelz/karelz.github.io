@@ -1,6 +1,6 @@
 # Upcoming events
 
-- 2019/11/14 Thu - [.NET Talks at Matfyz in Preague, CZ](/events/events_2019-11-14_dotNet_Talks_at_Matfyz) (auditorium S5, Malostranske square 25, Prague) - talks for university students (in English)
+- 2019/11/14 Thu @ 19-21 - [.NET Talks at Matfyz in Preague, CZ](/events/events_2019-11-14_dotNet_Talks_at_Matfyz) (auditorium S5, Malostranske square 25, Prague) - talks for university students (in English)
     - Talks for university students of MFF UK and other Prague universities - to attend in person register [here](http://bit.ly/2CbBXrh)
         - See also [official information at Matfyz](https://opmk.mff.cuni.cz/wiki/studenti/kurzy)
     - **Live-streaming** and recording will be available (delivered by [Martin Simecek](https://twitter.com/deeedx)) - check back here for live-streaming link on the day of the event
