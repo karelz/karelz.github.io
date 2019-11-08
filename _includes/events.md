@@ -1,6 +1,6 @@
 # Upcoming events
 
-- 2019/11/14 Thu @ 19-21 - [.NET Talks at Matfyz in Preague, CZ](/events/events_2019-11-14_dotNet_Talks_at_Matfyz) (auditorium S5, Malostranske square 25, Prague) - talks for university students (in English)
+- 2019/11/14 Thu @ 19-21 - [.NET Talks at Matfyz in Preague, CZ](/events/events_2019-11-14_dotNet_Talks_at_Matfyz) - auditorium S5, Malostranske square 25, Prague - talks for university students (in English)
     - Talks for university students of MFF UK and other Prague universities - to attend in person register [here](http://bit.ly/2CbBXrh)
         - See also [official information at Matfyz](https://opmk.mff.cuni.cz/wiki/studenti/kurzy)
     - **Live-streaming** and recording will be available (delivered by [Martin Simecek](https://twitter.com/deeedx)) - check back here for live-streaming link on the day of the event
@@ -9,22 +9,22 @@
 
 # .NET Tour - Down Under Edition - Australia / New Zealand 2019
 
-- 2019/10/29 - [Auckland, NZ](https://www.meetup.com/AKL-NET/events/265703571/)
+- 2019/10/29 - [.NET Tour Down Under - Auckland, NZ](https://www.meetup.com/AKL-NET/events/265703571/)
     - Local organizers: [Marcus Bristol](https://twitter.com/mightymuke), [Alix Klingenberg](https://twitter.com/evolutionises)
     - [live-tweeting](https://twitter.com/ziki_cz/status/1189064970094268421)
     - Attendance: 45
 
-- 2019/10/25 - [Wellington, NZ](https://www.meetup.com/WelliDotNet/events/263818832)
+- 2019/10/25 - [.NET Tour Down Under - Wellington, NZ](https://www.meetup.com/WelliDotNet/events/263818832)
     - Local organizers: [Bevan Arps](https://twitter.com/unrepentantgeek)
     - [live-tweeting](https://twitter.com/ziki_cz/status/1187630241935585280)
     - Attendance: 30
 
-- 2019/10/23 - Brisbane, AU - [Afternoon session](https://www.meetup.com/Brisbane-Net-User-Group/events/264974148/) and [Evening session](https://www.meetup.com/Brisbane-Net-User-Group/events/264974257/)
+- 2019/10/23 - .NET Tour Down Under - Brisbane, AU - [Afternoon session](https://www.meetup.com/Brisbane-Net-User-Group/events/264974148/) and [Evening session](https://www.meetup.com/Brisbane-Net-User-Group/events/264974257/)
     - Local organizers: [Brisbane .NET User Group](https://www.meetup.com/en-AU/Brisbane-Net-User-Group/)
     - [live-tweeting](https://twitter.com/ziki_cz/status/1186941155235303424), [Ryan's talk fork](https://twitter.com/ziki_cz/status/1186850215053135872)
     - Attendance: 70 in each session
 
-- 2019/10/21 - [Melbourne, AU](https://www.meetup.com/VIC-NET-Meetup/events/nscblpyznbwb/)
+- 2019/10/21 - [.NET Tour Down Under - Melbourne, AU](https://www.meetup.com/VIC-NET-Meetup/events/nscblpyznbwb/)
     - Recoding - TBD (coming up later)
     - Local organizers: [Mahesh Krishnan](https://twitter.com/MaheshKrishnan), [Jimmy P.](https://twitter.com/pjimmy), [JT](https://twitter.com/jtango18)
     - [live-tweeting](https://twitter.com/ziki_cz/status/1186166622047703040) + mentions by [@davidwengier](https://twitter.com/davidwengier/status/1186204033591083013), [@EmadAshi](https://twitter.com/EmadAshi/status/1186202423016083456) + [after party with JetBrains folks](https://twitter.com/ziki_cz/status/1186240654222839808)
@@ -90,7 +90,7 @@
         - Mentions by [@deeedx](https://twitter.com/deeedx/status/1143807433720160258), [@daveaglick](https://twitter.com/daveaglick/status/1143869746003218432), [@matthewwarren](https://twitter.com/matthewwarren/status/1144174196681072641)
     - Attendance: 110
 
-- 2019/6/24 - [Discussion with MFF UK students - Prague, CZ](https://opmk.mff.cuni.cz/wiki/studenti/kurzy#setkani_s_absolventy_informatickych_oboru) - 16:00-19:00 at Mala Strana, S8, Prague, CZ (in Czech)
+- 2019/6/24 - Discussion with MFF UK students - Prague, CZ - 16:00-19:00 at Mala Strana, S8, Prague, CZ (in Czech)
     - Participants: Hana Lapkova (Oracle), [Tomas Herceg](https://twitter.com/hercegtomas) (Riganti), [Martin Duchacek](https://twitter.com/MDuchacek) (RSJ), [Karel Zikmund](https://twitter.com/ziki_cz) (Microsoft)
     - Interviews with participants: [Martin Duchacek](https://www.matfyz.cz/clanky/1361-setkani-s-absolventy-martin-duchacek), [Tomas Herceg & Karel Zikmund](https://www.matfyz.cz/clanky/1360-setkani-s-absolventy-karel-zikmund-a-tomas-herceg), [Hana Lapkova](https://www.matfyz.cz/clanky/1366-setkani-s-absolventy-hana-lapkova)
     - Organizers: [Karolina Houzvickova Solcova](https://www.mff.cuni.cz/cs/fakulta/organizacni-struktura/lide?hdl=3951) (MFF UK), [Karel Zikmund](https://twitter.com/ziki_cz)
