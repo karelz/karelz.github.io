@@ -5,7 +5,7 @@ Talks for **all university students**, hosted at MFF UK (Faculty of Mathematics 
 - Where: Auditorium S5 at [Matfyz](https://twitter.com/matfyz), Malostranske square 25, Prague
 - Registration: if you are MFF UK student or student at **any other university** and want to attend in person, please [register](http://bit.ly/2CbBXrh).
     - See also [official information at Matfyz](https://opmk.mff.cuni.cz/wiki/studenti/kurzy)
-- [**Live-streaming** and recording](https://www.youtube.com/watch?v=4HN1pSHq7wY) (delivered by [Martin Simecek](https://twitter.com/deeedx))
+- [Live-streaming and recording](https://www.youtube.com/watch?v=4HN1pSHq7wY) (delivered by [Martin Simecek](https://twitter.com/deeedx))
 
 
 Organized by [Karolina Houzvickova-Solcova](https://www.mff.cuni.cz/cs/fakulta/organizacni-struktura/lide?hdl=3951), [Pavel Jezek](https://www.mff.cuni.cz/en/faculty/organizational-structure/people?hdl=2764), [Karel Zikmund](https://twitter.com/ziki_cz)
