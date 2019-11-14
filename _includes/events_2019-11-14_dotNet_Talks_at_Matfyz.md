@@ -31,3 +31,16 @@ You gonna have a chance to meet some of the industry gurus during their visit in
         - We all have been fooled! They told us that automatic memory management will solve all our problems. In managed worlds like .NET, JVM and others there is no memory leak, they said. You will never need to think about freeing memory manually. There is no need to think about memory management at all, they said. And they all lied! Automatic memory management is a very convenient abstraction. Backed by tons of academical papers, it becomes an everyday programmers life. And as any other abstraction… it eventually leaks. In most unpredictable and unpleasant way. No matter what platform or language you use. So this is where theory meets reality and that's why it is so fascinating!
     - About speaker:
         - Konrad is author of the Pro .NET Memory Management book. Independentconsultant, blogger, speaker and fan of Twitter. He also shares his passion asa trainer in the area of .NET, especially about application performance and diagnostics. Microsoft MVP. Co-founder of https://dotnetos.org initiative.
+
+## Resources
+
+- 11/21 - [**Meet Microsoft event**](http://tinyurl.com/yyakba2v)
+- 12/4 - [**Scott Hanselman in Prague**](http://webtest.dotnetdays.cz/Dotnet-Days-Scott-Hanselman)
+- 2020/2/4 Tue - **Discussion with University students** - similar to [event from 6/24](https://karelz.github.io/events/)
+    - Participants: Hana Lapkova (Oracle), [Tomas Herceg](https://twitter.com/hercegtomas) (Riganti), [Martin Duchacek](https://twitter.com/MDuchacek) (RSJ), [Karel Zikmund](https://twitter.com/ziki_cz) (Microsoft)
+    - Interviews with participants: [Martin Duchacek](https://www.matfyz.cz/clanky/1361-setkani-s-absolventy-martin-duchacek), [Tomas Herceg & Karel Zikmund](https://www.matfyz.cz/clanky/1360-setkani-s-absolventy-karel-zikmund-a-tomas-herceg), [Hana Lapkova](https://www.matfyz.cz/clanky/1366-setkani-s-absolventy-hana-lapkova)
+
+- Microsoft Development Center Prague is hiring - [https://aka.ms/UniversityEngineering](https://aka.ms/UniversityEngineering)
+- Azure subscription for students
+    - With Microsoft Azure for Students, students get a $100 Azure credit. There is no credit card needed and 12 months of free Azure services.
+    - Azure for Students can be activated here: [https://azure.microsoft.com/en-us/free/students/](https://azure.microsoft.com/en-us/free/students/)
