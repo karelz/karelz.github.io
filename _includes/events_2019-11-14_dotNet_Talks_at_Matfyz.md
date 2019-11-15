@@ -3,9 +3,8 @@
 Talks for **all university students**, hosted at MFF UK (Faculty of Mathematics and Physics, Charles University) in Prague, CZ
 - When: 11/14 Thu at 19-21
 - Where: Auditorium S5 at [Matfyz](https://twitter.com/matfyz), Malostranske square 25, Prague
-- Registration: if you are MFF UK student or student at **any other university** and want to attend in person, please [register](http://bit.ly/2CbBXrh).
-    - See also [official information at Matfyz](https://opmk.mff.cuni.cz/wiki/studenti/kurzy)
-- [Live-streaming and recording](https://www.youtube.com/watch?v=4HN1pSHq7wY) (delivered by [Martin Simecek](https://twitter.com/deeedx))
+- Registration: if you are MFF UK student or student at **any other university** and want to attend in person, please [register](http://bit.ly/2CbBXrh)
+- [Live-streamed and recorded](https://youtu.be/4HN1pSHq7wY?t=330) (delivered by [Martin Simecek](https://twitter.com/deeedx))
 
 
 Organized by [Karolina Houzvickova-Solcova](https://www.mff.cuni.cz/cs/fakulta/organizacni-struktura/lide?hdl=3951), [Pavel Jezek](https://www.mff.cuni.cz/en/faculty/organizational-structure/people?hdl=2764), [Karel Zikmund](https://twitter.com/ziki_cz)
@@ -34,8 +33,8 @@ You gonna have a chance to meet some of the industry gurus during their visit in
 
 ## Resources
 
-- 11/21 - [**Meet Microsoft event**](http://tinyurl.com/yyakba2v)
-- 12/4 - [**Scott Hanselman in Prague**](http://webtest.dotnetdays.cz/Dotnet-Days-Scott-Hanselman)
+- 11/21 - [Meet Microsoft event](http://tinyurl.com/yyakba2v)
+- 12/4 - [Scott Hanselman in Prague](http://webtest.dotnetdays.cz/Dotnet-Days-Scott-Hanselman)
 - 2020/2/4 Tue - **Discussion with University students** - similar to [event from 6/24](https://karelz.github.io/events/)
     - Participants: Hana Lapkova (Oracle), [Tomas Herceg](https://twitter.com/hercegtomas) (Riganti), [Martin Duchacek](https://twitter.com/MDuchacek) (RSJ), [Karel Zikmund](https://twitter.com/ziki_cz) (Microsoft)
     - Interviews with participants: [Martin Duchacek](https://www.matfyz.cz/clanky/1361-setkani-s-absolventy-martin-duchacek), [Tomas Herceg & Karel Zikmund](https://www.matfyz.cz/clanky/1360-setkani-s-absolventy-karel-zikmund-a-tomas-herceg), [Hana Lapkova](https://www.matfyz.cz/clanky/1366-setkani-s-absolventy-hana-lapkova)
@@ -43,4 +42,4 @@ You gonna have a chance to meet some of the industry gurus during their visit in
 - Microsoft Development Center Prague is hiring - [https://aka.ms/UniversityEngineering](https://aka.ms/UniversityEngineering)
 - Azure subscription for students
     - With Microsoft Azure for Students, students get a $100 Azure credit. There is no credit card needed and 12 months of free Azure services.
-    - Azure for Students can be activated here: [https://azure.microsoft.com/en-us/free/students/](https://azure.microsoft.com/en-us/free/students/)
+    - Azure for Students can be [activated here](https://azure.microsoft.com/en-us/free/students/)

@@ -4,6 +4,13 @@
 
 ### 2019
 
+- 11/14 - [.NET Talks at Matfyz in Preague, CZ](/events/events_2019-11-14_dotNet_Talks_at_Matfyz) - talks for university students (in English)
+    - Co-organizer with [Karolina Houzvickova-Solcova](https://www.mff.cuni.cz/cs/fakulta/organizacni-struktura/lide?hdl=3951), [Pavel Jezek](https://www.mff.cuni.cz/en/faculty/organizational-structure/people?hdl=2764)
+    - **Intro** & **Speakers introductions** - [video (with hiccups)](https://youtu.be/4HN1pSHq7wY?t=330)
+
+- 11/14 - [Update Conference 2019](https://www.updateconference.net/en/2019/schedule)
+    - **Q&A: Askt he Product Group Anything** - discussion panel with [Miguel de Icaza](https://twitter.com/migueldeicaza), [Steve Carroll](https://twitter.com/ScareAll), [Mei-Chin Tsai](https://twitter.com/Mei_Chin_Tsai), [Marek Safar](https://twitter.com/mareksafar), [Jared Parsons](https://twitter.com/jaredpar), [Karel Zikmund](https://twitter.com/ziki_cz) - recording TODO / [tweet](https://twitter.com/update_conf/status/1195341548508110853)
+
 - 10/29 - [Auckland, NZ](https://www.meetup.com/AKL-NET/events/265703571/)
     - Co-organizer with [Marcus Bristol](https://twitter.com/mightymuke), [Alix Klingenberg](https://twitter.com/evolutionises)
     - **Intro** (not recorded)

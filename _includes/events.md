@@ -1,49 +1,64 @@
-# Upcoming events
+Events I organized or co-roganized.
 
-- 2019/11/14 Thu @ 19-21 - [.NET Talks at Matfyz in Preague, CZ](/events/events_2019-11-14_dotNet_Talks_at_Matfyz) - auditorium S5, Malostranske square 25, Prague - talks for university students (in English)
-    - Talks for university students of MFF UK and other Prague universities - to attend in person register [here](http://bit.ly/2CbBXrh)
-        - See also [official information at Matfyz](https://opmk.mff.cuni.cz/wiki/studenti/kurzy)
-    - **Live-streaming** and recording will be available (delivered by [Martin Simecek](https://twitter.com/deeedx)) - check back here for live-streaming link on the day of the event
+## Upcoming events
+
+- 2020/2/4 - Discussion with MFF UK students - Prague, CZ (in Czech)
+    - Participants: TBD - Hana Lapkova (Oracle), [Tomas Herceg](https://twitter.com/hercegtomas) (Riganti), [Martin Duchacek](https://twitter.com/MDuchacek) (RSJ), [Karel Zikmund](https://twitter.com/ziki_cz) (Microsoft)
+    - Interviews with participants: [Martin Duchacek](https://www.matfyz.cz/clanky/1361-setkani-s-absolventy-martin-duchacek), [Tomas Herceg & Karel Zikmund](https://www.matfyz.cz/clanky/1360-setkani-s-absolventy-karel-zikmund-a-tomas-herceg), [Hana Lapkova](https://www.matfyz.cz/clanky/1366-setkani-s-absolventy-hana-lapkova)
+    - Organizers: [Karolina Houzvickova Solcova](https://www.mff.cuni.cz/cs/fakulta/organizacni-struktura/lide?hdl=3951) (MFF UK), [Karel Zikmund](https://twitter.com/ziki_cz)
+
+- 2019/12/4 - [Scott Hanselman visit](http://webtest.dotnetdays.cz/Dotnet-Days-Scott-Hanselman) - Prague, CZ
+    - Organizers: [Lucie Vasickova](https://twitter.com/lulucieva), [Karel Zikmund](https://twitter.com/ziki_cz), [Xamarin Developers Group Czech](https://twitter.com/xmdg_cz), [WUG Praha](https://twitter.com/wugcz), [Miroslav Holec](https://twitter.com/miroslavholec)
+    - Capacity: 120
+
+## Past events
+
+- 2019/11/14 - [.NET Talks at Matfyz in Preague, CZ](/events/events_2019-11-14_dotNet_Talks_at_Matfyz) - auditorium S5, Malostranske square 25, Prague - talks for university students (in English)
     - Organized by [Karolina Houzvickova-Solcova](https://www.mff.cuni.cz/cs/fakulta/organizacni-struktura/lide?hdl=3951), [Pavel Jezek](https://www.mff.cuni.cz/en/faculty/organizational-structure/people?hdl=2764), [Karel Zikmund](https://twitter.com/ziki_cz)
-    - Capacity: 200
+    - Talks for university students of MFF UK and other Prague universities
+    - Recording: [Event live-stream and Recording](https://www.youtube.com/watch?v=4HN1pSHq7wY) - due to hiccups, mostly sound only with slides on Twitter:
+        - [Miguel de Icaza - Unplugged](https://twitter.com/ziki_cz/status/1195043759727300608)
+        - [Jared Parsons - C#: Life in a production compiler](https://twitter.com/ziki_cz/status/1195054414257643522)
+        - [Konrad Kokosa - Why managed memory is fooling us?](https://twitter.com/ziki_cz/status/1195064075799146496)
+    - Attendace: 55 + 40 online
 
-# .NET Tour - Down Under Edition - Australia / New Zealand 2019
+## .NET Tour - Down Under Edition - Australia / New Zealand 2019
 
 - 2019/10/29 - [.NET Tour Down Under - Auckland, NZ](https://www.meetup.com/AKL-NET/events/265703571/)
-    - Local organizers: [Marcus Bristol](https://twitter.com/mightymuke), [Alix Klingenberg](https://twitter.com/evolutionises)
+    - Organizers: [Marcus Bristol](https://twitter.com/mightymuke), [Alix Klingenberg](https://twitter.com/evolutionises), [Karel Zikmund](https://twitter.com/ziki_cz)
     - [live-tweeting](https://twitter.com/ziki_cz/status/1189064970094268421)
     - Attendance: 45
 
 - 2019/10/25 - [.NET Tour Down Under - Wellington, NZ](https://www.meetup.com/WelliDotNet/events/263818832)
-    - Local organizers: [Bevan Arps](https://twitter.com/unrepentantgeek)
+    - Organizers: [Bevan Arps](https://twitter.com/unrepentantgeek), [Karel Zikmund](https://twitter.com/ziki_cz)
     - [live-tweeting](https://twitter.com/ziki_cz/status/1187630241935585280)
     - Attendance: 30
 
 - 2019/10/23 - .NET Tour Down Under - Brisbane, AU - [Afternoon session](https://www.meetup.com/Brisbane-Net-User-Group/events/264974148/) and [Evening session](https://www.meetup.com/Brisbane-Net-User-Group/events/264974257/)
-    - Local organizers: [Brisbane .NET User Group](https://www.meetup.com/en-AU/Brisbane-Net-User-Group/)
+    - Organizers: [Brisbane .NET User Group](https://www.meetup.com/en-AU/Brisbane-Net-User-Group/), [Karel Zikmund](https://twitter.com/ziki_cz)
     - [live-tweeting](https://twitter.com/ziki_cz/status/1186941155235303424), [Ryan's talk fork](https://twitter.com/ziki_cz/status/1186850215053135872)
     - Attendance: 70 in each session
 
 - 2019/10/21 - [.NET Tour Down Under - Melbourne, AU](https://www.meetup.com/VIC-NET-Meetup/events/nscblpyznbwb/)
     - Recoding - TBD (coming up later)
-    - Local organizers: [Mahesh Krishnan](https://twitter.com/MaheshKrishnan), [Jimmy P.](https://twitter.com/pjimmy), [JT](https://twitter.com/jtango18)
+    - Organizers: [Mahesh Krishnan](https://twitter.com/MaheshKrishnan), [Jimmy P.](https://twitter.com/pjimmy), [JT](https://twitter.com/jtango18), [Karel Zikmund](https://twitter.com/ziki_cz)
     - [live-tweeting](https://twitter.com/ziki_cz/status/1186166622047703040) + mentions by [@davidwengier](https://twitter.com/davidwengier/status/1186204033591083013), [@EmadAshi](https://twitter.com/EmadAshi/status/1186202423016083456) + [after party with JetBrains folks](https://twitter.com/ziki_cz/status/1186240654222839808)
     - Attendance: 70
 
 - 2019/10/19 - [.NET Down Under Community day - Sydney, AU](https://www.dotnetdu2019.dev/) (full-day event, Microsoft Reactor)
     - [Live-stream and recording](https://www.youtube.com/watch?v=2MEfRqHDt58)
-    - Local organizers: [Simon Waight](https://twitter.com/simonwaight), [Mouna Neelakanta](https://twitter.com/mouna1619), [Will Ray](https://twitter.com/_willray_), [Alec Tucker](https://twitter.com/alecdtucker), [Nelly Sattari](https://twitter.com/nelly_sattari)
+    - Organizers: [Simon Waight](https://twitter.com/simonwaight), [Mouna Neelakanta](https://twitter.com/mouna1619), [Will Ray](https://twitter.com/_willray_), [Alec Tucker](https://twitter.com/alecdtucker), [Nelly Sattari](https://twitter.com/nelly_sattari), [Karel Zikmund](https://twitter.com/ziki_cz)
     - [live-tweeting](https://twitter.com/ziki_cz/status/1185422332111785984) + random pics of [attendees](https://twitter.com/ziki_cz/status/1185323208628690944), [Olia's video](https://twitter.com/ziki_cz/status/1185306423418327040), [panel discussion](https://twitter.com/ziki_cz/status/1185422568515350529)
         - Mentions by [@SomyAyazi](https://twitter.com/SomyAyazi/status/1185359774902128641), [@davidwengier](https://twitter.com/davidwengier/status/1185377347052003329), [@sudinorouzinia](https://twitter.com/sudinorouzinia/status/1185559080246464512), [@mouna1619](https://twitter.com/mouna1619/status/1185388918432137219), [@data_messe](https://twitter.com/data_messe/status/1185364090836770817)
         - Mini-videos of talks by [Ryan](https://twitter.com/mouna1619/status/1185324003251982336), [David W.](https://twitter.com/mouna1619/status/1185350386409820160), [Drew](https://twitter.com/mouna1619/status/1185388655239524352), [Don](https://twitter.com/mouna1619/status/1185383303597019137)
     - Attendance: 70
 
 - 2019/10/15 - [NDC Sydney Special Event Meet Microsoft Engineers - Sydney, AU](https://www.meetup.com/Girl-Geek-Sydney/events/263745187/)
-    - Local organizers: [Azadeh Khojandi](https://twitter.com/azadehkhojandi), [Nelly Sattari](https://twitter.com/nelly_sattari)
+    - Organizers: [Azadeh Khojandi](https://twitter.com/azadehkhojandi), [Nelly Sattari](https://twitter.com/nelly_sattari), [Karel Zikmund](https://twitter.com/ziki_cz)
     - Attendance: 70-80
     - [live-tweeting](https://twitter.com/ziki_cz/status/1184038878736453632) + mentions by [@SomyAyazi](https://twitter.com/SomyAyazi/status/1184090891167748096), [@coding_mama](https://twitter.com/coding_mama/status/1184016640117067776)
 
-# .NET Summer event series in Europe 2019
+## .NET Summer event series in Europe 2019
 
 - 2019/9/23 - [.NET Conf kick off - Prague, CZ](https://www.meetup.com/Prague-NET-Meetup/events/264688694/) (in Czech) - Avast venue
     - Talk about .NET, .NET Core and .NET Foundation - intro/kick off for .NET Conf keynote viewing
@@ -105,19 +120,22 @@
     - Attendance: 190
 
 
-# .NET MeetUps series in Europe 2017
+## .NET MeetUps series in Europe 2017
 
 - 2017/8/1 - [.NET MeetUp - Brno, CZ](/events/2017-08-01_dotNetMeetUp_Brno)
+    - Organizers: [WUG Brno](http://wug.cz/), [Karel Zikmund](https://twitter.com/ziki_cz)
     - Live-tweeting: [Radka's talk](https://twitter.com/ziki_cz/status/892409393966395392), [Marek's talk](https://twitter.com/ziki_cz/status/892431541871284224), [Vitek's talk](https://twitter.com/ziki_cz/status/892440106249973760), [Jan's talk](https://twitter.com/ziki_cz/status/892443467581972481)
     - Attendance: 50
 
 - 2017/7/19 - [.NET MeetUp - Prague, CZ](/events/2017-07-19_dotNetMeetUp_Prague)
+    - Organizers: [WUG Praha](http://wug.cz/), [Karel Zikmund](https://twitter.com/ziki_cz)
     - Live-tweeting: [Karel's .NET Standard talk](https://twitter.com/ElaMoscicka/status/887702765845319680)
     [Karel's Managing CoreFX repo talk](https://twitter.com/madrvojt/status/887713509726932994), [Marek's talk](https://twitter.com/ziki_cz/status/887734166841962502), [Vitek's talk](https://twitter.com/ziki_cz/status/887739731399913474), [Jan K.'s talk](https://twitter.com/ziki_cz/status/887741750319513600), [Adam's talk](https://twitter.com/ziki_cz/status/887744593739079685), [Jan V.'s talk](https://twitter.com/ziki_cz/status/887750304426602496), [Ela's talk](https://twitter.com/ziki_cz/status/887754016192692224), [after party](https://twitter.com/ziki_cz/status/887770002862088192)
         - Mentions by [@deeedx](https://twitter.com/deeedx/status/888183646812852225)
     - Attendance: 140
 
 - 2017/7/11 - [.NET MeetUp - Amsterdam, NL](/events/2017-07-11_dotNetMeetUp_Amsterdam)
+    - Organizers: [Edwin van Wijk](https://twitter.com/evanwijk), [Jonathan Mezach](https://twitter.com/jmezach), [Karel Zikmund](https://twitter.com/ziki_cz)
     - Live-tweeting: [getting ready](https://twitter.com/ziki_cz/status/884781483659071488), [food](https://twitter.com/evanwijk/status/884812128938491904), [Jonathan's talk #1](https://twitter.com/evanwijk/status/884832421870542848), [Jonathan's talk #2](https://twitter.com/ziki_cz/status/884834697418854400), [Karel's talk](https://twitter.com/evanwijk/status/884820451888951296), [wrapping up](https://twitter.com/evanwijk/status/884917954277670913)
         - Mentions by [@amolenk](https://twitter.com/amolenk/status/884819650273583104), [@TimSeaw](https://twitter.com/TimSeaw/status/884861172146688002)
     - Attendance: 30-40
