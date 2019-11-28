@@ -32,7 +32,7 @@
     - **War stories from .NET team** - video TBD
 
 - 10/19 - [.NET Down Under Community day - Sydney, AU](https://www.dotnetdu2019.dev/)
-    - Co-organizer with [Simon Waight](https://twitter.com/simonwaight), [Mouna Neelakanta](https://twitter.com/mouna1619), [Will Ray](https://twitter.com/_willray_), [Alec Tucker](https://twitter.com/alecdtucker), [Nelly Sattari](https://twitter.com/nelly_sattari)
+    - Co-organizer with [Simon Waight](https://twitter.com/simonwaight), [Mouna Neelakanta](https://twitter.com/mouna1619), [Will Ray](https://twitter.com/_WillRay), [Alec Tucker](https://twitter.com/alecdtucker), [Nelly Sattari](https://twitter.com/nelly_sattari)
     - https://www.youtube.com/watch?v=2MEfRqHDt58
     - **Intro** (not recorded)
     - **War stories from .NET team** - [video](https://youtu.be/2MEfRqHDt58?t=562) (32 min)
