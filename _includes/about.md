@@ -17,10 +17,10 @@ See [Hiring for .NET Teams in Prague, Czech Republic](/hiring_prague_net) page f
 
 ## Upcoming Events
 
+- 2020/1/28 Tue - [.NET Tour UK](https://dotnettour.github.io/UKTour2020/)
+
 - 2020/1/29-31 - [NDC London](https://ndc-london.com/)
     - Talk: [Challenges of Managing CoreFX repo](https://ndc-london.com/talk/challenges-of-managing-corefx-repo/)
-
-- 2020/1/28 Tue - .NET Tour series in UK - arrangements in progress
 
 - [Past events and projects](/details)
 - [Active talks on sessionize](https://sessionize.com/karel-zikmund) for conferences and .NET MeetUps

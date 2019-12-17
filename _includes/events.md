@@ -7,11 +7,16 @@ Events I organized or co-roganized.
     - Interviews with participants: [Martin Duchacek](https://www.matfyz.cz/clanky/1361-setkani-s-absolventy-martin-duchacek), [Tomas Herceg & Karel Zikmund](https://www.matfyz.cz/clanky/1360-setkani-s-absolventy-karel-zikmund-a-tomas-herceg), [Hana Lapkova](https://www.matfyz.cz/clanky/1366-setkani-s-absolventy-hana-lapkova)
     - Organizers: [Karolina Houzvickova Solcova](https://www.mff.cuni.cz/cs/fakulta/organizacni-struktura/lide?hdl=3951) (MFF UK), [Karel Zikmund](https://twitter.com/ziki_cz)
 
-- 2019/12/4 - [Scott Hanselman visit](http://webtest.dotnetdays.cz/Dotnet-Days-Scott-Hanselman) - Prague, CZ
-    - Organizers: [Lucie Vasickova](https://twitter.com/lulucieva), [Karel Zikmund](https://twitter.com/ziki_cz), [Xamarin Developers Group Czech](https://twitter.com/xmdg_cz), [WUG Praha](https://twitter.com/wugcz), [Miroslav Holec](https://twitter.com/miroslavholec)
-    - Capacity: 120
+- 2020/1/28 - [.NET Tour UK](https://dotnettour.github.io/UKTour2020/)
+    - Organizers: [Steve Gordon](https://twitter.com/stevejgordon), [Karel Zikmund](https://twitter.com/ziki_cz) and UK MeetUps (TBD)
+    - [Tweeting #DotNetTourUK](https://twitter.com/search?q=%23DotNetTourUK)
 
 ## Past events
+
+- 2019/12/4 - [Scott Hanselman visit](http://webtest.dotnetdays.cz/Dotnet-Days-Scott-Hanselman) - Prague, CZ
+    - Organized by [Lucie Vasickova](https://twitter.com/lulucieva), [Karel Zikmund](https://twitter.com/ziki_cz), [Xamarin Developers Group Czech](https://twitter.com/xmdg_cz), [WUG Praha](https://twitter.com/wugcz), [Miroslav Holec](https://twitter.com/miroslavholec)
+    - Recording and live-steeaming: [Full event](https://www.youtube.com/watch?v=potFhvkgreA)
+    - Attendance: 120
 
 - 2019/11/14 - [.NET Talks at Matfyz in Preague, CZ](/events/events_2019-11-14_dotNet_Talks_at_Matfyz) - auditorium S5, Malostranske square 25, Prague - talks for university students (in English)
     - Organized by [Karolina Houzvickova-Solcova](https://www.mff.cuni.cz/cs/fakulta/organizacni-struktura/lide?hdl=3951), [Pavel Jezek](https://www.mff.cuni.cz/en/faculty/organizational-structure/people?hdl=2764), [Karel Zikmund](https://twitter.com/ziki_cz)
