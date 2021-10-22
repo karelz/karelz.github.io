@@ -1,10 +1,36 @@
 # Events, Conferences, Public Appearances
 
+### 2021
+
+- 10/26 - Tech talk at FI MUNI - Brno, CZ
+    - **What's new in .NET 6** (not recorded)
+    - **War stories from .NET team** (not recorded)
+    - **Q&A** (not recorded)
+
 
 ### 2020
 
+- 11/24 - Tech talk at FI MUNI - Brno, CZ - online event
+    - **What's new in .NET 5** (not recorded)
+    - **War stories from .NET team** (not recorded)
+    - **Q&A** (not recorded)
+
+- 9/7 - Discussion with MUNI students and staff - Brno, CZ
+    - About Microsoft and University cooperation
+
+- 2/6 - [Discussion with MFF UK students - Prague, CZ](https://opmk.mff.cuni.cz/wiki/studenti/kurzy#setkani_s_absolventy_informatickych_oboru) (in Czech)
+    - Co-organizer with [Karolina Houzvickova Solcova](https://www.mff.cuni.cz/cs/fakulta/organizacni-struktura/lide?hdl=3951) (MFF UK)
+    - Participants: Hana Lapkova (Oracle), [Tomas Herceg](https://twitter.com/hercegtomas) (Riganti), Tomas Karban (RSJ), [Karel Zikmund](https://twitter.com/ziki_cz) (Microsoft)
+
+- 2/5 - Tech talks at American University in Bulgaria - online event
+    - **War stories from .NET team** (not recorded)
+
+- 2/5 - [.NET MeetUp in Prague, CZ](https://www.meetup.com/Prague-NET-Meetup/events/268323465)
+    - Co-organizer with [Vojtech Madr](https://twitter.com/madrvojt)
+    - **Async demystified** - [video (with hiccups)](https://www.youtube.com/watch?v=yUoF18Np3fg) (0:15-0:55)
+
 - 1/29-31 - [NDC London 2020](https://ndc-london.com/)
-    - Talk: [Challenges of Managing CoreFX repo](https://ndc-london.com/talk/challenges-of-managing-corefx-repo/), [video](https://www.youtube.com/watch?v=zLB2_h-3ZS4) (65 min) and slides (TODO later)
+    - **Challenges of Managing CoreFX repo** [talk info](https://ndc-london.com/talk/challenges-of-managing-corefx-repo/), [video](https://www.youtube.com/watch?v=zLB2_h-3ZS4) (65 min) and slides (TODO later)
 
 - 1/28 - [.NET Tour UK](https://dotnettour.github.io/UKTour2020/) (16 speakers in 8 locations)
     - Co-organizer with [Steve Gordon](https://twitter.com/stevejgordon)
@@ -18,7 +44,7 @@
     - **Intro** & **Speakers introductions** - [video (with hiccups)](https://youtu.be/4HN1pSHq7wY?t=330)
 
 - 11/14 - [Update Conference 2019](https://www.updateconference.net/en/2019/schedule)
-    - **Q&A: Askt he Product Group Anything** - discussion panel with [Miguel de Icaza](https://twitter.com/migueldeicaza), [Steve Carroll](https://twitter.com/ScareAll), [Mei-Chin Tsai](https://twitter.com/Mei_Chin_Tsai), [Marek Safar](https://twitter.com/mareksafar), [Jared Parsons](https://twitter.com/jaredpar), [Karel Zikmund](https://twitter.com/ziki_cz) - recording TODO / [tweet](https://twitter.com/update_conf/status/1195341548508110853)
+    - **Q&A: Askt he Product Group Anything** - discussion panel with [Miguel de Icaza](https://twitter.com/migueldeicaza), [Steve Carroll](https://twitter.com/ScareAll), [Mei-Chin Tsai](https://twitter.com/Mei_Chin_Tsai), [Marek Safar](https://twitter.com/mareksafar), [Jared Parsons](https://twitter.com/jaredpar), [Karel Zikmund](https://twitter.com/ziki_cz) - [video](https://www.youtube.com/watch?v=sJNlraZ4lGs) (55 min) / [tweet](https://twitter.com/update_conf/status/1195341548508110853)
 
 - 10/29 - [.NET Tour Down Under - Auckland, NZ](https://www.meetup.com/AKL-NET/events/265703571/)
     - Co-organizer with [Marcus Bristol](https://twitter.com/mightymuke), [Alix Klingenberg](https://twitter.com/evolutionises)
