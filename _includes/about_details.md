@@ -1,6 +1,15 @@
 # Events, Conferences, Public Appearances
 
 
+### 2020
+
+- 1/29-31 - [NDC London 2020](https://ndc-london.com/)
+    - Talk: [Challenges of Managing CoreFX repo](https://ndc-london.com/talk/challenges-of-managing-corefx-repo/), [video](https://www.youtube.com/watch?v=zLB2_h-3ZS4) (65 min) and slides (TODO later)
+
+- 1/28 - [.NET Tour UK](https://dotnettour.github.io/UKTour2020/) (16 speakers in 8 locations)
+    - Co-organizer with [Steve Gordon](https://twitter.com/stevejgordon)
+    - **Async demystified** (not recorded)
+
 
 ### 2019
 
@@ -11,27 +20,27 @@
 - 11/14 - [Update Conference 2019](https://www.updateconference.net/en/2019/schedule)
     - **Q&A: Askt he Product Group Anything** - discussion panel with [Miguel de Icaza](https://twitter.com/migueldeicaza), [Steve Carroll](https://twitter.com/ScareAll), [Mei-Chin Tsai](https://twitter.com/Mei_Chin_Tsai), [Marek Safar](https://twitter.com/mareksafar), [Jared Parsons](https://twitter.com/jaredpar), [Karel Zikmund](https://twitter.com/ziki_cz) - recording TODO / [tweet](https://twitter.com/update_conf/status/1195341548508110853)
 
-- 10/29 - [Auckland, NZ](https://www.meetup.com/AKL-NET/events/265703571/)
+- 10/29 - [.NET Tour Down Under - Auckland, NZ](https://www.meetup.com/AKL-NET/events/265703571/)
     - Co-organizer with [Marcus Bristol](https://twitter.com/mightymuke), [Alix Klingenberg](https://twitter.com/evolutionises)
     - **Intro** (not recorded)
     - **War stories from .NET team** (not recorded)
 
-- 10/25 - [Wellington, NZ](https://www.meetup.com/WelliDotNet/events/263818832)
+- 10/25 - [.NET Tour Down Under - Wellington, NZ](https://www.meetup.com/WelliDotNet/events/263818832)
     - Co-organizer with [Bevan Arps](https://twitter.com/unrepentantgeek)
     - **Intro** (not recorded)
     - **War stories from .NET team** (not recorded)
 
-- 10/23 - Brisbane, AU - [Afternoon session](https://www.meetup.com/Brisbane-Net-User-Group/events/264974148/) and [Evening session](https://www.meetup.com/Brisbane-Net-User-Group/events/264974257/)
+- 10/23 - .NET Tour Down Under - Brisbane, AU - [Afternoon session](https://www.meetup.com/Brisbane-Net-User-Group/events/264974148/) and [Evening session](https://www.meetup.com/Brisbane-Net-User-Group/events/264974257/)
     - Co-organizer with [Brisbane .NET User Group](https://www.meetup.com/en-AU/Brisbane-Net-User-Group/)
     - **Intro** (not recorded)
     - **War stories from .NET team** (not recorded)
 
-- 10/21 - [Melbourne, AU](https://www.meetup.com/VIC-NET-Meetup/events/nscblpyznbwb/)
+- 10/21 - [.NET Tour Down Under - Melbourne, AU](https://www.meetup.com/VIC-NET-Meetup/events/nscblpyznbwb/)
     - Co-organizer with [Mahesh Krishnan](https://twitter.com/MaheshKrishnan), [Jimmy P.](https://twitter.com/pjimmy), [JT](https://twitter.com/jtango18)
     - **Intro** (not recorded)
     - **War stories from .NET team** - video TBD
 
-- 10/19 - [.NET Down Under Community day - Sydney, AU](https://www.dotnetdu2019.dev/)
+- 10/19 - [.NET Tour Down Under - Community day - Sydney, AU](https://www.dotnetdu2019.dev/)
     - Co-organizer with [Simon Waight](https://twitter.com/simonwaight), [Mouna Neelakanta](https://twitter.com/mouna1619), [Will Ray](https://twitter.com/_WillRay), [Alec Tucker](https://twitter.com/alecdtucker), [Nelly Sattari](https://twitter.com/nelly_sattari)
     - https://www.youtube.com/watch?v=2MEfRqHDt58
     - **Intro** (not recorded)
@@ -58,7 +67,7 @@
     - **Intro** - [video](https://www.youtube.com/watch?v=m4fddMZDceQ) (3 min)
     - **Discussion panel** - [video](https://youtu.be/m4fddMZDceQ?t=4823) (50 min)
 
-- 7/23 Tue - [.NET Summer event - Linz, AT](https://www.meetup.com/NET-Stammtisch-Linz/events/261637908/) - meet the .NET team members
+- 7/23 Tue - [.NET Core Summer event - Linz, AT](https://www.meetup.com/NET-Stammtisch-Linz/events/261637908/) - meet the .NET team members
     - Co-organizer with [Gergely Kalapos](https://twitter.com/gregkalapos), [Christoph Neumüller](https://twitter.com/discostu105)
     - **Introductions** - [video](https://www.youtube.com/watch?v=tlszvLLMc4Q&t=922s) (6 min) and [slides](https://www.slideshare.net/KarelZikmund1/net-core-summer-event-2019-in-linz-at-introductions-karel-zikmund)
     - **War stories from .NET team** - [video](https://www.youtube.com/watch?v=tlszvLLMc4Q&t=7711s) (50 min) and [slides](https://www.slideshare.net/KarelZikmund1/net-core-summer-event-2019-in-linz-at-war-stories-from-net-team-karel-zikmund)
@@ -71,7 +80,7 @@
     - **.NET Core Networking stack and Performance** (in Czech) - [video](https://www.wug.cz/zaznamy/522--NET-Core-Summer-event-NET-Core-Networking-stack-evolution-to-high-performance) (45 min) and [slides](https://www.slideshare.net/KarelZikmund1/net-core-summer-event-2019-in-brno-cz-net-core-networking-stack-and-performance-karel-zikmund)
     - **Async demystified** (in English) - [video](https://www.wug.cz/zaznamy/523--NET-Core-Summer-event-Async-demystified) (50 min) and [slides](https://www.slideshare.net/KarelZikmund1/net-core-summer-event-2019-in-brno-cz-async-demystified-karel-zikmund)
 
-- 7/4 - [.NET Summer event - Vienna, AT](https://www.meetup.com/dotnet-austria/events/262250140/)
+- 7/4 - [.NET Core Summer event - Vienna, AT](https://www.meetup.com/dotnet-austria/events/262250140/)
     - Co-organizer with [Andreas Willich](https://twitter.com/SabotageAndi), [Raoul Holzer](https://twitter.com/RaoulHolzer)
     - **Introductions** - video and [slides](https://www.slideshare.net/KarelZikmund1/net-core-summer-event-2019-in-vienna-at-introduction-karel-zikmund) - TODO (ETA: coule of weeks)
     -  **War stories from .NET team** - video and [slides](https://www.slideshare.net/KarelZikmund1/net-core-summer-event-2019-in-vienna-at-war-stories-from-net-team-karel-zikmund-154309765) - TODO (ETA: couple of weeks)
@@ -167,22 +176,27 @@ See also [my LinkedIn profile](https://www.linkedin.com/in/karelzikmund).
 
 I am on [.NET team](http://blogs.msdn.com/b/dotnet/) since my start at Microsoft in 2005:
 
-- 2016/9-today - Manager on CoreFX team (.NET Core, [CoreFX repo](https://github.com/dotnet/corefx), Base Class Libraries)
-    - Community manager on CoreFX repo - issue management, dealing with hot/problematic issues, ensuring smooth involvement of CoreFX community, transparency with CoreFX community, etc.
-    - Manager of a few CoreFX areas - Networking, Process, Infrastructure, etc. (until 2017/9 - Security, Collections)
-    - Driver of .NET Core releases in CoreFX repo.
+- 2016/9-today - **Manager on .NET Libraries team** (.NET Core, [Runtime repo](https://github.com/dotnet/runtime), Base Class Libraries)
+    - Manager of Networking area (client stack and low-level APIs like Sockets, DNS)
+    - Manager of a few additional .NET Libraries areas (beside Networking):
+        - Process, Infrastructure, etc. - until 2019/10
+        - Security, Collections, etc. - until 2017/9
+    - Roles in [CoreFX repo](https://github.com/dotnet/corefx) prior to [repos consolidation](https://github.com/dotnet/runtime/issues/13257) - until 2019/11:
+        - Driver of .NET Core releases in CoreFX repo.
+        - Community manager on CoreFX repo - issue management, dealing with hot/problematic issues, ensuring smooth involvement of CoreFX community, transparency with CoreFX community, etc.
 
-- 2015/12-2016/8 - Manager of .NET Native toolchain team
+- 2015/12-2016/8 - **Manager of .NET Native toolchain team**
     - Responsible for customer feedback response, test infrastructure (mainly functional and application compatibility), test results monitoring, Visual Studio and Microsoft Store integration. 
     - Driver of .NET Native releases.
 
-- 2012-2015/11 - Manager of CLR Performance and Reliability team
+- 2012-2015/11 - **Manager of CLR Performance and Reliability team**
     - Responsible for some Runtime feature areas: Eventing (EventSource, logging, PerfCounters) and GC (Garbage Collector).
     - Responsible for perf and realiability goals, tooling and infrastructure across .NET Framework, .NET Core and .NET Native.
     - Responsible for .NET Quick Response Team - first response, investigation and routing.
     - Hiring manager for CLR team (informational meetings, interview loops + scheduling).
 
-- 2005-2012 - owner/co-owner of [CLR](http://en.wikipedia.org/wiki/Common_Language_Runtime) components: shim (mscoree.dll), MetaData, TypeSystem, Loader (incl. Fusion, AppX/WinRT loader), NGen.
+- 2005-2012 - **SW Engineer on CLR team**
+    - owner/co-owner of [CLR](http://en.wikipedia.org/wiki/Common_Language_Runtime) components: shim (mscoree.dll), MetaData, TypeSystem, Loader (incl. Fusion, AppX/WinRT loader), NGen.
 
 References:
 
@@ -196,7 +210,7 @@ References:
 
 ### Previous Jobs
 
-- 2003/12-2005/9 (2 years) - Sun Microsystems - Quality Engineer Team Lead
+- 2003/12-2005/9 (2 years) - **Sun Microsystems - Quality Engineer Team Lead**
     - Quality Engineer on [NetBeans IDE](http://netbeans.org) (opensource Java IDE) in Sun's Prague, CZ subsidiary.
     - I have worked mainly on webapps module and lead the webapps QE team since 2004/9
     - Most interesting and valuable experiences:
@@ -208,7 +222,7 @@ References:
         - Close and productive cooperation between dev and test teams, and also UI/doc teams.
     - References: [list of bugs I touched](http://netbeans.org/bugzilla/buglist.cgi?emailcc1=1;emailreporter1=1;emaillongdesc1=1;emailtype1=substring;emailassigned_to1=1;query_format=advanced;emailqa_contact1=1;bug_status=UNCONFIRMED;bug_status=NEW;bug_status=STARTED;bug_status=REOPENED;bug_status=RESOLVED;bug_status=VERIFIED;bug_status=CLOSED;email1=zikmund) and [my name in public documents](http://netbeans.org/search_result.html?cx=006102455337629464213%3Amt38ytkbuak&cof=FORID%3A11&q=Karel+Zikmund&siteurl=netbeans.org%252Findex.html&ref=netbeans.org%2Findex.html&siteurl=netbeans.org%252Findex.html&ref=netbeans.org%2Findex.html&sa.x=27&sa.y=12)
 
-- 1998/11-2003/12 (5 years) - Secunet - Developer / Quality Assurance Engineer
+- 1998/11-2003/12 (5 years) - **Secunet - Developer / Quality Assurance Engineer**
     - Developer and Quality Assurance Engineer in Secunet's Prague subsidiary.
     - Work during studies at university. 
     - Most interesting and valuable experiences:
@@ -219,12 +233,12 @@ References:
 
 # Education
 
-- 2002-2003 (1 year) - PhD program (finished without graduation) in Computer Science at Charles University in Prague, CZ
+- 2002-2003 (1 year) - **PhD program (finished without graduation) in Computer Science at Charles University** in Prague, CZ
     - Faculty of Mathematics and Physics at Charles University in Prague (MFF UK).
     - Study topic: Computer Science - Neural Networks.
     - Finished without graduation in second year.
 
-- 1996-2002 (6 years) - MSc (Mgr.) in Computer Science at Charles University in Prague, CZ
+- 1996-2002 (6 years) - **MSc (Mgr.) in Computer Science at Charles University** in Prague, CZ
     - Faculty of Mathematics and Physics at Charles University in Prague (MFF UK).
     - Major specialization: Computer Science (Neural networks, Non-procedural programming, Logic and Set theory).
     - Master thesis: Non-standard set theory
@@ -240,7 +254,7 @@ References:
         - M&M web site (HTML, JavaScript, PHP)
     - Activities and Societies: [M&M](http://mam.mff.cuni.cz) - the correspondence-based competition in Mathematics, Physics and Computer Science for high school students. Lead organizer around 2000-2003.
 
-- 1992-1996 (4 years) - High School at Gymnazium Jihlava in Jihlava, CZ
+- 1992-1996 (4 years) - **High School at Gymnazium Jihlava** in Jihlava, CZ
     - Achievements:
         - 1996 - 45th Czech national olympiad in Informatics - [Successful Solver](http://mo.mff.cuni.cz/p/45/vysledky-3.html)
         - 1996 - 45th Czech national olympiad in Mathematics - Successful Solver

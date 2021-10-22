@@ -1,41 +1,25 @@
 ![Picture of Karel Zikmund](/images/karelz.jpg)
 
 My name is Karel Zikmund.
-I am Software Engineering Manager on .NET team - .NET Core / Base Class Libraries / CoreFX team at [Microsoft](https://www.microsoft.com/).
+I am Software Engineering Manager on .NET team - .NET Libraries / Base Class Libraries at [Microsoft](https://www.microsoft.com/).
 
-I spend most of my time at job as community manager of [CoreFX repo](https://github.com/dotnet/corefx) and as manager of a few CoreFX areas like Networking, Process, etc.
+I spend most of my time as manager of Networking team.
 
-You can find me and contact me on [Twitter](https://twitter.com/ziki_cz), on [GitHub](https://github.com/karelz) (incl. [gitter.im](https://gitter.im) as karelz), via [email](mailto:karelz@microsoft.com), or on [LinkedIn](https://www.linkedin.com/in/karelzikmund).
+You can find me and contact me on [Twitter](https://twitter.com/ziki_cz), on [GitHub](https://github.com/karelz), via [email](mailto:karelz@microsoft.com), or on [LinkedIn](https://www.linkedin.com/in/karelzikmund).
+
+
+
+## Upcoming Events
+
+- **[Past events and projects](/details)**
+
+- [Active talks on sessionize](https://sessionize.com/karel-zikmund) for conferences and .NET MeetUps
 
 
 
 ## Hiring for .NET Teams in Prague, Czech Republic
 
 See [Hiring for .NET Teams in Prague, Czech Republic](/hiring_prague_net) page for details.
-
-
-
-## Upcoming Events
-
-- 2020/1/28 Tue - [.NET Tour UK](https://dotnettour.github.io/UKTour2020/)
-
-- 2020/1/29-31 - [NDC London](https://ndc-london.com/)
-    - Talk: [Challenges of Managing CoreFX repo](https://ndc-london.com/talk/challenges-of-managing-corefx-repo/)
-
-- [Past events and projects](/details)
-- [Active talks on sessionize](https://sessionize.com/karel-zikmund) for conferences and .NET MeetUps
-
-
-
-## Projects and Wish List
-
-- [Mock interviews](/mock_interviews) - started in 2019/1
-
-- CoreFX repo - [New Contributor Docs](https://github.com/dotnet/corefx/wiki/New-contributor-Docs) (in progress with community help), also discussed in [dotnet/corefx#20570](https://github.com/dotnet/corefx/issues/20570)
-
-- GitHub issue management tooling - [Designing new service with web UI](https://github.com/karelz/GitHubIssues#v2---web-ui) (with help from community) - on hold.
-
-- CoreFX repo - Regular (monthly) alpha versions of .NET Core - see details in [dotnet/corefx#20911](https://github.com/dotnet/corefx/issues/20911)
 
 
 
