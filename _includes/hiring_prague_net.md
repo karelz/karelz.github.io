@@ -1,10 +1,14 @@
-# Hiring for .NET Teams in Prague, Czech Republic
+# 2019 - Hiring for .NET Teams in Prague, Czech Republic
 
-As of 2019/9/18 we are officially announcing extension of our .NET teams in Prague, Czech Republic:
-- **.NET Tooling team** - see [full job description](https://careers.microsoft.com/us/en/job/646082/Software-Engineer-NET-TOOLING) where you can apply
-    - We are adding 2 additional full teams (incl. manager position for each of them).
-    - Positions: Software Engineer & Software Engineer Manager
-        - Note: The manager position will be published later (over next couple of weeks) - in the meantime, please apply to the Software Engineer position above and mentioned you are interested in the manager position on the team.
+In 2019 we annnounced hiring for 4 .NET teams in Prague, Czech Republic:
+- **.NET Engineering Services team** - see [full job description](https://careers.microsoft.com/i/us/en/job/632975/Software-Engineer-Core-Development-Tools)
+    - See [this blog post](https://devblogs.microsoft.com/dotnet/the-evolving-infrastructure-of-net-core/) to learn what the team does.
+    - Hiring started on 2019/6/5
+- **Base Class Libraries / Networking team** - see [full job description](https://careers.microsoft.com/i/us/en/job/633945/Software-Engineer-NET-Core-Platform)
+    - See [this post](/networking_resources) to learn what the team does, and where it is heading (managed by [ziki_cz](https://twitter.com/ziki_cz)).
+    - Hiring started on 2019/6/5
+- **.NET Tooling team** - see [full job description](https://careers.microsoft.com/us/en/job/646082/Software-Engineer-NET-TOOLING)
+    - We added 2 full teams (incl. manager position for each of them) on 2019/9/18.
 
 
 **Basic infornation:**
@@ -12,12 +16,6 @@ As of 2019/9/18 we are officially announcing extension of our .NET teams in Prag
 - Remote: No (we expect 60% presence in Microsoft Prague office)
 - Relocation: Yes
 - Visa sponsorship: Yes
-
-**Timeline:** We expect to host a hiring event in Prague 11/18-11/20. We will conduct some interviews remotely/ad-hoc when candidate availability is limited at the time of the hiring event.
-
-For context, we have hired during this summer 2 full teams which are already starting in Prague:
-- **.NET Engineering Services team** - see [this blog post](https://devblogs.microsoft.com/dotnet/the-evolving-infrastructure-of-net-core/) to learn what the team does (manager of the team will start in October). Note: Currently we are not looking for more applicants to this specific job position.
-- **Base Class Libraries / Networking team** - see [this post](/networking_resources) to learn what the team does, and where it is heading (managed by [ziki_cz](https://twitter.com/ziki_cz)). Note: Currently we are not looking for more applicants to this specific job position.
 
 
 ### International teams working across time-zones
