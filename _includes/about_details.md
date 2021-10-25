@@ -1,11 +1,14 @@
 # Events, Conferences, Public Appearances
 
+
+
 ### 2021
 
 - 10/26 - Tech talk at FI MUNI - Brno, CZ
     - **What's new in .NET 6** (not recorded)
     - **War stories from .NET team** (not recorded)
     - **Q&A** (not recorded)
+
 
 
 ### 2020
@@ -30,20 +33,12 @@
     - **Async demystified** - [video (with hiccups)](https://www.youtube.com/watch?v=yUoF18Np3fg) (0:15-0:55)
 
 - 1/29-31 - [NDC London 2020](https://ndc-london.com/)
-    - **Challenges of Managing CoreFX repo** [talk info](https://ndc-london.com/talk/challenges-of-managing-corefx-repo/), [video](https://www.youtube.com/watch?v=zLB2_h-3ZS4) (65 min) and slides (TODO later)
+    - **Challenges of Managing CoreFX repo** - [talk info](https://ndc-london.com/talk/challenges-of-managing-corefx-repo/), [video](https://www.youtube.com/watch?v=zLB2_h-3ZS4) (65 min) and slides (TODO later)
 
 - 1/28 - [.NET Tour UK](https://dotnettour.github.io/UKTour2020/) (16 speakers in 8 locations)
     - Co-organizer with [Steve Gordon](https://twitter.com/stevejgordon)
     - **Async demystified** (not recorded)
 
-### 2020
-
-- 1/29-31 - [NDC London 2020](https://ndc-london.com/)
-    - Talk: [Challenges of Managing CoreFX repo](https://ndc-london.com/talk/challenges-of-managing-corefx-repo/), [video](https://www.youtube.com/watch?v=zLB2_h-3ZS4) (65 min) and slides (TODO later)
-
-- 1/28 - [.NET Tour UK](https://dotnettour.github.io/UKTour2020/) (16 speakers in 8 locations)
-    - Co-organizer with [Steve Gordon](https://twitter.com/stevejgordon)
-    - **Async demystified** (not recorded)
 
 
 ### 2019
@@ -243,6 +238,8 @@ References:
 
 - 2009-2012 - MSDN Forums [activity](https://social.msdn.microsoft.com/Profile/karel%20zikmund)
 
+
+
 ### Previous Jobs
 
 - 2003/12-2005/9 (2 years) - **Sun Microsystems - Quality Engineer Team Lead**
@@ -265,6 +262,8 @@ References:
         - Meetings with customers (incl. public administration representatives).
         - Development in C++ on Windows (security-based components, low-level programming of smart card readers, PGP modification prototype).
         - Web site creation - HTML, awk, scripting content updates.
+
+
 
 # Education
 
