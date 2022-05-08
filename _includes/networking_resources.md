@@ -1,14 +1,30 @@
 # BCL/Networking team - What to expect?
 
-Multiple people asked me which parts of networking are useful to know:
+In the past people asked me which parts of networking are useful to know:
 - How deep one has to go to apply for [BCL/Networking job](/hiring_prague_net)?
 - What will the work be about?
 
 
+## Networking team
+
+Our team has currently 7 developers (6 located in Prague, Czech Republic and 1 located in Redmond, USA). Our architect is located on Boston area, USA. Manager of the team ([ziki_cz](https://twitter.com/ziki_cz)) is based in Brno, Czech Republic.
+
+We own .NET **client-side** networking stack (HttpClient - HTTP 1.1/2/3) and **low-level** networking primitives (Sockets, SSL/TLS support, QUIC protocol, Uri, WebSockets, etc.) in [dotnet/runtime repo](https://github.com/dotnet/runtime) -- see [namespaces System.Net, System.Net.Http, System.Net.Quic, System.Net.Security and System.Net.Sockets](https://issuesof.net/?q=is%3Aopen%20repo%3Adotnet%2Fruntime%20area-lead%3Akarelz%20group%3Aarea%20sort%3Acreated-desc).
+We work closely with server-side .NET networking team ASP.NET/Kestrel.
+We also collaborate with ASP.NET/Kestrel team on reverse-proxy [YARP](https://github.com/microsoft/reverse-proxy).
+
+Our top focus in last year was / is:
+- HTTP/3 and QUIC support (based on msquic OSS library)
+- LLHTTP investigation - exploring option to create new Low-Level HTTP APIs
+- YARP
+- Customer imapctful issues - addressing customer pain in perf, functionality, extensibility, etc.
+
+### How to apply
+
 
 ## Networking - Direction and history of the space
 
-Some useful background and direction of Networking space can be found also on slides from my talk **.NET Core Networking stack and Performance** (at .NET Core Summer event in Brno, CZ on 2019/7/9) - the talk was in Czech, but the slides are in English, so useful to everyone: [slides](https://www.slideshare.net/KarelZikmund1/net-core-summer-event-2019-in-brno-cz-net-core-networking-stack-and-performance-karel-zikmund).
+Some useful background and direction of Networking space can be found also on slides from my older talk **.NET Core Networking stack and Performance** (at .NET Core Summer event in Brno, CZ on 2019/7/9) - the talk was in Czech, but the slides are in English, so useful to everyone: [slides](https://www.slideshare.net/KarelZikmund1/net-core-summer-event-2019-in-brno-cz-net-core-networking-stack-and-performance-karel-zikmund).
 
 If you want to hear story about the evolution of the Networking stack, check out older version of the talk in English: **.NET Core Networking stack and Performance** (at DotNext Moscow on 2017/11) - [video](https://www.youtube.com/watch?v=M3FZZhnRvQY&list=PLtWrKx3nUGBfYHhmiGih2lanzmRigE9cc&index=24&t=0s) (55 min) and [slides](https://www.slideshare.net/KarelZikmund1/dotnext-2017-in-moscow-net-core-networking-stack-and-performance-karel-zikmund).
 Note that plans and perf results are old and obsolete in this talk, but the history didn't change :).
@@ -25,7 +41,7 @@ Even if you demonstrate knowledge at interview of this background, it will NOT b
 The notes are more for demonstrating **what kind of knowledge you will be expected to gain in first 6-12 months on the job as dev on BCL/Networking team**.
 
 The resources are sorted by order of usefulness - the 3rd book is already very niche and you can skip it.
-However, some basic info from entries #4 and #5 can give you idea where the area will go (QUIC, HTTP/3 and beyond).
+However, some basic info from entries #4 and #5 can give you idea about our latest investments into QUIC, and HTTP/3.
 
 
 
