@@ -53,12 +53,7 @@ Follow directions above for the job(s) you would like to apply for.
 
 ### Do you have details about the job?
 
-The job description pretty much sums it up.
-If you want to take a closer look at the work the .NET Tooling team is doing, check out their open-source repos and see for yourself:
-- [dotnet/cli](http://github.com/dotnet/cli)
-- [dotnet/roslyn](http://github.com/dotnet/roslyn)
-- [microsoft/msbuild](https://github.com/microsoft/msbuild)
-- [dotnet/project-system](http://github.com/dotnet/project-system)
+See the descriptions above.
 
 
 ### What should I highlight in my resume?
