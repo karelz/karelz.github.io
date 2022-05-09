@@ -1,8 +1,8 @@
 # 2022 - Hiring for .NET Teams in Prague, Czech Republic
 
 We are hiring more positions on .NET teams in Prague, Czech Republic in 2022:
-- **.NET Networking team**
-    - See [this post](/networking_resources) to learn what the team does, and where it is heading (managed by [ziki_cz](https://twitter.com/ziki_cz)).
+- **.NET Networking team** - on [Twitter](https://twitter.com/ziki_cz/status/1523412211905228801) or [LinkedIn](https://www.linkedin.com/posts/karel-zikmund-99561a239_net-networking-team-is-hiring-in-czech-republic-activity-6929372295584993280-vBwK)
+    - See [this post](/networking_resources) to learn what the team does, and where it is heading.
     - Hiring started on 2022/5/8 - one position opened
     - **How to apply?** -- reach out directly to team manager [@ziki_cz](https://twitter.com/ziki_cz) (Twitter DM is prefered, see my profile for other contact info)
         - Start discussion with answers to these 2 questions - to see if it makes sense to apply to the job post:
