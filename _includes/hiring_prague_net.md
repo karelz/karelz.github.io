@@ -13,7 +13,7 @@ We are hiring more positions on .NET teams in Prague, Czech Republic in 2022:
         - System-level = anything low-level, close to OS APIs, drivers, HW interaction, or some non-trivial backend (e.g. difficult multi-threading, scale).
         - Networking = libraries / APIs / protocols operating on network to communicate between computers. Server-side, or client-sie, or both.
 - **.NET Engineering Services team** - apply for [SWE](https://careers.microsoft.com/us/en/job/1245941/Software-Engineer-multiple-roles) or [Senior SWE](https://careers.microsoft.com/us/en/job/1245927/Senior-Software-Engineer-multiple-roles) (with 6+ full-time experience)
-    - To learn about the team charter, see 2 blogs posts: [blog post #1 from 2019](https://devblogs.microsoft.com/dotnet/the-evolving-infrastructure-of-net-core/) and [blog post #2 from 2020](https://devblogs.microsoft.com/dotnet/a-deep-dive-into-how-net-builds-and-ships/)
+    - To learn about the team charter, see 2 blog posts: [post from 2019](https://devblogs.microsoft.com/dotnet/the-evolving-infrastructure-of-net-core/) and [post from 2020](https://devblogs.microsoft.com/dotnet/a-deep-dive-into-how-net-builds-and-ships/)
     - Hiring started on 2022/5/8 - looking for multiple positions
 - **F# Tooling team** - see [full job description](https://careers.microsoft.com/us/en/job/1291329/Software-Engineer-F-tools-team)
     - Hirigin started on 2022/3/11 - still looking for multiple positions on 5/8
