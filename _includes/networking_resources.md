@@ -5,21 +5,45 @@ In the past people asked me which parts of networking are useful to know:
 - What will the work be about?
 
 
+
 ## Networking team
 
-Our team has currently 7 developers (6 located in Prague, Czech Republic and 1 located in Redmond, USA). Our architect is located on Boston area, USA. Manager of the team ([ziki_cz](https://twitter.com/ziki_cz)) is based in Brno, Czech Republic.
+Our team has currently 7 developers (6 located in Prague, Czech Republic and 1 located in Redmond, USA).
+Our architect is located on Boston area, USA.
+Manager of the team ([ziki_cz](https://twitter.com/ziki_cz)) is based in Brno, Czech Republic.
 
 We own .NET **client-side** networking stack (HttpClient - HTTP 1.1/2/3) and **low-level** networking primitives (Sockets, SSL/TLS support, QUIC protocol, Uri, WebSockets, etc.) in [dotnet/runtime repo](https://github.com/dotnet/runtime) -- see [namespaces System.Net, System.Net.Http, System.Net.Quic, System.Net.Security and System.Net.Sockets](https://issuesof.net/?q=is%3Aopen%20repo%3Adotnet%2Fruntime%20area-lead%3Akarelz%20group%3Aarea%20sort%3Acreated-desc).
 We work closely with server-side .NET networking team ASP.NET/Kestrel.
 We also collaborate with ASP.NET/Kestrel team on reverse-proxy [YARP](https://github.com/microsoft/reverse-proxy).
 
 Our top focus in last year was / is:
-- HTTP/3 and QUIC support (based on msquic OSS library)
-- LLHTTP investigation - exploring option to create new Low-Level HTTP APIs
+- HTTP/3 and QUIC support (based on [msquic](http://github.com/microsoft/msquic) OSS library)
+- LLHTTP prototype - exploring option to create new Low-Level HTTP APIs
 - YARP
 - Customer imapctful issues - addressing customer pain in perf, functionality, extensibility, etc.
 
+Here are our Networking team members:
+- Anton Firszov - GitHub: [@antonfirsov](https://github.com/antonfirsov), Twitter: [@antonfrv](https://twitter.com/antonfrv)
+- Katya Sokolova - GitHub: [@greenEkatherine](https://github.com/greenEkatherine)
+- Mana - GitHub: [@ManickaP](https://github.com/ManickaP), Twitter: [@ManaPichova](https://twitter.com/ManaPichova)
+- Miha Zupan - GitHub: [@MihaZupan](https://github.com/MihaZupan), Twitter: [@_MihaZupan](https://twitter.com/_MihaZupan)
+- Natalia Kondratyeva - GitHub: [@CarnaViire](https://github.com/CarnaViire), Twitter: [@carna_viire](https://twitter.com/carna_viire)
+- Radek Zikmund - GitHub: [@rzikm](https://github.com/rzikm), Twitter: [@Radek_Zikmund](https://twitter.com/Radek_Zikmund)
+- Tomas Weinfurt - GitHub [@wfurt](https://github.com/wfurt)
+
+
+
 ### How to apply
+
+Reach out directly to team manager [@ziki_cz](https://twitter.com/ziki_cz) (Twitter DM is prefered, or use [email](mailto:karelz@microsoft.com), or [LinkedIn](https://www.linkedin.com/in/karelzikmund)).
+- Start discussion with answers to these 2 questions (to see if it makes sense to apply to the job post)
+    1. What is your related library-level, system-level or networking-related experience from work or hobby projects?
+    2. Describe some interesting technical challenge (ideally related to the job). An investigation, bug fix or feature, etc. Something you are proud of.
+- Details:
+    - Library-level = producing libraries used by multiple projects, ideally by multiple companies.
+    - System-level = anything low-level, close to OS APIs, drivers, HW interaction, or some non-trivial backend (e.g. difficult multi-threading, scale).
+    - Networking = libraries / APIs / protocols operating on network to communicate between computers. Server-side, or client-sie, or both.
+
 
 
 ## Networking - Direction and history of the space
