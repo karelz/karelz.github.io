@@ -2,19 +2,19 @@
 
 We are hiring more positions on Developer Division teams in Prague, Czech Republic in 2022:
 - **C++ compiler team** - apply for [SWE](https://careers.microsoft.com/us/en/job/1245941/Software-Engineer-multiple-roles) or [Senior SWE](https://careers.microsoft.com/us/en/job/1245927/Senior-Software-Engineer-multiple-roles) (with 6+ full-time experience)
-    - Hiring started on 2022/5/18 - see [LinkedIn post](https://www.linkedin.com/posts/mareksafar_hiring-mdcp-activity-6932648812066816000-thgB) - still opened on 6/9
-- **ARM64 ecosystem team** - apply for [SWE](https://careers.microsoft.com/us/en/job/1245941/Software-Engineer-multiple-roles) or [Senior SWE](https://careers.microsoft.com/us/en/job/1245927/Senior-Software-Engineer-multiple-roles) (with 6+ full-time experience)
-    - Hiring started on 2022/5/18 - looking for multiple positions - see [LinkedIn post](https://www.linkedin.com/posts/mareksafar_hiring-mdcp-activity-6932648812066816000-thgB) - still opened on 6/9
-- **.NET Runtime team** - apply for [SWE](https://careers.microsoft.com/us/en/job/1245941/Software-Engineer-multiple-roles) or [Senior SWE](https://careers.microsoft.com/us/en/job/1245927/Senior-Software-Engineer-multiple-roles) (with 6+ full-time experience)
-    - Hiring started on 2022/5/18 - looking for multiple positions - see [LinkedIn post](https://www.linkedin.com/posts/mareksafar_hiring-mdcp-activity-6932648812066816000-thgB) - still opened on 6/9
+    - Hiring started on 2022/5/18 - see [LinkedIn post](https://www.linkedin.com/posts/mareksafar_hiring-mdcp-activity-6932648812066816000-thgB) - still opened on 6/28
 - **ASP.NET Core Blazor team** - apply for [SWE](https://careers.microsoft.com/us/en/job/1245941/Software-Engineer-multiple-roles) or [Senior SWE](https://careers.microsoft.com/us/en/job/1245927/Senior-Software-Engineer-multiple-roles) (with 6+ full-time experience)
-    - Hiring started on 2022/5/18 - looking for multiple positions - see [LinkedIn post](https://www.linkedin.com/posts/mareksafar_hiring-mdcp-activity-6932648812066816000-thgB) - still opened on 6/9
+    - Hiring started on 2022/5/18 - looking for multiple positions - see [LinkedIn post](https://www.linkedin.com/posts/mareksafar_hiring-mdcp-activity-6932648812066816000-thgB) - still opened on 6/28
 - **.NET Engineering Services team** - apply for [SWE](https://careers.microsoft.com/us/en/job/1245941/Software-Engineer-multiple-roles) or [Senior SWE](https://careers.microsoft.com/us/en/job/1245927/Senior-Software-Engineer-multiple-roles) (with 6+ full-time experience)
     - To learn about the team charter, see 2 blog posts: [post from 2019](https://devblogs.microsoft.com/dotnet/the-evolving-infrastructure-of-net-core/) and [post from 2020](https://devblogs.microsoft.com/dotnet/a-deep-dive-into-how-net-builds-and-ships/)
-    - Hiring started on 2022/5/8 - still looking for multiple positions on 6/9
+    - Hiring started on 2022/5/8 - still looking for multiple positions on 6/28
 
 Positions already filled:
 
+- ~~**ARM64 ecosystem team** - apply for [SWE](https://careers.microsoft.com/us/en/job/1245941/Software-Engineer-multiple-roles) or [Senior SWE](https://careers.microsoft.com/us/en/job/1245927/Senior-Software-Engineer-multiple-roles) (with 6+ full-time experience)~~
+    - ~~Hiring started on 2022/5/18 - looking for multiple positions - see [LinkedIn post](https://www.linkedin.com/posts/mareksafar_hiring-mdcp-activity-6932648812066816000-thgB)~~ - position filled on 2022/6/28
+- ~~**.NET Runtime team** - apply for [SWE](https://careers.microsoft.com/us/en/job/1245941/Software-Engineer-multiple-roles) or [Senior SWE](https://careers.microsoft.com/us/en/job/1245927/Senior-Software-Engineer-multiple-roles) (with 6+ full-time experience)~~
+    - ~~Hiring started on 2022/5/18 - looking for multiple positions - see [LinkedIn post](https://www.linkedin.com/posts/mareksafar_hiring-mdcp-activity-6932648812066816000-thgB)~~ - position filled on 2022/6/28
 - ~~**.NET Performance team** - apply for [SWE](https://careers.microsoft.com/us/en/job/1245941/Software-Engineer-multiple-roles) or [Senior SWE](https://careers.microsoft.com/us/en/job/1245927/Senior-Software-Engineer-multiple-roles) (with 6+ full-time experience)~~ - position filled on 2022/6/9
     - ~~Hiring started on 2022/5/18 - see [LinkedIn post](https://www.linkedin.com/posts/mareksafar_hiring-mdcp-activity-6932648812066816000-thgB)~~
 - ~~**F# Tooling team** - see [full job description](https://careers.microsoft.com/us/en/job/1291329/Software-Engineer-F-tools-team)~~ - positions filled on 2022/6/9
