@@ -2,6 +2,12 @@
 
 
 
+### 2022
+
+- 7/7 - [Interview on LinkedIn](https://www.linkedin.com/pulse/interview-karel-zikmund-principal-engineering-manager-sartorio) for Microsoft Development Center Prague monthly update
+
+
+
 ### 2021
 
 - 10/26 - Tech talk at FI MUNI - Brno, CZ
