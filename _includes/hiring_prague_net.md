@@ -1,16 +1,16 @@
 # 2022 - Hiring for Developer Division Teams in Prague, Czech Republic
 
-We are hiring more positions on Developer Division teams in Prague, Czech Republic in 2022:
-- **C++ compiler team** - apply for [SWE](https://careers.microsoft.com/us/en/job/1245941/Software-Engineer-multiple-roles) or [Senior SWE](https://careers.microsoft.com/us/en/job/1245927/Senior-Software-Engineer-multiple-roles) (with 6+ full-time experience)
-    - Hiring started on 2022/5/18 - see [LinkedIn post](https://www.linkedin.com/posts/mareksafar_hiring-mdcp-activity-6932648812066816000-thgB) - still opened on 6/28
-- **ASP.NET Core Blazor team** - apply for [SWE](https://careers.microsoft.com/us/en/job/1245941/Software-Engineer-multiple-roles) or [Senior SWE](https://careers.microsoft.com/us/en/job/1245927/Senior-Software-Engineer-multiple-roles) (with 6+ full-time experience)
-    - Hiring started on 2022/5/18 - looking for multiple positions - see [LinkedIn post](https://www.linkedin.com/posts/mareksafar_hiring-mdcp-activity-6932648812066816000-thgB) - still opened on 6/28
-- **.NET Engineering Services team** - apply for [SWE](https://careers.microsoft.com/us/en/job/1245941/Software-Engineer-multiple-roles) or [Senior SWE](https://careers.microsoft.com/us/en/job/1245927/Senior-Software-Engineer-multiple-roles) (with 6+ full-time experience)
-    - To learn about the team charter, see 2 blog posts: [post from 2019](https://devblogs.microsoft.com/dotnet/the-evolving-infrastructure-of-net-core/) and [post from 2020](https://devblogs.microsoft.com/dotnet/a-deep-dive-into-how-net-builds-and-ships/)
-    - Hiring started on 2022/5/8 - still looking for multiple positions on 6/28
+As of 2022/7/19, we do NOT have open positions in Developer Division teams in Prague, Czech Republic.
 
 Positions already filled:
 
+- ~~**C++ compiler team** - apply for [SWE](https://careers.microsoft.com/us/en/job/1245941/Software-Engineer-multiple-roles) or [Senior SWE](https://careers.microsoft.com/us/en/job/1245927/Senior-Software-Engineer-multiple-roles) (with 6+ full-time experience)~~
+    - ~~Hiring started on 2022/5/18 - see [LinkedIn post](https://www.linkedin.com/posts/mareksafar_hiring-mdcp-activity-6932648812066816000-thgB)~~ - position closed on 2022/7/5
+- ~~**ASP.NET Core Blazor team** - apply for [SWE](https://careers.microsoft.com/us/en/job/1245941/Software-Engineer-multiple-roles) or [Senior SWE](https://careers.microsoft.com/us/en/job/1245927/Senior-Software-Engineer-multiple-roles) (with 6+ full-time experience)~~
+    - ~~Hiring started on 2022/5/18 - looking for multiple positions - see [LinkedIn post](https://www.linkedin.com/posts/mareksafar_hiring-mdcp-activity-6932648812066816000-thgB)~~ - position closed on 2022/7/5
+- ~~**.NET Engineering Services team** - apply for [SWE](https://careers.microsoft.com/us/en/job/1245941/Software-Engineer-multiple-roles) or [Senior SWE](https://careers.microsoft.com/us/en/job/1245927/Senior-Software-Engineer-multiple-roles) (with 6+ full-time experience)~~
+    - ~~To learn about the team charter, see 2 blog posts: [post from 2019](https://devblogs.microsoft.com/dotnet/the-evolving-infrastructure-of-net-core/) and [post from 2020](https://devblogs.microsoft.com/dotnet/a-deep-dive-into-how-net-builds-and-ships/)~~
+    - ~~Hiring started on 2022/5/8~~ - remaining position closed on 2022/7/5
 - ~~**ARM64 ecosystem team** - apply for [SWE](https://careers.microsoft.com/us/en/job/1245941/Software-Engineer-multiple-roles) or [Senior SWE](https://careers.microsoft.com/us/en/job/1245927/Senior-Software-Engineer-multiple-roles) (with 6+ full-time experience)~~
     - ~~Hiring started on 2022/5/18 - looking for multiple positions - see [LinkedIn post](https://www.linkedin.com/posts/mareksafar_hiring-mdcp-activity-6932648812066816000-thgB)~~ - position filled on 2022/6/28
 - ~~**.NET Runtime team** - apply for [SWE](https://careers.microsoft.com/us/en/job/1245941/Software-Engineer-multiple-roles) or [Senior SWE](https://careers.microsoft.com/us/en/job/1245927/Senior-Software-Engineer-multiple-roles) (with 6+ full-time experience)~~
