@@ -2,16 +2,18 @@ Events I organized or co-roganized.
 
 ## Upcoming events
 
+None as of 2022/9
+
+## Past events
+
 - 2020/2/4 - Discussion with MFF UK students - Prague, CZ (in Czech)
-    - Participants: TBD - Hana Lapkova (Oracle), [Tomas Herceg](https://twitter.com/hercegtomas) (Riganti), [Martin Duchacek](https://twitter.com/MDuchacek) (RSJ), [Karel Zikmund](https://twitter.com/ziki_cz) (Microsoft)
+    - Participants: Hana Lapkova (Oracle), [Tomas Herceg](https://twitter.com/hercegtomas) (Riganti), Tomas Karban (RSJ), [Karel Zikmund](https://twitter.com/ziki_cz) (Microsoft)
     - Interviews with participants: [Martin Duchacek](https://www.matfyz.cz/clanky/1361-setkani-s-absolventy-martin-duchacek), [Tomas Herceg & Karel Zikmund](https://www.matfyz.cz/clanky/1360-setkani-s-absolventy-karel-zikmund-a-tomas-herceg), [Hana Lapkova](https://www.matfyz.cz/clanky/1366-setkani-s-absolventy-hana-lapkova)
     - Organizers: [Karolina Houzvickova Solcova](https://www.mff.cuni.cz/cs/fakulta/organizacni-struktura/lide?hdl=3951) (MFF UK), [Karel Zikmund](https://twitter.com/ziki_cz)
 
 - 2020/1/28 - [.NET Tour UK](https://dotnettour.github.io/UKTour2020/)
-    - Organizers: [Steve Gordon](https://twitter.com/stevejgordon), [Karel Zikmund](https://twitter.com/ziki_cz) and UK MeetUps (TBD)
+    - Organizers: [Steve Gordon](https://twitter.com/stevejgordon), [Karel Zikmund](https://twitter.com/ziki_cz) and UK MeetUps
     - [Tweeting #DotNetTourUK](https://twitter.com/search?q=%23DotNetTourUK)
-
-## Past events
 
 - 2019/12/4 - [Scott Hanselman visit](http://webtest.dotnetdays.cz/Dotnet-Days-Scott-Hanselman) - Prague, CZ
     - Organized by [Lucie Vasickova](https://twitter.com/lulucieva), [Karel Zikmund](https://twitter.com/ziki_cz), [Xamarin Developers Group Czech](https://twitter.com/xmdg_cz), [WUG Praha](https://twitter.com/wugcz), [Miroslav Holec](https://twitter.com/miroslavholec)
