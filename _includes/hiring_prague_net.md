@@ -1,6 +1,6 @@
 # 2022 - Hiring for Developer Division Teams in Prague, Czech Republic
 
-As of 2022/7/19, we do NOT have open positions in Developer Division teams in Prague, Czech Republic.
+As of 2022/7/5, we do NOT have open positions in Developer Division teams in Prague, Czech Republic.
 
 Positions already filled:
 
