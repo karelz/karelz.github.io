@@ -11,6 +11,13 @@ You can find me and contact me on [Twitter](https://twitter.com/ziki_cz), on [Gi
 
 ## Upcoming Events
 
+- 9/27 - Tech talk at FI MUNI - Brno, CZ
+    - **War stories from .NET team**
+    - **Q&A**
+
+- 9/13-15 - [WUG Days 2022 Brno, CZ](https://www.wug.cz/brno/akce/1400-WUG-Days-2022)
+    - **Networking in .NET 7.0 and YARP**
+
 - **[Past events and projects](/details)**
 
 - [Active talks on sessionize](https://sessionize.com/karel-zikmund) for conferences and .NET MeetUps

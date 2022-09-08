@@ -4,14 +4,6 @@
 
 ### 2022
 
-
-- 9/27 - Tech talk at FI MUNI - Brno, CZ
-    - **War stories from .NET team**
-    - **Q&A**
-
-- 9/13-15 - [WUG Days 2022 Brno, CZ](https://www.wug.cz/brno/akce/1400-WUG-Days-2022)
-    - **Networking in .NET 7.0 and YARP**
-
 - 7/7 - [Interview on LinkedIn](https://www.linkedin.com/pulse/interview-karel-zikmund-principal-engineering-manager-sartorio) for Microsoft Development Center Prague monthly update
 
 
