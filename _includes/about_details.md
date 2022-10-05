@@ -4,6 +4,13 @@
 
 ### 2022
 
+- 9/27 - Tech talk at FI MUNI - Brno, CZ
+    - **War stories from .NET team** - [internal-only video](https://ucnmuni-my.sharepoint.com/:v:/g/personal/410452_muni_cz/EQMgl_OZPtFDuX8nGgC9b6kB-_7jTmgQSav599WE42Bxbw)
+    - **Q&A** [internal-only video](https://ucnmuni-my.sharepoint.com/:v:/g/personal/410452_muni_cz/EQMgl_OZPtFDuX8nGgC9b6kB-_7jTmgQSav599WE42Bxbw)
+
+- 9/13-15 - [WUG Days 2022 Brno, CZ](https://www.wug.cz/brno/akce/1400-WUG-Days-2022)
+    - **Networking in .NET 7.0 and YARP** - video (TODO when published), [slides](https://www.slideshare.net/KarelZikmund1/wug-days-2022-brno-networking-in-net-70-and-yarp-karel-zikmund)
+
 - 7/7 - [Interview on LinkedIn](https://www.linkedin.com/pulse/interview-karel-zikmund-principal-engineering-manager-sartorio) for Microsoft Development Center Prague monthly update
 
 
@@ -38,8 +45,8 @@
     - Co-organizer with [Vojtech Madr](https://twitter.com/madrvojt)
     - **Async demystified** - [video (with hiccups)](https://www.youtube.com/watch?v=yUoF18Np3fg) (0:15-0:55)
 
-- 1/29-31 - [NDC London 2020](https://ndc-london.com/)
-    - **Challenges of Managing CoreFX repo** - [talk info](https://ndc-london.com/talk/challenges-of-managing-corefx-repo/), [video](https://www.youtube.com/watch?v=zLB2_h-3ZS4) (65 min) and slides (TODO later)
+- 1/29-31 - [NDC London 2020](https://ndc-london.com/) conference (London, UK)
+    - **Challenges of Managing CoreFX repo** - [talk info](https://sessionize.com/s/karel-zikmund/challenges-of-managing-corefx-repo/24173), [video](https://www.youtube.com/watch?v=zLB2_h-3ZS4) (65 min) and [slides](https://www.slideshare.net/KarelZikmund1/ndc-london-2020-challenges-of-managing-corefx-repo-karel-zikmund)
 
 - 1/28 - [.NET Tour UK](https://dotnettour.github.io/UKTour2020/) (16 speakers in 8 locations)
     - Co-organizer with [Steve Gordon](https://twitter.com/stevejgordon)
@@ -83,7 +90,7 @@
     - **War stories from .NET team** - [video](https://youtu.be/2MEfRqHDt58?t=562) (32 min)
 
 - 10/16-18 - [NDC Sydney 2019](https://ndcsydney.com/) conference (Sydney, AU)
-    - **Async demystified** - [talk info](https://ndcoslo.com/talk/war-stories-from-net-team/), [video](https://www.youtube.com/watch?v=TgUYcZV-foM) (45 min) and slides (TODO later)
+    - **Async demystified** - [talk info](https://sessionize.com/s/karel-zikmund/async-demystified/24175), [video](https://www.youtube.com/watch?v=TgUYcZV-foM) (45 min) and [slides](https://www.slideshare.net/KarelZikmund1/ndc-sydney-2019-async-demystified-karel-zikmund)
 
 - 10/15 - [NDC Sydney Special Event Meet Microsoft Engineers - Sydney, AU](https://www.meetup.com/Girl-Geek-Sydney/events/263745187/)
     - Co-organizer with [Azadeh Khojandi](https://twitter.com/azadehkhojandi), [Nelly Sattari](https://twitter.com/nelly_sattari)
@@ -141,7 +148,7 @@
     - **Performance Panel Discussion** - [talk info](https://www.dncse.nl/sessions/session1-7/)
 
 - 6/19-21 - [NDC Oslo 2019](https://ndcoslo.com/) conference (Oslo, NO)
-    - **War stories from .NET team** - [talk info](https://ndcoslo.com/talk/war-stories-from-net-team/), [video](https://www.youtube.com/watch?v=ntGBRi_I3MM) (49 min) and [slides](https://www.slideshare.net/KarelZikmund1/ndc-oslo-2019-war-stories-from-net-team-karel-zikmund)
+    - **War stories from .NET team** - [talk info](https://sessionize.com/s/karel-zikmund/war-stories-from-.net-team/24172), [video](https://www.youtube.com/watch?v=ntGBRi_I3MM) (49 min) and [slides](https://www.slideshare.net/KarelZikmund1/ndc-oslo-2019-war-stories-from-net-team-karel-zikmund)
 
 - 5/7-9 - [Microsoft Build 2019](https://www.microsoft.com/en-us/build) conference (Seattle, WA) - .NET booth duty
 
