@@ -61,7 +61,7 @@
     - **Intro** & **Speakers introductions** - [video (with hiccups)](https://youtu.be/4HN1pSHq7wY?t=330)
 
 - 11/14 - [Update Conference 2019](https://www.updateconference.net/en/2019/schedule)
-    - **Q&A: Askt he Product Group Anything** - discussion panel with [Miguel de Icaza](https://twitter.com/migueldeicaza), [Steve Carroll](https://twitter.com/ScareAll), [Mei-Chin Tsai](https://twitter.com/Mei_Chin_Tsai), [Marek Safar](https://twitter.com/mareksafar), [Jared Parsons](https://twitter.com/jaredpar), [Karel Zikmund](https://twitter.com/ziki_cz) - [video](https://www.youtube.com/watch?v=sJNlraZ4lGs) (55 min) / [tweet](https://twitter.com/update_conf/status/1195341548508110853)
+    - **Q&A: Ask the Product Group Anything** - discussion panel with [Miguel de Icaza](https://twitter.com/migueldeicaza), [Steve Carroll](https://twitter.com/ScareAll), [Mei-Chin Tsai](https://twitter.com/Mei_Chin_Tsai), [Marek Safar](https://twitter.com/mareksafar), [Jared Parsons](https://twitter.com/jaredpar), [Karel Zikmund](https://twitter.com/ziki_cz) - [video](https://www.youtube.com/watch?v=sJNlraZ4lGs) (55 min) / [tweet](https://twitter.com/update_conf/status/1195341548508110853)
 
 - 10/29 - [.NET Tour Down Under - Auckland, NZ](https://www.meetup.com/AKL-NET/events/265703571/)
     - Co-organizer with [Marcus Bristol](https://twitter.com/mightymuke), [Alix Klingenberg](https://twitter.com/evolutionises)
