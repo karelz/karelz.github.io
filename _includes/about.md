@@ -11,7 +11,7 @@ You can find me and contact me on [Twitter](https://twitter.com/ziki_cz), on [Gi
 
 ## Upcoming Events
 
-- 11/9 - [Tech Talks at Matfyz in Prague, CZ](/events/events_2022-11-10_Tech_Talks_for_Universities) - talks for university students (in English)
+- 11/9 - [Tech Talks for Universities](/events/events_2022-11-10_Tech_Talks_for_Universities) - **live-streamed** from Matfyz in Prague, CZ - talks for university students (in English)
     - Co-organizer with [Pavel Jezek](https://www.mff.cuni.cz/en/faculty/organizational-structure/people?hdl=2764)
 
 - 11/8-10 - [.NET Conf 2022](https://www.dotnetconf.net/)
