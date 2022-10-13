@@ -11,6 +11,12 @@ You can find me and contact me on [Twitter](https://twitter.com/ziki_cz), on [Gi
 
 ## Upcoming Events
 
+- 11/9 - [Tech Talks at Matfyz in Prague, CZ](/events/events_2022-11-10_Tech_Talks_for_Universities) - talks for university students (in English)
+    - Co-organizer with [Pavel Jezek](https://www.mff.cuni.cz/en/faculty/organizational-structure/people?hdl=2764)
+
+- 11/8-10 - [.NET Conf 2022](https://www.dotnetconf.net/)
+    - [**Networking in .NET 7.0**](https://sessionize.com/s/karel-zikmund/networking-in-.net-7.0/56535)
+
 - **[Past events and projects](/details)**
 
 - [Active talks on sessionize](https://sessionize.com/karel-zikmund) for conferences and .NET MeetUps

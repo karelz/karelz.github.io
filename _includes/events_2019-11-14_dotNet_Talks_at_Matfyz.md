@@ -12,7 +12,7 @@ Organized by [Karolina Houzvickova-Solcova](https://www.mff.cuni.cz/cs/fakulta/o
 
 ## Talks
 
-You gonna have a chance to meet some of the industry gurus during their visit in Prague.
+You're gonna have a chance to meet some of the industry gurus during their visit in Prague.
 
 - 19:00-19:30 - **Miguel unplugged** by [Miguel de Icaza](https://twitter.com/migueldeicaza)
     - Abstract:

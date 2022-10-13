@@ -56,7 +56,7 @@
 
 ### 2019
 
-- 11/14 - [.NET Talks at Matfyz in Preague, CZ](/events/events_2019-11-14_dotNet_Talks_at_Matfyz) - talks for university students (in English)
+- 11/14 - [.NET Talks at Matfyz in Prague, CZ](/events/events_2019-11-14_dotNet_Talks_at_Matfyz) - talks for university students (in English)
     - Co-organizer with [Karolina Houzvickova-Solcova](https://www.mff.cuni.cz/cs/fakulta/organizacni-struktura/lide?hdl=3951), [Pavel Jezek](https://www.mff.cuni.cz/en/faculty/organizational-structure/people?hdl=2764)
     - **Intro** & **Speakers introductions** - [video (with hiccups)](https://youtu.be/4HN1pSHq7wY?t=330)
 
