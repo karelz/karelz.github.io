@@ -7,8 +7,6 @@ Talks for **all university students**, hosted at MFF UK (Faculty of Mathematics 
 - Live-streaming details - check here in the week of the event
 - Who: [Bronwen Zande](https://twitter.com/BronwenZ), [Poornima Nayar](https://twitter.com/PoornimaNayar), [Konrad Kokosa](https://twitter.com/konradkokosa), [Kevin Gosse](https://twitter.com/KooKiz)
 
-**Call for action:** Please help us spread the word among universities -- if you have contact at some university that might be interested (by telling their students or hosting local viewing), please contact [Karel Zikmund](https://karelz.github.io/) via [Twitter](https://twitter.com/ziki_cz), [personal email](mailto:ZikiCZ@hotmail.com), [work email](mailto:karelz@microsoft.com), [LinkedIn](https://www.linkedin.com/in/karelzikmund), or [Skype](mailto:ZikiCZ@hotmail.com) - see [Twitter announcement](https://twitter.com/ziki_cz/status/1580604027997282307) and [LinkedIn post](https://www.linkedin.com/posts/karelzikmund_tech-talks-for-universities-live-streamed-activity-6986453166925979648-bZ84)
-
 
 Organized by [Pavel Jezek](https://www.mff.cuni.cz/en/faculty/organizational-structure/people?hdl=2764), [Karel Zikmund](https://twitter.com/ziki_cz), [Radek Zikmund](https://twitter.com/Radek_Zikmund)
 
@@ -45,8 +43,11 @@ You will have a chance to meet some of the top industry speakers during their vi
     - When working at scale, it becomes more important to plan for failure than trying to avoid it. From neutrinos to typhoons, I'll illustrate this concept through stories taken from my professional experience, about how the most improbable conditions are bound to be reunited and will inevitably make your systems fail.
   - About speaker: see [Kevin Gosse's bio at Update Conference](https://www.updateconference.net/en/2022/speaker/kevin-gosse)
 
+
 ## Resources and Notes
 
 - History: Building on previous successful event [.NET Talks at Matfyz in Prague, CZ](/events/events_2019-11-14_dotNet_Talks_at_Matfyz) from 2019/11 - this time with less .NET focus.
 - All organization is community-driven, speakers are volunteers.
 - Special thanks to [Update Conference](https://www.updateconference.net/) - namely [Tomas Herceg](https://www.tomasherceg.com/) for letting us "borrow" their speakers for this event.
+
+**Call for action:** Please help us spread the word among universities -- if you have contact at some university that might be interested (by telling their students or hosting local viewing), please contact [Karel Zikmund](https://karelz.github.io/) via [Twitter](https://twitter.com/ziki_cz), [personal email](mailto:ZikiCZ@hotmail.com), [work email](mailto:karelz@microsoft.com), [LinkedIn](https://www.linkedin.com/in/karelzikmund), or [Skype](mailto:ZikiCZ@hotmail.com) - see [Twitter announcement](https://twitter.com/ziki_cz/status/1580604027997282307) and [LinkedIn post](https://www.linkedin.com/posts/karelzikmund_tech-talks-for-universities-live-streamed-activity-6986453166925979648-bZ84)
