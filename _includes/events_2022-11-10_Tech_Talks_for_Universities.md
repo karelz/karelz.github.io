@@ -4,7 +4,7 @@ Talks for **all university students**, hosted at MFF UK (Faculty of Mathematics 
 - When: 11/10 Thu at 18-20 CET
 - Where: **!!! Live streaming !!!** from N1 at [Matfyz](https://twitter.com/matfyz), Troja, Prague (capacity 250 for in-person attendees)
     - Address: [V Holešovičkách 747/2, 180 00 Praha 8](https://www.mff.cuni.cz/cs/vnitrni-zalezitosti/budovy-a-arealy/troja)
-- Live-streaming details - check here in the week of the event
+- Live-streaming details - check here in the week of the event (likely via Teams)
 - Who: [Bronwen Zande](https://twitter.com/BronwenZ), [Poornima Nayar](https://twitter.com/PoornimaNayar), [Konrad Kokosa](https://twitter.com/konradkokosa), [Kevin Gosse](https://twitter.com/KooKiz)
 
 
@@ -35,7 +35,9 @@ You will have a chance to meet some of the top industry speakers during their vi
 
 - 19:00-19:30 - **Open Source - How it can help your career** by [Poornima Nayar](https://twitter.com/PoornimaNayar)
   - Abstract:
-    - (to be published by 10/31)
+    - Open source has been a game changer in my career. I was someone who had no prior idea of open source when I started, and a few years later I found myself in the middle of two wonderful open source communities that helped to boost my career. How can you contribute to open source projects to help you get a job in future or find out where your passion is?
+    <br/>
+    Perhaps you don't know where to start. Perhaps you're afraid to start - perhaps you think you are not smart enough or skilled enough. There are many ways to start contributing even for newbies without deep technical knowledge and grow over time. Let me show you how.
   - About speaker: see [Poornima Nayar's bio at Update Conference](https://www.updateconference.net/en/2022/speaker/poornima-nayar)
 
 - 19:30-20:00 - **When fate conspires against you** by [Kevin Gosse](https://twitter.com/KooKiz)
