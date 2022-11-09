@@ -4,7 +4,8 @@ Talks for **all university students**, hosted at MFF UK (Faculty of Mathematics 
 - When: 11/10 Thu at 18-20 CET
 - Where: **!!! Live streaming !!!** from N1 at [Matfyz](https://twitter.com/matfyz), Troja, Prague (capacity 250 for in-person attendees)
     - Address: [V Holešovičkách 747/2, 180 00 Praha 8](https://www.mff.cuni.cz/cs/vnitrni-zalezitosti/budovy-a-arealy/troja)
-- Live-streaming details - check here in the week of the event (likely via Teams)
+- Live-streaming: [Teams live-event](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTg2NDViNzQtMDYxNi00Y2Q1LTg2MDYtNmVlNTgxNTA1MDAx%40thread.v2/0?context=%7B%22Tid%22%3A%22e09276da-f934-4086-bf08-8816a20414a2%22%2C%22Oid%22%3A%22392273db-b801-44a6-92ca-debcd4527d78%22%2C%22IsBroadcastMeeting%22%3Atrue%2C%22role%22%3A%22a%22%7D&btype=a&role=a)
+    -  Recording will be available here few days after the event
 - Who: [Bronwen Zande](https://twitter.com/BronwenZ), [Poornima Nayar](https://twitter.com/PoornimaNayar), [Konrad Kokosa](https://twitter.com/konradkokosa), [Kevin Gosse](https://twitter.com/KooKiz)
 
 
