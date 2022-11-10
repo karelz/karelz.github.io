@@ -6,6 +6,7 @@ Talks for **all university students**, hosted at MFF UK (Faculty of Mathematics 
     - Address: [V Holešovičkách 747/2, 180 00 Praha 8](https://www.mff.cuni.cz/cs/vnitrni-zalezitosti/budovy-a-arealy/troja)
 - Live-streaming: [Teams live-event](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTg2NDViNzQtMDYxNi00Y2Q1LTg2MDYtNmVlNTgxNTA1MDAx%40thread.v2/0?context=%7B%22Tid%22%3A%22e09276da-f934-4086-bf08-8816a20414a2%22%2C%22Oid%22%3A%22392273db-b801-44a6-92ca-debcd4527d78%22%2C%22IsBroadcastMeeting%22%3Atrue%2C%22role%22%3A%22a%22%7D&btype=a&role=a)
     -  Recording will be available here few days after the event
+    -  Please fill [our survey](https://forms.office.com/r/B6KpQNF38A) to help us make the event better in future. Even if you watch just part of it or if you don't like the talks. Thank you!
 - Who: [Bronwen Zande](https://twitter.com/BronwenZ), [Poornima Nayar](https://twitter.com/PoornimaNayar), [Konrad Kokosa](https://twitter.com/konradkokosa), [Kevin Gosse](https://twitter.com/KooKiz)
 
 
