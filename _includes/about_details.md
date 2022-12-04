@@ -6,9 +6,13 @@
 
 - 11/9 - [Tech Talks for Universities](/events/events_2022-11-10_Tech_Talks_for_Universities) - **live-streamed** from Matfyz in Prague, CZ - talks for university students (in English)
     - Co-organizer with [Pavel Jezek](https://www.mff.cuni.cz/en/faculty/organizational-structure/people?hdl=2764), [Radek Zikmund](https://twitter.com/Radek_Zikmund)
+    - **Intro** & **Speakers introductions** - video to-be-published
 
 - 11/8-10 - [.NET Conf 2022](https://www.dotnetconf.net/)
     - **Networking in .NET 7.0** - [talk info](https://sessionize.com/s/karel-zikmund/networking-in-.net-7.0/56535), [video](https://www.youtube.com/watch?v=mTdcWlIiX7c) (27 min) and [slides](https://www.slideshare.net/KarelZikmund1/net-conf-2022-networking-in-net-7)
+
+- 11/8 - [.NET Conf Watch Party + Experts Panel](https://www.geekcore.cz/events/6335) - Prague, CZ
+    - Experts Panel participant (not recorded)
 
 - 9/27 - Tech talk at FI MUNI - Brno, CZ
     - **War stories from .NET team** - [internal-only video](https://ucnmuni-my.sharepoint.com/:v:/g/personal/410452_muni_cz/EQMgl_OZPtFDuX8nGgC9b6kB-_7jTmgQSav599WE42Bxbw)
