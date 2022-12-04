@@ -4,7 +4,9 @@ Talks for **all university students**, hosted at MFF UK (Faculty of Mathematics 
 - When: 11/10 Thu at 18-20 CET
 - Where: **!!! Live streaming !!!** from N1 at [Matfyz](https://twitter.com/matfyz), Troja, Prague (capacity 250 for in-person attendees)
     - Address: [V Holešovičkách 747/2, 180 00 Praha 8](https://www.mff.cuni.cz/cs/vnitrni-zalezitosti/budovy-a-arealy/troja)
-- Live-streaming details - check here in the week of the event (likely via Teams)
+- Live-streaming: [Teams live-event](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTg2NDViNzQtMDYxNi00Y2Q1LTg2MDYtNmVlNTgxNTA1MDAx%40thread.v2/0?context=%7B%22Tid%22%3A%22e09276da-f934-4086-bf08-8816a20414a2%22%2C%22Oid%22%3A%22392273db-b801-44a6-92ca-debcd4527d78%22%2C%22IsBroadcastMeeting%22%3Atrue%2C%22role%22%3A%22a%22%7D&btype=a&role=a)
+    -  Recording will be available here few days after the event
+    -  Please fill [our survey](https://forms.office.com/r/B6KpQNF38A) to help us make the event better in future. Even if you watch just part of it or if you don't like the talks. Thank you!
 - Who: [Bronwen Zande](https://twitter.com/BronwenZ), [Poornima Nayar](https://twitter.com/PoornimaNayar), [Konrad Kokosa](https://twitter.com/konradkokosa), [Kevin Gosse](https://twitter.com/KooKiz)
 
 
@@ -52,4 +54,4 @@ You will have a chance to meet some of the top industry speakers during their vi
 - All organization is community-driven, speakers are volunteers.
 - Special thanks to [Update Conference](https://www.updateconference.net/) - namely [Tomas Herceg](https://www.tomasherceg.com/) for letting us "borrow" their speakers for this event.
 
-**Call for action:** Please help us spread the word among universities -- if you have contact at some university that might be interested (by telling their students or hosting local viewing), please contact [Karel Zikmund](https://karelz.github.io/) via [Twitter](https://twitter.com/ziki_cz), [personal email](mailto:ZikiCZ@hotmail.com), [work email](mailto:karelz@microsoft.com), [LinkedIn](https://www.linkedin.com/in/karelzikmund), or [Skype](mailto:ZikiCZ@hotmail.com) - see [Twitter announcement](https://twitter.com/ziki_cz/status/1585663405322551300) and [LinkedIn post](https://www.linkedin.com/posts/karelzikmund_tech-talks-for-universities-live-streamed-activity-6991430565191176193-nqA2)
+**Call for action:** Please help us reach more students and universities for future events -- if you have contacts to those interested, please contact [Karel Zikmund](https://karelz.github.io/) via [Twitter](https://twitter.com/ziki_cz), [personal email](mailto:ZikiCZ@hotmail.com), [work email](mailto:karelz@microsoft.com), [LinkedIn](https://www.linkedin.com/in/karelzikmund), or [Skype](mailto:ZikiCZ@hotmail.com).
