@@ -2,9 +2,23 @@ Events I organized or co-roganized.
 
 ## Upcoming events
 
-None as of 2022/9
+- Tech Talks for Universities in March/April 2023 - live-stream
 
 ## Past events
+
+## 2022
+
+- 2022/11/10 - [Tech Talks for Universities - live-streamed from Matfyz in Prafue, CZ](/events/events_2022-11-10_Tech_Talks_for_Universities) (in English)
+    - Organized by [Pavel Jezek](https://www.mff.cuni.cz/en/faculty/organizational-structure/people?hdl=2764), [Karel Zikmund](https://twitter.com/ziki_cz), [Radek Zikmund](https://twitter.com/Radek_Zikmund)
+    - Talks for university sttudents - live-streamed from MFF UK
+    - Recording: TBD
+        - [Bronwen Zande](https://twitter.com/BronwenZ) - Reflections on projects at boiling point
+        - [Konrad Kokosa](https://twitter.com/konradkokosa) - Why crazy ideas pay off
+        - [Poornima Nayar](https://twitter.com/PoornimaNayar) - Open Source - How it can help your career
+        - [Kevin Gosse](https://twitter.com/KooKiz) - When fate conspires against you
+    - Attendance: 40 + 80 online
+
+## 2020
 
 - 2020/2/4 - Discussion with MFF UK students - Prague, CZ (in Czech)
     - Participants: Hana Lapkova (Oracle), [Tomas Herceg](https://twitter.com/hercegtomas) (Riganti), Tomas Karban (RSJ), [Karel Zikmund](https://twitter.com/ziki_cz) (Microsoft)
@@ -14,6 +28,8 @@ None as of 2022/9
 - 2020/1/28 - [.NET Tour UK](https://dotnettour.github.io/UKTour2020/)
     - Organizers: [Steve Gordon](https://twitter.com/stevejgordon), [Karel Zikmund](https://twitter.com/ziki_cz) and UK MeetUps
     - [Tweeting #DotNetTourUK](https://twitter.com/search?q=%23DotNetTourUK)
+
+## 2019
 
 - 2019/12/4 - [Scott Hanselman visit](http://webtest.dotnetdays.cz/Dotnet-Days-Scott-Hanselman) - Prague, CZ
     - Organized by [Lucie Vasickova](https://twitter.com/lulucieva), [Karel Zikmund](https://twitter.com/ziki_cz), [Xamarin Developers Group Czech](https://twitter.com/xmdg_cz), [WUG Praha](https://twitter.com/wugcz), [Miroslav Holec](https://twitter.com/miroslavholec)
@@ -27,9 +43,9 @@ None as of 2022/9
         - [Miguel de Icaza - Unplugged](https://twitter.com/ziki_cz/status/1195043759727300608)
         - [Jared Parsons - C#: Life in a production compiler](https://twitter.com/ziki_cz/status/1195054414257643522)
         - [Konrad Kokosa - Why managed memory is fooling us?](https://twitter.com/ziki_cz/status/1195064075799146496)
-    - Attendace: 55 + 40 online
+    - Attendance: 55 + 40 online
 
-## .NET Tour - Down Under Edition - Australia / New Zealand 2019
+### .NET Tour - Down Under Edition - Australia / New Zealand 2019
 
 - 2019/10/29 - [.NET Tour Down Under - Auckland, NZ](https://www.meetup.com/AKL-NET/events/265703571/)
     - Organizers: [Marcus Bristol](https://twitter.com/mightymuke), [Alix Klingenberg](https://twitter.com/evolutionises), [Karel Zikmund](https://twitter.com/ziki_cz)
@@ -65,7 +81,7 @@ None as of 2022/9
     - Attendance: 70-80
     - [live-tweeting](https://twitter.com/ziki_cz/status/1184038878736453632) + mentions by [@SomyAyazi](https://twitter.com/SomyAyazi/status/1184090891167748096), [@coding_mama](https://twitter.com/coding_mama/status/1184016640117067776)
 
-## .NET Summer event series in Europe 2019
+### .NET Summer event series in Europe 2019
 
 - 2019/9/23 - [.NET Conf kick off - Prague, CZ](https://www.meetup.com/Prague-NET-Meetup/events/264688694/) (in Czech) - Avast venue
     - Talk about .NET, .NET Core and .NET Foundation - intro/kick off for .NET Conf keynote viewing
@@ -126,8 +142,9 @@ None as of 2022/9
         - Mentions by [@Mpdreamz](https://twitter.com/Mpdreamz/status/1142330368055533569), [@hakant](https://twitter.com/hakant/status/1142435079970598914), [@vijeshsalian](https://twitter.com/vijeshsalian/status/1142461115395379202), [Speakers' dinner #1](https://twitter.com/jmezach/status/1142471776515047424) and [Speakers' dinner #2](https://twitter.com/ziki_cz/status/1142472772838395905)
     - Attendance: 190
 
+## 2017
 
-## .NET MeetUps series in Europe 2017
+### .NET MeetUps series in Europe 2017
 
 - 2017/8/1 - [.NET MeetUp - Brno, CZ](/events/2017-08-01_dotNetMeetUp_Brno)
     - Organizers: [WUG Brno](http://wug.cz/), [Karel Zikmund](https://twitter.com/ziki_cz)
