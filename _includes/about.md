@@ -39,7 +39,7 @@ See [details about me](/details).
 
 - I believe that most people are good deep down and almost all inter-personal problems are just miscommunications. You can see me often trying to understand others view points and explaining my view point.
 
-- I don't have ego. I am not a genius, but I am not a dummie either. Treat me with respect and I am sure we can find common grounds. I am the good guy, believe me.
+- I don't have ego. I am not a genius, but I am not a dummy either. Treat me with respect and I am sure we can find common grounds. I am the good guy, believe me.
 
 - I have sometimes little patience with people who refuse to try, are selfish or egoistic, or are not willing to give up their invalid assumptions.
 
