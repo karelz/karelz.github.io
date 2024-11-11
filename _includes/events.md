@@ -2,7 +2,7 @@ Events I organized or co-organized.
 
 ## Upcoming events
 
-- 2024/11/13 Wed - [Tech Talks for Universities - live-streamed from Matfyz in Prafue, CZ](/events/events_2024-11-13_Tech_Talks_for_Universities) (in English)
+None
 
 ## Past events
 
