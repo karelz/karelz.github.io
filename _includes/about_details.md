@@ -2,6 +2,13 @@
 
 
 
+### 2023
+
+
+- 2/20 - Tech talk at [FIT VUT](https://www.fit.vut.cz/) - Brno, CZ
+    - **War stories from .NET team** - internal-only video
+    - **Discussion with students** - not recorded
+
 ### 2022
 
 - 11/9 - [Tech Talks for Universities](/events/events_2022-11-10_Tech_Talks_for_Universities) - **live-streamed** from Matfyz in Prague, CZ - talks for university students (in English)
@@ -14,7 +21,7 @@
 - 11/8 - [.NET Conf Watch Party + Experts Panel](https://www.geekcore.cz/events/6335) - Prague, CZ
     - Experts Panel participant (not recorded)
 
-- 9/27 - Tech talk at FI MUNI - Brno, CZ
+- 9/27 - Tech talk at [FI MUNI](https://www.fi.muni.cz/) - Brno, CZ
     - **War stories from .NET team** - [internal-only video](https://ucnmuni-my.sharepoint.com/:v:/g/personal/410452_muni_cz/EQMgl_OZPtFDuX8nGgC9b6kB-_7jTmgQSav599WE42Bxbw)
     - **Q&A** [internal-only video](https://ucnmuni-my.sharepoint.com/:v:/g/personal/410452_muni_cz/EQMgl_OZPtFDuX8nGgC9b6kB-_7jTmgQSav599WE42Bxbw)
 
@@ -27,7 +34,7 @@
 
 ### 2021
 
-- 10/26 - Tech talk at FI MUNI - Brno, CZ
+- 10/26 - Tech talk at [FI MUNI](https://www.fi.muni.cz/) - Brno, CZ
     - **What's new in .NET 6** (not recorded)
     - **War stories from .NET team** (not recorded)
     - **Q&A** (not recorded)
@@ -36,7 +43,7 @@
 
 ### 2020
 
-- 11/24 - Tech talk at FI MUNI - Brno, CZ - online event
+- 11/24 - Tech talk at [FI MUNI](https://www.fi.muni.cz/) - Brno, CZ - online event
     - **What's new in .NET 5** (not recorded)
     - **War stories from .NET team** (not recorded)
     - **Q&A** (not recorded)
@@ -48,7 +55,7 @@
     - Co-organizer with [Karolina Houzvickova Solcova](https://www.mff.cuni.cz/cs/fakulta/organizacni-struktura/lide?hdl=3951) (MFF UK)
     - Participants: Hana Lapkova (Oracle), [Tomas Herceg](https://twitter.com/hercegtomas) (Riganti), Tomas Karban (RSJ), [Karel Zikmund](https://twitter.com/ziki_cz) (Microsoft)
 
-- 2/5 - Tech talks at American University in Bulgaria - online event
+- 2/5 - Tech talks at [American University in Bulgaria](https://www.aubg.edu/) - online event
     - **War stories from .NET team** (not recorded)
 
 - 2/5 - [.NET MeetUp in Prague, CZ](https://www.meetup.com/Prague-NET-Meetup/events/268323465)
