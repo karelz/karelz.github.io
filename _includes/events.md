@@ -2,7 +2,7 @@ Events I organized or co-roganized.
 
 ## Upcoming events
 
-- Tech Talks for Universities in March/April 2023 - live-stream
+- 2024/11/13 Wed - [Tech Talks for Universities - live-streamed from Matfyz in Prafue, CZ](/events/events_2024-11-13_Tech_Talks_for_Universities) (in English)
 
 ## Past events
 
