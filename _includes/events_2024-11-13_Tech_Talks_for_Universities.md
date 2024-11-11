@@ -30,8 +30,9 @@ Times below are approximate.
   - Teaser:
     - See how you can easily plug in LLM models to anything via Semantic kernel - including a cool demo with a robot.
   - About speaker: see [Roger Barreto's bio at Update Conference](https://www.updateconference.net/en/2024/speaker/roger-barreto)
-- 19:00-19:15 - **** - [Anjuli Jhakry](https://x.com/ALJhakry) + others
+- 19:00-19:15 - **From anxiety to mastery** - [Anjuli Jhakry](https://www.linkedin.com/in/anjuli-jhakry-1b8169116/) + [Karel Zikmund](https://www.linkedin.com/in/karelzikmund/)
   - Teaser:
+    - Turning our biggest fears and discomforts into something we love to do now.
 - Bonus (pre-recorded) talk - **Cloud storage at Netflix** - [Tejas Chopra](https://www.linkedin.com/in/chopratejas/)
   - Teaser:
     - Interested in cloud storage efficiency techniques at Netflix?
