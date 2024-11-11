@@ -1,4 +1,4 @@
-Events I organized or co-roganized.
+Events I organized or co-organized.
 
 ## Upcoming events
 
@@ -10,7 +10,7 @@ Events I organized or co-roganized.
 
 - 2022/11/10 - [Tech Talks for Universities - live-streamed from Matfyz in Prafue, CZ](/events/events_2022-11-10_Tech_Talks_for_Universities) (in English)
     - Organized by [Pavel Jezek](https://www.mff.cuni.cz/en/faculty/organizational-structure/people?hdl=2764), [Karel Zikmund](https://twitter.com/ziki_cz), [Radek Zikmund](https://twitter.com/Radek_Zikmund)
-    - Talks for university sttudents - live-streamed from MFF UK
+    - Talks for university students - live-streamed from MFF UK
     - Recording: TBD
         - [Bronwen Zande](https://twitter.com/BronwenZ) - Reflections on projects at boiling point
         - [Konrad Kokosa](https://twitter.com/konradkokosa) - Why crazy ideas pay off
@@ -33,7 +33,7 @@ Events I organized or co-roganized.
 
 - 2019/12/4 - [Scott Hanselman visit](http://webtest.dotnetdays.cz/Dotnet-Days-Scott-Hanselman) - Prague, CZ
     - Organized by [Lucie Vasickova](https://twitter.com/lulucieva), [Karel Zikmund](https://twitter.com/ziki_cz), [Xamarin Developers Group Czech](https://twitter.com/xmdg_cz), [WUG Praha](https://twitter.com/wugcz), [Miroslav Holec](https://twitter.com/miroslavholec)
-    - Recording and live-steeaming: [Full event](https://www.youtube.com/watch?v=potFhvkgreA)
+    - Recording and live-streaming: [Full event](https://www.youtube.com/watch?v=potFhvkgreA)
     - Attendance: 120
 
 - 2019/11/14 - [.NET Talks at Matfyz in Preague, CZ](/events/events_2019-11-14_dotNet_Talks_at_Matfyz) - auditorium S5, Malostranske square 25, Prague - talks for university students (in English)
