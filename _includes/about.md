@@ -5,7 +5,7 @@ I am Software Engineering Manager on .NET team - .NET Libraries / Base Class Lib
 
 I spend most of my time as manager of Networking team.
 
-You can find me and contact me on [Discord - **ziki.cz**](https://discord.com/), on [LinkedIn](https://www.linkedin.com/in/karelzikmund), on [BlueSky](https://bsky.app/profile/zikicz.bsky.social), on [GitHub](https://github.com/karelz), via [email](mailto:karelz@microsoft.com), or on [Twitter](https://twitter.com/ziki_cz).
+You can find me and contact me on [Discord: ziki.cz](https://discord.com/), on [LinkedIn](https://www.linkedin.com/in/karelzikmund), on [BlueSky: zikicz](https://bsky.app/profile/zikicz.bsky.social), on [GitHub: karelz](https://github.com/karelz), via [email](mailto:karelz@microsoft.com), or on [Twitter: ziki_cz](https://twitter.com/ziki_cz).
 
 
 
