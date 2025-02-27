@@ -10,7 +10,6 @@ Ping me if you are not sure about a topic, or if you have ideas for other relate
 
 <br/>
 <br/>
-<br/>
 
 
 
@@ -36,7 +35,6 @@ Implement some **ASP.NET Core analyzers and code fixers**. .NET runtime (Roslyn)
 - This is a suggestion to the F# language which is approved in principle already.
 - More details: [Support `without` for Anonymous Records](https://github.com/fsharp/fslang-suggestions/issues/762)
 
-<br/>
 <br/>
 <br/>
 
@@ -82,7 +80,6 @@ Create **coverage-guided fuzzing** for .NET/C#. Fuzzing is used for discovering 
 
 <br/>
 <br/>
-<br/>
 
 
 
@@ -94,13 +91,12 @@ Create **coverage-guided fuzzing** for .NET/C#. Fuzzing is used for discovering 
 
 <br/>
 <br/>
-<br/>
 
 
 
 ## Ideas for thesis
 
-[**Orleans projects**](https://learn.microsoft.com/en-us/dotnet/orleans/resources/student-projects)
+**Orleans projects** - see [full list](https://learn.microsoft.com/en-us/dotnet/orleans/resources/student-projects)
 
 ***
 <br/>
