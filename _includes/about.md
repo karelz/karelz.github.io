@@ -17,7 +17,13 @@ You can find me and contact me on [Discord: ziki.cz](https://discord.com/), on [
 
 
 
-## Hiring for .NET Teams in Prague, Czech Republic
+## Master and Bachelor thesis topics for Microsoft in Prague, Czech Republic
+
+See [Master and Bachelor thesis topics for Microsoft in Prague, Czech Republic](/thesis) page for details.
+
+
+
+## Hiring for .NET & Compiler teams in Prague, Czech Republic
 
 See [Hiring for .NET Teams in Prague, Czech Republic](/hiring_prague_net) page for details.
 
