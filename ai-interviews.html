@@ -1,0 +1,13 @@
+---
+layout: full
+section: home
+title: Using Ai in Interviews - Experiment / Mock Interviews
+---
+    <section>
+      {% capture ai-interviews_include %}{% include ai-interviews.md %}{% endcapture %}
+      <div class="page-content">
+        <div class="wrapper">
+        {{ ai-interviews_include | markdownify }}
+        </div>
+      </div>
+    </section>
