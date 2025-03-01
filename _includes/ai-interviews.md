@@ -44,6 +44,7 @@ We will start with following format (we may adjust it later as needed):
 We are looking for all kind of SW developers in **backend** (not frontend, nor infrastructure-only at the moment), who are **proficient with AI tools in their development workflow** (from work, school or hobby projects).
 - **Level of experience** -- ANY - ranging from very senior devs to university students.
 - You do not need to have prior large tech company experience, nor be top of your class. If Microsoft, or company like Microsoft, is a place you might consider applying for one day (when stars are aligned), you are eligible.
+- **Language** - any reasonably wide-spread programming language is acceptable (it should support OOP in some form). Interviews will be done in English (like real interviews).
 
 Disclaimer: If we get too many applications, we might need to choose whom to pick.
 In such case, we would follow up with you, asking some questions, e.g. about your AI usage experience, industry experience, etc.
