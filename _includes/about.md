@@ -23,6 +23,12 @@ See [Master and Bachelor thesis topics for Microsoft in Prague, Czech Republic](
 
 
 
+## Using AI in Interviews - Experiment / Mock Interviews
+
+See [Using AI in Interviews - Experiment / Mock Interviews](/ai-interviews) page for details.
+
+
+
 ## Hiring for .NET & Compiler teams in Prague, Czech Republic
 
 See [Hiring for .NET Teams in Prague, Czech Republic](/hiring_prague_net) page for details.
