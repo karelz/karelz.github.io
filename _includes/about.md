@@ -11,6 +11,8 @@ You can find me and contact me on [Discord: ziki.cz](https://discord.com/), on [
 
 ## Upcoming Events
 
+- 4/29 - [Tech Talks at Matfyz in Prague, CZ](/events/events_2025-04-29_Tech_Talks_for_Universities) - talks for university students (in English)
+
 - **[Past events and projects](/details)**
 
 - [Active talks on sessionize](https://sessionize.com/karel-zikmund) for conferences and .NET MeetUps
