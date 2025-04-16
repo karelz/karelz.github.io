@@ -24,6 +24,8 @@ You will have a chance to meet some local industry speakers from variety of back
       <br/>This talk explores the evolution of open source from a grassroots ideal to the foundation of enterprise infrastructure. Hear how a single leap second caused widespread system crashes in 2012, why removing code can be harder than adding it, and how global collaboration helps scale complexity. A deep dive into the balance between innovation, long-term support, and the human side of Linux development.
   - About speaker: [Anna Maresova](https://www.linkedin.com/in/anna-maresova-9950087/) is Director at [SUSE](https://www.suse.com/) since 2018
 
+<br/>
+
 - 19:55-20:35 - **What is development of Open Source Framework about** - by [Tomas Herceg](https://www.tomasherceg.com/)
   - Abstract:
       - 10 years ago in [RIGANTI](https://www.riganti.cz/) we started developing our own small web framework [DotVVM](https://www.dotvvm.com/).
@@ -31,6 +33,7 @@ You will have a chance to meet some local industry speakers from variety of back
         <br/>During this talk, we will learn what does it mean to develop an OSS project and how it all can work in the context of small for-profit company.
   - About speaker: [Tomas Herceg](https://www.tomasherceg.com/) is founder and CEO of [RIGANTI](https://www.riganti.cz/). He organizes one of the largest .NET conferences in the region - [Update Conference](https://www.updateconference.net/) since 2018.
 
+<br/>
 
 - 20:35-21:15 - **Challenges Faced by .NET team** by [Karel Zikmund](https://karelz.github.io)
   - Abstract:
