@@ -3,16 +3,16 @@
 **Many faces of open-source world**
 
 Talks for **all university students**, hosted at MFF UK (Faculty of Mathematics and Physics, Charles University) in Prague, CZ
-- When: 4/29 Tue at 19:15-21:15 CET
+- When: 4/29 Tue at 19:15-21:15 CEST
 - Where: **!!! Live streaming !!!** from N1 at [Matfyz](https://matfyz.cz/), Troja, Prague (capacity 250 for in-person attendees)
-    - Address: [V Holešovičkách 747/2, 180 00 Praha 8](https://www.mff.cuni.cz/cs/vnitrni-zalezitosti/budovy-a-arealy/troja)
+    - Address: [Impakt building, V Holešovičkách 747/2, 180 00 Praha 8](https://www.mff.cuni.cz/cs/vnitrni-zalezitosti/budovy-a-arealy/troja)
 - Live-streaming: Teams live-event - **TODO**
     -  Recording will be available here few days after the event
     -  Please fill our survey (**link TODO**) to help us make the event better in future. Even if you watch just part of it or if you don't like the talks. Thank you!
 - Who: [Anna Maresova](https://www.linkedin.com/in/anna-maresova-9950087/), [Tomas Herceg](https://www.tomasherceg.com/), [Karel Zikmund](https://karelz.github.io)
 
 
-Organized by [Pavel Jezek](https://www.mff.cuni.cz/en/faculty/organizational-structure/people?hdl=2764), [Karel Zikmund](https://karelz.github.io)
+Organized by [Pavel Jezek](https://www.mff.cuni.cz/en/faculty/organizational-structure/people?hdl=2764), [Karel Zikmund](https://karelz.github.io), [Martin Vejbora](https://www.linkedin.com/in/martin-vejbora-7011481b9/), [Jan Jones](https://github.com/jjonescz)
 
 ## Talks
 
