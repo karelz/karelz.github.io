@@ -18,6 +18,8 @@ Organized by [Pavel Jezek](https://www.mff.cuni.cz/en/faculty/organizational-str
 
 You will have a chance to meet some local industry speakers from variety of backgrounds.
 
+<br/>
+
 - 19:15-19:55 - **The Linux Journey: From Open Source Dream to Enterprise Backbone** by [Anna Maresova](https://www.linkedin.com/in/anna-maresova-9950087/)
   - Abstract:
     - What does it really mean to build and maintain Linux in the real world?
@@ -47,6 +49,7 @@ You will have a chance to meet some local industry speakers from variety of back
         - Shocking impact of bugs on real world.
   - About speaker: [Karel Zikmund](https://karelz.github.io) is manager on .NET Networking team. He has been on .NET team since 2005.
 
+<br/>
 
 ## Resources and Notes
 
