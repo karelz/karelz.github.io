@@ -2,7 +2,12 @@ Events I organized or co-organized.
 
 ## Upcoming events
 
-None
+- **2025/4/29** - [Tech Talks for Universities - live-streamed from Matfyz in Prafue, CZ](/events/events_2025-04-29_Tech_Talks_for_Universities) (in English)
+    - Organized by [Pavel Jezek](https://www.mff.cuni.cz/en/faculty/organizational-structure/people?hdl=2764), [Karel Zikmund](https://twitter.com/ziki_cz)
+    - Talks for university students - live-streamed from MFF UK
+    - Recording: TBD
+
+
 
 ## Past events
 
