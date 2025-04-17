@@ -30,9 +30,9 @@ You will have a chance to meet some local industry speakers from variety of back
 
 - 19:55-20:35 - **What is development of Open Source Framework about** - by [Tomas Herceg](https://www.tomasherceg.com/)
   - Abstract:
-      - 10 years ago in [RIGANTI](https://www.riganti.cz/) we started developing our own small web framework [DotVVM](https://www.dotvvm.com/).
-        <br/>A bit unplanned, it turned into open source project, which is today used by hundreds of companies. It is among Top 10 most active projects in [.NET Foundation](https://dotnetfoundation.org/).
-        <br/>During this talk, we will learn what does it mean to develop an OSS project and how it all can work in the context of small for-profit company.
+      - 10 years ago, at [RIGANTI](https://www.riganti.cz/), we started developing a small web framework called [DotVVM](https://www.dotvvm.com/) for our own needs..
+        <br/>Somewhat unexpectedly, it evolved into open-source project, which is now used by hundreds of companies and regularly ranks among Top 10 most active projects in the [.NET Foundation](https://dotnetfoundation.org/).
+        <br/>In this session, we will discuss what developing an open-source software involves and how it can work even within a small commercial company.
   - About speaker: [Tomas Herceg](https://www.tomasherceg.com/) is founder and CEO of [RIGANTI](https://www.riganti.cz/). He organizes one of the largest .NET conferences in the region - [Update Conference](https://www.updateconference.net/) since 2018.
 
 <br/>
