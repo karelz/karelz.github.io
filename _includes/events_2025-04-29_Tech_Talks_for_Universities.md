@@ -1,5 +1,7 @@
 # Tech Talks for Universities - live-streamed from Matfyz in Prague, CZ - 2025/4/29
 
+![Flyer](/images/TechTalks4Unis_2025-04-29.png)
+
 **Many faces of open-source world**
 
 Talks for **all university students**, hosted at MFF UK (Faculty of Mathematics and Physics, Charles University) in Prague, CZ
