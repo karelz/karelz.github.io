@@ -6,9 +6,9 @@
 
 Talks for **all university students**, hosted at MFF UK (Faculty of Mathematics and Physics, Charles University) in Prague, CZ
 - When: 4/29 Tue at 19:15-21:15 CEST
-- Where: **!!! Live streaming !!!** from N1 at [Matfyz](https://matfyz.cz/), Troja, Prague (capacity 250 for in-person attendees)
+- Where: N1 at [Matfyz](https://matfyz.cz/), Troja, Prague (capacity 250 for in-person attendees)
     - Address: [Impakt building, V Holešovičkách 747/2, 180 00 Praha 8](https://www.mff.cuni.cz/cs/vnitrni-zalezitosti/budovy-a-arealy/troja)
-- Live-streaming: [Zoom live-event](https://cesnet.zoom.us/j/93629093660?pwd=IwmaLF3Lwkmg8ZLxW5xlWANBWOJ1Rc.1)
+- **Live-stream**: [Zoom live-event](https://cesnet.zoom.us/j/93629093660?pwd=IwmaLF3Lwkmg8ZLxW5xlWANBWOJ1Rc.1)
     -  Recording will be available here few days after the event
     -  Please fill our survey (**link TODO** - on the day of the event) to help us make the event better in future. Even if you watch just part of it or if you don't like the talks. Thank you!
 - Who: [Anna Maresova](https://www.linkedin.com/in/anna-maresova-9950087/), [Tomas Herceg](https://www.tomasherceg.com/), [Karel Zikmund](https://karelz.github.io)
