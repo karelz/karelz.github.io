@@ -1,12 +1,50 @@
 # Master and Bachelor thesis topics for Microsoft in Prague, Czech Republic
 
-Latest update: 2025/2/27
+Latest update: 2025/10/23
 
 Topics are primarily for MFF UK, although we have ongoing collaboration with FI MUNI, FIT CVUT and FIT VUT -- all universities (not limited by this list or to Czech Republic) are welcome to participate.
 
 If you pick a topic, please ping me if the topic is not taken. Also please make sure your university agrees with it. If everyone is onboard, I will connect you with Microsoft expert in the area to support you through topic refinement and your work.
 
 Ping me if you are not sure about a topic, or if you have ideas for other related topics we might be able to support.
+
+<br/>
+<br/>
+
+## Notable defended thesis
+
+[Tomas Husak](https://www.linkedin.com/in/tom%C3%A1%C5%A1-hus%C3%A1k-a07191188/) - [**Improved Type Inference in the C# Language**](https://dspace.cuni.cz/handle/20.500.11956/190675)
+- MFF UK
+- Supervisor: [Pavel Jezek](https://www.mff.cuni.cz/en/faculty/organizational-structure/people?hdl=2764)
+- Mentor at Microsoft: [Rikki Gibson](https://www.linkedin.com/in/rikki-gibson-92b50344/)
+- [Diploma thesis](https://www.itspy.cz/wp-content/uploads/2024/09/it_spy_2024_diplomova_prace_46.pdf) resulted in 2 features checked into Rosly, C# compiler
+  - 2024/8 - Successfully defended
+  - 2024 - Finalist of [ITSPY 2024](https://www.itspy.cz/rocnik/2024/) - top 7 diploma thesis out of 1400 submissions from CZ and SK universities
+
+***
+<br/>
+
+Katerina Prusova - **Java bindings for .NET** / [**L'anatra - Library for interoperability between C# and Java**](https://dspace.cuni.cz/handle/20.500.11956/193799)
+- MFF UK
+- Supervisor: [Pavel Jezek](https://www.mff.cuni.cz/en/faculty/organizational-structure/people?hdl=2764)
+- Mentor at Microsoft: [Pavel Savara](https://www.linkedin.com/in/pavelsavara/)
+- [Diploma thesis](https://dspace.cuni.cz/handle/20.500.11956/193799)
+    - 2024/9 - Successfully defended
+    - Awarded best MFF UK Software dimploma thesis of year 2024
+    - Original thesis description: To make Java interop very easy for developers, we could create plugin into Roslyn compiler. The generator would be triggered by `[JavaImport]` attribute above C# partial method and generate necessary interop glue code using JNI. There are existing alternative solutions, but most of them are complex to use and/or proprietary.
+- 2024/8 - Katka started on Rust team in Microsoft
+
+***
+<br/>
+
+[Radek Zikmund](https://www.linkedin.com/in/radek-zikmund-30012a14b/) - [**Managed QUIC protocol implementation**](https://dspace.cuni.cz/handle/20.500.11956/124659)
+- MFF UK
+- Supervisor: [Pavel Jezek](https://www.mff.cuni.cz/en/faculty/organizational-structure/people?hdl=2764)
+- Mentor at Microsoft: [Marie Pichova](https://www.linkedin.com/in/marie-pichova/)
+- [Diploma thesis](https://dspace.cuni.cz/handle/20.500.11956/124659)
+    - 2021/2 - Successfully defended
+    - Awarded [best MFF UK Software dimploma thesis of year 2021](https://cs.mff.cuni.cz/cs/pro-studenty/nejlepsi-softwarova-diplomka)
+- 2022/1 - Radek started as full-time developer on .NET Networking team
 
 <br/>
 <br/>
@@ -42,7 +80,7 @@ Implement some **ASP.NET Core analyzers and code fixers**. .NET runtime (Roslyn)
 
 ## Master thesis - topics
 
-Prototype **WebTransport** in .NET Core based on already existing HTTP/3 and QUIC implementations. WebTransport is new networking protocol based on HTTP/3 and QUIC protocols, currently in [draft stage](https://datatracker.ietf.org/doc/html/draft-ietf-webtrans-http3-02). It supports sending data both reliably and unreliably. It can be viewed as next generation of popular WebSockets protocol (which is based on HTTP 1.1 and HTTP/2 protocols).
+**[Reseved as of 2025/7 - Patrik Trefil, MFF UK]** Prototype **WebTransport** in .NET Core based on already existing HTTP/3 and QUIC implementations. WebTransport is new networking protocol based on HTTP/3 and QUIC protocols, currently in [draft stage](https://datatracker.ietf.org/doc/html/draft-ietf-webtrans-http3-02). It supports sending data both reliably and unreliably. It can be viewed as next generation of popular WebSockets protocol (which is based on HTTP 1.1 and HTTP/2 protocols).
 
 ***
 <br/>
@@ -70,7 +108,7 @@ Create **coverage-guided fuzzing** for .NET/C#. Fuzzing is used for discovering 
 ***
 <br/>
 
-**F# Compiler + Language design - Support for anonymous type-tagged union types**
+**[Reserved as of 2025/9 - Mikulas Vitek, FIT VUT]** - **F# Compiler + Language design - Support for anonymous type-tagged union types**
 - *Abstract*: Discriminated unions are a powerful tool for. Currently, all cases of a union type in F# must have a unique name: `type GuiSize = Pixels of int | Percentage of float | Automatic`
 - And they are differentiated by that name. The proposal is to allow anonymous unions types for disjoint sets of types, e.g. to be used as function arguments similar to many existing JavaScript functions:
 `let newFunction (argument: int | float | () ) = ...`
@@ -98,6 +136,7 @@ Create **coverage-guided fuzzing** for .NET/C#. Fuzzing is used for discovering 
 
 **Orleans projects** - see [full list](https://learn.microsoft.com/en-us/dotnet/orleans/resources/student-projects)
 
+
 ***
 <br/>
 
@@ -106,7 +145,7 @@ Augment the regex source generator to support `RegexOptions.NonBacktracking`. Th
 ***
 <br/>
 
-Build a LlamaIndex-like solution on top of `Microsoft.Extensions.VectorData` / `Microsoft.Extensions.AI`, in particular for handling advanced RAG patterns easily in .NET.
+**[Reserved as of 2025/7 - Krystof Suchanek, FI MUNI]** Build a LlamaIndex-like solution on top of `Microsoft.Extensions.VectorData` / `Microsoft.Extensions.AI`, in particular for handling advanced RAG patterns easily in .NET.
 
 ***
 <br/>
@@ -132,3 +171,11 @@ Implement state-of-the-art stable sorting routines with the goal of benchmarking
 <br/>
 
 `BigInteger` rewrite to address existing issues, keep performance in mind
+
+***
+<br/>
+
+**[Reserved as of 2025/? Roman Poliacik - TBD]** Guessing passwords using GenAI - student's idea
+
+***
+<br/>
