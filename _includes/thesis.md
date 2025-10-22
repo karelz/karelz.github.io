@@ -13,6 +13,19 @@ Ping me if you are not sure about a topic, or if you have ideas for other relate
 
 ## Notable defended thesis
 
+Katerina Prusova - [**L'anatra - Library for interoperability between C# and Java**](https://dspace.cuni.cz/handle/20.500.11956/193799)
+- MFF UK
+- Supervisor: [Pavel Jezek](https://www.mff.cuni.cz/en/faculty/organizational-structure/people?hdl=2764)
+- Mentor at Microsoft: [Pavel Savara](https://www.linkedin.com/in/pavelsavara/)
+- [Diploma thesis](https://dspace.cuni.cz/handle/20.500.11956/193799)
+    - 2024/9 - Successfully defended
+    - Awarded best MFF UK Software dimploma thesis of year 2024
+    - Original thesis description: **Java bindings for .NET** - To make Java interop very easy for developers, we could create plugin into Roslyn compiler. The generator would be triggered by `[JavaImport]` attribute above C# partial method and generate necessary interop glue code using JNI. There are existing alternative solutions, but most of them are complex to use and/or proprietary.
+- 2024/8 - Katka started as full-time developer on Rust team in Microsoft
+
+***
+<br/>
+
 [Tomas Husak](https://www.linkedin.com/in/tom%C3%A1%C5%A1-hus%C3%A1k-a07191188/) - [**Improved Type Inference in the C# Language**](https://dspace.cuni.cz/handle/20.500.11956/190675)
 - MFF UK
 - Supervisor: [Pavel Jezek](https://www.mff.cuni.cz/en/faculty/organizational-structure/people?hdl=2764)
@@ -24,19 +37,6 @@ Ping me if you are not sure about a topic, or if you have ideas for other relate
 ***
 <br/>
 
-Katerina Prusova - **Java bindings for .NET** / [**L'anatra - Library for interoperability between C# and Java**](https://dspace.cuni.cz/handle/20.500.11956/193799)
-- MFF UK
-- Supervisor: [Pavel Jezek](https://www.mff.cuni.cz/en/faculty/organizational-structure/people?hdl=2764)
-- Mentor at Microsoft: [Pavel Savara](https://www.linkedin.com/in/pavelsavara/)
-- [Diploma thesis](https://dspace.cuni.cz/handle/20.500.11956/193799)
-    - 2024/9 - Successfully defended
-    - Awarded best MFF UK Software dimploma thesis of year 2024
-    - Original thesis description: To make Java interop very easy for developers, we could create plugin into Roslyn compiler. The generator would be triggered by `[JavaImport]` attribute above C# partial method and generate necessary interop glue code using JNI. There are existing alternative solutions, but most of them are complex to use and/or proprietary.
-- 2024/8 - Katka started on Rust team in Microsoft
-
-***
-<br/>
-
 [Radek Zikmund](https://www.linkedin.com/in/radek-zikmund-30012a14b/) - [**Managed QUIC protocol implementation**](https://dspace.cuni.cz/handle/20.500.11956/124659)
 - MFF UK
 - Supervisor: [Pavel Jezek](https://www.mff.cuni.cz/en/faculty/organizational-structure/people?hdl=2764)
@@ -44,7 +44,7 @@ Katerina Prusova - **Java bindings for .NET** / [**L'anatra - Library for intero
 - [Diploma thesis](https://dspace.cuni.cz/handle/20.500.11956/124659)
     - 2021/2 - Successfully defended
     - Awarded [best MFF UK Software dimploma thesis of year 2021](https://cs.mff.cuni.cz/cs/pro-studenty/nejlepsi-softwarova-diplomka)
-- 2022/1 - Radek started as full-time developer on .NET Networking team
+- 2022/1 - Radek started as full-time developer on .NET Networking team in Microsoft
 
 <br/>
 <br/>
