@@ -3,7 +3,7 @@
 My name is Karel Zikmund.
 I am Software Engineering Manager on .NET team - .NET Libraries / Base Class Libraries at [Microsoft](https://www.microsoft.com/).
 
-I spend most of my time as manager of Networking team.
+I spend most of my time as manager of Networking team (and few other areas lately).
 
 You can find me and contact me on [Discord: ziki.cz](https://discord.com/), on [LinkedIn](https://www.linkedin.com/in/karelzikmund), on [BlueSky: zikicz](https://bsky.app/profile/zikicz.bsky.social), on [GitHub: karelz](https://github.com/karelz), via [email](mailto:karelz@microsoft.com), or on [Twitter: ziki_cz](https://twitter.com/ziki_cz).
 
@@ -67,6 +67,6 @@ See [details about me](/details).
 
 - I am inefficient at doing code reviews. It takes me 2x-4x more time and energy than anyone else. When I do them, I need to understand everything perfectly, before I "approve" (kind of OCD). Therefore I stay away from code reviews if I can, doing team-wide efficiency on the team - I let others who do them "faster & better" do them.
 
-- I also like beer and I am happy to discuss anything over a glass or a pitcher :).
+- I also like non-alcoholic beer and I am happy to discuss anything over a glass.
 
 Check [my LinkedIn profile](https://www.linkedin.com/in/karelzikmund/) for more details.
