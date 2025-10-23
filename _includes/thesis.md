@@ -100,7 +100,7 @@ Create **coverage-guided fuzzing** for .NET/C#. Fuzzing is used for discovering 
 ***
 <br/>
 
-**F# Compiler - Type Providers - Generate types from other types**
+**[Reserved as of 2025/9 - Vojtech Gadurek, MFF UK]** - **F# Compiler - Type Providers - Generate types from other types**
 - *Abstract*: F# Type providers are a meta-programming and code-generation tool which is used for working with external structured data, such as SQL tables, CSV, HTML and many others. As of now, it can also receive constant values as arguments (such as a database connection info, path to an Excel file, URL pointing to a swagger definition). This thesis would do the language design and compiler implementation to allow passing in other user-defined types as arguments, in order to code-generate their enriched versions. Example use cases would be to generate a mutable DTO type based on a domain-model F# data structure, use existing user-defined records for typed access to .csv files and others.
 - This is a suggestion to the F# language which is approved in principle already.
 - More details: [F# RFC FS-1023 - Allow type providers to generate types from types](https://github.com/fsharp/fslang-design/blob/main/RFCs/FS-1023-type-providers-generate-types-from-types.md)
@@ -145,7 +145,7 @@ Augment the regex source generator to support `RegexOptions.NonBacktracking`. Th
 ***
 <br/>
 
-**[Reserved as of 2025/7 - Krystof Suchanek, FI MUNI]** Build a LlamaIndex-like solution on top of `Microsoft.Extensions.VectorData` / `Microsoft.Extensions.AI`, in particular for handling advanced RAG patterns easily in .NET.
+**[Reserved as of 2025/7 - Krystof Suchanek, FI MUNI]** - Build a LlamaIndex-like solution on top of `Microsoft.Extensions.VectorData` / `Microsoft.Extensions.AI`, in particular for handling advanced RAG patterns easily in .NET.
 
 ***
 <br/>
@@ -175,7 +175,7 @@ Implement state-of-the-art stable sorting routines with the goal of benchmarking
 ***
 <br/>
 
-**[Reserved as of 2025/? Roman Poliacik - TBD]** Guessing passwords using GenAI - student's idea
+**[Reserved as of 2025/? Roman Poliacik - TBD]** - Guessing passwords using GenAI - student's idea
 
 ***
 <br/>
