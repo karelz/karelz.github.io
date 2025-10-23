@@ -13,7 +13,7 @@ Ping me if you are not sure about a topic, or if you have ideas for other relate
 
 ## Notable defended thesis
 
-Katerina Prusova - [**L'anatra - Library for interoperability between C# and Java**](https://dspace.cuni.cz/handle/20.500.11956/193799)
+[Katerina Prusova](https://www.linkedin.com/in/katka-pr%C5%AF%C5%A1ov%C3%A1-3677b9365/) - [**L'anatra - Library for interoperability between C# and Java**](https://dspace.cuni.cz/handle/20.500.11956/193799)
 - MFF UK
 - Supervisor: [Pavel Jezek](https://www.mff.cuni.cz/en/faculty/organizational-structure/people?hdl=2764)
 - Mentor at Microsoft: [Pavel Savara](https://www.linkedin.com/in/pavelsavara/)
