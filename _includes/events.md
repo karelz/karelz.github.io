@@ -2,14 +2,23 @@ Events I organized or co-organized.
 
 ## Upcoming events
 
-- **2025/4/29** - [Tech Talks for Universities - live-streamed from Matfyz in Prague, CZ](/events/events_2025-04-29_Tech_Talks_for_Universities) (in English)
-    - Organized by [Pavel Jezek](https://www.mff.cuni.cz/en/faculty/organizational-structure/people?hdl=2764), [Karel Zikmund](https://twitter.com/ziki_cz)
+- **2025/11/12** - [Tech Talks for Universities - live-streamed from Matfyz in Prague, CZ](/events/events_2025-11-12_Tech_Talks_for_Universities) (in English)
+    - Organized by [Pavel Jezek](https://www.mff.cuni.cz/en/faculty/organizational-structure/people?hdl=2764), [Karel Zikmund](https://karelz.github.io), [Martin Vejbora](https://www.linkedin.com/in/martin-vejbora-7011481b9/), [Jan Jones](https://github.com/jjonescz)
     - Talks for university students - live-streamed from MFF UK
     - Recording: TBD
 
 
-
 ## Past events
+
+## 2025
+
+- 2025/4/29 - [Tech Talks for Universities - live-streamed from Matfyz in Prague, CZ](/events/events_2025-04-29_Tech_Talks_for_Universities) (in English)
+    - Organized by [Pavel Jezek](https://www.mff.cuni.cz/en/faculty/organizational-structure/people?hdl=2764), [Karel Zikmund](https://karelz.github.io), [Martin Vejbora](https://www.linkedin.com/in/martin-vejbora-7011481b9/), [Jan Jones](https://github.com/jjonescz)
+    - Talks for university students - live-streamed from MFF UK
+    - Recording: TBD
+        - [Anna Maresova](https://www.linkedin.com/in/anna-maresova-9950087/) - The Linux Journey: From Open Source Dream to Enterprise Backbone
+        - [Tomas Herceg](https://www.tomasherceg.com/) - What is development of Open Source Framework about
+        - [Karel Zikmund](https://karelz.github.io) - Challenges Faced by .NET team
 
 ## 2022
 
