@@ -2,22 +2,23 @@
 
 ![Flyer](/images/TechTalks4Unis_2025-11-12.png)
 
-**Many faces of open-source world**
-
 Talks for **all university students**, hosted at MFF UK (Faculty of Mathematics and Physics, Charles University) in Prague, CZ
 - When: 11/12 Wed at 18:00-20:00 CET
 - Where: N1 at [Matfyz](https://matfyz.cz/), Troja, Prague (capacity 250 for in-person attendees)
     - Address: [Impakt building, V Holešovičkách 747/2, 180 00 Praha 8](https://www.mff.cuni.cz/cs/vnitrni-zalezitosti/budovy-a-arealy/troja)
 - **Live-stream**: Check here on the day of the event
     -  Recording will be available here few days after the event
-- Who: [Stephen Toub]([https://karelz.github.io](https://www.linkedin.com/in/stephen-toub-75979745/) + 2 more speakers to be announced in upcoming weeks
+- Who:
+    - [Stephen Toub](https://www.linkedin.com/in/stephen-toub-75979745/) - Architect of .NET Libraries. Focuses on performance and AI lately. Co-author of async.
+    - [Kathleen Dollard](https://www.linkedin.com/in/kathleendollard/) - Worked on design of languages - C#, VB, F#. Author of blog articles and books.
+    - [Kevin Gosse](https://www.linkedin.com/in/kevingosse/) - Performance expert, works at JetBrains on ReSharper perf.
 
 
-Organized by [Pavel Jezek](https://www.mff.cuni.cz/en/faculty/organizational-structure/people?hdl=2764), [Karel Zikmund](https://karelz.github.io), [Martin Vejbora](https://www.linkedin.com/in/martin-vejbora-7011481b9/), [Jan Jones](https://github.com/jjonescz)
+Organized by [Pavel Jezek](https://www.mff.cuni.cz/en/faculty/organizational-structure/people?hdl=2764), [Karel Zikmund](https://karelz.github.io), [Martin Vejbora](https://www.linkedin.com/in/martin-vejbora-7011481b9/), [Jan Jones](https://github.com/jjonescz), [Vojta Svandelik](https://www.linkedin.com/in/vojtechsvandelik/)
 
 ## Talks
 
-List of talks and their abstracts will be placed here at least 1 week before the event.
+List of talks and their abstracts will be placed here the week of the event.
 
 <br/>
 
