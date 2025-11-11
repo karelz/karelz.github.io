@@ -11,7 +11,7 @@ Talks for **all university students**, hosted at MFF UK (Faculty of Mathematics 
 - Who:
     - [Stephen Toub](https://www.linkedin.com/in/stephen-toub-75979745/) - Architect of .NET Libraries. Focuses on performance and AI lately. Co-author of async.
     - [Kathleen Dollard](https://www.linkedin.com/in/kathleendollard/) - Worked on design of languages - C#, VB, F#. Author of blog articles and books.
-    - [Kevin Gosse](https://www.linkedin.com/in/kevingosse/) - Performance expert, works at JetBrains on ReSharper perf.
+    - 
 
 
 Organized by [Pavel Jezek](https://www.mff.cuni.cz/en/faculty/organizational-structure/people?hdl=2764), [Karel Zikmund](https://karelz.github.io), [Martin Vejbora](https://www.linkedin.com/in/martin-vejbora-7011481b9/), [Jan Jones](https://github.com/jjonescz), [Vojta Svandelik](https://www.linkedin.com/in/vojtechsvandelik/)
@@ -19,6 +19,27 @@ Organized by [Pavel Jezek](https://www.mff.cuni.cz/en/faculty/organizational-str
 ## Talks
 
 List of talks and their abstracts will be placed here the week of the event.
+
+<br/>
+
+- 18:00-18:40 - **Profiling for Fun and Profit** by [Stephen Toub](https://www.linkedin.com/in/stephen-toub-75979745/) (see [Stephen's bio](https://prague.updateconference.net/en/2025/speakers/stephen-toub) at Update Conference)
+    - Abstract:
+        - You've all written code. You've all debugged code. How many of you have profiled code? Profiling is an essential tool in a professional dev's tool belt yet very few dev's realize how easy and beneficial it can be. In this casual discussion, we'll examine a random library, find bottlenecks, and fix them.
+    - About speaker: Architect of .NET Libraries. Focuses on performance and AI lately. Co-author of async.
+
+<br/>
+
+- 18:40-19:20 - **Clarity as a perspective** by [Kathleen Dollard](https://www.linkedin.com/in/kathleendollard/) (see [Kathleen's bio](https://prague.updateconference.net/en/2025/speakers/kathleen-dollard) at Update Conference)
+    - Abstract:
+        - It's wonderful being a programmer or other member of the tech community. Machines do not carry the emotional baggage of humans. We also help shape the code we work on and bring the context, intent, and purpose. Maximizing clarity becomes even more important as AI becomes part of the long term maintenance of our applications.
+    - About speaker: Worked as Program Manager on design of languages - C#, VB, F#. Author of blog articles and books.
+
+<br/>
+
+- 19:20-20:00 - **Let's talk about debugging** by [Kevin Gosse](https://www.linkedin.com/in/kevingosse/) (see [Kevin's bio](https://prague.updateconference.net/en/2025/speakers/kevin-gosse) at Update Conference)
+    - Abstract:
+        - All developers spend a significant amount of time investigating and fixing bugs, Yet, we rarely talk about it, let alone teach it. What's so special about debugging?
+    - About speaker: Performance expert, works at JetBrains on ReSharper perf.
 
 <br/>
 
