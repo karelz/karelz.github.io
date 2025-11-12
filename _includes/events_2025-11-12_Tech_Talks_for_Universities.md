@@ -7,7 +7,9 @@ Talks for **all university students**, hosted at MFF UK (Faculty of Mathematics 
 - Where: N1 at [Matfyz](https://matfyz.cz/), Troja, Prague (capacity 250 for in-person attendees)
     - Address: [Impakt building, V Holešovičkách 747/2, 180 00 Praha 8](https://www.mff.cuni.cz/cs/vnitrni-zalezitosti/budovy-a-arealy/troja)
 - **Live-stream**: [Zoom link](https://cesnet.zoom.us/j/94041473292?pwd=dbmWsUSmtOiGogKbdUXEhLiHgRK5mI.1)
-    -  Recording will be available here few days after the event
+    - Recording will be available here few days after the event
+    - Please fill our [survey](https://forms.office.com/r/CHn8mqjAkz) to help us make the event better in future. Even if you watch just part of it or if you don’t like the talks. Thank you!
+
 - Who:
     - [Stephen Toub](https://www.linkedin.com/in/stephen-toub-75979745/) - Architect of .NET Libraries. Focuses on performance and AI lately. Co-author of async.
     - [Kathleen Dollard](https://www.linkedin.com/in/kathleendollard/) - Worked as Program Manager on design of languages - C#, VB, F#. Author of blog articles and books.
