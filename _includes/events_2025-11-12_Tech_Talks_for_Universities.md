@@ -6,7 +6,7 @@ Talks for **all university students**, hosted at MFF UK (Faculty of Mathematics 
 - When: 11/12 Wed at 18:00-20:00 CET
 - Where: N1 at [Matfyz](https://matfyz.cz/), Troja, Prague (capacity 250 for in-person attendees)
     - Address: [Impakt building, V Holešovičkách 747/2, 180 00 Praha 8](https://www.mff.cuni.cz/cs/vnitrni-zalezitosti/budovy-a-arealy/troja)
-- **Live-stream**: Check here on the day of the event
+- **Live-stream**: [Zoom link](https://cesnet.zoom.us/j/94041473292?pwd=dbmWsUSmtOiGogKbdUXEhLiHgRK5mI.1)
     -  Recording will be available here few days after the event
 - Who:
     - [Stephen Toub](https://www.linkedin.com/in/stephen-toub-75979745/) - Architect of .NET Libraries. Focuses on performance and AI lately. Co-author of async.
