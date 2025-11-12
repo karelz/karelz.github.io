@@ -10,8 +10,8 @@ Talks for **all university students**, hosted at MFF UK (Faculty of Mathematics 
     -  Recording will be available here few days after the event
 - Who:
     - [Stephen Toub](https://www.linkedin.com/in/stephen-toub-75979745/) - Architect of .NET Libraries. Focuses on performance and AI lately. Co-author of async.
-    - [Kathleen Dollard](https://www.linkedin.com/in/kathleendollard/) - Worked on design of languages - C#, VB, F#. Author of blog articles and books.
-    - 
+    - [Kathleen Dollard](https://www.linkedin.com/in/kathleendollard/) - Worked as Program Manager on design of languages - C#, VB, F#. Author of blog articles and books.
+    - [Kevin Gosse](https://www.linkedin.com/in/kevingosse/) - Performance expert, works at JetBrains on ReSharper perf.
 
 
 Organized by [Pavel Jezek](https://www.mff.cuni.cz/en/faculty/organizational-structure/people?hdl=2764), [Karel Zikmund](https://karelz.github.io), [Martin Vejbora](https://www.linkedin.com/in/martin-vejbora-7011481b9/), [Jan Jones](https://github.com/jjonescz), [Vojta Svandelik](https://www.linkedin.com/in/vojtechsvandelik/)
