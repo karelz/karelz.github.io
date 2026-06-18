@@ -2,15 +2,22 @@ Events I organized or co-organized.
 
 ## Upcoming events
 
-- **2025/11/12** - [Tech Talks for Universities - live-streamed from Matfyz in Prague, CZ](/events/events_2025-11-12_Tech_Talks_for_Universities) (in English)
-    - Organized by [Pavel Jezek](https://www.mff.cuni.cz/en/faculty/organizational-structure/people?hdl=2764), [Karel Zikmund](https://karelz.github.io), [Martin Vejbora](https://www.linkedin.com/in/martin-vejbora-7011481b9/), [Jan Jones](https://github.com/jjonescz)
+- **2026/11/12** - [Tech Talks for Universities - live-streamed from Matfyz in Prague, CZ](/events/events_2026-11-12_Tech_Talks_for_Universities) (in English)
+    - Organized by [Pavel Jezek](https://www.mff.cuni.cz/en/faculty/organizational-structure/people?hdl=2764), [Karel Zikmund](https://karelz.github.io), [Martin Vejbora](https://www.linkedin.com/in/martin-vejbora-7011481b9/), [Jan Jones](https://github.com/jjonescz), [Vojta Svandelik](https://www.linkedin.com/in/vojtechsvandelik/)
     - Talks for university students - live-streamed from MFF UK
     - Recording: TBD
-
 
 ## Past events
 
 ## 2025
+
+- 2025/11/12 - [Tech Talks for Universities - live-streamed from Matfyz in Prague, CZ](/events/events_2025-11-12_Tech_Talks_for_Universities) (in English)
+    - Organized by [Pavel Jezek](https://www.mff.cuni.cz/en/faculty/organizational-structure/people?hdl=2764), [Karel Zikmund](https://karelz.github.io), [Martin Vejbora](https://www.linkedin.com/in/martin-vejbora-7011481b9/), [Jan Jones](https://github.com/jjonescz), [Vojta Svandelik](https://www.linkedin.com/in/vojtechsvandelik/)
+    - Talks for university students - live-streamed from MFF UK
+    - Recording: TBD
+        - [Stephen Toub](https://www.linkedin.com/in/stephen-toub-75979745/) - Profiling for Fun and Profit
+        - [Kathleen Dollard](https://www.linkedin.com/in/kathleendollard/) - Clarity as a perspective
+        - [Kevin Gosse](https://www.linkedin.com/in/kevingosse/) - Let's talk about debugging
 
 - 2025/4/29 - [Tech Talks for Universities - live-streamed from Matfyz in Prague, CZ](/events/events_2025-04-29_Tech_Talks_for_Universities) (in English)
     - Organized by [Pavel Jezek](https://www.mff.cuni.cz/en/faculty/organizational-structure/people?hdl=2764), [Karel Zikmund](https://karelz.github.io), [Martin Vejbora](https://www.linkedin.com/in/martin-vejbora-7011481b9/), [Jan Jones](https://github.com/jjonescz)
