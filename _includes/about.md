@@ -13,7 +13,7 @@ You can find me and contact me on [Discord: ziki.cz](https://discord.com/), on [
 
 - **[Past events and projects](/details)**
 
-- **[Tech Talks for Universities on 2025/11/12 - live-streamed from Matfyz in Prague, CZ](/events/events_2025-11-12_Tech_Talks_for_Universities)**
+- **Tech Talks for Universities on 2026/11/12 - live-streamed from Matfyz in Prague, CZ**
 
 - [Active talks on sessionize](https://sessionize.com/karel-zikmund) for conferences and .NET MeetUps
 

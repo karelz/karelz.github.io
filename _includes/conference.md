@@ -1,4 +1,4 @@
-# Conference links -- DevConf 2025/6/12-14
+# Conference links -- DevConf 2026/6/18-19
 
 ## For Students
 
