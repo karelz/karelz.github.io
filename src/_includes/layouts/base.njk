@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{% if title and title != site.name %}{{ title }} · {% endif %}{{ site.name }}</title>
+    <meta name="description" content="{{ description or site.description }}">
+    <link rel="canonical" href="{{ site.url }}{{ page.url }}">
+    <link rel="stylesheet" href="/assets/site.css">
+  </head>
+  <body class="{% if home %}home{% endif %}">
+    <a class="skip-link" href="#content">Skip to content</a>
+    <header class="site-header">
+      <div class="shell header-inner">
+        <a class="brand" href="/">{{ site.name }}</a>
+        <div class="header-links">
+          <nav class="site-nav" aria-label="Main navigation">
+            <a href="/" {% if section == "home" %}aria-current="page"{% endif %}>Home</a>
+            <a href="/blog/" {% if section == "blog" %}aria-current="page"{% endif %}>Blog</a>
+            <a href="/events/" {% if section == "events" %}aria-current="page"{% endif %}>Events</a>
+          </nav>
+          <nav class="social-nav" aria-label="Social links">
+            <a href="{{ site.linkedin }}">LinkedIn</a>
+            <a href="{{ site.github }}">GitHub</a>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <main id="content" class="shell">
+      <article class="content">
+        {{ content | safe }}
+      </article>
+    </main>
+
+    <footer class="site-footer">
+      <div class="shell footer-inner">
+        <span>{{ site.name }}</span>
+        <a href="https://github.com/karelz/karelz.github.io">View source on GitHub</a>
+      </div>
+    </footer>
+  </body>
+</html>
