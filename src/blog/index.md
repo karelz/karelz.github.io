@@ -2,6 +2,7 @@
 layout: layouts/base.njk
 title: Blog
 permalink: /blog/index.html
+section: blog
 ---
 
 # Blog

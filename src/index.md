@@ -8,8 +8,6 @@ home: true
 
 ![Picture of Karel Zikmund](/images/karelz.jpg)
 
-# Hi, I'm Karel.
-
 My name is Karel Zikmund.
 I am Software Engineering Manager on .NET team - .NET Libraries / Base Class Libraries at [Microsoft](https://www.microsoft.com/).
 

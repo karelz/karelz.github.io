@@ -2,6 +2,7 @@
 layout: layouts/base.njk
 title: Blog Archive
 permalink: /blog/archive.html
+section: blog
 ---
 
 # Blog Archive

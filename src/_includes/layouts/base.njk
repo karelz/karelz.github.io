@@ -12,14 +12,18 @@
     <a class="skip-link" href="#content">Skip to content</a>
     <header class="site-header">
       <div class="shell header-inner">
-        <a class="brand" href="/" aria-label="{{ site.name }} home">
-          <span class="brand-mark" aria-hidden="true">KZ</span>
-          <span>{{ site.name }}</span>
-        </a>
-        <nav class="site-nav" aria-label="Main navigation">
-          <a href="/" {% if section == "home" %}aria-current="page"{% endif %}>About</a>
-          <a href="/events/" {% if section == "events" %}aria-current="page"{% endif %}>Events</a>
-        </nav>
+        <a class="brand" href="/">{{ site.name }}</a>
+        <div class="header-links">
+          <nav class="site-nav" aria-label="Main navigation">
+            <a href="/" {% if section == "home" %}aria-current="page"{% endif %}>Home</a>
+            <a href="/blog/" {% if section == "blog" %}aria-current="page"{% endif %}>Blog</a>
+            <a href="/events/" {% if section == "events" %}aria-current="page"{% endif %}>Events</a>
+          </nav>
+          <nav class="social-nav" aria-label="Social links">
+            <a href="{{ site.linkedin }}">LinkedIn</a>
+            <a href="{{ site.github }}">GitHub</a>
+          </nav>
+        </div>
       </div>
     </header>
 
@@ -32,11 +36,7 @@
     <footer class="site-footer">
       <div class="shell footer-inner">
         <span>{{ site.name }}</span>
-        <div class="footer-links">
-          <a href="{{ site.github }}">GitHub</a>
-          <a href="{{ site.linkedin }}">LinkedIn</a>
-          <a href="mailto:karelz@microsoft.com">Email</a>
-        </div>
+        <a href="https://github.com/karelz/karelz.github.io">View source on GitHub</a>
       </div>
     </footer>
   </body>
