@@ -16,7 +16,7 @@ In the past people asked me which parts of networking are useful to know:
 
 Our team has currently 7 developers (6 located in Prague, Czech Republic and 1 located in Redmond, USA).
 Our architect is located on Boston area, USA.
-Manager of the team ([ziki_cz](https://twitter.com/ziki_cz)) is based in Brno, Czech Republic.
+Manager of the team ([Karel Zikmund](/)) is based in Brno, Czech Republic.
 
 We own .NET **client-side** networking stack (HttpClient - HTTP 1.1/2/3) and **low-level** networking primitives (Sockets, SSL/TLS support, QUIC protocol, Uri, WebSockets, etc.) in [dotnet/runtime repo](https://github.com/dotnet/runtime) -- see [namespaces System.Net, System.Net.Http, System.Net.Quic, System.Net.Security and System.Net.Sockets](https://issuesof.net/?q=is%3Aopen%20repo%3Adotnet%2Fruntime%20area-lead%3Akarelz%20group%3Aarea%20sort%3Acreated-desc).
 We work closely with server-side .NET networking team ASP.NET/Kestrel.
@@ -41,7 +41,7 @@ Here are our Networking team members:
 
 ### How to apply
 
-Reach out directly to team manager [@ziki_cz](https://twitter.com/ziki_cz) (Twitter DM is prefered, or use [email](mailto:karelz@microsoft.com), or [LinkedIn](https://www.linkedin.com/in/karelzikmund)).
+Reach out directly to the team manager via [email](mailto:karelz@microsoft.com) or [LinkedIn](https://www.linkedin.com/in/karelzikmund).
 - Start discussion with answers to these 2 questions (to see if it makes sense to apply to the job post)
     1. What is your related library-level, system-level or networking-related experience from work or hobby projects?
     2. Describe some interesting technical challenge (ideally related to the job). An investigation, bug fix or feature, etc. Something you are proud of.

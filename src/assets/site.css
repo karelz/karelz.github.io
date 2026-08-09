@@ -125,22 +125,31 @@ a:hover {
 }
 
 .social-nav {
-  gap: 0.85rem;
+  gap: 0.7rem;
   padding-left: 1.5rem;
   border-left: 1px solid var(--line);
 }
 
 .social-nav a {
+  display: flex;
+  width: 1.5rem;
+  height: 1.5rem;
+  align-items: center;
+  justify-content: center;
   color: var(--muted);
-  font-size: 0.78rem;
-  font-weight: 600;
-  letter-spacing: 0.035em;
   text-decoration: none;
-  text-transform: uppercase;
+  transition: color 0.15s, transform 0.15s;
 }
 
 .social-nav a:hover {
   color: var(--accent-hover);
+  transform: translateY(-1px) scale(1.08);
+}
+
+.social-nav svg {
+  width: 1.25rem;
+  height: 1.25rem;
+  fill: currentColor;
 }
 
 main {
@@ -184,7 +193,7 @@ h4 {
 
 h1 {
   margin: 0 0 1.5rem;
-  font-size: clamp(2rem, 5vw, 2.85rem);
+  font-size: clamp(1.6rem, 3.5vw, 2.1rem);
   letter-spacing: -0.035em;
 }
 

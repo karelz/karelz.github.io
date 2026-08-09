@@ -13,15 +13,15 @@ I am Software Engineering Manager on .NET team - .NET Libraries / Base Class Lib
 
 I spend most of my time as manager of Networking team (and few other areas lately).
 
-You can find me and contact me on [Discord: ziki.cz](https://discord.com/), on [LinkedIn](https://www.linkedin.com/in/karelzikmund), on [BlueSky: zikicz](https://bsky.app/profile/zikicz.bsky.social), on [GitHub: karelz](https://github.com/karelz), via [email](mailto:karelz@microsoft.com), or on [Twitter: ziki_cz](https://twitter.com/ziki_cz).
+You can find me and contact me on [Discord: ziki.cz](https://discord.com/), on [LinkedIn](https://www.linkedin.com/in/karelzikmund), on [BlueSky: zikicz](https://bsky.app/profile/zikicz.bsky.social), on [GitHub: karelz](https://github.com/karelz), or via [email](mailto:karelz@microsoft.com).
 
 
 
 ## Upcoming Events
 
-- **[Past events and projects](/details)**
+- [Past events and projects](/details)
 
-- **[Tech Talks for Universities on 2026/11/12 - live-streamed from Matfyz in Prague, CZ](/events/events_2026-11-12_Tech_Talks_for_Universities)**
+- [Tech Talks for Universities on 2026/11/12 - live-streamed from Matfyz in Prague, CZ](/events/events_2026-11-12_Tech_Talks_for_Universities)
 
 - [Active talks on sessionize](https://sessionize.com/karel-zikmund) for conferences and .NET MeetUps
 
