@@ -1,0 +1,14 @@
+{
+  "name": "karelz-github-io",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "eleventy",
+    "dev": "eleventy --serve",
+    "clean": "node -e \"import('node:fs').then(fs => fs.rmSync('_site', { recursive: true, force: true }))\""
+  },
+  "devDependencies": {
+    "@11ty/eleventy": "^3.1.2"
+  }
+}

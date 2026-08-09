@@ -1,9 +1,30 @@
 # karelz.github.io
 
-Source code for https://karelz.github.io. Rendered via Jekyll, hosted by GitHub pages.
+Source for [karelz.github.io](https://karelz.github.io), built with
+[Eleventy](https://www.11ty.dev/) and hosted on GitHub Pages.
 
-See a problem? Please leave a comment, open an issue, or just submit a pull request :)
+## Edit content
 
-## Credits
+Pages are Markdown files in `src/`. Shared page markup is in
+`src/_includes/layouts/base.njk`, and the site styles are in
+`src/assets/site.css`.
 
-Inspired by https://github.com/NickCraver/nickcraver.github.com (with Nick's permission to take his CSS/HTML layout)
+## Preview locally
+
+```powershell
+npm install
+npm run dev
+```
+
+Open <http://localhost:8080>. Eleventy reloads the browser after content or
+style changes.
+
+## Build
+
+```powershell
+npm ci
+npm run build
+```
+
+The generated site is written to `_site/`. Pushes to `master` are deployed by
+the GitHub Pages workflow in `.github/workflows/pages.yml`.

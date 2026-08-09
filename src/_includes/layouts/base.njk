@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{% if title and title != site.name %}{{ title }} · {% endif %}{{ site.name }}</title>
+    <meta name="description" content="{{ description or site.description }}">
+    <link rel="canonical" href="{{ site.url }}{{ page.url }}">
+    <link rel="stylesheet" href="/assets/site.css">
+  </head>
+  <body class="{% if home %}home{% endif %}">
+    <a class="skip-link" href="#content">Skip to content</a>
+    <header class="site-header">
+      <div class="shell header-inner">
+        <a class="brand" href="/" aria-label="{{ site.name }} home">
+          <span class="brand-mark" aria-hidden="true">KZ</span>
+          <span>{{ site.name }}</span>
+        </a>
+        <nav class="site-nav" aria-label="Main navigation">
+          <a href="/" {% if section == "home" %}aria-current="page"{% endif %}>About</a>
+          <a href="/events/" {% if section == "events" %}aria-current="page"{% endif %}>Events</a>
+        </nav>
+      </div>
+    </header>
+
+    <main id="content" class="shell">
+      <article class="content">
+        {{ content | safe }}
+      </article>
+    </main>
+
+    <footer class="site-footer">
+      <div class="shell footer-inner">
+        <span>{{ site.name }}</span>
+        <div class="footer-links">
+          <a href="{{ site.github }}">GitHub</a>
+          <a href="{{ site.linkedin }}">LinkedIn</a>
+          <a href="mailto:karelz@microsoft.com">Email</a>
+        </div>
+      </div>
+    </footer>
+  </body>
+</html>
