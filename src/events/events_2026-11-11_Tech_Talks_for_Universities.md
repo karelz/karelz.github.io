@@ -4,10 +4,10 @@ title: Tech Talks for Universities - 2026
 section: events
 ---
 
-# Tech Talks for Universities - live-streamed from Matfyz in Prague, CZ - 2026/11/12
+# Tech Talks for Universities - live-streamed from Matfyz in Prague, CZ - 2026/11/11
 
 Talks for **all university students**, hosted at MFF UK (Faculty of Mathematics and Physics, Charles University) in Prague, CZ
-- When: 11/12 Wed at 18:00-20:00 CET
+- When: 11/11 Wed at 18:00-20:00 CET
 - Where: N1 at [Matfyz](https://matfyz.cz/), Troja, Prague (capacity 250 for in-person attendees)
     - Address: [Impakt building, V Holešovičkách 747/2, 180 00 Praha 8](https://www.mff.cuni.cz/cs/vnitrni-zalezitosti/budovy-a-arealy/troja)
 - **Live-stream**: Zoom link (will be posted few hours before the event)
