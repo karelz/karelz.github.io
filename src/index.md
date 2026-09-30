@@ -53,7 +53,7 @@ See [details about me](/details).
 
 ## Most important things about me
 
-**What is my goal/dream?** That one day, when I leave Microsoft/.NET team, many people will come and genuinely thank me for helping them, teaching them, or just expressing joy at getting something done together (despite obstacles). I won't mind tears. That will make my time in the company worthwhile. Not rewards, money, or management clapping. But people's feedback and genuine appreciation. ... And thanks everyone for the gracious feedback I sometimes recieve out of the blue. That makes me keep going and fighting the good fight.
+**What is my goal/dream?** That one day, when I leave Microsoft/.NET team, many people will come and genuinely thank me for helping them, teaching them, or just expressing joy at getting something done together (despite obstacles). I won't mind tears. That will make my time in the company worthwhile. Not rewards, money, or management clapping. But people's feedback and genuine appreciation. ... And thanks everyone for the gracious feedback I sometimes recieve out of the blue. That makes me keep going and fighting the good fight. And if I mess up, please tell me as wel, don't be shy - that's how I can learn and be better in future.
 
 
 - I love my job. I love .NET as technology. I love the team culture on .NET team, our focus on people and the fact that we all try to make .NET platform better for all developers, not just to make money or monetize.
