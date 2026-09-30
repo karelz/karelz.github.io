@@ -53,6 +53,9 @@ See [details about me](/details).
 
 ## Most important things about me
 
+**What is my goal/dream?** That one day, when I leave Microsoft/.NET team, many people will come and genuinely thank me for helping them, teaching them, or just expressing joy at getting something done together (despite obstacles). I won't mind tears. That will make my time in the company worthwhile. Not rewards, money, or management clapping. But people's feedback. ... And thanks everyone for the gracious feedback I sometimes recieve out of the blue. That makes me keep going and fighting the good fight."
+
+
 - I love my job. I love .NET as technology. I love the team culture on .NET team, our focus on people and the fact that we all try to make .NET platform better for all developers, not just to make money or monetize.
 
 - I love the idea of open source / OSS. Even though I am involved in OSS only since 2016, I fell in love with the idea and I can't imagine going back to the dark ages again.
@@ -77,6 +80,6 @@ See [details about me](/details).
 
 - I am inefficient at doing code reviews. It takes me 2x-4x more time and energy than anyone else. When I do them, I need to understand everything perfectly, before I "approve" (kind of OCD). Therefore I stay away from code reviews if I can, doing team-wide efficiency on the team - I let others who do them "faster & better" do them.
 
-- I also like non-alcoholic beer and I am happy to discuss anything over a glass.
+- I don;t drink beer or non-alcoholic beer anymore, but I am always happy to discuss anything over a glass.
 
 Check [my LinkedIn profile](https://www.linkedin.com/in/karelzikmund/) for more details.
