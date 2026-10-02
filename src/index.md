@@ -80,6 +80,6 @@ See [details about me](/details).
 
 - I am inefficient at doing code reviews. It takes me 2x-4x more time and energy than anyone else. When I do them, I need to understand everything perfectly, before I "approve" (kind of OCD). Therefore I stay away from code reviews if I can, doing team-wide efficiency on the team - I let others who do them "faster & better" do them.
 
-- I don;t drink beer or non-alcoholic beer anymore, but I am always happy to discuss anything over a glass.
+- I don't drink beer or non-alcoholic beer anymore, but I am always happy to discuss anything over a glass.
 
 Check [my LinkedIn profile](https://www.linkedin.com/in/karelzikmund/) for more details.
