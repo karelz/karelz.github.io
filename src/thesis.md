@@ -129,9 +129,11 @@ Create **coverage-guided fuzzing** for .NET/C#. Fuzzing is used for discovering 
 
 ## Bachelor or Master thesis
 
-**F# Tooling - Search engine for typed functions by using F# Compiler APIs (aka 'hoogle for F#')**
-- *Abstract*: Existing IDEs offer many mechanism for searching code by name or parts of a name. When extending code in large codebases, a programmer might not have an idea how a function is called, but will know that it needs to meet a certain type signature, e.g. a function `int -> System.DateTime`. This thesis would design a suitable query syntax and implement the search using existing `FSharp.Compiler.Service.dll` APIs.
-- More details: [More repl features (search for type, browse module, show docs, print function definition, etc.)](https://github.com/fsharp/fslang-suggestions/issues/599)
+**F# Tooling - Function search for humans and AI agents**
+- **Motivation**: AI agents often duplicate existing code. This makes codebases larger and harder to maintain. Generics, higher-order functions, and composition help functional programs reuse code.
+- **Proposal**: Build a tool with F# compiler APIs to find functions by required type signatures. Find matches through partial application, currying, and higher-order function composition.
+- **Example**: Use `List.fold` with existing business logic that updates an accumulator for each item.
+- **Background**: [Original proposal](https://github.com/fsharp/fslang-suggestions/issues/599)
 
 <br/>
 <br/>
