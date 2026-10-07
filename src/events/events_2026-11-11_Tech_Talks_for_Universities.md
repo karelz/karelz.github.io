@@ -8,8 +8,8 @@ section: events
 
 Talks for **all university students**, hosted at MFF UK (Faculty of Mathematics and Physics, Charles University) in Prague, CZ
 - When: 11/11 Wed at 18:00-20:00 CET
-- Where: N1 at [Matfyz](https://matfyz.cz/), Troja, Prague (capacity 250 for in-person attendees)
-    - Address: [Impakt building, V Holešovičkách 747/2, 180 00 Praha 8](https://www.mff.cuni.cz/cs/vnitrni-zalezitosti/budovy-a-arealy/troja)
+- Where: S3 at [Matfyz](https://matfyz.cz/), Mala Strana, Prague (capacity 116 for in-person attendees)
+    - Address: [Malostranske nam. 2/25, 118 00 Praha 1](https://www.mff.cuni.cz/cs/vnitrni-zalezitosti/budovy-a-arealy/mala-strana)
 - **Live-stream**: Zoom link (will be posted few hours before the event)
 
 - Who:
