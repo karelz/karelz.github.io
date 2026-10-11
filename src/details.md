@@ -7,10 +7,12 @@ section: home
 
 # Events, Conferences, Public Appearances
 
+- [Active talks on sessionize](https://sessionize.com/karel-zikmund) for conferences and .NET MeetUps
+
 ### 2026 - UPCOMING
 
 - **UPCOMING** - dates TBD - High Schools in Brno/Prague/Jihlava, CZ
-    - **AI: Threat or Help? How YOU can get most out of AI.**
+    - [**AI: Hrozba, že nás nahradí, nebo pomocník? Jak z AI vytěžit maximum**](/ai-for-high-schools.html)
 
 - **UPCOMING** - 11/26 - Rotary Club - Jihlava, CZ
 
