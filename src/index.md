@@ -20,23 +20,19 @@ You can find me and contact me on [Discord: ziki.cz](https://discord.com/), on [
 
 - [Past talks, public apperances, and events organized](/details)
 
-## Upcoming Events
+## [Upcoming Events](/details)
 
 - [Tech Talks for Universities on 2026/11/11 - live-streamed from Matfyz in Prague, CZ](/events/events_2026-11-11_Tech_Talks_for_Universities)
 
-- [Active talks on sessionize](https://sessionize.com/karel-zikmund) for conferences and .NET MeetUps
+## Master and Bachelor thesis topics
+
+- [Master and Bachelor thesis topics for Microsoft in Prague, Czech Republic](/thesis)
 
 
 
-## Master and Bachelor thesis topics for Microsoft in Prague, Czech Republic
+## Hiring for .NET & Compiler & Dev-tooling teams in Prague, CZ
 
-See [Master and Bachelor thesis topics for Microsoft in Prague, Czech Republic](/thesis) page for details.
-
-
-
-## Hiring for .NET & Compiler teams in Prague, Czech Republic
-
-See [Hiring for .NET Teams in Prague, Czech Republic](/hiring_prague_net) page for details.
+- [Hiring for .NET / Compilers / Dev-Tooling Teams in Prague, Czech Republic](/hiring_prague_net)
 
 
 
