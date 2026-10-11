@@ -7,32 +7,33 @@ section: home
 
 # Events, Conferences, Public Appearances
 
-
 ### 2026 - UPCOMING
 
-- [UPCOMING] TBD - High Schools in Brno, Prague, Jihlava, CZ
-    - **AI: Threat or Help? How best to use it for yourself?**
+- **UPCOMING** - dates TBD - High Schools in Brno/Prague/Jihlava, CZ
+    - **AI: Threat or Help? How YOU can get most out of AI.**
 
-- [UPCOMING] 11/26 - Rotary Club - Jihlava, CZ
+- **UPCOMING** - 11/26 - Rotary Club - Jihlava, CZ
 
-- [UPCOMING] 11/12-13 - Update Conference - Microsoft booth (staff coodination + staff duty) - Prague, CZ
+- **UPCOMING** - 11/12-13 - [Update Conference](https://prague.updateconference.net/us/2026/speakers) - Microsoft booth (staff coodinator + staff duty) - Prague, CZ
 
-- **UPCOMING** 11/11 - [Tech Talks for Universities](/events/events_2026-11-11_Tech_Talks_for_Universities) - Prague, CZ
+- **UPCOMING** - 11/11 - [Tech Talks for Universities](/events/events_2026-11-11_Tech_Talks_for_Universities) - Prague, CZ
 
-* [UPCOMING] 11/4 - WUG Uherske Hradiste - Uherske Hradiste, CZ
-    - **To Vibe Code or Not to Vibe Code? How AI boosts our productivity ... by a lot!**
+- **UPCOMING** - 11/4 - Slovacke IT pivo - Uherske Hradiste, CZ
+    - **How AI boosts Microsoft productivity ... by a lot!!! (And it can help you too)**
 
-- [UPCOMING] 10/15 - MFF UK diploma thesis topics presentation event - Prague, CZ
+- **UPCOMING** - 10/15 - [MFF UK diploma thesis topics presentation](https://www.mff.cuni.cz/cs/ofs/partnersky-program) - Prague, CZ
+    - Microsoft slides presentation - web version: 1 slide (TODO)
 
 ### 2026
 
-- 10/6 - Tech talk at [FI MUNI](https://www.fi.muni.cz/) - Brno, CZ
-    - **To Vibe Code or Not to Vibe Code? ... Where AI needs an Expert? ()**
+- 10/6 - Tech talk (PV179 course) at [FI MUNI](https://www.fi.muni.cz/) - Brno, CZ
+    - **To Vibe Code or Not to Vibe Code? ... Where AI needs an Expert? (Beyond SW Development)**
+        - With co-speaker [Martin Dybal](https://www.wug.cz/prednasejici/189-Martin-Dybal)
 
-- 5/7 - Tech talk at [FI MUNI](https://www.fi.muni.cz/) - Brno, CZ
+- 5/7 - Tech talk (C# course - PV178) at [FI MUNI](https://www.fi.muni.cz/) - Brno, CZ
     - **War stories from .NET team**
 
-- 4/23 -  [MFF UK company day](https://dnyfirem.matfyz.cz/historie/2026) - Microsoft booth (staff coordination + staff duty) - Prague, CZ
+- 4/23 - [MFF UK company day](https://dnyfirem.matfyz.cz/historie/2026) - Microsoft booth (staff coordination + staff duty) - Prague, CZ
 
 
 
@@ -40,14 +41,15 @@ section: home
 
 - 11/13 -  [Update Conference](https://prague.updateconference.net/en/about-update-2025) - Microsoft booth (staff coordination + staff duty) - Prague, CZ
 
-- 10/23 - MFF UK diploma thesis topics presentation event - Prague, CZ
+- 10/23 - [MFF UK diploma thesis topics presentation](https://www.mff.cuni.cz/cs/ofs/partnersky-program) - Prague, CZ
+    - Microsoft slides presentation - [web version: 1 slide](https://www.mff.cuni.cz/cs/ofskp/partnersky-program/nabidka-temat-studentskych-praci.pdf)
 
 - 6/12-13 - [DevConf](https://pretalx.devconf.info/devconf-cz-2025/) - [Microsoft booth](https://pretalx.devconf.info/devconf-cz-2025/talk/DUBPTJ/) (staff coordinator + staff duty) - Brno, CZ
 
 - 6/2 -  [MoreVMs conference](https://people.cs.kuleuven.be/~dirk.craeynest/ada-belgium/events/25/250602-programming-morevms.html) at MFF UK - Prague, CZ
     - **Diving into .NET internals**
 
-- 5/7 - Tech talk at [FI MUNI](https://www.fi.muni.cz/) - Brno, CZ
+- 5/7 - Tech talk (advanced C# course) at [FI MUNI](https://www.fi.muni.cz/) - Brno, CZ
     - **War stories from .NET team**
 
 - 4/29 - [Tech Talks for Universities](/events/events_2025-04-29_Tech_Talks_for_Universities) - Prague, CZ
@@ -66,6 +68,10 @@ section: home
 ### 2024
 
 - 11/14 -  [Update Conference](https://prague.updateconference.net/us/about-update-2024) - Microsoft booth (staff coodinator + staff duty) - Prague, CZ
+
+- 10/30 - Tech talk at [FI MUNI](https://www.fi.muni.cz/) - Brno, CZ
+    - **SIMD + NativeAOT + Dynamic PGO**
+        - Co-speaker with [Jiri Cincura](https://www.tabsoverspaces.com/) 
 
 - 10/24 - Tech talk at [FI MUNI](https://www.fi.muni.cz/) - Brno, CZ
     - **War stories from .NET team**
@@ -112,7 +118,8 @@ section: home
     - **Career hacks** (not recorded)
 
 - 11/10-11 -  [Update Conference](https://now.updateconference.net/event/update-conference-prague-2022) - Microsoft booth (staff coodinator + staff duty) - Prague, CZ
-- 11/9 - [Tech Talks for Universities](/events/events_2022-11-10_Tech_Talks_for_Universities) - live-streamed from MFF UK - Prague, CZ
+
+- 11/10 - [Tech Talks for Universities](/events/events_2022-11-10_Tech_Talks_for_Universities) - live-streamed from MFF UK - Prague, CZ
     - Co-organizer with [Pavel Jezek](https://www.mff.cuni.cz/en/faculty/organizational-structure/people?hdl=2764), [Radek Zikmund](https://twitter.com/Radek_Zikmund)
     - **Intro** & **Speakers introductions** - video to-be-published (eventually)
 
