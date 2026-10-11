@@ -246,7 +246,7 @@ img {
 
 .home .content > p:first-child {
   float: right;
-  width: min(37%, 285px);
+  width: min(40%, 340px);
   margin: 0 0 1.8rem 2.75rem;
 }
 
@@ -344,7 +344,7 @@ hr {
 
   .home .content > p:first-child {
     float: none;
-    width: min(72%, 260px);
+    width: min(85%, 320px);
     margin: 0 auto 1.75rem;
   }
 

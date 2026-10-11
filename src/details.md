@@ -8,9 +8,99 @@ section: home
 # Events, Conferences, Public Appearances
 
 
+### 2026 - UPCOMING
+
+- [UPCOMING] TBD - High Schools in Brno, Prague, Jihlava, CZ
+    - **AI: Threat or Help? How best to use it for yourself?**
+
+- [UPCOMING] 11/26 - Rotary Club - Jihlava, CZ
+
+- [UPCOMING] 11/12-13 - Update Conference - Microsoft booth (staff coodination + staff duty) - Prague, CZ
+
+- **UPCOMING** 11/11 - [Tech Talks for Universities](/events/events_2026-11-11_Tech_Talks_for_Universities) - Prague, CZ
+
+* [UPCOMING] 11/4 - WUG Uherske Hradiste - Uherske Hradiste, CZ
+    - **To Vibe Code or Not to Vibe Code? How AI boosts our productivity ... by a lot!**
+
+- [UPCOMING] 10/15 - MFF UK diploma thesis topics presentation event - Prague, CZ
+
+### 2026
+
+- 10/6 - Tech talk at [FI MUNI](https://www.fi.muni.cz/) - Brno, CZ
+    - **To Vibe Code or Not to Vibe Code? ... Where AI needs an Expert? ()**
+
+- 5/7 - Tech talk at [FI MUNI](https://www.fi.muni.cz/) - Brno, CZ
+    - **War stories from .NET team**
+
+- 4/23 -  [MFF UK company day](https://dnyfirem.matfyz.cz/historie/2026) - Microsoft booth (staff coordination + staff duty) - Prague, CZ
+
+
+
+### 2025
+
+- 11/13 -  [Update Conference](https://prague.updateconference.net/en/about-update-2025) - Microsoft booth (staff coordination + staff duty) - Prague, CZ
+
+- 10/23 - MFF UK diploma thesis topics presentation event - Prague, CZ
+
+- 6/12-13 - [DevConf](https://pretalx.devconf.info/devconf-cz-2025/) - [Microsoft booth](https://pretalx.devconf.info/devconf-cz-2025/talk/DUBPTJ/) (staff coordinator + staff duty) - Brno, CZ
+
+- 6/2 -  [MoreVMs conference](https://people.cs.kuleuven.be/~dirk.craeynest/ada-belgium/events/25/250602-programming-morevms.html) at MFF UK - Prague, CZ
+    - **Diving into .NET internals**
+
+- 5/7 - Tech talk at [FI MUNI](https://www.fi.muni.cz/) - Brno, CZ
+    - **War stories from .NET team**
+
+- 4/29 - [Tech Talks for Universities](/events/events_2025-04-29_Tech_Talks_for_Universities) - Prague, CZ
+    - **Challenges Faced by .NET team**
+
+- 4/24 -  [MFF UK company day](https://dnyfirem.matfyz.cz/historie/2025) - Microsoft booth (staff coordinator + staff duty)- Prague, CZ
+
+- 3/4 - Tech talk at [FIT VUT](https://www.fit.vut.cz/) - Brno, CZ
+    - **Sockets**
+
+- 2/28 -  [WUG Praha](https://www.wug.cz/praha/akce/1730-WUG-Dev-Day-2025/program) - Prague, CZ
+    - **Challenges faced by .NET team**
+
+
+
+### 2024
+
+- 11/14 -  [Update Conference](https://prague.updateconference.net/us/about-update-2024) - Microsoft booth (staff coodinator + staff duty) - Prague, CZ
+
+- 10/24 - Tech talk at [FI MUNI](https://www.fi.muni.cz/) - Brno, CZ
+    - **War stories from .NET team**
+
+- 2/15 -  [WUG Zlin](https://www.wug.cz/zlin/akce/1616-Challenges-Faced-by-NET-team-and-Networking-in-NET-and-YARP) - Zlin, CZ
+    - **Challenges faced by .NET team**
+    - **Networking in .NET and YARP**
+
+
 
 ### 2023
 
+- 11/23-24 -  [Update Conference](https://prague.updateconference.net/us/about-update-2023) - Microsoft booth (staff coodinator + staff duty) - Prague, CZ
+
+- 11/7 - Tech talk at [FI MUNI](https://www.fi.muni.cz/) - Brno, CZ
+    - **War stories from .NET team**
+
+- 5/17 -  [Techorama Belgium](https://techorama-2023-be.sessionize.com/speakers) - Antwerp, Belgium
+    - **Networking in .NET and YARP** (not recorded)
+
+- 5/11 - [.NET Zuid User Group](https://www.dotnetzuid.nl/events/challenges-faced-by-net-team--pedal-to-the-metal-update-performance-improvements-in-entity-framework-core-70) - Helmond, Netherlands
+    - **Challenges faced by .NET team**
+
+- 5/10 - .NET User Group - Antwerp, Belgium
+    - **Challenges faced by .NET team**
+
+- 4/27 - [Girls in IT at Kyndryl](https://contact.kyndryl.com/day-of-girls-in-IT-cz) - Brno, CZ
+    - **Challenges faced by .NET team / Zajímavé historky z .NET týmu**
+
+- 4/5 - [Azure Developers .NET Day 2023](https://learn.microsoft.com/en-us/shows/azure-developers-dotnet-day/) - online world-wide event
+    - **Custom Reverse Proxies for .NET Containers with YARP** - [video](https://learn.microsoft.com/en-us/shows/azure-developers-dotnet-day/custom-reverse-proxies-for-dotnet-containers-with-yarp/) (30 min)
+        - With co-speaker Miha Zupan
+
+- 4/4 - Tech talk at [VSB](https://www.vsb.cz/cs/) - Ostrava, CZ
+    - **War stories from .NET team** - not recorded
 
 - 2/20 - Tech talk at [FIT VUT](https://www.fit.vut.cz/) - Brno, CZ
     - **War stories from .NET team** - internal-only video
@@ -18,25 +108,31 @@ section: home
 
 ### 2022
 
-- 11/9 - [Tech Talks for Universities](/events/events_2022-11-10_Tech_Talks_for_Universities) - **live-streamed** from Matfyz in Prague, CZ - talks for university students (in English)
-    - Co-organizer with [Pavel Jezek](https://www.mff.cuni.cz/en/faculty/organizational-structure/people?hdl=2764), [Radek Zikmund](https://twitter.com/Radek_Zikmund)
-    - **Intro** & **Speakers introductions** - video to-be-published
+- 11/22 - Talk to High-school Students in MDCP (Microsoft Development Center Prague) - Prague, CZ
+    - **Career hacks** (not recorded)
 
-- 11/8-10 - [.NET Conf 2022](https://www.dotnetconf.net/)
+- 11/10-11 -  [Update Conference](https://now.updateconference.net/event/update-conference-prague-2022) - Microsoft booth (staff coodinator + staff duty) - Prague, CZ
+- 11/9 - [Tech Talks for Universities](/events/events_2022-11-10_Tech_Talks_for_Universities) - live-streamed from MFF UK - Prague, CZ
+    - Co-organizer with [Pavel Jezek](https://www.mff.cuni.cz/en/faculty/organizational-structure/people?hdl=2764), [Radek Zikmund](https://twitter.com/Radek_Zikmund)
+    - **Intro** & **Speakers introductions** - video to-be-published (eventually)
+
+- 11/8-10 - [.NET Conf 2022](https://www.dotnetconf.net/) - online world-wide event
     - **Networking in .NET 7.0** - [talk info](https://sessionize.com/s/karel-zikmund/networking-in-.net-7.0/56535), [video](https://www.youtube.com/watch?v=mTdcWlIiX7c) (27 min) and [slides](https://www.slideshare.net/KarelZikmund1/net-conf-2022-networking-in-net-7)
 
 - 11/8 - [.NET Conf Watch Party + Experts Panel](https://www.geekcore.cz/events/6335) - Prague, CZ
     - Experts Panel participant (not recorded)
 
+- 10/4 - .NET at Microsoft (internal event) - Prague, CZ
+    - **What's new in Networking in .NET 7**
+
 - 9/27 - Tech talk at [FI MUNI](https://www.fi.muni.cz/) - Brno, CZ
     - **War stories from .NET team** - [internal-only video](https://ucnmuni-my.sharepoint.com/:v:/g/personal/410452_muni_cz/EQMgl_OZPtFDuX8nGgC9b6kB-_7jTmgQSav599WE42Bxbw)
     - **Q&A** [internal-only video](https://ucnmuni-my.sharepoint.com/:v:/g/personal/410452_muni_cz/EQMgl_OZPtFDuX8nGgC9b6kB-_7jTmgQSav599WE42Bxbw)
 
-- 9/13-15 - [WUG Days 2022 Brno, CZ](https://www.wug.cz/brno/akce/1400-WUG-Days-2022)
+- 9/13-15 - [WUG Days 2022 Brno](https://www.wug.cz/brno/akce/1400-WUG-Days-2022) - Brno, CZ
     - **Networking in .NET 7.0 and YARP** - video (TODO when published), [slides](https://www.slideshare.net/KarelZikmund1/wug-days-2022-brno-networking-in-net-70-and-yarp-karel-zikmund)
 
-- 7/7 - [Interview on LinkedIn](https://www.linkedin.com/pulse/interview-karel-zikmund-principal-engineering-manager-sartorio) for Microsoft Development Center Prague monthly update
-
+- 7/7 - [Interview on LinkedIn](https://www.linkedin.com/pulse/interview-karel-zikmund-principal-engineering-manager-sartorio) for MDCP (Microsoft Development Center Prague) - online event
 
 
 ### 2021
@@ -50,7 +146,7 @@ section: home
 
 ### 2020
 
-- 11/24 - Tech talk at [FI MUNI](https://www.fi.muni.cz/) - Brno, CZ - online event
+- 11/24 - Tech talk at [FI MUNI](https://www.fi.muni.cz/) - Brno, CZ - online event (Covid)
     - **What's new in .NET 5** (not recorded)
     - **War stories from .NET team** (not recorded)
     - **Q&A** (not recorded)

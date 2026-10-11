@@ -13,13 +13,14 @@ I am Software Engineering Manager on .NET team - .NET Libraries / Base Class Lib
 
 I spend most of my time as manager of Networking team (and few other areas lately).
 
-You can find me and contact me on [Discord: ziki.cz](https://discord.com/), on [LinkedIn](https://www.linkedin.com/in/karelzikmund), on [BlueSky: zikicz](https://bsky.app/profile/zikicz.bsky.social), on [GitHub: karelz](https://github.com/karelz), or via [email](mailto:karelz@microsoft.com).
+You can find me and contact me on [Discord: ziki.cz](https://discord.com/), on [LinkedIn](https://www.linkedin.com/in/karelzikmund), on [GitHub: karelz](https://github.com/karelz), via [email](mailto:karelz@microsoft.com), or occasionally on [BlueSky: zikicz](https://bsky.app/profile/zikicz.bsky.social).
 
 
+## Past talks and organized events
+
+- [Past talks, public apperances, and events organized](/details)
 
 ## Upcoming Events
-
-- [Past events and projects](/details)
 
 - [Tech Talks for Universities on 2026/11/11 - live-streamed from Matfyz in Prague, CZ](/events/events_2026-11-11_Tech_Talks_for_Universities)
 
@@ -30,12 +31,6 @@ You can find me and contact me on [Discord: ziki.cz](https://discord.com/), on [
 ## Master and Bachelor thesis topics for Microsoft in Prague, Czech Republic
 
 See [Master and Bachelor thesis topics for Microsoft in Prague, Czech Republic](/thesis) page for details.
-
-
-
-## Using AI in Interviews - Experiment / Mock Interviews
-
-See [Using AI in Interviews - Experiment / Mock Interviews](/ai-interviews) page for details.
 
 
 
