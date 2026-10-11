@@ -1,7 +1,7 @@
 ---
 layout: layouts/base.njk
 title: Hiring .NET Teams in Prague - 2019
-section: home
+section: hiring
 ---
 
 # 2019 - Hiring for .NET Teams in Prague, Czech Republic

@@ -2,7 +2,7 @@
 layout: layouts/base.njk
 title: Professional Background
 description: Events, public appearances, work history, and education of Karel Zikmund.
-section: home
+section: talks
 ---
 
 # Events, Conferences, Public Appearances

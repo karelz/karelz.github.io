@@ -1,7 +1,7 @@
 ---
 layout: layouts/base.njk
 title: Hiring Developer Division Teams in Prague
-section: home
+section: hiring
 ---
 
 # 2026 - Hiring for .NET & Compilers & Dev-Tooling group in Prague, CZ

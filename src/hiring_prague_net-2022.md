@@ -1,7 +1,7 @@
 ---
 layout: layouts/base.njk
 title: Hiring Developer Division Teams in Prague - 2022
-section: home
+section: hiring
 ---
 
 # 2022 - Hiring for Developer Division Teams in Prague, Czech Republic

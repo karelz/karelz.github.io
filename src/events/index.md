@@ -7,6 +7,8 @@ section: events
 
 Events I organized or co-organized.
 
+See [Past events and Public appearances](/details) for a broader list beydonf just organization.
+
 ## Upcoming events
 
 - **2026/11/11** - [Tech Talks for Universities - live-streamed from Matfyz in Prague, CZ](/events/events_2026-11-11_Tech_Talks_for_Universities) (in English)
