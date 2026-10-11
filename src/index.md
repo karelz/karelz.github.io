@@ -24,15 +24,10 @@ You can find me and contact me on [Discord: ziki.cz](https://discord.com/), on [
 
 - [Tech Talks for Universities on 2026/11/11 - live-streamed from Matfyz in Prague, CZ](/events/events_2026-11-11_Tech_Talks_for_Universities)
 
-## Master and Bachelor thesis topics
+## [Master and Bachelor thesis topics](/thesis)
 
-- [Master and Bachelor thesis topics for Microsoft in Prague, Czech Republic](/thesis)
+## [Hiring for .NET / Compilers / Dev-tooling teams in Prague, CZ](/hiring_prague_net)
 
-
-
-## Hiring for .NET & Compiler & Dev-tooling teams in Prague, CZ
-
-- [Hiring for .NET / Compilers / Dev-Tooling Teams in Prague, Czech Republic](/hiring_prague_net)
 
 
 

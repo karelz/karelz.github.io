@@ -4,7 +4,7 @@ title: Hiring Developer Division Teams in Prague
 section: hiring
 ---
 
-# 2026 - Hiring for .NET & Compilers & Dev-Tooling group in Prague, CZ
+# 2026 - Hiring for .NET / Compilers / Dev-Tooling group in Prague, CZ
 
 ## Full-time positions
 
