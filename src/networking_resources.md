@@ -15,7 +15,6 @@ In the past people asked me which parts of networking are useful to know:
 ## Networking team
 
 Our team has currently 7 developers (6 located in Prague, Czech Republic and 1 located in Redmond, USA).
-Our architect is located on Boston area, USA.
 Manager of the team ([Karel Zikmund](/)) is based in Brno, Czech Republic.
 
 We own .NET **client-side** networking stack (HttpClient - HTTP 1.1/2/3) and **low-level** networking primitives (Sockets, SSL/TLS support, QUIC protocol, Uri, WebSockets, etc.) in [dotnet/runtime repo](https://github.com/dotnet/runtime) -- see [namespaces System.Net, System.Net.Http, System.Net.Quic, System.Net.Security and System.Net.Sockets](https://issuesof.net/?q=is%3Aopen%20repo%3Adotnet%2Fruntime%20area-lead%3Akarelz%20group%3Aarea%20sort%3Acreated-desc).
@@ -29,8 +28,6 @@ Our top focus in last year was / is:
 - Customer imapctful issues - addressing customer pain in perf, functionality, extensibility, etc.
 
 Here are our Networking team members:
-- Anton Firszov - GitHub: [@antonfirsov](https://github.com/antonfirsov), Twitter: [@antonfrv](https://twitter.com/antonfrv)
-- Katya Sokolova - GitHub: [@greenEkatherine](https://github.com/greenEkatherine)
 - Mana - GitHub: [@ManickaP](https://github.com/ManickaP), Twitter: [@ManaPichova](https://twitter.com/ManaPichova)
 - Miha Zupan - GitHub: [@MihaZupan](https://github.com/MihaZupan), Twitter: [@_MihaZupan](https://twitter.com/_MihaZupan)
 - Natalia Kondratyeva - GitHub: [@CarnaViire](https://github.com/CarnaViire), Twitter: [@carna_viire](https://twitter.com/carna_viire)
