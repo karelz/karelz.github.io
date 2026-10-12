@@ -12,17 +12,17 @@ Cíl / přidaná hodnota: Nakopnout studenty na využívání AI. Otevřít jim 
 
 ## Osnova - aneb, o čem bude řeč? (pro vedení školy / učitele)
 
-- Přednáška neobsahuje žádný "hype", "vize", nebo všeobecné "kecy" (BS) - z tohoto pohledu bude praktická.
-- Ač praktická, nebudu ukazovat dlouhosáhlé postupy jak využívat tooling, protože:
-    - Za prvé se tooling rapidně mění každých pár měsíců
+- Přednáška neobsahuje žádný "hype", "vize", nebo všeobecné "kecy"/BS - z tohoto pohledu bude praktická.
+- Ač praktická, nebudu ukazovat dlouhosáhlé postupy jak využívat AI nástroje, protože:
+    - Za prvé se AI nástroje rapidně mění každých pár měsíců
     - Za druhé si to každý může najít (třeba pomocí AI).
-    - Ukázka tooling bude limitovaná maximálně na pár minut, aby studenti věděli co hledat.
+    - Ukázka AI nástrojů bude limitovaná maximálně na pár minut, aby studenti věděli co hledat.
 - Budou podány praktické motivační příklady jak mnohonásobně AI pomáhá v Microsoft týmech.
 - Jak se připravit na svět, kde toto bude norma (což nás během 6-24 měsíců čeká).
 - Jak používat AI ne na podvádění, ale efektivně k učení a zrychlení produktivity (pro studenty převážně během učení, ale samozřejmě i během práce).
 - Jak se nebát AI a přežít ve světě, kde jeho využití je nutnost
     - Studenti se stále musí učit.
-    - Jen opisovat AI je špatně a povede je na scestí.
+    - Jen opisovat AI je špatně a svede je na scestí.
 - Přednáška ukáže praktické rady, jak AI použít i v dennodenním použití, jak se i z tohoto použití poučit. Jak se naučit AI využívat efektivně jak pro soukromé projekty, tak v práci / ve škole.
 - Co dnešní AI umí a proč její odpovědi nemusí být správné.
 - Jak se ptát, ověřovat výsledky a poznat, kdy je lepší spolehnout se na vlastní úsudek.
@@ -49,8 +49,6 @@ Forma: Zábavná interaktivní forma (já vím, to může tvrdit každej, zhodno
 ### Co dál?
 
 Některé střední školy vyjádřily zájem o přednášku pro učitele (hádám že převážně IT/techničtějších oborů) - není problém se domluvit. Koncept bude podobný, dle cílové skupiny a technické vzdělanosti bude přizpůsobeno.
-
-
 
 
 
