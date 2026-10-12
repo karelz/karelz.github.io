@@ -23,11 +23,11 @@ Cíl / přidaná hodnota: Nakopnout studenty na využívání AI. Otevřít jim 
 - Jak se nebát AI a přežít ve světě, kde jeho využití je nutnost
     - Studenti se stále musí učit.
     - Jen opisovat AI je špatně a svede je na scestí.
-- Přednáška ukáže praktické rady, jak AI použít i v dennodenním použití, jak se i z tohoto použití poučit. Jak se naučit AI využívat efektivně jak pro soukromé projekty, tak v práci / ve škole.
+- Přednáška ukáže praktické rady, jak AI použít i v dennodenním použití, jak se i z tohoto použití poučit. Jak se naučit AI využívat efektivně jak pro soukromé projekty, tak v práci / ve škole. Aniž by se studenti ochudili o nabytí nových důležitých znalostí a o samostatné přemýšlení.
 - Co dnešní AI umí a proč její odpovědi nemusí být správné.
 - Jak se ptát, ověřovat výsledky a poznat, kdy je lepší spolehnout se na vlastní úsudek.
-    - Proč je selský rozum a vlastní PŘEMÝŠLENÍ to nejdůležitější co student musí přinést a bez kterého to prostě nepůjde.
-- Zmíněn bude přístup na AI modely zdarma (nejen Microsoft), aby studenti mohli skutečně začít.
+    - Proč je selský rozum a vlastní PŘEMÝŠLENÍ to nejdůležitější co student musí přinést, a bez kterého to prostě nepůjde.
+- Zmíněn bude přístup na AI modely zdarma (nejen Microsoft), aby studenti mohli skutečně začít AI využívat.
 
 ### Technikálie
 
