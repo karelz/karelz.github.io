@@ -9,8 +9,16 @@ section: home
 If you plan to interview for Microsoft, the information on this page may be useful for you.
 It is something I would have welcomed myself before interviewing with Microsoft in 2005.
 
+For our group .NET / Cimpilers / Dev-Tools you first have to pass Tech Screen with one of our TechScreeners. If you pass, a full 4h interview will be scheduled.
 
-## How to prepare?
+### Prepare for the full (4h) interview
+- [Algorithms](#algorithms): Practice data structures, algorithms, and explaining your approach.
+- System Design: [https://github.com/donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)
+- AI: Learn to use AI for coding by building a small project, such as a game, with AI assistance.
+    - Prepare your IDE for the full interview so you can use AI efficiently.
+
+<a id="algorithms"></a>
+## How to prepare for Algorithms interview?
 
 Research resources online and/or read books about interviews in larger companies like Microsoft.
 Go trough some examples.
