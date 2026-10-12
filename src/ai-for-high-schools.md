@@ -37,7 +37,7 @@ Tato osnova se bude lehce měnit, jak se bude přednáška vyvíjet během pří
     - Po skončení mnozí ocenili, že se s nimi někdo poprvé v životě bavil o AI, jak ho využít, a jak prakticky to opravdu využít lze (ne jen virtuální představy a vize).
 
 Forma: Zábavná interaktivní forma (já vím, to může tvrdit každej, zhodnoťte až uvidíte)
-- Formát: 2h (včetně dotazů)
+- Formát: 1.5h (včetně dotazů)
 - Cílová skupina:
     - Studenti se zájmem o technické obory, ideálně IT/programování ... nebo alespoň Matematika / Fyzika.
     - 2.-4. ročník středních škol určitě.
