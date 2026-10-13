@@ -9,7 +9,8 @@ section: home
 If you plan to interview for Microsoft, the information on this page may be useful for you.
 It is something I would have welcomed myself before interviewing with Microsoft in 2005.
 
-For our group .NET / Cimpilers / Dev-Tools you first have to pass Tech Screen with one of our TechScreeners. If you pass, a full 4h interview will be scheduled.
+For our group .NET / Compilers / Low-level libraries / DevTools you first have to pass Tech Screen with one of our TechScreeners. If you pass, a full 4h interview will be scheduled.
+- DevTools = developer tools like msbuild, VSTest, etc. (parts of IDEs, SDKs).
 
 ### Prepare for the full (4h) interview
 - [Algorithms](#algorithms): Practice data structures, algorithms, and explaining your approach.
@@ -55,8 +56,8 @@ It thaught me a lesson right on the spot - it demonstrates that some preparation
 Luckily, I nailed the second problem, which gave me my confidence back (at reasonable level) :).
 
 Here's list of problems I tried:
-  * #224 [Basic Calculator](https://leetcode.com/problems/basic-calculator/)
-  * #45 [Jump Game II](https://leetcode.com/problems/jump-game-ii/)
+* #224 [Basic Calculator](https://leetcode.com/problems/basic-calculator/)
+* #45 [Jump Game II](https://leetcode.com/problems/jump-game-ii/)
 
 If I find some time (that may be unrealistic expectation), I may try more problems and put the interesting ones here.
 
