@@ -12,7 +12,7 @@ section: hiring
 * You can apply directly to the links below. 
 * If you are not sure about position in our group, feel free to ping me (Karel Zikmund) - see contacts on main page.
 
-### **Positions - links:**
+### Positions - links:
 
 - Positions:
     - [Compiler Software Engineer](https://apply.careers.microsoft.com/careers/job/1970393556629151)
@@ -34,23 +34,38 @@ section: hiring
 <a id="Internships"></a>
 ## Intern positions
 
-### **Summer 2027 Internship**
+### Summer 2027 Internship - Core AI
 
-Position is open now (as on 2026/10/8) - apply soon (in weeks). In late November/December it may be all filled.
+Position will be open until 2026/10/23 - apply soon!
 
 - [Software Engineer Internship Opportunities - CoreAI](https://apply.careers.microsoft.com/careers/job/1970393557021513)
 
 Details:
-- 12w full-time internship over summer 2027
-- Where: Prague, CZ (remote in CZ is possible - expect team-specific demand to be in the office especially in first 6-12 months)
+- 12w full-time internship over summer 2027.
+- Where: Prague, CZ (expect team-specific demand to be in the office).
 - Applications go into general pool for 2 Microsoft teams - Azure DevOps and our group ".NET / Compilers / Low-level libraries / DevTools".
     - If you are specifically interested in our group (.NET / Compilers / Low-level libraries / DevTools), make sure it is clear from your resume/CV or cover letter.
         -  DevTools = developer tools like msbuild, VSTest, etc. (parts of IDEs, SDKs).
     - Feel free to contact me if you want to be sure (Karel Zikmund) - see contacts on main page.
 
-### **Part-time intern position**
+### Summer 2027 Internship - Identity/Entra
+
+Position will be open until 2026/10/23 - apply soon!
+
+- [Software Engineering Internship Opportunities](https://apply.careers.microsoft.com/careers/job/1970393557021515)
+
+Details:
+- 12w full-time internship over summer 2027.
+- Where: Prague, CZ (expect team-specific demand to be in the office).
+- Applications go into general pool for all Microsoft teams - currently only Identity/Entra.
+
+### Part-time intern position
+
+Position will be open until 2026/10/23 - apply soon!
 
 - [Student worker](https://apply.careers.microsoft.com/careers/job/1970393557024978)
+
+Details:
 - 6m internship <=50% part-time
     - Adjustable work hours for students to make sure they can study alongside the part-time job.
     - Placement to real teams in Microsoft.
@@ -60,7 +75,7 @@ Details:
         - DevTools = developer tools like msbuild, VSTest, etc. (parts of IDEs, SDKs).
     - Feel free to contact me if you want to be sure (Karel Zikmund) - see contacts on main page.
 
-## **Basic information**
+## Basic information
 
 - Location: Czech Republic (anywhere in CZ, not restricted to Prague only)
 - Remote: Yes (from Czech Republic)
