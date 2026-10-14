@@ -59,12 +59,13 @@ Pouze 2 se záznamem - pouze technické.
 
 #### War stories from .NET team
 - Záznam z WUG komunity Brno 2019: https://www.wug.cz/zaznamy/521--NET-Core-Summer-event-War-stories-from-NET-team
-- Přednáška: 60 minut
-- Viz detaily v další sekci.
+- Přednáška: 60 minut.
+- Viz detaily v další (anglické) sekci.
 
 #### **.NET Core Networking stack and Performance**
 - Záznam z WUG komunity Brno 2019: https://www.wug.cz/zaznamy/522--NET-Core-Summer-event-NET-Core-Networking-stack-evolution-to-high-performance
-- Přednáška: 45 minut
+- Přednáška: 45 minut.
+- Tato přednáška je čistě technická/odborná – určená pro .NET vývojáře, takže nic pro studenty vysokých/středních škol.
 
 ### Nejúspěšnější (technické) přednášky (angličtina)
 
