@@ -36,21 +36,21 @@ section: hiring
 
 ### Summer 2027 Internship - Core AI
 
-Position will be open until 2026/10/23 - apply soon!
+Position will be open until 2026/10/23 - apply soon! Expect communication in 1w after closing (with HackerRank Online Technical Screen test). Interviews should happen in December / January.
 
 - [Software Engineer Internship Opportunities - CoreAI](https://apply.careers.microsoft.com/careers/job/1970393557021513)
 
 Details:
 - 12w full-time internship over summer 2027.
 - Where: Prague, CZ (expect team-specific demand to be in the office).
-- Applications go into general pool for 2 Microsoft teams - Azure DevOps and our group ".NET / Compilers / Low-level libraries / DevTools".
+- Applications go into general pool for 3 Microsoft teams - Azure DevOps, GitHub and our group ".NET / Compilers / Low-level libraries / DevTools".
     - If you are specifically interested in our group (.NET / Compilers / Low-level libraries / DevTools), make sure it is clear from your resume/CV or cover letter.
         -  DevTools = developer tools like msbuild, VSTest, etc. (parts of IDEs, SDKs).
     - Feel free to contact me if you want to be sure (Karel Zikmund) - see contacts on main page.
 
 ### Summer 2027 Internship - Identity/Entra
 
-Position will be open until 2026/10/23 - apply soon!
+Position will be open until 2026/10/23 - apply soon! Expect communication in 1w after closing (with HackerRank Online Technical Screen test). Interviews should happen in December / January.
 
 - [Software Engineering Internship Opportunities](https://apply.careers.microsoft.com/careers/job/1970393557021515)
 
@@ -61,7 +61,7 @@ Details:
 
 ### Part-time intern position
 
-Position will be open until 2026/10/23 - apply soon!
+Position will be open until 2026/10/23 - apply soon! Expect communication in 1w after closing (with HackerRank Online Technical Screen test). Interviews should happen in December / January.
 
 - [Student worker](https://apply.careers.microsoft.com/careers/job/1970393557024978)
 
