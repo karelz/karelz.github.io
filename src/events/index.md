@@ -11,6 +11,9 @@ See [Past events and Public appearances](/details) for a broader list beydonf ju
 
 ## Upcoming events
 
+- **2026/10/21** - [Student Internships: From A to Z with JetBrains and Microsoft](/events/events_2026-10-21_Student_Internships_JetBrains_Microsoft) (MFF UK, S9)
+    - Organized by [Vojta Svandelik](https://www.linkedin.com/in/vojtechsvandelik/), it is worth a look!
+
 - **2026/11/11** - [Tech Talks for Universities - live-streamed from Matfyz in Prague, CZ](/events/events_2026-11-11_Tech_Talks_for_Universities) (in English)
     - Organized by [Pavel Jezek](https://www.mff.cuni.cz/en/faculty/organizational-structure/people?hdl=2764), [Karel Zikmund](https://karelz.github.io), [Martin Vejbora](https://www.linkedin.com/in/martin-vejbora-7011481b9/), [Jan Jones](https://github.com/jjonescz), [Vojta Svandelik](https://www.linkedin.com/in/vojtechsvandelik/)
     - Talks for university students - live-streamed from MFF UK
