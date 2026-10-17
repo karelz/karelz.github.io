@@ -59,7 +59,7 @@ Ping me if you are not sure about a topic, or if you have ideas for other relate
 
 ## Bachelor thesis - topics
 
-**[Reserved as of 2026/9 by Filip Viktor Hanzlik, MFF UK -- as Diploma thesis]** Create an **IL rewrite library** on top of `System.Reflection.Metadata`. The library should make it easy to create a tool which takes an assembly on the input, makes some modifications to it (for example add an attribute to some member, remove a member, or add some item) and writes it out as a new assembly. Focus of the project will be correctness, performance and ease of use (in that order). The library will be later used to port the existing ILStrip tool to it and then use it to improve trimming for mobile scenarios (by moving custom steps from a trimmer into this new tool).
+**[Reserved as of 2026/9 by Filip Viktor Hanzlik, MFF UK]** Create an **IL rewrite library** on top of `System.Reflection.Metadata`. The library should make it easy to create a tool which takes an assembly on the input, makes some modifications to it (for example add an attribute to some member, remove a member, or add some item) and writes it out as a new assembly. Focus of the project will be correctness, performance and ease of use (in that order). The library will be later used to port the existing ILStrip tool to it and then use it to improve trimming for mobile scenarios (by moving custom steps from a trimmer into this new tool).
 
 ---
 <br/>
