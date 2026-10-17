@@ -23,10 +23,11 @@ section: talks
 - **UPCOMING** - 11/4 - Slovacke IT pivo - Uherske Hradiste, CZ
     - **How AI boosts Microsoft productivity ... by a lot!!! (And it can help you too)**
 
-- **UPCOMING** - 10/15 - [MFF UK diploma thesis topics presentation](https://www.mff.cuni.cz/cs/ofs/partnersky-program) - Prague, CZ
-    - Microsoft slides presentation - web version: 1 slide (TODO)
 
 ### 2026
+
+- 10/15 - [MFF UK diploma thesis topics presentation](https://www.mff.cuni.cz/cs/ofs/partnersky-program) - Prague, CZ
+    - Microsoft slides presentation - [web version: 1 slide](https://www.mff.cuni.cz/cs/ofs/partnersky-program/prezentace-temat-studentskych-praci/nabidka-temat-studentskych-praci.pdf)
 
 - 10/6 - Tech talk (PV179 course) at [FI MUNI](https://www.fi.muni.cz/) - Brno, CZ
     - **To Vibe Code or Not to Vibe Code? ... Where AI needs an Expert? (Beyond SW Development)**
