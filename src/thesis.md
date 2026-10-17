@@ -10,7 +10,7 @@ Latest update: 2025/10/23
 
 Topics are primarily for MFF UK, although we have ongoing collaboration with FI MUNI, FIT CVUT and FIT VUT -- all universities (not limited by this list or to Czech Republic) are welcome to participate.
 
-If you pick a topic, please ping me if the topic is not taken. Also please make sure your university agrees with it. If everyone is onboard, I will connect you with Microsoft expert in the area to support you through topic refinement and your work.
+ If you pick a topic, please ping me if the topic is not taken. Also please make sure your university agrees with it. If everyone is onboard, I will connect you with Microsoft expert in the area to support you through topic refinement and your work.
 
 Ping me if you are not sure about a topic, or if you have ideas for other related topics we might be able to support.
 
@@ -29,7 +29,7 @@ Ping me if you are not sure about a topic, or if you have ideas for other relate
     - Original thesis description: **Java bindings for .NET** - To make Java interop very easy for developers, we could create plugin into Roslyn compiler. The generator would be triggered by `[JavaImport]` attribute above C# partial method and generate necessary interop glue code using JNI. There are existing alternative solutions, but most of them are complex to use and/or proprietary.
 - 2024/8 - Katka started as full-time developer on Rust team in Microsoft
 
-***
+---
 <br/>
 
 [Tomas Husak](https://www.linkedin.com/in/tom%C3%A1%C5%A1-hus%C3%A1k-a07191188/) - [**Improved Type Inference in the C# Language**](https://dspace.cuni.cz/handle/20.500.11956/190675)
@@ -40,7 +40,7 @@ Ping me if you are not sure about a topic, or if you have ideas for other relate
   - 2024/8 - Successfully defended
   - 2024 - Finalist of [ITSPY 2024](https://www.itspy.cz/rocnik/2024/) - top 7 diploma thesis out of 1400 submissions from CZ and SK universities
 
-***
+---
 <br/>
 
 [Radek Zikmund](https://www.linkedin.com/in/radek-zikmund-30012a14b/) - [**Managed QUIC protocol implementation**](https://dspace.cuni.cz/handle/20.500.11956/124659)
@@ -59,19 +59,19 @@ Ping me if you are not sure about a topic, or if you have ideas for other relate
 
 ## Bachelor thesis - topics
 
-Create an **IL rewrite library** on top of `System.Reflection.Metadata`. The library should make it easy to create a tool which takes an assembly on the input, makes some modifications to it (for example add an attribute to some member, remove a member, or add some item) and writes it out as a new assembly. Focus of the project will be correctness, performance and ease of use (in that order). The library will be later used to port the existing ILStrip tool to it and then use it to improve trimming for mobile scenarios (by moving custom steps from a trimmer into this new tool).
+**[Reserved as of 2026/9 by Filip Viktor Hanzlik, MFF UK -- as Diploma thesis]** Create an **IL rewrite library** on top of `System.Reflection.Metadata`. The library should make it easy to create a tool which takes an assembly on the input, makes some modifications to it (for example add an attribute to some member, remove a member, or add some item) and writes it out as a new assembly. Focus of the project will be correctness, performance and ease of use (in that order). The library will be later used to port the existing ILStrip tool to it and then use it to improve trimming for mobile scenarios (by moving custom steps from a trimmer into this new tool).
 
-***
+---
 <br/>
 
 Implement some **.NET runtime analyzers and code fixers**. .NET runtime (Roslyn) analyzers inspect your C# or Visual Basic code for code quality and style issues. Code fixers offer you options to fix your code. List of analyzers and code fixers can be [found here](https://github.com/dotnet/runtime/issues?q=is%3Aissue+is%3Aopen+analyzers+label%3Acode-analyzer)
 
-***
+---
 <br/>
 
 Implement some **ASP.NET Core analyzers and code fixers**. .NET runtime (Roslyn) analyzers inspect your C# or Visual Basic code for code quality and style issues. Code fixers offer you options to fix your code. List of analyzers and code fixers can be [found here](https://github.com/dotnet/aspnetcore/issues?q=is%3Aissue%20state%3Aopen%20label%3Aanalyzer%20milestone%3ABacklog%20type%3AFeature)
 
-***
+---
 <br/>
 
 **F# Compiler - Support 'without' for anonymous records**
@@ -88,12 +88,12 @@ Implement some **ASP.NET Core analyzers and code fixers**. .NET runtime (Roslyn)
 
 **[Reseved as of 2025/7 - Patrik Trefil, MFF UK]** Prototype **WebTransport** in .NET Core based on already existing HTTP/3 and QUIC implementations. WebTransport is new networking protocol based on HTTP/3 and QUIC protocols, currently in [draft stage](https://datatracker.ietf.org/doc/html/draft-ietf-webtrans-http3-02). It supports sending data both reliably and unreliably. It can be viewed as next generation of popular WebSockets protocol (which is based on HTTP 1.1 and HTTP/2 protocols).
 
-***
+---
 <br/>
 
 **⁠Port .NET trimming tool from Cecil API to System.Reflection.Metadata backend**. .NET trimming tool is in repo [dotnet/runtime](https://github.com/dotnet/runtime). The goal is to replace old-style Cecil APIs with .NET Core inbox `System.Reflection.Metadata`-based implementation. [Tracking issue](https://github.com/dotnet/linker/issues/1997).
 
-***
+---
 <br/>
 
 Create **mutation testing** for .NET project based on CLR Instrumentation Engine. Similar to [stryker-mutator/stryker-net](https://github.com/stryker-mutator/stryker-net) (Mutation testing for .NET core and .NET framework). The goal is to scale on large code bases (like Roslyn) by analyzing and reusing parts of Stryker, while migrating Stryker backend-logic to CLR Instrumentation Engine for collection of code coverage of each test and for performing the mutations
