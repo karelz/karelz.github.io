@@ -6,6 +6,8 @@ section: home
 
 # Master and Bachelor thesis topics for Microsoft in Prague, Czech Republic
 
+Official link: [http://aka.ms/prague-thesis](http://aka.ms/prague-thesis)
+
 Latest update: 2025/10/23
 
 Topics are primarily for MFF UK, although we have ongoing collaboration with FI MUNI, FIT CVUT and FIT VUT -- all universities (not limited by this list or to Czech Republic) are welcome to participate.
