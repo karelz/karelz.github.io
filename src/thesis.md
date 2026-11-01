@@ -6,7 +6,7 @@ section: home
 
 # Master and Bachelor thesis topics for Microsoft in Prague, Czech Republic
 
-Official link: [http://aka.ms/prague-thesis](http://aka.ms/prague-thesis)
+Official link: [http://aka.ms/**prague-thesis**](http://aka.ms/prague-thesis)
 
 Latest update: 2025/10/23
 

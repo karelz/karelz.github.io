@@ -6,6 +6,8 @@ section: hiring
 
 # 2026 - Hiring for .NET / Compilers / Dev-Tooling group in Prague, CZ
 
+Official link: [http://aka.ms/**prague.net**](http://aka.ms/prague.net)
+
 ## Full-time positions
 
 **Full-time positions are open** - We are looking for **Junior**, **Mid-level** and **Senior/Principal** developers (incl. fresh graduates / soon-to-graduate candidates).
