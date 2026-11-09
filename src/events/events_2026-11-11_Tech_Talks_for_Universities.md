@@ -6,11 +6,13 @@ section: events
 
 # Tech Talks for Universities - live-streamed from Matfyz in Prague, CZ - 2026/11/11
 
+![Flyer](/images/TechTalks4Unis_2026-11-11.png)
+
 Talks for **all university students**, hosted at MFF UK (Faculty of Mathematics and Physics, Charles University) in Prague, CZ
 - When: 11/11 Wed at 18:00-20:00 CET
 - Where: S3 at [Matfyz](https://matfyz.cz/), Mala Strana, Prague (capacity 116 for in-person attendees)
     - Address: [Malostranske nam. 2/25, 118 00 Praha 1](https://www.mff.cuni.cz/cs/vnitrni-zalezitosti/budovy-a-arealy/mala-strana)
-- **Live-stream**: Zoom link (will be posted few hours before the event)
+- **Live-stream**: Zoom link (will be here posted few hours before the event)
 
 - Who:
     - [Matt Ellis](https://bsky.app/profile/citizenmatt.bsky.social) - Developer advocate at JetBrains.
@@ -18,7 +20,7 @@ Talks for **all university students**, hosted at MFF UK (Faculty of Mathematics 
     - [Anna Maresova](https://www.linkedin.com/in/anna-maresova-9950087/) - Expert on AI. Manager of .NET Runtime and Libraries team since 2026, previously Director at [SUSE](https://www.suse.com/) for 8 years.
     - [Karel Zikmund](https://karelz.github.io) - Manager of .NET Networking team.
 
-Organized by [Pavel Jezek](https://www.mff.cuni.cz/en/faculty/organizational-structure/people?hdl=2764), [Karel Zikmund](https://karelz.github.io), [Martin Vejbora](https://www.linkedin.com/in/martin-vejbora-7011481b9/), [Jan Jones](https://github.com/jjonescz), [Vojta Svandelik](https://www.linkedin.com/in/vojtechsvandelik/)
+Organized by [Pavel Jezek](https://www.mff.cuni.cz/en/faculty/organizational-structure/people?hdl=2764), [Karel Zikmund](https://karelz.github.io), [Vojta Svandelik](https://www.linkedin.com/in/vojtechsvandelik/), [Martin Vejbora](https://www.linkedin.com/in/martin-vejbora-7011481b9/), [Jan Jones](https://github.com/jjonescz)
 
 ## Talks
 
