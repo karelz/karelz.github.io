@@ -13,13 +13,42 @@ Talks for **all university students**, hosted at MFF UK (Faculty of Mathematics 
 - **Live-stream**: Zoom link (will be posted few hours before the event)
 
 - Who:
-    - To be announced
-
+    - [Matt Ellis](https://bsky.app/profile/citizenmatt.bsky.social) - Developer advocate at JetBrains.
+    - [Konrad Kokosa](https://www.linkedin.com/in/kkokosa) - Expert on GC and AI. Author of book Pro .NET Memory Management.
+    - [Anna Maresova](https://www.linkedin.com/in/anna-maresova-9950087/) - Expert on AI. Manager of .NET Runtime and Libraries team since 2026, previously Director at [SUSE](https://www.suse.com/) for 8 years.
+    - [Karel Zikmund](https://karelz.github.io) - Manager of .NET Networking team.
 
 Organized by [Pavel Jezek](https://www.mff.cuni.cz/en/faculty/organizational-structure/people?hdl=2764), [Karel Zikmund](https://karelz.github.io), [Martin Vejbora](https://www.linkedin.com/in/martin-vejbora-7011481b9/), [Jan Jones](https://github.com/jjonescz), [Vojta Svandelik](https://www.linkedin.com/in/vojtechsvandelik/)
 
 ## Talks
 
+
+<br/>
+
+- 18:00-18:40 - **Garbage Collection in Modern Platforms** by [Konrad Kokosa](https://www.linkedin.com/in/kkokosa) (see [Konrad's bio](https://prague.updateconference.net/en/2026/speakers/konrad-kokosa) at Update Conference)
+    - Abstract:
+        - How do modern runtimes reclaim memory, and why is garbage collection still an active engineering challenge? Using .NET as our main example, we’ll explore the trade-offs between throughput, latency, and memory usage, and look at where GC design is heading. I’ll also share my journey from writing a book about .NET memory management to joining Microsoft’s GC team few months ago and prototyping new GC implementations.
+    - About speaker: Expert on GC and AI. Author of book Pro .NET Memory Management. Co-founder of [dotnetos.org](https://dotnetos.org/).
+
+<br/>
+
+- 18:40-19:20 - **Leveraging AI to the maximum** by [Anna Maresova](https://www.linkedin.com/in/anna-maresova-9950087/) and [Karel Zikmund](https://karelz.github.io)
+    - Abstract:
+        - Practical tips how to leverage AI to the maximum in the industry and as a student / Junior developer. We will tackle what is changing in the industry, new required skillset, interview expectations, and how to be successful in the world of AI where many tasks can be done for you.
+    - About speakers:
+      - [Anna Maresova](https://www.linkedin.com/in/anna-maresova-9950087/) - Expert on AI. Manager of .NET Runtime and Libraries team since 2026. Previously Director at [SUSE](https://www.suse.com/) for 8 years.
+      - [Karel Zikmund](https://karelz.github.io) - Manager of .NET Networking team.
+
+<br/>
+
+- 19:20-20:00 - **Beyond the State Machine: Adventures in Asynchrony** by [Matt Ellis](https://bsky.app/profile/citizenmatt.bsky.social) (see [Matt's bio](https://prague.updateconference.net/en/2026/speakers/matt-ellis) at Update Conference)
+    - Abstract:
+        - For over a decade, async/await in C# was a clever compiler trick, rewriting your code into a complex, hidden state machine. But the magic often came with an extra helping of confusing stack traces and additional allocations.
+        - With the arrival of Native Runtime Async in .NET 11, the magic is moving to the JIT. No more state machines, no more compile-time rewriting, now it’s all handled at runtime, by the runtime. We’re promised a performance boost and simpler debugging, with no changes to the async/await API and working with existing code.
+        - Join us as we see how this magic trick is done, and how it sits in the sprawling world of modern .NET concurrency. We’ll look at the low-level primitives like Interlocked and the high-level powerhouses like TPL Dataflow and Channels
+    - About speaker: Developer advocate at JetBrains, focusing on IDE and developer tools.
+
+<br/>
 
 ## Resources and Notes
 

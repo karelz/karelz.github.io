@@ -26,8 +26,6 @@ Organized by [Pavel Jezek](https://www.mff.cuni.cz/en/faculty/organizational-str
 
 ## Talks
 
-List of talks and their abstracts will be placed here the week of the event.
-
 <br/>
 
 - 18:00-18:40 - **Profiling for Fun and Profit** by [Stephen Toub](https://www.linkedin.com/in/stephen-toub-75979745/) (see [Stephen's bio](https://prague.updateconference.net/en/2025/speakers/stephen-toub) at Update Conference)
