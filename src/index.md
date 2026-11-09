@@ -39,6 +39,12 @@ See [Using AI in Interviews - Experiment / Mock Interviews](/ai-interviews) page
 
 
 
+## AI;DR
+
+[AI; Don't Read](/ai-dr.html) — AI-generated text should not be longer than what you would have written yourself pre-AI.
+
+
+
 ## Hiring for .NET & Compiler teams in Prague, Czech Republic
 
 See [Hiring for .NET Teams in Prague, Czech Republic](/hiring_prague_net) page for details.
