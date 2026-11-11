@@ -22,7 +22,7 @@ Talks for **all university students**, hosted at MFF UK (Faculty of Mathematics 
     - [Anna Maresova](https://www.linkedin.com/in/anna-maresova-9950087/) - Expert on AI. Manager of .NET Runtime and Libraries team since 2026, previously Director at [SUSE](https://www.suse.com/) for 8 years.
     - [Karel Zikmund](https://karelz.github.io) - Manager of .NET Networking team.
 
-Organized by [Pavel Jezek](https://www.mff.cuni.cz/en/faculty/organizational-structure/people?hdl=2764), [Karel Zikmund](https://karelz.github.io), [Vojta Svandelik](https://www.linkedin.com/in/vojtechsvandelik/), [Martin Vejbora](https://www.linkedin.com/in/martin-vejbora-7011481b9/), [Jan Jones](https://github.com/jjonescz)
+Organized by [Pavel Jezek](https://www.mff.cuni.cz/en/faculty/organizational-structure/people?hdl=2764), [Karel Zikmund](https://karelz.github.io), [Vojta Svandelik](https://www.linkedin.com/in/vojtechsvandelik/)
 
 ## Talks
 
