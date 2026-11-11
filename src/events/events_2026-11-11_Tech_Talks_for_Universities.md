@@ -12,7 +12,9 @@ Talks for **all university students**, hosted at MFF UK (Faculty of Mathematics 
 - When: 11/11 Wed at 18:00-20:00 CET
 - Where: S3 at [Matfyz](https://matfyz.cz/), Mala Strana, Prague (capacity 116 for in-person attendees)
     - Address: [Malostranske nam. 2/25, 118 00 Praha 1](https://www.mff.cuni.cz/cs/vnitrni-zalezitosti/budovy-a-arealy/mala-strana)
-- **Live-stream**: Zoom link (will be here posted few hours before the event)
+- **Live-stream**: [Zoom link](https://cesnet.zoom.us/j/96843344986?pwd=1edEJdyDBsG5OlZbv0rlc7HA99kbc8.1)
+    - Recording will be available here few days after the event
+    - Please fill our [survey](https://forms.cloud.microsoft/r/Duh9kX298y) to help us make the event better in future. Even if you watch just part of it or if you don’t like the talks. Thank you!
 
 - Who:
     - [Matt Ellis](https://bsky.app/profile/citizenmatt.bsky.social) - Developer advocate at JetBrains.
