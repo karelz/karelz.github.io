@@ -16,6 +16,8 @@ I spend most of my time as manager of Networking team (and few other areas latel
 You can find me and contact me on [Discord: ziki.cz](https://discord.com/), on [LinkedIn](https://www.linkedin.com/in/karelzikmund), on [GitHub: karelz](https://github.com/karelz), via [email](mailto:karelz@microsoft.com), or occasionally on [BlueSky: zikicz](https://bsky.app/profile/zikicz.bsky.social).
 
 
+## Upcoming events
+
 ## Past talks and organized events
 
 - [Past talks, public apperances, and events organized](/details)

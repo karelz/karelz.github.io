@@ -27,21 +27,21 @@ section: talks
 - 11/12-13 - [Update Conference](https://prague.updateconference.net/us/2026/speakers) - Microsoft booth (staff coodinator + staff duty) - Prague, CZ
 
 - 11/11 - [Tech Talks for Universities](/events/events_2026-11-11_Tech_Talks_for_Universities) - Prague, CZ
-    - **Leveraging AI to the Maximum**
+    - **Leveraging AI to the Maximum** - recording TBD
         - With co-speaker [Anna Maresova](https://www.linkedin.com/in/anna-maresova-9950087/)
 
 - 11/4 - [Slovacke IT pivo](https://www.itpivo.cz/) - Uherske Hradiste, CZ
-    - **Nalijme si cisteho vina: Jak AI meni vyvoj v Microsoftu a .NET platforme** (in Czech)
+    - **Nalijme si cisteho vina: Jak AI meni vyvoj v Microsoftu a .NET platforme** (in Czech) - not recorded
 
 - 10/15 - [MFF UK diploma thesis topics presentation](https://www.mff.cuni.cz/cs/ofs/partnersky-program) - Prague, CZ
-    - Microsoft slides presentation - [web version: 1 slide](https://www.mff.cuni.cz/cs/ofs/partnersky-program/prezentace-temat-studentskych-praci/nabidka-temat-studentskych-praci.pdf)
+    - Microsoft slides presentation - [web version: 1 slide](https://www.mff.cuni.cz/cs/ofs/partnersky-program/prezentace-temat-studentskych-praci/nabidka-temat-studentskych-praci.pdf) - not recorded
 
 - 10/6 - Tech talk (PV179 course) at [FI MUNI](https://www.fi.muni.cz/) - Brno, CZ
-    - **To Vibe Code or Not to Vibe Code? ... Where AI needs an Expert? (Beyond SW Development)**
+    - **To Vibe Code or Not to Vibe Code? ... Where AI needs an Expert? (Beyond SW Development)** - internal-only recording
         - With co-speaker [Martin Dybal](https://www.wug.cz/prednasejici/189-Martin-Dybal)
 
 - 5/7 - Tech talk (C# course - PV178) at [FI MUNI](https://www.fi.muni.cz/) - Brno, CZ
-    - **War stories from .NET team**
+    - **War stories from .NET team** - internal-only recording
 
 - 4/23 - [MFF UK company day](https://dnyfirem.matfyz.cz/historie/2026) - Microsoft booth (staff coordination + staff duty) - Prague, CZ
 
@@ -52,26 +52,26 @@ section: talks
 - 11/13 -  [Update Conference](https://prague.updateconference.net/en/about-update-2025) - Microsoft booth (staff coordination + staff duty) - Prague, CZ
 
 - 10/23 - [MFF UK diploma thesis topics presentation](https://www.mff.cuni.cz/cs/ofs/partnersky-program) - Prague, CZ
-    - Microsoft slides presentation - [web version: 1 slide](https://www.mff.cuni.cz/cs/ofskp/partnersky-program/nabidka-temat-studentskych-praci.pdf)
+    - Microsoft slides presentation - [web version: 1 slide](https://www.mff.cuni.cz/cs/ofskp/partnersky-program/nabidka-temat-studentskych-praci.pdf) - not recorded
 
 - 6/12-13 - [DevConf](https://pretalx.devconf.info/devconf-cz-2025/) - [Microsoft booth](https://pretalx.devconf.info/devconf-cz-2025/talk/DUBPTJ/) (staff coordinator + staff duty) - Brno, CZ
 
 - 6/2 -  [MoreVMs conference](https://people.cs.kuleuven.be/~dirk.craeynest/ada-belgium/events/25/250602-programming-morevms.html) at MFF UK - Prague, CZ
-    - **Diving into .NET internals**
+    - **Diving into .NET internals** - not recorded
 
 - 5/7 - Tech talk (advanced C# course) at [FI MUNI](https://www.fi.muni.cz/) - Brno, CZ
-    - **War stories from .NET team**
+    - **War stories from .NET team** - internal-only recording
 
 - 4/29 - [Tech Talks for Universities](/events/events_2025-04-29_Tech_Talks_for_Universities) - Prague, CZ
-    - **Challenges Faced by .NET team**
+    - **Challenges Faced by .NET team** - recording TBD
 
-- 4/24 -  [MFF UK company day](https://dnyfirem.matfyz.cz/historie/2025) - Microsoft booth (staff coordinator + staff duty)- Prague, CZ
+- 4/24 -  [MFF UK company day](https://dnyfirem.matfyz.cz/historie/2025) - Microsoft booth (staff coordinator + staff duty) - Prague, CZ
 
 - 3/4 - Tech talk at [FIT VUT](https://www.fit.vut.cz/) - Brno, CZ
-    - **Sockets**
+    - **Sockets** - internal-only recording
 
 - 2/28 -  [WUG Praha](https://www.wug.cz/praha/akce/1730-WUG-Dev-Day-2025/program) - Prague, CZ
-    - **Challenges faced by .NET team**
+    - **Challenges faced by .NET team** (in Czech) - not recorded
 
 
 
@@ -80,15 +80,15 @@ section: talks
 - 11/14 -  [Update Conference](https://prague.updateconference.net/us/about-update-2024) - Microsoft booth (staff coodinator + staff duty) - Prague, CZ
 
 - 10/30 - Tech talk at [FI MUNI](https://www.fi.muni.cz/) - Brno, CZ
-    - **SIMD + NativeAOT + Dynamic PGO**
+    - **SIMD + NativeAOT + Dynamic PGO** - internal-only recording
         - Co-speaker with [Jiri Cincura](https://www.tabsoverspaces.com/) 
 
 - 10/24 - Tech talk at [FI MUNI](https://www.fi.muni.cz/) - Brno, CZ
-    - **War stories from .NET team**
+    - **War stories from .NET team** - internal-only recording
 
 - 2/15 -  [WUG Zlin](https://www.wug.cz/zlin/akce/1616-Challenges-Faced-by-NET-team-and-Networking-in-NET-and-YARP) - Zlin, CZ
-    - **Challenges faced by .NET team**
-    - **Networking in .NET and YARP**
+    - **Challenges faced by .NET team** (in Czech) - not recorded
+    - **Networking in .NET and YARP** (in Czech) - not recorded
 
 
 
@@ -97,19 +97,19 @@ section: talks
 - 11/23-24 -  [Update Conference](https://prague.updateconference.net/us/about-update-2023) - Microsoft booth (staff coodinator + staff duty) - Prague, CZ
 
 - 11/7 - Tech talk at [FI MUNI](https://www.fi.muni.cz/) - Brno, CZ
-    - **War stories from .NET team**
+    - **War stories from .NET team** - internal-only recording
 
 - 5/17 -  [Techorama Belgium](https://techorama-2023-be.sessionize.com/speakers) - Antwerp, Belgium
-    - **Networking in .NET and YARP** (not recorded)
+    - **Networking in .NET and YARP** - not recorded
 
 - 5/11 - [.NET Zuid User Group](https://www.dotnetzuid.nl/events/challenges-faced-by-net-team--pedal-to-the-metal-update-performance-improvements-in-entity-framework-core-70) - Helmond, Netherlands
-    - **Challenges faced by .NET team**
+    - **Challenges faced by .NET team** - not recorded
 
 - 5/10 - .NET User Group - Antwerp, Belgium
-    - **Challenges faced by .NET team**
+    - **Challenges faced by .NET team** - not recorded
 
 - 4/27 - [Girls in IT at Kyndryl](https://contact.kyndryl.com/day-of-girls-in-IT-cz) - Brno, CZ
-    - **Challenges faced by .NET team / Zajímavé historky z .NET týmu**
+    - **Challenges faced by .NET team / Zajímavé historky z .NET týmu** - likely not recorded
 
 - 4/5 - [Azure Developers .NET Day 2023](https://learn.microsoft.com/en-us/shows/azure-developers-dotnet-day/) - online world-wide event
     - **Custom Reverse Proxies for .NET Containers with YARP** - [video](https://learn.microsoft.com/en-us/shows/azure-developers-dotnet-day/custom-reverse-proxies-for-dotnet-containers-with-yarp/) (30 min)
@@ -119,35 +119,35 @@ section: talks
     - **War stories from .NET team** - not recorded
 
 - 2/20 - Tech talk at [FIT VUT](https://www.fit.vut.cz/) - Brno, CZ
-    - **War stories from .NET team** - internal-only video
+    - **War stories from .NET team** - internal-only recording
     - **Discussion with students** - not recorded
 
 ### 2022
 
 - 11/22 - Talk to High-school Students in MDCP (Microsoft Development Center Prague) - Prague, CZ
-    - **Career hacks** (not recorded)
+    - **Career hacks** - not recorded
 
 - 11/10-11 -  [Update Conference](https://now.updateconference.net/event/update-conference-prague-2022) - Microsoft booth (staff coodinator + staff duty) - Prague, CZ
 
 - 11/10 - [Tech Talks for Universities](/events/events_2022-11-10_Tech_Talks_for_Universities) - live-streamed from MFF UK - Prague, CZ
     - Co-organizer with [Pavel Jezek](https://www.mff.cuni.cz/en/faculty/organizational-structure/people?hdl=2764), [Radek Zikmund](https://twitter.com/Radek_Zikmund)
-    - **Intro** & **Speakers introductions** - video to-be-published (eventually)
+    - **Intro** & **Speakers introductions** - video TBD
 
 - 11/8-10 - [.NET Conf 2022](https://www.dotnetconf.net/) - online world-wide event
     - **Networking in .NET 7.0** - [talk info](https://sessionize.com/s/karel-zikmund/networking-in-.net-7.0/56535), [video](https://www.youtube.com/watch?v=mTdcWlIiX7c) (27 min) and [slides](https://www.slideshare.net/KarelZikmund1/net-conf-2022-networking-in-net-7)
 
 - 11/8 - [.NET Conf Watch Party + Experts Panel](https://www.geekcore.cz/events/6335) - Prague, CZ
-    - Experts Panel participant (not recorded)
+    - Experts Panel participant - not recorded
 
 - 10/4 - .NET at Microsoft (internal event) - Prague, CZ
-    - **What's new in Networking in .NET 7**
+    - **What's new in Networking in .NET 7** - not recorded
 
 - 9/27 - Tech talk at [FI MUNI](https://www.fi.muni.cz/) - Brno, CZ
-    - **War stories from .NET team** - [internal-only video](https://ucnmuni-my.sharepoint.com/:v:/g/personal/410452_muni_cz/EQMgl_OZPtFDuX8nGgC9b6kB-_7jTmgQSav599WE42Bxbw)
-    - **Q&A** [internal-only video](https://ucnmuni-my.sharepoint.com/:v:/g/personal/410452_muni_cz/EQMgl_OZPtFDuX8nGgC9b6kB-_7jTmgQSav599WE42Bxbw)
+    - **War stories from .NET team** - [internal-only recording](https://ucnmuni-my.sharepoint.com/:v:/g/personal/410452_muni_cz/EQMgl_OZPtFDuX8nGgC9b6kB-_7jTmgQSav599WE42Bxbw)
+    - **Q&A** [internal-only recording](https://ucnmuni-my.sharepoint.com/:v:/g/personal/410452_muni_cz/EQMgl_OZPtFDuX8nGgC9b6kB-_7jTmgQSav599WE42Bxbw)
 
 - 9/13-15 - [WUG Days 2022 Brno](https://www.wug.cz/brno/akce/1400-WUG-Days-2022) - Brno, CZ
-    - **Networking in .NET 7.0 and YARP** - video (TODO when published), [slides](https://www.slideshare.net/KarelZikmund1/wug-days-2022-brno-networking-in-net-70-and-yarp-karel-zikmund)
+    - **Networking in .NET 7.0 and YARP** - video TBD, [slides](https://www.slideshare.net/KarelZikmund1/wug-days-2022-brno-networking-in-net-70-and-yarp-karel-zikmund)
 
 - 7/7 - [Interview on LinkedIn](https://www.linkedin.com/pulse/interview-karel-zikmund-principal-engineering-manager-sartorio) for MDCP (Microsoft Development Center Prague) - online event
 
@@ -155,28 +155,28 @@ section: talks
 ### 2021
 
 - 10/26 - Tech talk at [FI MUNI](https://www.fi.muni.cz/) - Brno, CZ
-    - **What's new in .NET 6** (not recorded)
-    - **War stories from .NET team** (not recorded)
-    - **Q&A** (not recorded)
+    - **What's new in .NET 6** - not recorded
+    - **War stories from .NET team** - not recorded
+    - **Q&A** - not recorded
 
 
 
 ### 2020
 
 - 11/24 - Tech talk at [FI MUNI](https://www.fi.muni.cz/) - Brno, CZ - online event (Covid)
-    - **What's new in .NET 5** (not recorded)
-    - **War stories from .NET team** (not recorded)
-    - **Q&A** (not recorded)
+    - **What's new in .NET 5** - not recorded
+    - **War stories from .NET team** - not recorded
+    - **Q&A** - not recorded
 
 - 9/7 - Discussion with MUNI students and staff - Brno, CZ
-    - About Microsoft and University cooperation
+    - **About Microsoft and University cooperation** - not recorded
 
 - 2/6 - [Discussion with MFF UK students - Prague, CZ](https://opmk.mff.cuni.cz/wiki/studenti/kurzy#setkani_s_absolventy_informatickych_oboru) (in Czech)
     - Co-organizer with [Karolina Houzvickova Solcova](https://www.mff.cuni.cz/cs/fakulta/organizacni-struktura/lide?hdl=3951) (MFF UK)
     - Participants: Hana Lapkova (Oracle), [Tomas Herceg](https://twitter.com/hercegtomas) (Riganti), Tomas Karban (RSJ), [Karel Zikmund](https://twitter.com/ziki_cz) (Microsoft)
 
 - 2/5 - Tech talks at [American University in Bulgaria](https://www.aubg.edu/) - online event
-    - **War stories from .NET team** (not recorded)
+    - **War stories from .NET team** - not recorded
 
 - 2/5 - [.NET MeetUp in Prague, CZ](https://www.meetup.com/Prague-NET-Meetup/events/268323465)
     - Co-organizer with [Vojtech Madr](https://twitter.com/madrvojt)
@@ -187,7 +187,7 @@ section: talks
 
 - 1/28 - [.NET Tour UK](https://dotnettour.github.io/UKTour2020/) (16 speakers in 8 locations)
     - Co-organizer with [Steve Gordon](https://twitter.com/stevejgordon)
-    - **Async demystified** (not recorded)
+    - **Async demystified** - not recorded
 
 
 
@@ -202,28 +202,27 @@ section: talks
 
 - 10/29 - [.NET Tour Down Under - Auckland, NZ](https://www.meetup.com/AKL-NET/events/265703571/)
     - Co-organizer with [Marcus Bristol](https://twitter.com/mightymuke), [Alix Klingenberg](https://twitter.com/evolutionises)
-    - **Intro** (not recorded)
-    - **War stories from .NET team** (not recorded)
+    - **Intro** - not recorded
+    - **War stories from .NET team** - not recorded
 
 - 10/25 - [.NET Tour Down Under - Wellington, NZ](https://www.meetup.com/WelliDotNet/events/263818832)
     - Co-organizer with [Bevan Arps](https://twitter.com/unrepentantgeek)
-    - **Intro** (not recorded)
-    - **War stories from .NET team** (not recorded)
+    - **Intro** - not recorded
+    - **War stories from .NET team** - not recorded
 
 - 10/23 - .NET Tour Down Under - Brisbane, AU - [Afternoon session](https://www.meetup.com/Brisbane-Net-User-Group/events/264974148/) and [Evening session](https://www.meetup.com/Brisbane-Net-User-Group/events/264974257/)
     - Co-organizer with [Brisbane .NET User Group](https://www.meetup.com/en-AU/Brisbane-Net-User-Group/)
-    - **Intro** (not recorded)
-    - **War stories from .NET team** (not recorded)
+    - **Intro** - not recorded
+    - **War stories from .NET team** - not recorded
 
 - 10/21 - [.NET Tour Down Under - Melbourne, AU](https://www.meetup.com/VIC-NET-Meetup/events/nscblpyznbwb/)
     - Co-organizer with [Mahesh Krishnan](https://twitter.com/MaheshKrishnan), [Jimmy P.](https://twitter.com/pjimmy), [JT](https://twitter.com/jtango18)
-    - **Intro** (not recorded)
+    - **Intro** - not recorded
     - **War stories from .NET team** - video TBD
 
 - 10/19 - [.NET Tour Down Under - Community day - Sydney, AU](https://www.dotnetdu2019.dev/)
     - Co-organizer with [Simon Waight](https://twitter.com/simonwaight), [Mouna Neelakanta](https://twitter.com/mouna1619), [Will Ray](https://twitter.com/_WillRay), [Alec Tucker](https://twitter.com/alecdtucker), [Nelly Sattari](https://twitter.com/nelly_sattari)
-    - https://www.youtube.com/watch?v=2MEfRqHDt58
-    - **Intro** (not recorded)
+    - **Intro** - not recorded
     - **War stories from .NET team** - [video](https://youtu.be/2MEfRqHDt58?t=562) (32 min)
 
 - 10/16-18 - [NDC Sydney 2019](https://ndcsydney.com/) conference (Sydney, AU)
@@ -231,16 +230,16 @@ section: talks
 
 - 10/15 - [NDC Sydney Special Event Meet Microsoft Engineers - Sydney, AU](https://www.meetup.com/Girl-Geek-Sydney/events/263745187/)
     - Co-organizer with [Azadeh Khojandi](https://twitter.com/azadehkhojandi), [Nelly Sattari](https://twitter.com/nelly_sattari)
-    - **Intro** (not recorded)
-    - **War stories from .NET team** (not recorded)
+    - **Intro** - not recorded
+    - **War stories from .NET team** - not recorded
 
 - 9/23 - [.NET Conf kick off - Prague, CZ](https://www.meetup.com/Prague-NET-Meetup/events/264688694/) (in Czech)
-    - **Talk about .NET, .NET Core and .NET Foundation** - intro/kick off for .NET Conf keynote viewing (not recorded)
+    - **Talk about .NET, .NET Core and .NET Foundation** - intro/kick off for .NET Conf keynote viewing - not recorded
 
 - 9/23 - [.NET Community Afternoon - Prague, CZ](https://www.meetup.com/xmdg-cz/events/264530658/) - meet the .NET team members
     - Co-organizer with [Tomas Herceg](https://twitter.com/hercegtomas), [Vojtech Madr](https://twitter.com/madrvojt), [David Maly](https://www.linkedin.com/in/david-mal%C3%BD/), [Martin Simecek](https://twitter.com/deeedx), [Lucie Vasickova](https://twitter.com/lulucieva)
-    - **Intro** (not recorded)
-    - **Async demystified** (not recorded)
+    - **Intro** - not recorded
+    - **Async demystified** - not recorded
 
 - 9/18 - [.NET MeetUp with Maoni Stephens - Prague, CZ](https://www.meetup.com/xmdg-cz/events/264530629/) - talk about GC and Panel Discussion - Microsoft Prague venue
     - Co-organizer with [Vojtech Madr](https://twitter.com/madrvojt), [David Maly](https://www.linkedin.com/in/david-mal%C3%BD/), [Martin Simecek](https://twitter.com/deeedx), [Lucie Vasickova](https://twitter.com/lulucieva)
@@ -251,7 +250,7 @@ section: talks
     - Co-organizer with [Gergely Kalapos](https://twitter.com/gregkalapos), [Christoph Neumüller](https://twitter.com/discostu105)
     - **Introductions** - [video](https://www.youtube.com/watch?v=tlszvLLMc4Q&t=922s) (6 min) and [slides](https://www.slideshare.net/KarelZikmund1/net-core-summer-event-2019-in-linz-at-introductions-karel-zikmund)
     - **War stories from .NET team** - [video](https://www.youtube.com/watch?v=tlszvLLMc4Q&t=7711s) (50 min) and [slides](https://www.slideshare.net/KarelZikmund1/net-core-summer-event-2019-in-linz-at-war-stories-from-net-team-karel-zikmund)
-    - **Discussion Panel** (not recorded)
+    - **Discussion Panel** - not recorded
 
 - 7/9 Tue - [.NET Core Summer event - Brno, CZ](https://www.wug.cz/brno/akce/1152--NET-Core-Summer-Event)
     - Co-organizer with [Martin Dybal](https://twitter.com/Martin_Dybal) (wug.cz Brno), [Radka Janekova](https://twitter.com/RheaAyase) (Red Hat)
@@ -262,16 +261,16 @@ section: talks
 
 - 7/4 - [.NET Core Summer event - Vienna, AT](https://www.meetup.com/dotnet-austria/events/262250140/)
     - Co-organizer with [Andreas Willich](https://twitter.com/SabotageAndi), [Raoul Holzer](https://twitter.com/RaoulHolzer)
-    - **Introductions** - video and [slides](https://www.slideshare.net/KarelZikmund1/net-core-summer-event-2019-in-vienna-at-introduction-karel-zikmund) - TODO (ETA: coule of weeks)
-    -  **War stories from .NET team** - video and [slides](https://www.slideshare.net/KarelZikmund1/net-core-summer-event-2019-in-vienna-at-war-stories-from-net-team-karel-zikmund-154309765) - TODO (ETA: couple of weeks)
+    - **Introductions** - video TBD and [slides](https://www.slideshare.net/KarelZikmund1/net-core-summer-event-2019-in-vienna-at-introduction-karel-zikmund)
+    -  **War stories from .NET team** - video TBD and [slides](https://www.slideshare.net/KarelZikmund1/net-core-summer-event-2019-in-vienna-at-war-stories-from-net-team-karel-zikmund-154309765)
 
 - 6/26 - **Interview** (in Czech) for .NET.CZ Podcast [episode 50](https://www.dotnetpodcast.cz/episodes/ep50/) (55 min)
 
 - 6/26 - [.NET Core Summer event - Prague, CZ](https://corestart3.updatedays.cz)
     - Co-organizer with [Tomas Herceg](https://twitter.com/hercegtomas), [Lucie Vasickova](https://twitter.com/lulucieva) (Microsoft), [Martin Simecek](https://twitter.com/deeedx) (Microsoft)
-    - **Introductions** - video and [slides](https://www.slideshare.net/KarelZikmund1/net-core-summer-event-2019-in-prague-cz-introductions-karel-zikmund) - TODO (ETA: 2019/8)
-    - **War stories from .NET team** (in Czech) - video and [slides](https://www.slideshare.net/KarelZikmund1/net-core-summer-event-2019-in-prague-cz-war-stories-from-net-team-karel-zikmund) - TODO (ETA: 2019/8)
-    - **Discussion Panel** (in Czech) - video - TOOD (ETA: 2019/8)
+    - **Introductions** - video TBD and [slides](https://www.slideshare.net/KarelZikmund1/net-core-summer-event-2019-in-prague-cz-introductions-karel-zikmund)
+    - **War stories from .NET team** (in Czech) - video TBD and [slides](https://www.slideshare.net/KarelZikmund1/net-core-summer-event-2019-in-prague-cz-war-stories-from-net-team-karel-zikmund) 
+    - **Discussion Panel** (in Czech) - video TBD
 
 - 6/24 - [Discussion with MFF UK students - Prague, CZ](https://opmk.mff.cuni.cz/wiki/studenti/kurzy#setkani_s_absolventy_informatickych_oboru) (in Czech)
     - Co-organizer with [Karolina Houzvickova Solcova](https://www.mff.cuni.cz/cs/fakulta/organizacni-struktura/lide?hdl=3951) (MFF UK)
@@ -290,15 +289,15 @@ section: talks
 - 5/7-9 - [Microsoft Build 2019](https://www.microsoft.com/en-us/build) conference (Seattle, WA) - .NET booth duty
 
 - 3/17-22 - [Microsoft Global MVP Summit 2019](https://mvp.microsoft.com/en-us/Summit) (Bellevue & Redmond, WA)
-    - .NET client Networking stack - evlution, plans and feedback Q&A
+    - .NET client Networking stack - evolution, plans and feedback Q&A
 
 
 
 ### 2018
 
-- 9/24-28 - [Microsoft Ignite 2018](https://www.microsoft.com/en-us/ignite) conference (Orlando, FL) - .NET booth duty
+- 9/24-28 - [Microsoft Ignite 2018](https://www.microsoft.com/en-us/ignite) conference (Orlando, FL) - .NET booth staff
 
-- 5/7-9 - [Microsoft Build 2018](https://news.microsoft.com/build2018) conference (Seattle, WA) - .NET booth duty
+- 5/7-9 - [Microsoft Build 2018](https://news.microsoft.com/build2018) conference (Seattle, WA) - .NET booth staff
 
 - 3/3-4 - MVP Global Summit (Bellevue & Redmond, WA)
 
