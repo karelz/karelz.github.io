@@ -13,18 +13,25 @@ section: talks
 
 - **UPCOMING** - dates TBD - High Schools in Brno/Prague/Jihlava, CZ
     - [**AI: Hrozba, že nás nahradí, nebo pomocník? Jak z AI vytěžit maximum**](/ai-for-high-schools.html)
-    - 11/26 - Gymnazium Jihlava - Jihlava, CZ
+        - Mon 11/23@8:55-12:25 - [Purkynka](http://www.purkynka.cz) - Brno, CZ
+        - Wed 11/25@14:15-15:45 - [Gymnazium Videnska](https://www.gvid.cz) - Brno, CZ
+        - Thu 11/26@12:00-13:30 - [Gymnazium Jihlava](https://www.gymnaziumjihlava.cz/) - Jihlava, CZ
+        - Mon 12/7@14:00-15:45 - [Labyrinth](https://labyrinthschool.cz) - Brno, CZ
+        - TBD date - [Gymnazium Lerchova](https://gml.cz) - Brno, CZ
+        - TBD date - [EKO Gymnazium](https://www.eko-g.cz) - Brno, CZ
 
-- **UPCOMING** - 11/26 - Rotary Club - Jihlava, CZ
-
-- **UPCOMING** - 11/12-13 - [Update Conference](https://prague.updateconference.net/us/2026/speakers) - Microsoft booth (staff coodinator + staff duty) - Prague, CZ
+- **UPCOMING** - Thu 11/26 - Rotary Club - Jihlava, CZ
 
 ### 2026
 
-- 11/11 - [Tech Talks for Universities](/events/events_2026-11-11_Tech_Talks_for_Universities) - Prague, CZ
+- 11/12-13 - [Update Conference](https://prague.updateconference.net/us/2026/speakers) - Microsoft booth (staff coodinator + staff duty) - Prague, CZ
 
-- 11/4 - Slovacke IT pivo - Uherske Hradiste, CZ
-    - **How AI boosts Microsoft productivity ... by a lot!!! (And it can help you too)**
+- 11/11 - [Tech Talks for Universities](/events/events_2026-11-11_Tech_Talks_for_Universities) - Prague, CZ
+    - **Leveraging AI to the Maximum**
+        - With co-speaker [Anna Maresova](https://www.linkedin.com/in/anna-maresova-9950087/)
+
+- 11/4 - [Slovacke IT pivo](https://www.itpivo.cz/) - Uherske Hradiste, CZ
+    - **Nalijme si cisteho vina: Jak AI meni vyvoj v Microsoftu a .NET platforme** (in Czech)
 
 - 10/15 - [MFF UK diploma thesis topics presentation](https://www.mff.cuni.cz/cs/ofs/partnersky-program) - Prague, CZ
     - Microsoft slides presentation - [web version: 1 slide](https://www.mff.cuni.cz/cs/ofs/partnersky-program/prezentace-temat-studentskych-praci/nabidka-temat-studentskych-praci.pdf)

@@ -36,7 +36,7 @@ Organized by [Pavel Jezek](https://www.mff.cuni.cz/en/faculty/organizational-str
 
 <br/>
 
-- 18:40-19:20 - **Leveraging AI to the maximum** by [Anna Maresova](https://www.linkedin.com/in/anna-maresova-9950087/) and [Karel Zikmund](https://karelz.github.io)
+- 18:40-19:20 - **Leveraging AI to the Maximum** by [Anna Maresova](https://www.linkedin.com/in/anna-maresova-9950087/) and [Karel Zikmund](https://karelz.github.io)
     - Abstract:
         - Practical tips how to leverage AI to the maximum in the industry and as a student / Junior developer. We will tackle what is changing in the industry, new required skillset, interview expectations, and how to be successful in the world of AI where many tasks can be done for you.
     - About speakers:
