@@ -20,10 +20,6 @@ You can find me and contact me on [Discord: ziki.cz](https://discord.com/), on [
 
 - [Past talks, public apperances, and events organized](/details)
 
-## [Upcoming Events](/details)
-
-- [Tech Talks for Universities on 2026/11/11 - live-streamed from Matfyz in Prague, CZ](/events/events_2026-11-11_Tech_Talks_for_Universities)
-
 ## [Master and Bachelor thesis topics](/thesis)
 
 ## [Hiring for .NET / Compilers / Dev-tooling teams in Prague, CZ](/hiring_prague_net)

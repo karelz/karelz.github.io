@@ -13,18 +13,18 @@ section: talks
 
 - **UPCOMING** - dates TBD - High Schools in Brno/Prague/Jihlava, CZ
     - [**AI: Hrozba, že nás nahradí, nebo pomocník? Jak z AI vytěžit maximum**](/ai-for-high-schools.html)
+    - 11/26 - Gymnazium Jihlava - Jihlava, CZ
 
 - **UPCOMING** - 11/26 - Rotary Club - Jihlava, CZ
 
 - **UPCOMING** - 11/12-13 - [Update Conference](https://prague.updateconference.net/us/2026/speakers) - Microsoft booth (staff coodinator + staff duty) - Prague, CZ
 
-- **UPCOMING** - 11/11 - [Tech Talks for Universities](/events/events_2026-11-11_Tech_Talks_for_Universities) - Prague, CZ
-
-- **UPCOMING** - 11/4 - Slovacke IT pivo - Uherske Hradiste, CZ
-    - **How AI boosts Microsoft productivity ... by a lot!!! (And it can help you too)**
-
-
 ### 2026
+
+- 11/11 - [Tech Talks for Universities](/events/events_2026-11-11_Tech_Talks_for_Universities) - Prague, CZ
+
+- 11/4 - Slovacke IT pivo - Uherske Hradiste, CZ
+    - **How AI boosts Microsoft productivity ... by a lot!!! (And it can help you too)**
 
 - 10/15 - [MFF UK diploma thesis topics presentation](https://www.mff.cuni.cz/cs/ofs/partnersky-program) - Prague, CZ
     - Microsoft slides presentation - [web version: 1 slide](https://www.mff.cuni.cz/cs/ofs/partnersky-program/prezentace-temat-studentskych-praci/nabidka-temat-studentskych-praci.pdf)
