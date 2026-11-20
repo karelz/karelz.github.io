@@ -18,6 +18,8 @@ You can find me and contact me on [Discord: ziki.cz](https://discord.com/), on [
 
 ## Upcoming events
 
+- [AI: Hrozba, že nás nahradí, nebo pomocník? Jak z AI vytěžit maximum — přednáška pro střední školy](/details)
+
 ## Past talks and organized events
 
 - [Past talks, public apperances, and events organized](/details)
