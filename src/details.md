@@ -12,15 +12,15 @@ section: talks
 ### 2026 - UPCOMING
 
 - **UPCOMING** - dates TBD - High Schools in Brno/Prague/Jihlava, CZ
-    - [**AI: Hrozba, že nás nahradí, nebo pomocník? Jak z AI vytěžit maximum**](/ai-for-high-schools.html)
+    - **AI: Hrozba, že nás nahradí, nebo pomocník? Jak z AI vytěžit maximum**
         - Mon 11/23@8:55-12:25 - [Purkynka](http://www.purkynka.cz) - Brno, CZ
         - Wed 11/25@14:15-15:45 - [Gymnazium Videnska](https://www.gvid.cz) - Brno, CZ
         - Thu 11/26@12:00-13:30 - [Gymnazium Jihlava](https://www.gymnaziumjihlava.cz/) - Jihlava, CZ
+        - Mon 11/30@8:55-10:45 - [EKO Gymnazium](https://www.eko-g.cz) - Brno, CZ
         - Mon 12/7@14:00-15:45 - [Labyrinth](https://labyrinthschool.cz) - Brno, CZ
         - TBD date - [Gymnazium Lerchova](https://gml.cz) - Brno, CZ
-        - TBD date - [EKO Gymnazium](https://www.eko-g.cz) - Brno, CZ
-
-- **UPCOMING** - Thu 11/26 - Rotary Club - Jihlava, CZ
+    - Abstrakt: Jak využít AI při učení, práci i vlastních projektech, aniž bychom přestali sami přemýšlet? Ukážeme si, kde AI pomáhá, kde chybuje a jak její výsledky ověřovat. Přednáška studentům nabídne konkrétní tipy, jak začít i s bezplatnými nástroji a jak se připravit na svět, ve kterém bude práce s AI běžnou součástí života.
+- **UPCOMING** - date TBD - Rotary Club - Jihlava, CZ
 
 ### 2026
 
